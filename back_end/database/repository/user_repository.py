@@ -3,13 +3,13 @@
 from sqlalchemy.orm import Session
 from sqlalchemy import insert
 from sqlalchemy.exc import NoResultFound
-"""
+
 from back_end.database.models.user_config import User  # User vient de user_config.py
 from back_end.database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
 """
 from database.models.user_config import User  # User vient de user_config.py
 from database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
-
+"""
 class UserRepository:
     def __init__(self, db: Session):
         self.db = db

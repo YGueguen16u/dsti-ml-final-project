@@ -1,11 +1,12 @@
 # back_end/show_tables.py
 
-"""
+
 from back_end.database.connect import DatabaseConnector
 from back_end.database.models.user_config import User
 """
 from database.connect import DatabaseConnector
 from database.models.user_config import User
+"""
 from sqlalchemy.orm import Session
 
 def show_users():

@@ -17,8 +17,8 @@ Relationships:
 from sqlalchemy import Column, Integer, String, Float, ForeignKey
 from sqlalchemy.orm import relationship
 from .base import Base
-# from back_end.database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
-from database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
+from back_end.database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
+# from database.models.shared_config import Gender, DietType, FitnessLevel, Goal, user_goals
 class User(Base):
     """
     Main user profile table.

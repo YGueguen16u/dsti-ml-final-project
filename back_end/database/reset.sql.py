@@ -2,9 +2,9 @@
 
 from sqlalchemy.orm import Session
 from sqlalchemy import MetaData
-#from back_end.database.connect import DatabaseConnector
+from back_end.database.connect import DatabaseConnector
 
-from database.connect import DatabaseConnector
+#from database.connect import DatabaseConnector
 
 # Utilise directement ton DatabaseConnector (qui utilise settings.py automatiquement)
 db = DatabaseConnector()
