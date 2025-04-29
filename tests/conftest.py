@@ -23,7 +23,7 @@ def reset_db():
     1. Drops all normalized reference and user-related tables.
     2. Reapplies the database schema using the `execute_schema` method.
     """
-    dotenv_path = PROJECT_ROOT / "env_folder" / ".env.postgre"
+    dotenv_path = PROJECT_ROOT / "env_folder" / ".env.postgre.local"
     db = DatabaseConnector(dotenv_path=str(dotenv_path))
 
     with db.engine.connect() as conn:

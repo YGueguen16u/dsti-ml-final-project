@@ -1,0 +1,146 @@
+{
+  "barcode": "3023290021064",
+  "name": "Flanby",
+  "brands": "Nestlé",
+  "categories": "Dairies, Desserts, Dairy desserts, Flans",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 600.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, fr:Etui en carton, fr:Pot en plastique",
+  "labels": "French milk",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "lait-a-1-1-de-matiere-grasse",
+      "percentage": "72.3%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.3%"
+    },
+    {
+      "ingredient": "E150",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E407",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 411.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 97.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 19.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.13,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

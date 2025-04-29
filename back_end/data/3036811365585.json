@@ -1,0 +1,138 @@
+{
+  "barcode": "3036811365585",
+  "name": "Pur Soup' - Velouté de légumes du soleil",
+  "brands": "Liebig, Liebig PurSoup'",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Cream soups, Vegetable soups, Cream of vegetable soups, fr:Veloutés de légumes du soleil",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Brick, Cardboard, fr:Brique en carton",
+  "labels": "Vegetarian, European Vegetarian Union, FSC, FSC Mix, Green Dot, Made in France",
+  "origin": "Légumes origine UE",
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Jus de tomate à partir de concentré",
+      "percentage": "46.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "23.0% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "15.9% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "8.1% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Aubergine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 172.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 41.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.67,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

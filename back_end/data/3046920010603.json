@@ -1,0 +1,206 @@
+{
+  "barcode": "3046920010603",
+  "name": "Raspberry Intense Dark Chocolate",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Extra fine dark chocolates",
+  "countries_sold": "Australia, Austria, Brazil, France, New Zealand, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "square"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 étui en carton à recycler\n1 feuille en aluminium à recycler",
+  "labels": "Pure cocoa butter, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Cora, Magasins U, Woolworths, Intermarché, Mercado Nacional, carrefour.fr, Coles, Carrefour",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "47.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.243,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 536.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 9.54,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 1.092,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 85.0,
+      "unit": "mg"
+    },
+    "omega 6 fat": {
+      "quantity": 948.0,
+      "unit": "mg"
+    },
+    "trans fat": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 8.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 52.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 47.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.088,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 2.0,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 0.54,
+      "unit": "mg"
+    },
+    "vitamin k": {
+      "quantity": 8.1,
+      "unit": "µg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.03,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.05,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.04,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.23,
+      "unit": "µg"
+    },
+    "vitamin b5 (pantothenic acid)": {
+      "quantity": 0.3,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 559.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 56.0,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 206.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 8.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 146.0,
+      "unit": "mg"
+    },
+    "zinc": {
+      "quantity": 2.0,
+      "unit": "mg"
+    },
+    "copper": {
+      "quantity": 1.0,
+      "unit": "mg"
+    },
+    "manganese": {
+      "quantity": 1.4,
+      "unit": "mg"
+    },
+    "selenium": {
+      "quantity": 3.0,
+      "unit": "µg"
+    },
+    "caffeine": {
+      "quantity": 43.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

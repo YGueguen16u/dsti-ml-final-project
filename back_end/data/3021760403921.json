@@ -1,0 +1,94 @@
+{
+  "barcode": "3021760403921",
+  "name": "Pom' Potes, Pomme Banane",
+  "brands": "Materne, Pom' Potes",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Desserts, Fruits based foods, Compotes, Apple compotes, Banana Apple compotes, Compotes to drink",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "packaging": "Pouch flask, fr:Gourde et bouchon plastique, fr:Poche souple et bouchon à jeter",
+  "labels": "Low or no sugar, No gluten, Green Dot, No added sugar, fr:Eco-Emballages",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Banque alimentaire",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Apple",
+      "percentage": "74.7%"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "si-necessaire-pour-reguler-l-acidite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 272.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 65.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

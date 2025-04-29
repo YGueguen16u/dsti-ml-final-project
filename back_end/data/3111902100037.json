@@ -1,0 +1,106 @@
+{
+  "barcode": "3111902100037",
+  "name": "Muesli Bio Croustillant Amande Vanille",
+  "brands": "Charles Vignon",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Mueslis, Cereals with nuts, Mueslis with nuts",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 45.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 375.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Sachet plastique zippé",
+  "labels": "Fair trade, No gluten, Organic, Crossed Grain Trademark, EU Organic, Non-EU Agriculture, DZG Gluten free, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, Green Dot, No palm oil, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "France, france 42470 saint symphorien de lay",
+  "stores": "Auchan, Carrefour market, carrefour.fr",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "65.2%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "49.1%"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Whole cane sugar",
+      "percentage": "13.9% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "13.9% (estimate)"
+    },
+    {
+      "ingredient": "Whole almonds",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.92,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 458.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

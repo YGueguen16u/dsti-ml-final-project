@@ -1,0 +1,118 @@
+{
+  "barcode": "3178530410150",
+  "name": "Madeleines",
+  "brands": "St Michel",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Cakes, Madeleines, Plain madeleines",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Low or no salt, Free range, Free range eggs, No added salt",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "29.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "24.5% (estimate)"
+    },
+    {
+      "ingredient": "Free range chicken eggs",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sorbitols et glycérol",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.828,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 437.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 56.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.47,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

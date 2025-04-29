@@ -1,0 +1,130 @@
+{
+  "barcode": "20706852",
+  "name": "Mints",
+  "brands": "Hatherwood",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Condiments, Sweet snacks, Cocoa and its products, Culinary plants, Aromatic plants, Chocolates, Herbs, Dark chocolates, Mint, Filled chocolates, Dark chocolate filled with mint confectionery",
+  "countries_sold": "Bulgaria, Czech Republic, Finland, France, Germany, Lithuania, Spain",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Cardboard, Non-corrugated cardboard, Container",
+  "labels": "Sustainable farming, Made in Germany, Rainforest Alliance, UTZ Certified, UTZ Certified Cocoa",
+  "origin": null,
+  "manufacturing_places": "Allemagne",
+  "stores": "Aldi, Lidl",
+  "allergens": "Milk, Soybeans, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Ingredients-sugar",
+      "percentage": "54.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "22.9% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "11.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa-butter-butter-oil",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Humectant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1103",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peppermint oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E406",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Find-out-more-at-ra",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Org",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.91,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 456.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 63.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

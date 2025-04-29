@@ -1,0 +1,78 @@
+{
+  "barcode": "3033490004743",
+  "name": "Skyr",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Desserts, Dairy desserts, Fermented dairy desserts, Fromages blancs - petit suisses and skyr, Yogurts, Plain fermented dairy desserts, Skyrs, Plain skyrs",
+  "countries_sold": "France, Germany, Italy, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, Fresh, fr:Opercule et pot plastique à jeter, fr:Pensez au tri!, fr:Point vert, fr:Pot en plastique",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "France, Normandie, Seine-Maritime, F-76220 Ferrières-en-Brie [76260 INSEE7 ]",
+  "stores": "Bi1",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 239.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 57.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.214,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.071,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.93,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.93,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.091,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 110.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

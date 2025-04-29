@@ -1,0 +1,82 @@
+{
+  "barcode": "3165958350014",
+  "name": "Maquereaux vin blanc & aromates",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in white wine and herbs, Tinned Mackerels",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 176.0,
+    "unit": "g"
+  },
+  "packaging": "Canned, fr:Boîte en métal, fr:Couvercle en métal",
+  "labels": "No artificial flavors, Green Dot, No colorings, Produced in Brittany, Triman, fr:Recette-gourmande, fr:Traçabilité garantie",
+  "origin": null,
+  "manufacturing_places": "Saupiquet (S. SAS) - Allée de Kergolvez - ZI de Kergolvez - 29000 Quimper, Finistère, Bretagne, France, Quimper, Saupiquet",
+  "stores": "Intermarché, Carrefour, Magasins U, E.Leclerc, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.8% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Gherkin",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White wine vinegar",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "White wine",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -7,9 +7,13 @@ import difflib
 SCRIPT_DIR = Path.cwd()
 PROJECT_ROOT = SCRIPT_DIR.parent
 VERSIONS_DIR = SCRIPT_DIR / "versions"
-CHANGES_DIR = SCRIPT_DIR / "changes"
+CHANGES_DIR = SCRIPT_DIR / "changes1"
 VERSIONS_DIR.mkdir(parents=True, exist_ok=True)
 CHANGES_DIR.mkdir(parents=True, exist_ok=True)
+
+# Format size in o or Ko
+def format_file_size(size_bytes):
+    return f"{size_bytes / 1024:.1f} Ko" if size_bytes >= 1024 else f"{size_bytes} o"
 
 # Generate a pretty tree-like structure in Markdown
 def generate_tree_markdown(root_path):
@@ -17,7 +21,7 @@ def generate_tree_markdown(root_path):
 
     def walk(path, prefix=""):
         contents = list(sorted((p for p in path.iterdir() if p.name not in {
-            ".git", "venv", "__pycache__", "tools", ".DS_Store", "node_modules"
+            ".git", "venv", "__pycache__", "tools", ".DS_Store", "node_modules", ".venv"
         }), key=lambda x: (x.is_file(), x.name.lower())))
 
         for i, p in enumerate(contents):
@@ -27,7 +31,8 @@ def generate_tree_markdown(root_path):
                 extension = "    " if i == len(contents) - 1 else "│   "
                 walk(p, prefix + extension)
             else:
-                lines.append(f"{prefix}{connector}{p.name}")
+                size = format_file_size(p.stat().st_size)
+                lines.append(f"{prefix}{connector}{p.name} ({size})")
 
     walk(root_path)
     return lines
@@ -83,7 +88,7 @@ def create_structure_and_diff():
                 for path in removed:
                     f.write(f"- `{path}`\n")
             if not added and not removed:
-                f.write("✅ No changes detected.\n")
+                f.write("✅ No changes1 detected.\n")
 
     print(f"✅ Project structure saved to: {tree_md_path.name}")
     if version_number > 0:

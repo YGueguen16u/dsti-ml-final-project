@@ -1,0 +1,123 @@
+{
+  "barcode": "3041090063206",
+  "name": "Cracotte Céréales Complètes",
+  "brands": "lu",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Extruded crispbreads",
+  "countries_sold": "Belgium, France, Luxembourg, Netherlands, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.35,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": "Plastic, Cardboard, fr:Boîte carton, fr:Etui en carton, fr:Plastique à jeter, fr:Sachet en plastique, fr:Étui carton à recycler",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Green Dot, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Intermarché, Magasins U, Delhaize, carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "98.5%"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "66.2%"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "12.1%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "10.1%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "3.2%"
+    },
+    {
+      "ingredient": "Malted wheat flour",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Buckwheat flour",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Barley flour",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Wheat semolina",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.595,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 377.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 73.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.55,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

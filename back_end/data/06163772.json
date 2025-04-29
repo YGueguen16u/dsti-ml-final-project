@@ -1,0 +1,148 @@
+{
+  "barcode": "06163772",
+  "name": "Cake fourré saveur fraise",
+  "brands": "Allergo, Gerblé, Look",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Cakes, Biscuits et gâteaux, Gâteaux",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": "No gluten, No colorings, No lactose, No palm oil, Nutriscore, Nutriscore Grade C, Rainforest Alliance",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "cake-fourre-a-la-fraise",
+      "percentage": "47.8% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "23.4% (estimate)"
+    },
+    {
+      "ingredient": "et-sans-lactdse",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "adapte-aux-personnes-intolerantes-au-gluten-et-au-lactose-humetetpnne-de",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "destioue-ld",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "pepites-de-chacolat-noir-an-e-de-cutie",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "beuie-de-cocao-emubifiant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lecithines-de-sojal",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lbies-de-hpeinyline",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "acas-en-poudre",
+      "percentage": "1.1%"
+    },
+    {
+      "ingredient": "paississant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "9omme-quat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "eimusiflant-lecithine-de-a-pues-et-lerr-jacde-citrigue",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "bicarbonate-de-sodium-tiot-alance-certfied",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "plus-d-infoemations-sur-ta-org-foga-dasun-utelier-qul-utilise-des-fuits-a-coque",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ngeidients-cuts-29-8-hulle-de-le-e-panme-de-te-ce-pdat-ne-anient-pes-aut-personnes-attelntes-de-galactosemie",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "aosonne-dans-le-cididun-oude-de-vie-sain-et-d-une-alimentation-tpallbiatoserver-dans-un-endrolt-sec-et-frals-cups-orgin-ue",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "6cakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "valel-ene-m-d",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.761,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 421.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 58.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.15,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

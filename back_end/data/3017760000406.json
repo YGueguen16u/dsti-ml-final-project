@@ -1,0 +1,106 @@
+{
+  "barcode": "3017760000406",
+  "name": "Sablés beurré nantais",
+  "brands": "LU",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Shortbread cookies",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 32.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, fr:Barquette et film plastique à jeter, fr:Pensez au tri!, fr:Point vert, fr:Étui carton à recycler",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Green Dot, Made in France, No colorings, Pure butter, fr:Blé français, Triman",
+  "origin": null,
+  "manufacturing_places": "Aisne, France",
+  "stores": "Carrefour, Magasins U, carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "63.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E341",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.939,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 462.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

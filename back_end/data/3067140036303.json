@@ -1,0 +1,74 @@
+{
+  "barcode": "3067140036303",
+  "name": "Chicoree liquide 250 ml",
+  "brands": "Leroux",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Beverage preparations, Cooking helpers, Instant beverages, Unsweetened beverages, Instant coffee substitutes, Instant chicory, Liquid chicory, Sugary cooking helpers, fr:Chicorée",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastique",
+  "labels": "Green Dot, No caffeine, 100% d'origine végétale, Fabriqué en France, Naturellement peu sucré, Naturellement sans caféine, Point Vert",
+  "origin": null,
+  "manufacturing_places": "France, Nord, Orchies, Hauts de France",
+  "stores": "Magasins U",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chicory",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": "Produit sujet à décantation : agiter avant emploi\nRefermer la bouteille après chaque utilisation et conserver dans un endroit sec.",
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 996.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 238.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 53.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.14,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

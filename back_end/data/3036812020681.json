@@ -1,0 +1,150 @@
+{
+  "barcode": "3036812020681",
+  "name": "Crème de Champignons",
+  "brands": "CVC Capital Partners, Continental Foods, Royco",
+  "categories": "Meals, Dried products, Dried products to be rehydrated, Soups, Dried meals, Dehydrated soups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 64.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Boîte carton à recycler, fr:Sachets à jeter",
+  "labels": "Green Dot, No colorings, Triman, fr:Info-tri-point-vert",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Modified potato starch",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mushroom extract",
+      "percentage": "1.7%"
+    },
+    {
+      "ingredient": "Cultivated mushroom",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 175.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 42.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.71,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

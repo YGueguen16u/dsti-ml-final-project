@@ -1,0 +1,170 @@
+{
+  "barcode": "3017760502399",
+  "name": "Grany Fraise 🍓 & Framboise",
+  "brands": "Lu",
+  "categories": "Snacks, Sweet snacks, Bars, Cereal bars, Fruits cereal bars",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 18.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 108.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Boite carton, fr:Sachet alu",
+  "labels": "No preservatives, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr, Carrefour Market, Carrefour",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "48.7%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "16.5%"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "15.8%"
+    },
+    {
+      "ingredient": "Malted rye flakes",
+      "percentage": "7.9%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Malted wheat flour",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "25.6% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "E420",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "6.4% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Strawberry",
+      "percentage": "1.2%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.72,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 411.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 13.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 66.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.44,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.56,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.653,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,126 @@
+{
+  "barcode": "3175681248557",
+  "name": "Quinoa Royal - Carottes jaunes et cumin",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Microwave meals, Plant-based meals, Low-fat prepared meals, Quinoa dishes",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Pouch flask",
+  "labels": "Organic, Vegetarian, EU Organic, No preservatives, Source of proteins, Vegan, High proteins, AB Agriculture Biologique, fr:Entreprise française",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "54.4% (estimate)"
+    },
+    {
+      "ingredient": "quinoa-royal",
+      "percentage": "11.8%"
+    },
+    {
+      "ingredient": "Yellow carrot",
+      "percentage": "11.4%"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "epeautre-precuit",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Green lentils",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cumin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ingredients",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 395.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 90.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.68,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

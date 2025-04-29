@@ -1,0 +1,130 @@
+{
+  "barcode": "3033491824364",
+  "name": "Hipro crème dessert vanille",
+  "brands": "DANONE",
+  "categories": "Dairies, Desserts, Dairy desserts, Creamy puddings, Vanilla creamy puddings, Refrigerated vanilla creamy puddings",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 180.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 180.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "55.6% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "22.2% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium salts of citric acid",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E451",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450 stabilizer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E339",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 301.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 72.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.29,
+      "unit": "g"
+    },
+    "magnesium": {
+      "quantity": 57.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

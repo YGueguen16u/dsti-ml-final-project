@@ -1,0 +1,94 @@
+{
+  "barcode": "20815400",
+  "name": "Cashew-Cranberry-Mix",
+  "brands": "Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Dried products, Fruits based foods, Dried plant-based foods, Dried fruits, Dried-mixed-fruits, Mix of grains and dried fruit, Mix of grains and raisins, Nuts-with-dried-fruits",
+  "countries_sold": "Belgium, Bulgaria, Croatia, France, Germany, Italy",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, de:7 OPP/PETmet/PE",
+  "labels": "Nutriscore",
+  "origin": null,
+  "manufacturing_places": "Solent GmbH, David-Hansemann-Straße 1-25, 52531 Übach-Palenberg, Deutschland",
+  "stores": "Lidl",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cashew nuts",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.972,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 471.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 50.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 38.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,122 @@
+{
+  "barcode": "3033491213205",
+  "name": "Actimel Original 12 x 100 g",
+  "brands": "Actimel, Danone",
+  "categories": "Beverages and beverages preparations, Beverages, Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Dairy drinks, Fermented dairy desserts, Fermented drinks, Fermented milk drinks, Yogurts, Yogurt drinks, Fermented milk drinks with sugar, Milk drinks fermented with L casei, Sweetened fermented milk drinks with L casei",
+  "countries_sold": "France, Germany, Spain",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.2,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Metal, Recyclable Metals, Aluminium, Bottle, Cardboard, Recyclable material, Recyclable plastic, Seal, Sleeve",
+  "labels": "No preservatives, Source of proteins, Calcium source, Green Dot, High proteins, Made in Spain, No artificial colors, No colorings, Nutriscore, Nutriscore Grade B, Rich in vitamin B6, Rich in vitamin D, Triman",
+  "origin": null,
+  "manufacturing_places": "Espagne",
+  "stores": "Magasins U, carrefour.fr, Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Semi-skimmed milk",
+      "percentage": "56.7% (estimate)"
+    },
+    {
+      "ingredient": "Lait écrémé reconstitué",
+      "percentage": "24.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.1% (estimate)"
+    },
+    {
+      "ingredient": "Liquid sugar",
+      "percentage": "7.3% (estimate)"
+    },
+    {
+      "ingredient": "Sucrose",
+      "percentage": "7.3%"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Milk mineral concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferments lactiques dont lactobacillus casei",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A CONSERVER ENTRE +1°C ET + 6°C MAXIMUM",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 303.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 72.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 10.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 1.67,
+      "unit": "µg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.21,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

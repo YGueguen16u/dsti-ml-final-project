@@ -1,0 +1,90 @@
+{
+  "barcode": "3124480185235",
+  "name": "BLE 70CL PULCO CITRON VERT",
+  "brands": "Pulco",
+  "categories": "Beverages and beverages preparations, Beverages, Beverage preparations, Syrups, Flavoured syrups, fr:Jus",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 700.0,
+    "unit": "ml"
+  },
+  "packaging": "Bottle or vial, Glass, Bottle",
+  "labels": "Low or no sugar, No preservatives, No added sugar, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr, intermarché, Leclerc",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Reconstituted lime juice",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Lemon pulp",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Lime",
+      "percentage": "10.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 93.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 22.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

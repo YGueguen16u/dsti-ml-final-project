@@ -1,0 +1,152 @@
+{
+  "barcode": "3116430216342",
+  "name": "Delacre - Delichoc Milk Chocolate Cookies, 150g (5.3oz)",
+  "brands": "Delacre",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": "fr:1 boîte en carton à recycler, fr:1 boîte en plastique à recycler, fr:1 sachet en plastique à recycler",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "38.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.7% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "8.1% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "4.1% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "22.4% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "18.2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "10.7% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose and milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baking powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "9.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 476.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 47.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.31,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

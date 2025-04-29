@@ -1,0 +1,107 @@
+{
+  "barcode": "3083681139709",
+  "name": "Lunch Bowl",
+  "brands": "Bonduelle",
+  "categories": "Meals, Microwave meals",
+  "countries_sold": "Czech Republic, France, Germany, Hungary, Netherlands, Portugal, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Vegetarian, Vegan, Green Dot, Nutriscore, Nutriscore Grade A, Tidy man, es:Recicla amarillo",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Globus, Dia",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "34.8% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "19.9%"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "17.0%"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "15.6%"
+    },
+    {
+      "ingredient": "rode-quinoa-7-6-witte-quinoa",
+      "percentage": "7.6%"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "3.6%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thyme",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 512.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 122.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.77,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

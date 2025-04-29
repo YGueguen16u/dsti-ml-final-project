@@ -1,0 +1,67 @@
+{
+  "barcode": "0667803000707",
+  "name": "Mustard powder",
+  "brands": "Colman's, Unilever",
+  "categories": "Condiments, Sauces, Mustards, Groceries",
+  "countries_sold": "France, Germany, New Zealand, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 57.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Can, Food can, Steel-tin",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Grande-Bretagne, Royaume-Uni",
+  "stores": null,
+  "allergens": "Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mustard",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.343,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 560.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 42.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

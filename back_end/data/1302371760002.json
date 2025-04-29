@@ -1,0 +1,46 @@
+{
+  "barcode": "1302371760002",
+  "name": "Rostad Lök",
+  "brands": "Ikea",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Onions and their products, Fried onions",
+  "countries_sold": "France, Germany, Italy, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pp-tub",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Pologne",
+  "stores": "Ikea",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Onion",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -1,0 +1,126 @@
+{
+  "barcode": "3175681110106",
+  "name": "Germe de blé",
+  "brands": "Gerblé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Cereal germs, Wheat germ",
+  "countries_sold": "France, La Réunion",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Cardboard, Container, eu:Vegan, fr:Film-plastique",
+  "labels": "Source of fibre, Source of proteins, High fibres, High proteins, Iron source, Made in France, Magnesium source, Nutriscore, Nutriscore Grade A, Rich in vitamin B1, Rich in vitamin B9, Triman, fr:Riche en manganèse, fr:Riche en phosphore, fr:Riche-en-zinc",
+  "origin": null,
+  "manufacturing_places": "Revel, 31250",
+  "stores": "Super U, Carrefour market",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.572,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 374.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 10.0,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 1.3,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 1.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 209.0,
+      "unit": "µg"
+    },
+    "potassium": {
+      "quantity": 1.125,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 1.054,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 8.8,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 255.0,
+      "unit": "mg"
+    },
+    "zinc": {
+      "quantity": 14.0,
+      "unit": "mg"
+    },
+    "copper": {
+      "quantity": 0.75,
+      "unit": "mg"
+    },
+    "manganese": {
+      "quantity": 19.0,
+      "unit": "mg"
+    },
+    "chromium": {
+      "quantity": 26.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

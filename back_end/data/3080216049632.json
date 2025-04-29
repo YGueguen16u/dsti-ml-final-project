@@ -1,0 +1,90 @@
+{
+  "barcode": "3080216049632",
+  "name": "Grimbergen Blonde",
+  "brands": "Grimbergen, Grimbergen Blonde",
+  "categories": "Beverages and beverages preparations, Beverages, Alcoholic beverages, Beers, Ales, Lagers, Blonde ales",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "packaging": "Bottle, fr:Bouteille en verre",
+  "labels": "Not advised for specific people, Not advised for pregnant women, Triman",
+  "origin": "67210 Obernai France",
+  "manufacturing_places": null,
+  "stores": "Lidl, Carrefour",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Malted barley",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Wheat malt",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Aromatic caramel",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Hop extract",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A L'ABRI SOLEIL ET PLUIE",
+  "customer_service": "Service Consommateurs BK , 03 88 27 59 59",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 227.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 54.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

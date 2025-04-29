@@ -1,0 +1,90 @@
+{
+  "barcode": "20621469",
+  "name": "Special Flakes Classic",
+  "brands": "Crownfield",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Flakes, Cereal flakes, Extruded cereals, Extruded flakes, Breakfast cereals rich in fibre, Mixed cereal flakes",
+  "countries_sold": "France, Spain",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Non-corrugated cardboard, Ecoponto Azul, Point vert, fr:Sachet en plastique, fr:Étui en carton",
+  "labels": "Low or no fat, Low fat, Source of fibre, Green Dot, High fibres, Made in Germany, Nutriscore, Nutriscore Grade A, PEFC",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Pode-conter-vestigios-de-outros-cereais-com-gluten, Amendoins-e-leite, Frutos-de-casca-rija",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat",
+      "percentage": "62.0%"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "28.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.634,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 386.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 79.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.52,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

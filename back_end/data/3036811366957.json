@@ -1,0 +1,115 @@
+{
+  "barcode": "3036811366957",
+  "name": "Mouliné de légumes bio",
+  "brands": "Liebig",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Vegetable soups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Brick",
+  "labels": "Organic, EU Organic, No preservatives, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Celery, Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "54.2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "22.9% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "11.5% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Cauliflower",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 137.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 33.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.65,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,222 @@
+{
+  "barcode": "3175681790285",
+  "name": "Gerblé - Sesame Chocolate Cookie, 200g (7.1oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits",
+  "countries_sold": "France, Martinique",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "Made in France, No palm oil, Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Carrefour market, Auchan, carrefour.fr",
+  "allergens": "Gluten, Milk, Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "51.2%"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "15.8%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Sesame",
+      "percentage": "9.7%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "6.4% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Chicory fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fructooligosaccharide",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.975,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 471.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 3.1,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.26,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 1.7,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.3,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 67.7,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 144.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

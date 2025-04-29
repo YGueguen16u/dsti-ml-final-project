@@ -1,0 +1,71 @@
+{
+  "barcode": "80042532",
+  "name": "Tomatpure i Tube 130g Mutti",
+  "brands": "Mutti",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Condiments, Vegetables based foods, Cooking helpers, Sauces, Tomatoes and their products, Tomato sauces, Tomato pastes, Groceries",
+  "countries_sold": "France, Germany, Italy, Netherlands, New Zealand, Spain, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Container, Dry, Tube",
+  "labels": "No gluten, Green Dot, Metal recycles forever, Nutriscore",
+  "origin": null,
+  "manufacturing_places": "Italie, Parme",
+  "stores": "Magasins U, Hipercor, Waitrose, Woolworths",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "99.5%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 407.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 96.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

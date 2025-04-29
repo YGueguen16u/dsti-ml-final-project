@@ -1,0 +1,86 @@
+{
+  "barcode": "3165950216080",
+  "name": "Filets de maquereaux grillés",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in oil, Mackerel fillets in sunflower oil, Tinned Mackerels, fr:Filets de maquereaux grillés",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned, fr:Boîte et couvercle à recycler, fr:Couvercle ouverture facile",
+  "labels": "No preservatives, Produced in Brittany",
+  "origin": null,
+  "manufacturing_places": "Saupiquet (S. SAS) - Allée de Kergolvez - ZI de Kergolvez - 29000 Quimper, Finistère, Bretagne, France",
+  "stores": "Monoprix, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "85.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "14.4% (estimate)"
+    },
+    {
+      "ingredient": "Herbes de Provence",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.176,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 281.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.12,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

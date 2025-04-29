@@ -1,0 +1,131 @@
+{
+  "barcode": "3019081241216",
+  "name": "Filets de maquereaux vin blanc et aromates",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in white wine and herbs, Tinned Mackerels",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 175.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Omega-3, Source of proteins, High in Omega 3, High proteins, Nutriscore, Nutriscore Grade B, Triman",
+  "origin": null,
+  "manufacturing_places": "Portugal",
+  "stores": "E.LECLERC, carrefour.fr",
+  "allergens": "Fish, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "17.6% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Gherkin",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Gherkin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White wine vinegar",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "White wine",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thyme",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 645.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 155.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 2.1,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

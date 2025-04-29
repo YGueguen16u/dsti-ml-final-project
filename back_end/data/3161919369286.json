@@ -1,0 +1,86 @@
+{
+  "barcode": "3161919369286",
+  "name": "Les Mini-Beurre Doux",
+  "brands": "Elle & Vire",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Unsalted butters, Sweet cream butters, Unsalted butter with 82% fat, fr:Mini-beurres",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 16.0,
+    "unit": "x"
+  },
+  "packaging": "Fresh, fr:Etui en carton, fr:Pensez au tri!, fr:Point vert",
+  "labels": "fr:Concours général agricole, French milk, fr:Médaille de bronze du Concours général agricole, fr:Médaille de bronze du concours général agricole 2011, Triman",
+  "origin": "Lait français. Crème origine France.",
+  "manufacturing_places": "Normandie, France",
+  "stores": "U Express, Magasins U, Carrefour, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cream",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": "Elle & Vire Produits Laitiers, Service Consommateurs 50890 Condé-sur-Vire - France - N°Cristal 09 69 39 54 09",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 3.06,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 744.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 82.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 57.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.05,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 800.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

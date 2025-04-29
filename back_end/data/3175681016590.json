@@ -1,0 +1,126 @@
+{
+  "barcode": "3175681016590",
+  "name": "Chocolat noir sans sucres ajoutés",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Chocolates with sweeteners, Dark chocolates, Dark chocolates with sweeteners",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 13.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 80.0,
+    "unit": "g"
+  },
+  "packaging": "Recycle, fr:Feuille aluminium, fr:Étui carton",
+  "labels": "Low or no sugar, Source of fibre, High fibres, Made in France, Made in Germany, No added sugar, Rainforest Alliance",
+  "origin": null,
+  "manufacturing_places": "Union Européenne",
+  "stores": "Carrefour, Magasins U, Monoprix, carrefour.fr, Intermarché",
+  "allergens": "Eggs, Gluten, Milk, Nuts, Peanuts, Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Chicory fibre",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Inulin",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E501i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "55.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.874,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 454.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

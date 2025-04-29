@@ -1,0 +1,94 @@
+{
+  "barcode": "20072483",
+  "name": "Piada sfogliata flatbread",
+  "brands": "Italiamo",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Flatbreads, White breads, Piadina",
+  "countries_sold": "France, Ireland, Italy, Poland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "piada"
+  },
+  "quantity": {
+    "quantity": 3.0,
+    "unit": "x"
+  },
+  "packaging": "fr:3 galettes",
+  "labels": "Made in Italy",
+  "origin": null,
+  "manufacturing_places": "Italie",
+  "stores": "LIDL",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "61.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "19.5% (estimate)"
+    },
+    {
+      "ingredient": "Lard",
+      "percentage": "9.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "E1510",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Brewer's yeast",
+      "percentage": "3.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.01,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 239.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.23,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 36.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.38,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.85,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.69,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.923,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

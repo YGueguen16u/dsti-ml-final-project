@@ -1,0 +1,126 @@
+{
+  "barcode": "3178530402988",
+  "name": "GALLETA TARTALETA LIMON BONNE",
+  "brands": "bonne maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Tartlet biscuits with fruit preparation",
+  "countries_sold": "Belgium, France, Germany, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 13.9,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Etui en carton, fr:Film en plastique",
+  "labels": "No preservatives, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": "Contres, France",
+  "stores": "Carrefour, Magasins U, Casino, carrefour.fr, Rewe",
+  "allergens": "Eggs, Gluten, Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "49.6% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.1% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "15.3% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "7.6% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Powdered almonds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon puree",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.904,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 453.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 66.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

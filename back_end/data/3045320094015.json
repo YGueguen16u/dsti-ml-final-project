@@ -1,0 +1,95 @@
+{
+  "barcode": "3045320094015",
+  "name": "Bonne Maman Strawberry And Wild Strawberry 370G",
+  "brands": "Bonne Maman",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Breakfasts, Spreads, Fruits based foods, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 370.0,
+    "unit": "g"
+  },
+  "packaging": "Glass jar",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fruit",
+      "percentage": "47.0% (estimate)"
+    },
+    {
+      "ingredient": "Strawberry",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Wild strawberry",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "30.1% (estimate)"
+    },
+    {
+      "ingredient": "Brown cane sugar",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "5.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.008,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 241.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

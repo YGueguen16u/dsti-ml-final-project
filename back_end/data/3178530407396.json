@@ -1,0 +1,158 @@
+{
+  "barcode": "3178530407396",
+  "name": "Petit Cookies Pépites de chocolat",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Drop cookies, Chocolate chip cookies",
+  "countries_sold": "Belgium, France, Luxembourg, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 11.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Film, fr:Film plastique à jeter, fr:Pensez au tri!, fr:Point vert, fr:Sachet plastique",
+  "labels": "Made in France, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Super U, Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal flour",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "33.2% (estimate)"
+    },
+    {
+      "ingredient": "Oat flour",
+      "percentage": "16.8% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "19.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "8.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.134,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 510.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.44,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

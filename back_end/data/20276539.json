@@ -1,0 +1,94 @@
+{
+  "barcode": "20276539",
+  "name": "Confiture extra Framboise Bio",
+  "brands": "Maribel",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Breakfasts, Spreads, Fruits based foods, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Raspberry jams, de:Fruchtkonfitüren",
+  "countries_sold": "France, Germany, Italy",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 20.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 260.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar",
+  "labels": "Organic, EU Organic, EG-Öko-Verordnung, DE-ÖKO-005, DE-ÖKO-024, Green Dot, AB Agriculture Biologique, fr:de-oko-004",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "LIDL",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cane-sugar-from-controlled-farming",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Raspberries-from-controlled-farming",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 239.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 57.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 56.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.075,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

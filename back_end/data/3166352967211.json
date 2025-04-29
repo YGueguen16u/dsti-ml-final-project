@@ -1,0 +1,258 @@
+{
+  "barcode": "3166352967211",
+  "name": "Petites gambas compotée de tomates Tagliatelles au pesto",
+  "brands": "Marie",
+  "categories": "Meals, Fresh foods, Pasta dishes, Fresh meals, Meals with shellfish, Microwave meals, fr:Plats à base de crustacés",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 280.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 280.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 étui en carton \u001f à recycler \n1 barquette en plastique à recycler \n1 film en plastique à recycler",
+  "labels": "No preservatives, Cooked in France, No additives, No colorings, Nutriscore, Nutriscore Grade A, Nutriscore Grade B, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, Magasins U, Carrefour, Auchan, carrefour.fr, G20, Carrefour City, E.leclerc",
+  "allergens": "Crustaceans, Eggs, Gluten, Milk, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cooked tagliatelle",
+      "percentage": "37.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "23.1% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "Free range chicken eggs",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "petites-gambas",
+      "percentage": "22.7%"
+    },
+    {
+      "ingredient": "Shrimp",
+      "percentage": "16.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sulfite",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.2% (estimate)"
+    },
+    {
+      "ingredient": "Purée de tomate mi-réduite",
+      "percentage": "7.9%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Pre fried onions",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Tomates semi-séchées marinées",
+      "percentage": "1.2%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oregano",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "1.1%"
+    },
+    {
+      "ingredient": "Vegetable broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Légumes et jus de cuisson de légumes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grilled aubergines",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "0.1%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 544.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 130.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.825,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

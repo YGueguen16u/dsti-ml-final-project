@@ -1,0 +1,86 @@
+{
+  "barcode": "3123340008288",
+  "name": "Le Fruit - Orange sans pulpe",
+  "brands": "Joker",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Juices and nectars, Fruit juices, Fruit juices from concentrate, Orange juices, Orange juices from concentrate",
+  "countries_sold": "Belgium, France, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle",
+  "labels": "No preservatives, Made in France, No added sugar, Nutriscore, Nutriscore Grade C, fr:100 % Fruits",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Monoprix, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Orange juice from concentrate",
+      "percentage": "100.0%"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 178.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 42.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 44.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 33.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

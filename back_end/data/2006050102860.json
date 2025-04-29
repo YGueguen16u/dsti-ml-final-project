@@ -1,0 +1,114 @@
+{
+  "barcode": "2006050102860",
+  "name": "Tartines croquantes emmental graines de courges",
+  "brands": "Aldi, Simplement Bon et Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Wheat crackers",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "tartine"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Organic, Certified by Ecocert, EU Organic, Non-EU Agriculture, Source of fibre, DE-ÖKO-006, EU Agriculture, EU/non-EU Agriculture, High fibres, Made in Germany, Nutriscore, Nutriscore Grade C, Nutriscore Grade D, AB Agriculture Biologique, Triman",
+  "origin": null,
+  "manufacturing_places": "Allemagne",
+  "stores": "Aldi",
+  "allergens": "Gluten, Milk, Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal spelt flour",
+      "percentage": "54.5% (estimate)"
+    },
+    {
+      "ingredient": "Grated emmental cheese",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "Pumpkin seed",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flax seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.925,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 460.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 48.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,82 @@
+{
+  "barcode": "20266394",
+  "name": "Fromage Blanc 0%",
+  "brands": "Lidl Envia",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Desserts, Dairy desserts, Fermented dairy desserts, Fromages blancs - petit suisses and skyr, Petits suisses, Plain fermented dairy desserts, Plain Petit-Suisse, fr:Fromages blancs, Fat free plain fresh cream cheese, Fat free plain Petit-Suisse, fr:Fromages blancs natures",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot, Fresh, Lid, fr:Opercule en aluminium, fr:Opercule en métal, fr:Pot en plastique",
+  "labels": "Low or no fat, French milk, Green Dot, Made in France, No fat",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "LIDL",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurized skimmed milk",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 207.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 52.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

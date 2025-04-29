@@ -1,0 +1,75 @@
+{
+  "barcode": "3019081239626",
+  "name": "Thon entier au nature",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Tunas, Canned tunas, Tunas in brine, Whole tunas, fr:Thon au naturel Albacore",
+  "countries_sold": "France, Réunion",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "packaging": "Canned",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Seychelles",
+  "stores": "Magasins U, Monoprix, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tuna",
+      "percentage": "74.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 456.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 109.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

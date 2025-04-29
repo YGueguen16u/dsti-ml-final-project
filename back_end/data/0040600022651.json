@@ -1,0 +1,58 @@
+{
+  "barcode": "0040600022651",
+  "name": "Lindt Excellence",
+  "brands": "Lindt Excellence",
+  "categories": null,
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.368,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 566.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

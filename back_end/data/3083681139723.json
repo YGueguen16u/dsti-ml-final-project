@@ -1,0 +1,122 @@
+{
+  "barcode": "3083681139723",
+  "name": "Green Lunch Bowl",
+  "brands": "Bonduelle",
+  "categories": "Meals",
+  "countries_sold": "Czech Republic, France, Germany, Hungary, Netherlands, Poland, Slovakia, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, fr:Film en plastique",
+  "labels": "Vegetarian, Source of fibre, Source of proteins, Vegan, High proteins, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Globus, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "ble-d-epeautre-precuit",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Petits pois doux",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "haricots-cornille-rehydrates",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Cherry tomato",
+      "percentage": "9.0%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Green olive",
+      "percentage": "5.5%"
+    },
+    {
+      "ingredient": "Olive",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "2.8%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 527.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 126.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 23.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.82,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

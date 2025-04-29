@@ -1,0 +1,114 @@
+{
+  "barcode": "06164010",
+  "name": "Campagnard Sans gluten et sans lactose",
+  "brands": "Gerblé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Specific products, Products for specific diets, Breads, Products without gluten, Gluten-free breads",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": null,
+  "labels": "No gluten, No glutenNutriscoreNutriscore Grade Bno-lactose",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "37.0% (estimate)"
+    },
+    {
+      "ingredient": "Natural rice sourdough",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "9.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Whole grain buckwheat flour",
+      "percentage": "7.3%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "6.9%"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Psyllium",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "E464",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Pea protein isolate",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Goldhirse",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Citrus fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baker's yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

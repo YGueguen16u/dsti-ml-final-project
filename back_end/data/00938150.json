@@ -1,0 +1,87 @@
+{
+  "barcode": "00938150",
+  "name": "single origin milk chocolate",
+  "brands": "Marks & Spencer",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Milk chocolates",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Fair trade, Fairtrade International, Made in Italy, Pure cocoa butter",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.586,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 618.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 47.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 29.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 37.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 37.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.25,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

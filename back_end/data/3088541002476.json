@@ -1,0 +1,34 @@
+{
+  "barcode": "3088541002476",
+  "name": "Miel de France",
+  "brands": "Famille Michaud",
+  "categories": "Breakfasts, Spreads, Sweet spreads, Bee products, Farming products, Sweeteners, Honeys, Honeys from France",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 375.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Couvercle métal vissé, fr:Pot en verre",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Mis en pot dans les Pyrénées",
+  "stores": "Leclerc, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Flower honey",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

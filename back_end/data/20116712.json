@@ -1,0 +1,106 @@
+{
+  "barcode": "20116712",
+  "name": "Galettes de riz bio",
+  "brands": "Sondey",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Crêpes and galettes, Puffed cereal cakes, Galettes, Puffed rice cakes, Puffed rice cakes with milk chocolate",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 17.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "No gluten, Organic, EU Organic, Non-EU Agriculture, Sustainable farming, EU Agriculture, EU/non-EU Agriculture, IT-BIO-007, Nutriscore, UTZ Certified, UTZ Certified Cocoa, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "Sanorice Italia Srl",
+  "stores": "Lidl",
+  "allergens": "Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Dark chocolate",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "27.5%"
+    },
+    {
+      "ingredient": "Red-sugar",
+      "percentage": "24.4%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "7.9%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "39.5%"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.025,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 484.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.29,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -16,3 +16,6 @@ test:
 test-all: up
 	sleep 2  # wait briefly for PostgreSQL container to initialize
 	pytest tests/
+
+# Activate the Venv
+# source venv/bin/activate

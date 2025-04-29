@@ -1,0 +1,123 @@
+{
+  "barcode": "80444916",
+  "name": "Sjokoladepålegg med Hasselnøtt Vegansk, 200 g",
+  "brands": "Jensen & Co AS",
+  "categories": "Breakfasts, Spreads, Sweet spreads, fr:Pâtes à tartiner, Hazelnut spreads, Chocolate spreads, Cocoa and hazelnuts spreads",
+  "countries_sold": "France, Italy, Spain",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "it:plastica  vetro",
+  "labels": "No gluten, No palm oil",
+  "origin": null,
+  "manufacturing_places": "Italia",
+  "stores": "Coop  Carrefour  Dok, A&O",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "41.0% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil and fat",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "9.0% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "11.0%"
+    },
+    {
+      "ingredient": "fibra-di-soia",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "crema-valsoia-e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "dichis-100da",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.151,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 514.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 57.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 55.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

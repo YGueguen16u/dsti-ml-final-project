@@ -1,0 +1,134 @@
+{
+  "barcode": "3154230809838",
+  "name": "HERTA LE BON PARIS Jambon conservation sans nitrite x2 - 70g",
+  "brands": "HERTA, Le Bon Paris",
+  "categories": "Meats and their products, Meats, Prepared meats, Hams, White hams, Cooked ham of superior quality, Rind-less cooked ham of superior quality",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 35.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 70.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "French meat, French pork, Made in France, Nutriscore, Nutriscore Grade B, Without sodium nitrite, Triman",
+  "origin": "Viande de porc français rigoureusement sélectionnée",
+  "manufacturing_places": null,
+  "stores": "Intermarché, Carrefour, Leclerc",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Jambon de porc frais",
+      "percentage": "99.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gras et couenne de porc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pork bone",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver à +4°C",
+  "customer_service": "HERTA, 16 bd du Mont d'Est – 93160 Noisy-le-Grand",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 461.1,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 109.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.54,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

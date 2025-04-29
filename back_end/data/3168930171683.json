@@ -1,0 +1,94 @@
+{
+  "barcode": "3168930171683",
+  "name": "Lays Nature",
+  "brands": "Lay's Lays",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Chips and fries, Frozen foods, Crisps, Potato crisps, Potato crisps in sunflower oil",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Green Dot, No colorings, Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Potato",
+      "percentage": "65.0%"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "34.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "22.9% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Pour préserver toute la saveur et le croustillant des chips, conserver à l'abri de la lumière et déguster dans les 7 jours après ouverture.",
+  "customer_service": "PepsiCo France SNC, 15 boulevard Charles de Gaulle 92705 Colombes Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.121,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 522.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 53.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

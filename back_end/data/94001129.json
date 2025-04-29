@@ -1,0 +1,74 @@
+{
+  "barcode": "94001129",
+  "name": "Kiwifruit",
+  "brands": "ALDI Zespri, Catania, Sungold, Zespri",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Fruits based foods, Fruits, Fresh fruits, Kiwis, Yellow kiwis, Fresh kiwifruits",
+  "countries_sold": "Belgium, Canada, France, Germany, Poland, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 110.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "pcs"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Colruyt, Costco, REWE",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Kiwi",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 337.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 77.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 11.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.008,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

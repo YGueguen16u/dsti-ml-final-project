@@ -1,0 +1,91 @@
+{
+  "barcode": "1103086260005",
+  "name": "Ekologisk Sylt Lingon",
+  "brands": "IKEA",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Spreads, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Lingonberries jams",
+  "countries_sold": "Croatia, France, Germany, Italy, Poland, Portugal, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, fr:Szkłło, fr:Słoik",
+  "labels": "Organic, EU Organic, Green Dot, SE-EKO-01",
+  "origin": null,
+  "manufacturing_places": "Sverige",
+  "stores": "IKEA",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Lingonberry",
+      "percentage": "45.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "29.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "14.5% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "5.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 723.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 170.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 42.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 39.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

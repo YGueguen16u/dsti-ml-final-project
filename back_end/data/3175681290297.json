@@ -1,0 +1,158 @@
+{
+  "barcode": "3175681290297",
+  "name": "Cookie Chocolat saveur noisette Sans sucres",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, Drop cookies, Chocolate chip cookies",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "gr"
+  },
+  "packaging": "fr:1 étui et 4 sachets à mettre au bac de tri",
+  "labels": "Low or no sugar, Vegetarian, Vegan, Made in France, No palm oil, No sugar, Nutriscore, Nutriscore Grade A, Rainforest Alliance",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan",
+  "allergens": "Gluten, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "53.2%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "18.4% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "18.4% (estimate)"
+    },
+    {
+      "ingredient": "pepites-de-chocolat-avec-edulcorant",
+      "percentage": "13.3%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "8.3% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.862,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 445.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 64.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.18,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

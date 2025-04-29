@@ -1,0 +1,99 @@
+{
+  "barcode": "3021762383306",
+  "name": "CONFIPOTE Confiture allégée en sucres Pot Fraise 350g",
+  "brands": "confipote, materne",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Breakfasts, Spreads, Fruits based foods, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Low sugar fruit jam, Strawberry jams",
+  "countries_sold": "France, Réunion",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 350.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Pot, Jar, fr:Couvercle métal, fr:Pot en verre",
+  "labels": "Low or no sugar, Sustainable, Low sugar, Sustainable fishery, No preservatives, Reduced sugar, Green Dot, No colorings, No flavors, Nutriscore, Nutriscore Grade C, Responsible aquaculture, Responsible aquaculture ASC, Sustainable Seafood MSC, fr:Eu-eco-label, fr:Forest-stewardship-council-100-percent",
+  "origin": "Pays-Bas",
+  "manufacturing_places": null,
+  "stores": "Auchan, Carrefour, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Strawberry",
+      "percentage": "68.5%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "19.7% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "3.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Avant ouverture : peut se conserver à température ambiante. Après ouverture : se conserve 16 jours au réfrigérateur à +4°C.",
+  "customer_service": "serviceconso.materne@equitable.fr, serviceconso.materne@equitable.fr",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 691.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 163.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 38.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 38.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.04,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

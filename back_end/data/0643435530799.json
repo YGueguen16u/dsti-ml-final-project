@@ -1,0 +1,111 @@
+{
+  "barcode": "0643435530799",
+  "name": "Nesquik",
+  "brands": "Nestlé",
+  "categories": "Beverages and beverages preparations, Beverages, Cocoa and its products, Beverage preparations, Cocoa and chocolate powders, Instant beverages, Instant chocolate powders",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 350.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "No gluten, Nutriscore, Nutriscore Grade A, Rainforest Alliance, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Soluble corn fiber",
+      "percentage": "28.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "11.0% (estimate)"
+    },
+    {
+      "ingredient": "Oat flour",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cinnamon",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 285.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 68.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.12,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

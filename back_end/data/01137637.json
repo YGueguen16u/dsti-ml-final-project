@@ -1,0 +1,75 @@
+{
+  "barcode": "01137637",
+  "name": "Semi Skimmed Milk",
+  "brands": "Sainsbury's",
+  "categories": "Dairies, Milks, Semi-skimmed milks",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "pints"
+  },
+  "packaging": "Bottle, Hdpe-bottle, Hdpe-lid, Item",
+  "labels": "Vegetarian",
+  "origin": "Great Britain",
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised-homogenised-semi-skimmed-milk",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 208.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 50.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.93,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 124.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

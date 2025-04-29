@@ -1,0 +1,42 @@
+{
+  "barcode": "20020811",
+  "name": "Sel fin",
+  "brands": "Chantesel",
+  "categories": "Condiments, Salts, fr:Sels fins, Groceries",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Packet, Boîte en carton, Container",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Finegrained salt",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Anti-caking agent",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E536",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

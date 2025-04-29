@@ -1,0 +1,132 @@
+{
+  "barcode": "3092718638054",
+  "name": "Zéro Fraise",
+  "brands": "Teisseire",
+  "categories": "Beverages and beverages preparations, Beverages, Beverage preparations, Syrups, Artificially sweetened beverages, Flavoured syrups, Strawberry syrups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": "Lid or cap, Lid, Aluminium-bottle",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "57.5% (estimate)"
+    },
+    {
+      "ingredient": "Strawberry juice from concentrate",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Bulking agent",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "E1200",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated black carrot",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "2.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 38.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 1.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,106 @@
+{
+  "barcode": "3019089042266",
+  "name": "Rillettes de thon",
+  "brands": "petit navire",
+  "categories": "Seafood, Fishes and their products, Fishes, Spreads, Fatty fishes, Frozen foods, Salted spreads, Rillettes, Tunas, Fish preparations, Fish rillettes, Tuna rillettes",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Fish, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tuna",
+      "percentage": "55.6% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "22.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "Broad bean flour",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "fibre-e-bambou",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Powdered egg white",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.151,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 275.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

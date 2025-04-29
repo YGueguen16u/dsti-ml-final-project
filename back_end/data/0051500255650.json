@@ -1,0 +1,154 @@
+{
+  "barcode": "0051500255650",
+  "name": "Natural Creamy Peanut Butter",
+  "brands": "J.M. Smucker Company, JIF",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Breakfasts, Spreads, Nuts and their products, Plant-based spreads, Sweet spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters",
+  "countries_sold": "France, United States, World",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 16.0,
+    "unit": "oz"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "Low or no Sodium, No GMOs, Low Sodium, No cholesterol, No Trans fat, Non GMO project, High fat total, High potassium, High sodiumlevel, Low carbs",
+  "origin": "tulsa, ok",
+  "manufacturing_places": "United States, France",
+  "stores": "Wal-mart, Kroger, albertson's",
+  "allergens": "Gluten, Nuts, Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Dv-amount",
+      "percentage": "53.6% (estimate)"
+    },
+    {
+      "ingredient": "Serving-amount",
+      "percentage": "23.2% (estimate)"
+    },
+    {
+      "ingredient": "Serving-dv-o-total-fat-16g-20-total-carb-8g-3-17-sat-fat-3-5g-fiber-3g-9-trans-fat-og-total-sugars-4g-cholest-omg-0-incl-2g-added-sugars-4-sodium-80mg-3-protein-7g-7-90-vitamin-d-0mcg-0-150025565-vitamin-e-1mg-10-calcium-18mg-2-iron-1mg-4-potas-193mg-4-niacin-5mg-30-the-daily-value-tells-you-how-much-a-nutrient-in-a-serving-of-food-contributes-to-a-daily-diet",
+      "percentage": "11.6% (estimate)"
+    },
+    {
+      "ingredient": "2-000-calories-a-day-is-used-for-general-nutrition-advice",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Hor-less-of-salt",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Molasses",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Minimal-oil-separation-de-from-peanuts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm-natural-ingredients",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cker-company-tusa-is-natural",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservatives-best-if-used-no-refrigeration-required-this-package-is-recyclable",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "However",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Recycling-programs-for-this-package-may-not-exist-in-your-area",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "69568007-1005",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.41,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 576.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 48.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 24.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 12.1,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 6.06,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.09,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 1.0,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 15.2,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 192.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 18.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.5,
+      "unit": "mg"
+    },
+    "total sugars": {
+      "quantity": 12.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

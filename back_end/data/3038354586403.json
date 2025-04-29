@@ -1,0 +1,74 @@
+{
+  "barcode": "3038354586403",
+  "name": "Risotto",
+  "brands": "Lustucru, Taureau Ailé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Seeds, Cereals and their products, Cereal grains, Rices, Long grain rices, Japonica rices, Rices for risotto, Short grain rices, Arborio rices",
+  "countries_sold": "France, Germany, Réunion",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Dry, Individual bag, fr:Point vert, fr:Sachet en plastique",
+  "labels": "Low or no sugar, Low sugar, Reduced sugar, 15% less sugar, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": "Italie : Piémont, Lombardie",
+  "manufacturing_places": null,
+  "stores": "Hyper U, Franprix, Magasins U, Carrefour, carrefour.fr, E.Leclerc Drive",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Superior quality long grain rice",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver dans un endroit sec",
+  "customer_service": "Service consommateurs TAUREAU AILE, 37 bis, rue Saint Romain 69008 LYON",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.494,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 352.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 78.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

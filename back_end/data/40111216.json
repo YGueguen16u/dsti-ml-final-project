@@ -1,0 +1,138 @@
+{
+  "barcode": "40111216",
+  "name": "Bounty 2x",
+  "brands": "Mars",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolate candies, Bars, Candy chocolate bars",
+  "countries_sold": "Algeria, Belgium, Bulgaria, Czech Republic, Denmark, France, Germany, Hungary, Iran, Montenegro, Morocco, Réunion, Romania, Saudi Arabia, Serbia, Slovakia, Sweden, Switzerland, Tunisia, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "twin"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": "Plastic, Bag, Green dot, Mixed plastic film-wrapper",
+  "labels": "Vegetarian, Green Dot, Pure cocoa butter",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Distributeur, Distributeur d'entreprise, Irma.dk, Tabac Presse Rennes Alma, Globus, Amazon",
+  "allergens": "Milk, Soybeans, cs:mléka",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Desiccated coconut",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Humectant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.05,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 490.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 54.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 46.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.14,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

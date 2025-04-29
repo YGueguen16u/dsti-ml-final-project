@@ -1,0 +1,190 @@
+{
+  "barcode": "3178530423150",
+  "name": "La galette fourrée",
+  "brands": "St Michel",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, Shortbread cookies, Shortbread cookie with chocolate",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 20.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 240.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Free range, Free range eggs, Made with free range eggs, No palm oil, Nutriscore, Nutriscore Grade D, fr:Farine de blé français",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Casino",
+  "allergens": "Eggs, Gluten, Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "35.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "20.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "16.3% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "13.8% (estimate)"
+    },
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Free range chicken eggs",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.063,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 492.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.39,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

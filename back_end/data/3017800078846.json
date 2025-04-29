@@ -1,0 +1,87 @@
+{
+  "barcode": "3017800078846",
+  "name": "Haricots rouges Cultivés en France d'aucy 250g",
+  "brands": "D'aucy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Seeds, Vegetables based foods, Canned plant-based foods, Legume seeds, Canned vegetables, Pulses, Common beans, Prepared vegetables, Canned legumes, Cooked vegetables, Red beans, Canned common beans, Canned red kidney beans, Cooked red kidney beans, Canned-kidney-common-beans",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Canned",
+  "labels": "Vegetarian, No preservatives, Grown in France, Metal recycles forever, Nutriscore, Nutriscore Grade A",
+  "origin": "France",
+  "manufacturing_places": "France",
+  "stores": "Super U, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "74.5% (estimate)"
+    },
+    {
+      "ingredient": "Red bean",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Firming agent",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "E509",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Avant ouverture : A conserver à température ambiante et à l'abri de l'humidité et de toute variation de température Après ouverture : « A conserver au réfrigérateur dans un récipient hermétique et approprié et à consommer dans les 2 jours.»",
+  "customer_service": "Service consommateurs d'aucy France, Libre réponse 86007",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 404.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 96.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.53,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

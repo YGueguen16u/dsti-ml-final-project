@@ -1,0 +1,116 @@
+{
+  "barcode": "3178530407983",
+  "name": "Madeleines",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Cakes, Madeleines",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": "Verified",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Gluten, Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "26.0%"
+    },
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "23.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "23.5% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Ground almonds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Citrates",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.87,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 447.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

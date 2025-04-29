@@ -1,0 +1,102 @@
+{
+  "barcode": "20164041",
+  "name": "Tomato Sauce With Basil",
+  "brands": "Freshona, Italiamo, LIDL FRESHONA ITALIAMO",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Condiments, Vegetables based foods, Sauces, Tomatoes and their products, Meal sauces, Tomato sauces, Tomato sauces with basil",
+  "countries_sold": "Belgium, Bulgaria, Czech Republic, France, Germany, Poland, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.5,
+    "unit": "cup"
+  },
+  "quantity": {
+    "quantity": 700.0,
+    "unit": "g"
+  },
+  "packaging": "Bottle or vial, Glass, Bottle, Jar",
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": "Italie",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "98.2%"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity-checker",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 151.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 36.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

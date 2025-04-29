@@ -1,0 +1,99 @@
+{
+  "barcode": "3124480196361",
+  "name": "1,5L SCHWEPPES INDIAN TONIC PE",
+  "brands": "SCHWEPPES",
+  "categories": "Beverages, Carbonated drinks, Artificially sweetened beverages, Sodas, Diet beverages, Carbonated soft drinks without fruit juice, Tonic water, Carbonated soft drinks without fruit juice with reduced sugar, Carbonated soft drinks without fruit juice with sugar, Carbonated soft drinks without fruit juice with sugar and artificial sweeteners, Sweetened beverages",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Carbonated water",
+      "percentage": "89.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Quinine",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 79.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 19.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

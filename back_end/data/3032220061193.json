@@ -1,0 +1,130 @@
+{
+  "barcode": "3032220061193",
+  "name": "Croque' Emmental",
+  "brands": "Président",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Cow cheeses, Fresh foods, French cheeses, Industrial cheese, Melted cheese, fr:Fromages fondus à l'emmental, fr:Fromages pour Croque Monsieur",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.2,
+    "unit": "kg"
+  },
+  "packaging": "Bag, Fresh, Individual bag, fr:Tranche",
+  "labels": "No preservatives, High in calcium, No colorings, fr:Eco-emballages",
+  "origin": "Fabriqué en France",
+  "manufacturing_places": "France, LONS LE SAUNIER",
+  "stores": "carrefour.fr",
+  "allergens": "Eggs, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Lait écrémé reconstitué",
+      "percentage": "100.0% (estimate)"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifying salts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E452",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E407",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +4°C et +20°C. De préférence à remettre au froid après achat",
+  "customer_service": "PRESIDENT à votre service, - F 53089 LAVAL Cedex 9",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 961.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 231.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 450.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

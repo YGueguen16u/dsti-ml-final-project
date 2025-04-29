@@ -1,0 +1,82 @@
+{
+  "barcode": "3038350032195",
+  "name": "Panzani sce tomacouli nature bio 265g",
+  "brands": "Panzani",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Condiments, Vegetables based foods, Sauces, Tomatoes and their products, Tomato sauces, Tomato purées",
+  "countries_sold": "France, Morocco",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 265.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Organic, EU Organic, ES-ECO-021-EX, FR-BIO-01, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique",
+  "origin": "espagne",
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato purée",
+      "percentage": "99.0%"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Se conserve 4 jours au réfrigérateur après ouverture",
+  "customer_service": "Service consommateurs PANZANI, 141 cours Gambetta 69003 LYON - FRANCE 0 970 809 115",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 136.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 32.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.41,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

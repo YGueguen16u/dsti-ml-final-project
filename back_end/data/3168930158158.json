@@ -1,0 +1,146 @@
+{
+  "barcode": "3168930158158",
+  "name": "Cruesli miel et noisettes",
+  "brands": "Cruesli, QUAKER",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Breakfast cereals rich in fibre, Cereals with nuts, Crunchy cereal clusters, Cereal clusters with nuts",
+  "countries_sold": "Belgium, France, Netherlands",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 45.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 450.0,
+    "unit": "g"
+  },
+  "packaging": "Box, fr:Etui en carton, fr:Sachet en plastique",
+  "labels": "No preservatives, Green Dot, Nutriscore, Nutriscore Grade B, Point Vert, Sans arômes artificiels",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Hoogvliet",
+  "allergens": "Gluten, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal oat",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "Whole wheat",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "12.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "12.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Oligofructose",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Natural honey flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conseil : conservez Cruesli Miel Noisette dans un endroit sec et frais pour lui garder toute sa saveur et son croustillant. A consommer de préférence avant la date figurant sur le haut du paquet.",
+  "customer_service": "PepsiCo France, 15, boulevard Charles de Gaulle 92705 Colombes CEDEX",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.922,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 460.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    },
+    "phosphorus": {
+      "quantity": 209.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 2.1,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 64.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

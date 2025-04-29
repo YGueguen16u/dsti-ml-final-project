@@ -1,0 +1,263 @@
+{
+  "barcode": "3116430057761",
+  "name": "Bruges Assortment Biscuits",
+  "brands": "Delacre, Ferrero",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Biscuits-et-gâteaux, Gâteau-sec-avec-chocolat, Snacks-sucrés",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Film, Wrapper",
+  "labels": "Pure cocoa butter",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Delhaize, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "28.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "20.6% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "18.0% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Palm kernel oil",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White chocolate",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Lactose and milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whole powdered egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Powdered egg white",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conserver à l'abri de la chaleur et de l'humidité.",
+  "customer_service": "NV Biscuits Delacre SA Service consommateur, E. Van Becelaerelaan 2, 1170 Bruxelles Belgique",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.135,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 510.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 25.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 14.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 39.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.34,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,154 @@
+{
+  "barcode": "3083680652094",
+  "name": "Lentilles préparées",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Seeds, Vegetables based foods, Canned plant-based foods, Legume seeds, Meals, Canned vegetables, Pulses, Lentils, Canned legumes, Canned meals, Canned lentils, Prepared lentils",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned, fr:Boîte en métal",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Magasins U, carrefour.fr, Carrefour market",
+  "allergens": "Gluten, None, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wet-dry-blonde-lentils",
+      "percentage": "84.0% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Juice",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Poultry broth",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Meat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chicken fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celeri",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "2.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 394.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 93.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.76,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,82 @@
+{
+  "barcode": "20952174",
+  "name": "Lightly salted tortilla",
+  "brands": "LIDL",
+  "categories": "Snacks, Salty snacks, Appetizers, Chips and fries, Crisps, Corn chips",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Pp-bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn flour",
+      "percentage": "74.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.98,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 474.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 19.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 65.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.67,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

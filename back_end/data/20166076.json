@@ -1,0 +1,82 @@
+{
+  "barcode": "20166076",
+  "name": "Erdnussbutter, creamy",
+  "brands": "Mike Mitchell's, Penny",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Spreads, Nuts and their products, Plant-based spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters",
+  "countries_sold": "France, Germany, United States",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": "États-Unis",
+  "stores": "Penny",
+  "allergens": "Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "90.9%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.6,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 621.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 24.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.11,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

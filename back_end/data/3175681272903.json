@@ -1,0 +1,155 @@
+{
+  "barcode": "3175681272903",
+  "name": "Pain complet au sarrasin",
+  "brands": "Gerblé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Specific products, Products for specific diets, Breads, Products without gluten, Gluten-free breads, Sliced breads, Wholemeal breads, fr:Pains au sarrasin",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Film en plastique",
+  "labels": "No gluten, No palm oil, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "34.2% (estimate)"
+    },
+    {
+      "ingredient": "Natural rice sourdough",
+      "percentage": "26.8%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "13.4%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.4% (estimate)"
+    },
+    {
+      "ingredient": "Whole grain buckwheat flour",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "Buckwheat",
+      "percentage": "5.8%"
+    },
+    {
+      "ingredient": "Pea protein isolate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Psyllium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E464",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Citrus fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baker's yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1510",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 942.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 224.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

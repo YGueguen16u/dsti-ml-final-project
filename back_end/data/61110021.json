@@ -1,0 +1,140 @@
+{
+  "barcode": "61110021",
+  "name": "Knorr, Mélange à Bouillon (halal) Boeuf",
+  "brands": "Knorr",
+  "categories": "Dried products, Dried products to be rehydrated, Broths, Beef broth, Groceries",
+  "countries_sold": "France, Morocco",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": "Halal, Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "ملح-مدعم-باليود",
+      "percentage": "52.5% (estimate)"
+    },
+    {
+      "ingredient": "محسنات-النكهة",
+      "percentage": "23.8% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "11.9% (estimate)"
+    },
+    {
+      "ingredient": "كوانتس",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "بونيتس",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "نكهات-الجبوم",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "بهارات-نباتية",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "نخيل-مجفف",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "خضار-مجففة",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "فلفل",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "جوزة-الطيب",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fenugreek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "كراوية",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "أعشاب",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "لون",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 17.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 4.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.01,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.34,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 10.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

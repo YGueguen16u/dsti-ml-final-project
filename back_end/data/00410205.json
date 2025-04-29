@@ -1,0 +1,75 @@
+{
+  "barcode": "00410205",
+  "name": "Scottish porridge oats",
+  "brands": "SO",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Flakes, Cereal flakes, Rolled flakes, Porridge, Rolled oats",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": null,
+  "packaging": "Mixed plastic-bag",
+  "labels": "Organic, Vegetarian, EU Organic, Vegan, GB-ORG-02",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Oat",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.52,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 363.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "starch": {
+      "quantity": 59.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,102 @@
+{
+  "barcode": "3057640257773",
+  "name": "Natural Mineral Water",
+  "brands": "Volvic",
+  "categories": "Beverages and beverages preparations, Beverages, Waters, Spring waters, Mineral waters, Natural mineral waters, fr:getränke, fr:natürliches-mineralwasser",
+  "countries_sold": "Belgium, France, Luxembourg, Belgien, Deutschland, Frankreich, Schweiz",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Bouteille, Bouteille ou Flacon, Plastikflasche, Plastique",
+  "labels": "Carbon compensated product, Carbon Trust, Carbon Trust Carbon Neutral, Certified B Corporation, Triman, B-corporation-certification",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.003,
+      "unit": "g"
+    },
+    "bicarbonate": {
+      "quantity": 7.4,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.6,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 1.5,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 1.2,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 0.8,
+      "unit": "mg"
+    },
+    "sulphate": {
+      "quantity": 0.9,
+      "unit": "mg"
+    },
+    "nitrate": {
+      "quantity": 0.73,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

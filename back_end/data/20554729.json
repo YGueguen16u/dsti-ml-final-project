@@ -1,0 +1,102 @@
+{
+  "barcode": "20554729",
+  "name": "Choco nussa",
+  "brands": "Lidl",
+  "categories": "Breakfasts, Spreads, Sweet spreads, fr:Pâtes à tartiner, Hazelnut spreads, Chocolate spreads, Cocoa and hazelnuts spreads",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "Sustainable farming, Nutriscore, Nutriscore Grade E, Rainforest Alliance, UTZ Certified, UTZ Certified Cocoa, Triman",
+  "origin": null,
+  "manufacturing_places": "Italie",
+  "stores": "LIDL",
+  "allergens": "Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "36.5% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "24.8% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.298,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 549.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 33.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 57.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 56.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,119 @@
+{
+  "barcode": "00019101",
+  "name": "Shortbread All Butter Fingers",
+  "brands": "Sainsbury's",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Shortbread cookies, Shortbread",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Mixed plastic film-packet",
+  "labels": "Vegetarian, Pure butter",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fortified british wheat flour",
+      "percentage": "59.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "34.6% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "12.2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Salted butter",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "32.7% (estimate)"
+    },
+    {
+      "ingredient": "Cow's milk",
+      "percentage": "32.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "E503ii",
+      "percentage": "3.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.197,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 525.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 28.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 18.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

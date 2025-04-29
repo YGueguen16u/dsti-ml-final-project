@@ -1,0 +1,146 @@
+{
+  "barcode": "3033491485763",
+  "name": "Hipro 25g Protéines Vanille-Cookie",
+  "brands": "Hipro, Hipro drinks, danone",
+  "categories": "Beverages and beverages preparations, Beverages, Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Dairy drinks, Fermented dairy desserts, Fermented drinks, Fermented milk drinks, Yogurts, Dietary supplements, Yogurt drinks, Bodybuilding supplements, Protein shakes",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.3,
+    "unit": "kg"
+  },
+  "packaging": "Bottle, Fresh, fr:Bouchon en plastique, fr:Bouteille en plastique",
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "86.0%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "8.2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 246.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 58.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.17,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 175.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

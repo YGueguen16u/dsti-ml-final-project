@@ -1,0 +1,163 @@
+{
+  "barcode": "54490802",
+  "name": "Aquarius naranja",
+  "brands": "Aquarius",
+  "categories": "nl:sportdrank",
+  "countries_sold": "Belgium, France, Morocco, Netherlands, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic, Bottle",
+  "labels": "Green Dot, es:Bajo en calorías, es:recicla-amarillo",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Alcampo",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "66.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium chloride",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "kaliumfosfaat",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E341",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E414",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E445",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium selenate",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "natuurlijke-citrusaroma-s",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E160a",
+      "percentage": "2.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 81.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 19.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.05,
+      "unit": "g"
+    },
+    "zinc": {
+      "quantity": 0.8,
+      "unit": "mg"
+    },
+    "selenium": {
+      "quantity": 4.5,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

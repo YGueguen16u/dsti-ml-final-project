@@ -1,0 +1,107 @@
+{
+  "barcode": "50457014",
+  "name": "Heinz Seriously Good Squeezy Mayonnaise",
+  "brands": "Heinz",
+  "categories": "Condiments, Fats, Sauces, Mayonnaises, Groceries",
+  "countries_sold": "France, Morocco, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 215.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "68.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "21.0% (estimate)"
+    },
+    {
+      "ingredient": "Pasteurised Free Range Egg Yolk",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E385",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.694,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 644.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,127 @@
+{
+  "barcode": "0034361482953",
+  "name": "HiPro",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts",
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Lait-ecreme",
+      "percentage": "50.4% (estimate)"
+    },
+    {
+      "ingredient": "Lait-ecreme-concentre",
+      "percentage": "26.4% (estimate)"
+    },
+    {
+      "ingredient": "Myrtille",
+      "percentage": "5.8%"
+    },
+    {
+      "ingredient": "Epaississants",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Amidon-modifie-de-mais",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pectine-de-fruits",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gomme-g-guar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferments-lactiques",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Lait",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Correcteurs-d-acidite-do",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Citrate-de-sodium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acide-citrique",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Aromes",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Edulcorants-prot",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamine-d",
+      "percentage": "2.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 226.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 53.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

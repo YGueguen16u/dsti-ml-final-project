@@ -1,0 +1,42 @@
+{
+  "barcode": "3024720022439",
+  "name": "Rillettes du Mans sans graisse ajoutée",
+  "brands": "Bordeau Chesnel, Savencia",
+  "categories": "Meats and their products, Spreads, Meats, Prepared meats, Salted spreads, Rillettes, Potted meats, French Rillettes, fr:Rillettes de viande rouge, Sarthe rillettes, Pork rillettes, Rillettes from Mans",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, fr:Opercule en aluminium",
+  "labels": "French meat, No artificial flavors, No preservatives, 100% natural, French pork, Green Dot, No artificial colors, No artificial colours or flavours, Without sodium nitrite, Triman, fr:Sans graisse ajoutée",
+  "origin": null,
+  "manufacturing_places": "Sarthe, France, Yvré L'Evêque",
+  "stores": "Magasins U, Carrefour, Auchan, Leclerc, Monoprix, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork meat",
+      "percentage": "98.9% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

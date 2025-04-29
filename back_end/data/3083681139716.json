@@ -1,0 +1,114 @@
+{
+  "barcode": "3083681139716",
+  "name": "Lunch Bowl Linsen Bulgur",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Legumes, Meals, Fresh foods, Fresh plant-based foods, Microwave meals, Mix of cereals and legumes",
+  "countries_sold": "Czech Republic, France, Germany, Hungary, Netherlands, Poland, Slovakia, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Vegetarian, Source of fibre, Source of proteins, Vegan, 100% natural, 100% vegetable, High proteins, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Globus, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Beluga lentils",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Bulgur",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Durum wheat",
+      "percentage": "18.0% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Grilled aubergines",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Cherry tomato",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rosemary",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 544.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 130.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.72,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

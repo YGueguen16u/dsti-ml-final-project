@@ -1,0 +1,122 @@
+{
+  "barcode": "20936600",
+  "name": "Chocolat Noir Amande et Écorces d'Orange",
+  "brands": "lidl jd gross",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Chocolates with almonds, Dark chocolates with almonds, Dark chocolates with orange",
+  "countries_sold": "France, Netherlands, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Fair trade, Fairtrade International, FSC, FSC Mix",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Orange zest",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "56.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.384,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 573.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 39.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 45.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 41.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

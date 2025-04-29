@@ -1,0 +1,98 @@
+{
+  "barcode": "20468583",
+  "name": "Cooked Chickpeas",
+  "brands": "Freshona, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Canned plant-based foods, Legume seeds, Pulses, Chickpeas, Canned legumes, Canned chickpeas",
+  "countries_sold": "Czech Republic, France, Germany, Poland, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Clear Glass, Jar, Lid, Steel",
+  "labels": "Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Sulphur dioxide and sulphites, fr:metabisulphite-de-sodium, fr:natriummetabisulfit, pl:pirosiarczyn",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cooked chickpeas",
+      "percentage": "74.1% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E385",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "E223",
+      "percentage": "12.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 468.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 112.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

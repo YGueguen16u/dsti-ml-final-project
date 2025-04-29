@@ -1,0 +1,90 @@
+{
+  "barcode": "0898999000503",
+  "name": "Coconut Water",
+  "brands": "Vita Coco",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Coconut waters",
+  "countries_sold": "Belgium, France, Germany, United Kingdom, United States, World",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Tetra Pak, Composite-carton, Pet-cap",
+  "labels": "No gluten, Vegetarian, No GMOs, Vegan, Certified B Corporation, FSC, FSC Mix, No milk, Non GMO project, The Vegan Society",
+  "origin": "Produced in the Philippines",
+  "manufacturing_places": "Philippines",
+  "stores": "Intermarche, Delhaize, Tesco, Sainsbury's",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Coconut water",
+      "percentage": "99.0%"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 124.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 29.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.18,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.34,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 0.423,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.026,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 6.09,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 198.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 34.6,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 14.2,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

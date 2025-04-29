@@ -1,0 +1,71 @@
+{
+  "barcode": "20057237",
+  "name": "Œufs",
+  "brands": "Plein Air",
+  "categories": "Farming products, Eggs, Chicken eggs, Free-range chicken eggs",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": "Box, Cardboard, fr:Boîte carton",
+  "labels": "Free range, Free range eggs, French eggs, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": "Œufs pondus et conditionnés en France",
+  "manufacturing_places": "Distribué par SAS Galline Frais 59250 Halluin, France",
+  "stores": "Lidl",
+  "allergens": "Eggs",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Free range chicken eggs",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 584.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 140.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.83,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.64,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.27,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.27,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.31,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

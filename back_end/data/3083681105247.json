@@ -1,0 +1,138 @@
+{
+  "barcode": "3083681105247",
+  "name": "Légumes et Céréales Cuisinés, Patates douces, Edamame, Butternut & Boulgour, crème fraîche et persil",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Frozen foods, Meals, Vegetables, Frozen plant-based foods, Frozen vegetables, Frozen plant-based foods mixes, Mixed vegetables, Frozen mixed vegetables",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, fr:Film en plastique, fr:Sachet aluminium",
+  "labels": "No preservatives, No colorings, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "59173 Renescure, France",
+  "stores": "Carrefour, Auchan, carrefour.fr",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Bulgur",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat bulgur",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Sweet potato",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Edamame",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Butternut squash",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Red quinoa",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Red quinoa",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Snow pea",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Fresh cream",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "* Réfrigérateur = 24 heures.\n* Casier à glaçons du réfrigérateur = 3 jours.\n* Congélateur = à -18° (Pendant plusieurs mois)\nNE JAMAIS RECONGELER UN PRODUIT DÉGELÉ",
+  "customer_service": "Service consommateurs Bonduelle, Service consommateurs Bonduelle BP 30173 Villeneuve d'Ascq",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 397.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 95.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 11.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.74,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

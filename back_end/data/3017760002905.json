@@ -1,0 +1,150 @@
+{
+  "barcode": "3017760002905",
+  "name": "Petit écolier tendre coeur au lait",
+  "brands": "Kraft Foods, LU, Petit écolier",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Milk chocolate biscuits, Biscuit with a chocolate bar covering, Biscuit with a filled chocolate bar covering, Biscuit with a milk chocolate bar covering",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 20.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Cardboard, Individual bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "chocolat-au-lait-38-sure",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "leathines",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "arme-vanile",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "aine-de-ble-23-reuses-vegetales",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "amidon-de-mais-lait-evreme-en-poudre-0-7-mubifiant-tres-de-soia",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "vel-poudres-a-lever",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.144,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 513.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 61.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 43.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.35,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

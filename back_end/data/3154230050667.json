@@ -1,0 +1,106 @@
+{
+  "barcode": "3154230050667",
+  "name": "Allumettes de bacon fumées",
+  "brands": "Herta",
+  "categories": "Meats and their products, Meats, Prepared meats, Fresh foods, Pork and its products, fr:Charcuteries diverses, Pork, Bacon, fr:Allumettes de porc, Lardons, Smoked bacon, Pork (prepared), Smoked bacon lardons, fr:Charcuteries à cuire",
+  "countries_sold": "France",
+  "nutri_score": "a",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Protective gas, Seal, Tray, fr:Film plastique",
+  "labels": "Green Dot, Made in France, Nutriscore, Nutriscore Grade C, Herta s'engage, Triman, fr:Eco-Emballages",
+  "origin": "Viande de porc rigoureusement sélectionnée d'origine : Union Européenne",
+  "manufacturing_places": "Herta SAS - Route d'Ostreville - Zone Industrielle - 62130 Saint-Pol-sur-Ternoise, Pas-de-Calais, Nord-Pas-de-Calais, France",
+  "stores": "Leclerc, Franprix, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork meat",
+      "percentage": "57.1% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "21.4% (estimate)"
+    },
+    {
+      "ingredient": "E326",
+      "percentage": "21.4% (estimate)"
+    },
+    {
+      "ingredient": "E261",
+      "percentage": "10.7% (estimate)"
+    },
+    {
+      "ingredient": "E250",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "E316",
+      "percentage": "3.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à +4°C.",
+  "customer_service": "HERTA, 16 bd du Mont d'Est – 93160 Noisy-le-Grand",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 447.6,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 106.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,90 @@
+{
+  "barcode": "00414234",
+  "name": "Lightly Salted Tortillas",
+  "brands": "M&S Food",
+  "categories": "Snacks, Salty snacks, Appetizers, Chips and fries, Crisps, Corn chips, Apéritif, Chips-de-maïs, Snacks-salés",
+  "countries_sold": "France, United Kingdom, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Unknown, Mixed plastic film-film",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer, M&S Food",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn flour",
+      "percentage": "74.6% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "6.3% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "6.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.01,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 481.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.738,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,106 @@
+{
+  "barcode": "3068320114453",
+  "name": "Badoit 1 L PET",
+  "brands": "Badoit",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Waters, Spring waters, Mineral waters, Non-alcoholic beverages, Unsweetened beverages, Carbonated waters, Natural mineral waters, Carbonated mineral waters",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Recycle, fr:Bouchon plastique, fr:Bouteille plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Source Badoit Bron, 42330, Saint Galmier, France",
+  "stores": "Dia, Carrefour, Bi1, carrefour.fr",
+  "allergens": "None",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Naturally carbonated natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Vor Sonnenlicht geschützt, trocken, kühl und sauber lagern. Nach dem Öffnen im Kühlschrank aufbewahren und innerhalb von 3 Tagen aufbrauchen.",
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "silica": {
+      "quantity": 2.7,
+      "unit": "mg"
+    },
+    "bicarbonate": {
+      "quantity": 125.0,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 11.0,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 54.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 153.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 80.0,
+      "unit": "mg"
+    },
+    "fluoride": {
+      "quantity": 1.2,
+      "unit": "mg"
+    },
+    "sulphate": {
+      "quantity": 3.5,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

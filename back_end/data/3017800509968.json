@@ -1,0 +1,123 @@
+{
+  "barcode": "3017800509968",
+  "name": "Aubergines cuisinées à la provençale d'aucy 380g",
+  "brands": "D'aucy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Vegetables based foods, Canned plant-based foods, Frozen foods, Vegetables, Canned vegetables, Frozen plant-based foods, Frozen vegetables, Prepared vegetables, Prepared eggplants, Aubergines, Riste with eggplant and tomatoes and onions, fr:Aubergines à la provençale",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 380.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": "Espagne",
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Aubergine",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Aubergine",
+      "percentage": "15.9% (estimate)"
+    },
+    {
+      "ingredient": "Aubergine",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato cubes",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato juice",
+      "percentage": "13.4% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "8.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "7.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Avant ouverture : à conserver à température ambiante et à l'abri de l'humidité et de toute variation de température. Après ouverture : à conserver au réfrigérateur dans un récipient hermétique et approprié et à consommer dans les 2 jours.",
+  "customer_service": "Service consommateurs d'aucy France, Libre réponse 86007",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 297.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 72.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.59,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

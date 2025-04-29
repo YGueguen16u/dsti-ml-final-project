@@ -1,0 +1,71 @@
+{
+  "barcode": "3088540374307",
+  "name": "Miel de fleurs",
+  "brands": "Lune de Miel",
+  "categories": "Breakfasts, Spreads, Sweet spreads, Bee products, Farming products, Sweeteners, Honeys, Flower honeys, Honey-based preparations",
+  "countries_sold": "France, Réunion",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 375.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar",
+  "labels": "Organic, Green Dot, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Simply Market, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Honey",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.36,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 320.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 80.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 80.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.001,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

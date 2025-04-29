@@ -1,0 +1,82 @@
+{
+  "barcode": "3179140123805",
+  "name": "Sucre Vanillé",
+  "brands": "Vahiné",
+  "categories": "Sweeteners, Sugars, Vanilla sugars",
+  "countries_sold": "Belgium, France, Germany",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 10.0,
+    "unit": "x"
+  },
+  "packaging": "Paper, fr:sachet plastique",
+  "labels": "100% natural, Green Dot, Made in France, Triman, fr:Extrait naturel de vanille",
+  "origin": "France",
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr, Carrefour Market, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla pod",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.677,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 401.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 99.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 98.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

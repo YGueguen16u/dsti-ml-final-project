@@ -1,0 +1,66 @@
+{
+  "barcode": "3068320120256",
+  "name": "Natuurlijk Mineraalwater",
+  "brands": "Evian",
+  "categories": "Beverages and beverages preparations, Beverages, Waters, Spring waters, Mineral waters, Natural mineral waters",
+  "countries_sold": "Belgium, France, Luxembourg, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic",
+  "labels": "Green Dot, Triman, Fr:evian",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, leclerc  hyper U, Supermarchés, Migros",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "salt": {
+      "quantity": 0.002,
+      "unit": "g"
+    },
+    "silica": {
+      "quantity": 1.5,
+      "unit": "mg"
+    },
+    "bicarbonate": {
+      "quantity": 36.0,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.1,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 1.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 8.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 2.6,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

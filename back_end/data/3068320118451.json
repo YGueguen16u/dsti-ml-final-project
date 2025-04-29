@@ -1,0 +1,111 @@
+{
+  "barcode": "3068320118451",
+  "name": "BULLES DE FRUITS CITRON FRAISE",
+  "brands": "Badoit",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Waters, Carbonated waters, Flavored waters, Flavored sparkling waters, Sweetened beverages, Gazeuse",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "fr:Bouteille en Plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "eau-minerale-naturelle-gazeifiee-de-st-alban",
+      "percentage": "88.0%"
+    },
+    {
+      "ingredient": "Fruit juice from concentrate",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Strawberry",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Lime",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweet potato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Radish",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 92.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 22.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

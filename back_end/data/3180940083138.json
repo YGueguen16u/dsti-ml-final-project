@@ -1,0 +1,106 @@
+{
+  "barcode": "3180940083138",
+  "name": "Le Jambon Supérieur à l'Étouffé",
+  "brands": "Madrange",
+  "categories": "Meats and their products, Meats, Prepared meats, Hams, White hams",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Barquette carton, fr:Film plastique",
+  "labels": "No antibiotics, French meat, Without antibiotics after weaning, French pork, FSC, FSC Mix, Nutriscore, Nutriscore Grade C, Porks raised without antibiotics, Porks raised without antibiotics after weaning, Without sodium nitrite, es:Natural, Triman, fr:Barquette-recyclable, fr:Ingredients-d-origine-naturelle-et-ferments",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr, Carrefour, Sitis Market",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Jambon de porc français",
+      "percentage": "71.2% (estimate)"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "14.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Pork protein",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "11.5% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "11.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 448.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 106.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

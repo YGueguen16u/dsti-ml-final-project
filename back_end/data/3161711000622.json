@@ -1,0 +1,82 @@
+{
+  "barcode": "3161711000622",
+  "name": "Caprice des Dieux",
+  "brands": "Caprice Des Dieux, Savencia",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Soft cheeses, Cow cheeses, Soft cheeses with bloomy rind, Pasteurised products, Pasteurized cheeses, Soft cheese with a natural rind",
+  "countries_sold": "Belgium, France, Luxembourg, United States",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Container",
+  "labels": "No lactose, fr:Pas de label",
+  "origin": null,
+  "manufacturing_places": "France, France haute Marne",
+  "stores": "Magasins U, Delhaize, carrefour mont Saint aignan, carrefour.fr, Super U",
+  "allergens": "Milk, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised cow's milk",
+      "percentage": "98.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.379,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 333.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 350.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,154 @@
+{
+  "barcode": "40144382",
+  "name": "Knoppers",
+  "brands": "Storck",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Wafers, Pastries, Waffles, Gebäck, Gefüllte-knusprige-waffeln, Gefüllte-waffeln, Süßer-snack, Tiefkühlprodukte",
+  "countries_sold": "Denmark, France, Germany, Morocco, Poland, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Sustainable, No artificial flavors, No preservatives, Sustainable Palm Oil, Green Dot, No colorings, Roundtable on Sustainable Palm Oil",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten, Milk, Nuts, Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "29.1% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "6.7% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "13.1%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "12.7%"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "9.2%"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Full-fat-milk-powder",
+      "percentage": "0.4%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey product",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey product",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peanut",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.29,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 548.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 33.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 18.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 51.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.56,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

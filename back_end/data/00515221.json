@@ -1,0 +1,158 @@
+{
+  "barcode": "00515221",
+  "name": "Medium Wholemeal Super Soft Loaf",
+  "brands": "Marks & Spencer",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Sliced breads, Wholemeal breads, Wholemeal sliced breads",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 800.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Sac en plastique",
+  "labels": "Vegetarian",
+  "origin": null,
+  "manufacturing_places": "Royaume-Uni",
+  "stores": "Marks & Spencer",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "53.6% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "23.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "11.6% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Brown sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fractionated palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caramelised sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 988.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 234.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 39.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.98,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

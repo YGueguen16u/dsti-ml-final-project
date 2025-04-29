@@ -1,0 +1,98 @@
+{
+  "barcode": "3073781099621",
+  "name": "Boursin Ail & Fines Herbes",
+  "brands": "Bel, Boursin, Boursin atartiner/core cheese, Fromagerie BEL",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Spreads, Salted spreads, Cheese spreads, Cheeses (perishable), Flavoured uncured soft cheese spreadable with around 30-40% fat",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 16.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Paper or cardboard, Cardboard, Recyclable Metals, Aluminium, Bag, Box, Fresh, Individual bag, Sleeve",
+  "labels": "Triman, fr:Engagement-paturage",
+  "origin": "Lait origine France,",
+  "manufacturing_places": "Pacy-sur-Eure, Normandie, France",
+  "stores": "Magasins U, carrefour.fr, Carrefour",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Milk",
+      "percentage": "67.0%"
+    },
+    {
+      "ingredient": "creme-26-pasteurises",
+      "percentage": "27.3% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Tenir au froid entre +2°C et +6°C",
+  "customer_service": "BEL, BP 114 - 92151 SURESNES CEDEX – France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.617,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 385.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 37.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

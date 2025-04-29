@@ -1,0 +1,166 @@
+{
+  "barcode": "3011360002884",
+  "name": "Secret d'arômes plein sud",
+  "brands": "Knorr",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Culinary plants, Aromatic plants, Dried products, Dried plant-based foods, Herbs, Ground dried aromatic plants, Mixed herbs, Groceries, fr:Assaisonnement En Poudre, fr:Plantes-aromatiques-seches-moulus",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 60.0,
+    "unit": "g"
+  },
+  "packaging": "fr:plastique et papier",
+  "labels": "Vegetarian, No preservatives, Sustainable farming, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Green Dot, No colorings, Nutriscore, Nutriscore Grade D, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Géant casino, Magasins U, carrefour.fr",
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Salt",
+      "percentage": "25.6% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "Oregano",
+      "percentage": "6.3%"
+    },
+    {
+      "ingredient": "Corn-oil-with-spices",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Corn oil",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Basil extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion Extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oregano",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Palm fat",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Rosemary",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Tenir au sec. Fermer après usage.",
+  "customer_service": "Knorr® Relation Consommateurs\n09 69 32 00 60 (appel non surtaxé)\nwww.knorr.fr\nUnilever France \n92842 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 968.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 232.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 44.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

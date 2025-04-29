@@ -1,0 +1,58 @@
+{
+  "barcode": "3068320124537",
+  "name": "50CL EVIAN PLASTIQUE RECYCLE R",
+  "brands": "Danone, Evian",
+  "categories": "Beverages, Waters, Spring waters, Mineral waters, Unsweetened beverages, Natural mineral waters",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic, Pet-polyethylene-terephthalate, fr:Bouteille plastique",
+  "labels": "Certified B Corporation",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "lignoceric acid": {
+      "quantity": 0.36,
+      "unit": "g"
+    },
+    "maltose": {
+      "quantity": 0.01,
+      "unit": "g"
+    },
+    "maltodextrins": {
+      "quantity": 0.026,
+      "unit": "g"
+    },
+    "serum proteins": {
+      "quantity": 0.001,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.017,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

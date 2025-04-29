@@ -1,0 +1,66 @@
+{
+  "barcode": "06163690",
+  "name": "Crousti’pause choco noisette",
+  "brands": "Gerblé",
+  "categories": "Snacks, Breakfasts, Sweet snacks, Biscuits and cakes, Biscuits, Dry biscuits, Breakfast biscuit with cereals fortified with vitamins and chemical elements",
+  "countries_sold": "France, Kenya",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 15.6,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": "No gluten",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.966,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 469.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

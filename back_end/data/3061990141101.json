@@ -1,0 +1,150 @@
+{
+  "barcode": "3061990141101",
+  "name": "Mini BN chocolat",
+  "brands": "BN",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Filled biscuits",
+  "countries_sold": "Belgium, France, Morocco, Réunion, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 175.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "Vegetarian, No artificial flavors, No artificial preservatives, No preservatives, No artificial colors, No artificial colours or flavours, No colorings, fr:Blé français, fr:Sans arômes ni colorants artificiels",
+  "origin": "Blé 100% français",
+  "manufacturing_places": "Vertou",
+  "stores": "Carrefour, Colruyt, Magasins U, Delhaize, carrefour.fr, Leclerc, Intermarché, Franprix",
+  "allergens": "Gluten, Milk, fr:avoine",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "48.0%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "47.7%"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "23.7% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil and fat",
+      "percentage": "16.6% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "9.1% (estimate)"
+    },
+    {
+      "ingredient": "Palm kernel oil",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "4.9%"
+    },
+    {
+      "ingredient": "Oat bran",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "472e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey permeate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.061,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 492.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 66.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.05,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

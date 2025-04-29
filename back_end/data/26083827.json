@@ -1,0 +1,106 @@
+{
+  "barcode": "26083827",
+  "name": "Chocolat noir bio 70% cacao",
+  "brands": "Fair, simplement bon et bio",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Cardboard, fr:Etui en carton, fr:Feuille en métal",
+  "labels": "Fair trade, Organic, EU Organic, Fairtrade International, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, Green Dot, Max Havelaar, AB Agriculture Biologique, fr:Bio-équitable, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Aldi",
+  "allergens": "Gluten, Milk, Molluscs",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "70.0%"
+    },
+    {
+      "ingredient": "traces-eventuelles-de-fruit-a-chocolat-noir",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cockles",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "et-certifies-fairtrade",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.431,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 581.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 43.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

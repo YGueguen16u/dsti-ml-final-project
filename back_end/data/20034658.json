@@ -1,0 +1,78 @@
+{
+  "barcode": "20034658",
+  "name": "Smoked Salmon Slices",
+  "brands": "Lighthouse Bay",
+  "categories": "Seafood, Fishes and their products, Fishes, Fatty fishes, Salmons, Smoked fishes, Smoked salmons, Smoked salmons from farming",
+  "countries_sold": "France, Germany, Spain",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.5,
+    "unit": "pack"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Tray",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Pologne",
+  "stores": "Lidl",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Salmon",
+      "percentage": "97.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Beech wood smoke",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 745.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 178.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 10.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 20.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.85,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 630.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

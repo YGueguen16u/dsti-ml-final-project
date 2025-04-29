@@ -1,0 +1,42 @@
+{
+  "barcode": "20166083",
+  "name": "Kichererbsen",
+  "brands": "Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Canned plant-based foods, Legume seeds, Pulses, Chickpeas, Canned legumes, Canned chickpeas",
+  "countries_sold": "France, Germany, Sweden",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 240.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Paper or cardboard, Paper, Can, Canned, Steel, Tin-plated steel",
+  "labels": "Vegetarian, Vegan, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "Italy",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "74.8% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

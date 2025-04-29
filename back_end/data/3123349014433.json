@@ -1,0 +1,118 @@
+{
+  "barcode": "3123349014433",
+  "name": "JOKER LE BIO MULTIFRUIT 1L",
+  "brands": "Joker",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Juices and nectars, Fruit nectars, Fruit juices, Multifruit nectars",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic, Bottle",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, FR-BIO-01, No added sugar, Nutriscore, Nutriscore Grade B, Nutriscore Grade C, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "France Mâcon",
+  "stores": "E.leclerc, Auchan, Carrefour Bio, Lidl, Carrefour Market, Magasin U, Monoprix, Carrefour, Cora, Franprix, Aldi, carrefour.fr",
+  "allergens": "Orange",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Concentrated juice",
+      "percentage": "55.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated apple juice",
+      "percentage": "55.0% (estimate)"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Juice",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Purée",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Mango puree",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peach",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Passionfruit",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 167.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 40.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

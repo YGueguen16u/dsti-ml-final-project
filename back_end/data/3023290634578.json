@@ -1,0 +1,86 @@
+{
+  "barcode": "3023290634578",
+  "name": "Yaos le yaourt à la Grecque",
+  "brands": "Nestlé, Yaos",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fresh foods, Yogurts, Plain fermented dairy desserts, Plain yogurts, Stirred yogurts, Greek-style yogurts, Plain-greek-style-yogurts, Plain stirred yogurts, Whole milk yogurts",
+  "countries_sold": "Belgium, France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, Fresh, Seal, 6",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": "Lactalis Nestlé Ultra-Frais Marques - LNUF Marques (Filiale Groupe Lactalis) - 341 Rue François Anicot - 59553 Cuincy, Nord, Nord-Pas-de-Calais, France",
+  "stores": "Monoprix, centre Leclerc",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "89.5%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 420.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 102.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.12,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

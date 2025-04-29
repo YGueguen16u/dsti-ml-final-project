@@ -1,0 +1,106 @@
+{
+  "barcode": "13297703",
+  "name": "Brassé citron au lait entier",
+  "brands": "Yoplait, les laitiers responsables",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Yogurts, Fruit yogurts, Stirred yogurts, Lemon yogurts, Yogurt with fruits and sugar, fr:Yaourts brassés au citron",
+  "countries_sold": "Belgium, France, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 74.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 480.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, Cardboard, Refrigerated",
+  "labels": "French milk, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Match",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Yogurt",
+      "percentage": "82.6% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk",
+      "percentage": "77.8%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk mineral concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 385.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 92.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.13,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

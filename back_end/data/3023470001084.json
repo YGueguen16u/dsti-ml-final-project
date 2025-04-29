@@ -1,0 +1,114 @@
+{
+  "barcode": "3023470001084",
+  "name": "Galettes Au bon beurre",
+  "brands": "St Michel",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Biscuits, fr:Galettes pur beurre",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 6.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 260.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Paper, Cardboard, Film",
+  "labels": "Free range, No preservatives, Free range eggs, Green Dot, Made in France, No colorings, No palm oil, fr:Blé français, fr:TerraCycle",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Restaurants du Cœur, Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "65.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "17.5% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Free range chicken eggs",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.975,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 472.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 74.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

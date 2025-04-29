@@ -1,0 +1,86 @@
+{
+  "barcode": "20815882",
+  "name": "Czekolada gorzka 95%",
+  "brands": "J.D. Gross",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Extra fine dark chocolates",
+  "countries_sold": "Croatia, Cyprus, France, Germany, Greece, Slovenia, Spain",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Container",
+  "labels": "Fair trade, Fairtrade International, Fairtrade cocoa, FSC, FSC Mix, Green Dot, fr:Fairtrade-cocoa-programme, pt:ecoponto-azul",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.453,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 594.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 51.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

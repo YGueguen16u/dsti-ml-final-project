@@ -1,0 +1,162 @@
+{
+  "barcode": "20216702",
+  "name": "Sfogliatine glassate",
+  "brands": "Italiamo",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Confectioneries, Biscuits",
+  "countries_sold": "Bulgaria, France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "bg:05, bg:Barquette plastique, bg:Film plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Italia",
+  "stores": "Lidl",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "35.0%"
+    },
+    {
+      "ingredient": "Margarine",
+      "percentage": "31.3% (estimate)"
+    },
+    {
+      "ingredient": "Palm fat",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "6.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Glaze",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "19.2%"
+    },
+    {
+      "ingredient": "Egg white",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Powdered egg white",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "glacage-a-l-abricot",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apricot",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carob seed flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "issus-de-poules-elevees-en-plein-air",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "rapporte-au-produit-fini",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

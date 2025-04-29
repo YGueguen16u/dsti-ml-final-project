@@ -1,0 +1,254 @@
+{
+  "barcode": "0123456789012",
+  "name": "Peanut Butter Crunch",
+  "brands": "Fleischer, Selbst gemacht, The Wholesome Bar, Uberti",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Cereals and potatoes, Meats and their products, Dried products, Fruits based foods, Meats, Prepared meats, Dried plant-based foods, Sausages, Breads, Dried fruits",
+  "countries_sold": "Belgium, France, Germany, Morocco, Togo, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 66.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "pcs"
+  },
+  "packaging": null,
+  "labels": "No gluten, Organic, Vegetarian, EU Organic, No GMOs, Non-EU Agriculture, Vegan, EU Agriculture, EU/non-EU Agriculture, Green Dot, Non GMO project, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "CHAMPION",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fortified wheat flour",
+      "percentage": "68.7% (estimate)"
+    },
+    {
+      "ingredient": "Flour",
+      "percentage": "37.0% (estimate)"
+    },
+    {
+      "ingredient": "Malted barley",
+      "percentage": "15.8% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "7.9% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "7.9% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin mononitrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "15.6% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Contains-2-and-less-of-the-following",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E481",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ethoxylated-mono-and-diglycerides",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E282",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E200",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "To-retain-freshness",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast-nutrients",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E516",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E341i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E517",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hydrogenated cottonseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 222.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 52.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 2.27,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 2.941,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.941,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.588,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.096,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 1.0,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.303,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 6.212,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 85.0,
+      "unit": "µg"
+    },
+    "potassium": {
+      "quantity": 82.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 214.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 2.73,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,138 @@
+{
+  "barcode": "20879983",
+  "name": "Hazelnut Milk",
+  "brands": "Vemondo",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based foods, Dairy substitutes, Milk substitutes, Nuts and their products, Plant-based beverages, Plant-based milk alternatives, Nut-based drinks, Unsweetened beverages, Hazelnut-based drinks, Sweetened beverages",
+  "countries_sold": "France, Germany, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Tetra Pak, es:UHT",
+  "labels": "No gluten, Vegetarian, Vegan, 100% vegetable, Calcium source, European Vegetarian Union, FSC, FSC Mix, Green Dot, No lactose, Nutriscore, Vitamin A source, Vitamin B12 source, Vitamin D source",
+  "origin": null,
+  "manufacturing_places": "España",
+  "stores": "Lidl",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "71.5% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "14.3% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Calcium salts from orthophosphoric acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E418",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin A",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Retinyl acetate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ergocalciferol",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "10.8% (estimate)"
+    },
+    {
+      "ingredient": "Cyanocobalamin",
+      "percentage": "10.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 156.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 36.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 120.0,
+      "unit": "µg"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.75,
+      "unit": "µg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.38,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 60.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

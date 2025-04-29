@@ -1,0 +1,86 @@
+{
+  "barcode": "3024720022422",
+  "name": "Rillettes du Mans - La véritable",
+  "brands": "Bordeau Chesnel, Savencia",
+  "categories": "Meats and their products, Spreads, Meats, Prepared meats, Salted spreads, Rillettes, Potted meats, French Rillettes, fr:Rillettes de viande rouge, Sarthe rillettes, Pork rillettes, Rillettes from Mans",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, Box, fr:Produkt",
+  "labels": "French meat, No artificial flavors, No preservatives, 100% natural, French pork, No artificial colors, No artificial colours or flavours, Without sodium nitrite, Triman",
+  "origin": null,
+  "manufacturing_places": "Sarthe, France, Yvré L'Evêque",
+  "stores": "Magasins U, Leclerc, Intermarché, Auchan, Carrefour, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork meat",
+      "percentage": "96.0%"
+    },
+    {
+      "ingredient": "Pork fat",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.781,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 431.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 40.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.13,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 710.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

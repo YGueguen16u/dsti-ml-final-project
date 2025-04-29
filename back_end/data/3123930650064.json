@@ -1,0 +1,82 @@
+{
+  "barcode": "3123930650064",
+  "name": "Comté",
+  "brands": "EntreMont",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Hard cheeses, French cheeses, Comté",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 35.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 350.0,
+    "unit": "g"
+  },
+  "packaging": "Fresh, Protective gas, fr:Sachet en plastique, fr:Sachet plastique, fr:Sachet plastique à jeter",
+  "labels": "Green Dot, PDO, fr:Comte, fr:Eco-emballages",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, U, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Raw milk",
+      "percentage": "98.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rennet",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.7,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 410.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

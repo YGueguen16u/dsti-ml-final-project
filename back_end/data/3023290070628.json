@@ -1,0 +1,162 @@
+{
+  "barcode": "3023290070628",
+  "name": "Lindahls pro+ stracciatella",
+  "brands": "Nestlé",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fromages blancs - petit suisses and skyr, Yogurts, Chocolate desserts, fr:Fromages blancs",
+  "countries_sold": "France, Ireland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 320.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Low or no fat, Low or no sugar, Low fat, Low sugar, French milk, Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurized skimmed milk",
+      "percentage": "90.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "4.9% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "enzyme-de-coagulation",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 269.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 63.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.625,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.375,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.06,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.75,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.062,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.119,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

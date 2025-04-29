@@ -1,0 +1,114 @@
+{
+  "barcode": "20843434",
+  "name": "Reduced fat homous",
+  "brands": "Meadow Fresh",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Spreads, Plant-based spreads, Salted spreads, Sauces, Dips, Hummus",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Lid - recyclable plastic\nPot - recyclable plastic - rinse first\nSleeve - recyclable card",
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Ingredients-55-cooked-chickpeas",
+      "percentage": "51.5% (estimate)"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "33.8% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "17.8% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "26.0% (estimate)"
+    },
+    {
+      "ingredient": "Sesame paste",
+      "percentage": "11.0%"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 991.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 239.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 16.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 10.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.46,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

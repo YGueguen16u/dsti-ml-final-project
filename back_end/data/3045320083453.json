@@ -1,0 +1,87 @@
+{
+  "barcode": "3045320083453",
+  "name": "Pomme vanille",
+  "brands": "Andros",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Desserts, Fruits based foods, Compotes, Apple compotes, fr:Compotes pommes vanille",
+  "countries_sold": "France, French Polynesia, New Caledonia, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Jar, Lid, fr:Bocal en verre, fr:Capsule en métal",
+  "labels": "No artificial flavors, No preservatives, Green Dot, No colorings",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Apple",
+      "percentage": "88.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.0% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "2.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 362.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 86.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

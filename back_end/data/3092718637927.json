@@ -1,0 +1,154 @@
+{
+  "barcode": "3092718637927",
+  "name": "Zéro Grenadine",
+  "brands": "Teisseire",
+  "categories": "Beverages and beverages preparations, Beverages, Frozen foods, Beverage preparations, Syrups, Artificially sweetened beverages, Flavoured syrups, Grenadine, Sugar-free flavoured syrups",
+  "countries_sold": "Belgium, France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 60.0,
+    "unit": "cl"
+  },
+  "quantity": {
+    "quantity": 60.0,
+    "unit": "cl"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "boisson-concentree-aux-fruits-a-diluer",
+      "percentage": "38.0% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "parfum-grenadine-ingredients-eau",
+      "percentage": "20.7% (estimate)"
+    },
+    {
+      "ingredient": "Fruit juice from concentrate",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "fruits-rouges-9-sureau",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Redcurrant",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Blackcurrant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bulking agent",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E1200",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 48.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 11.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

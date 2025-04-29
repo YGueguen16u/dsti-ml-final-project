@@ -1,0 +1,70 @@
+{
+  "barcode": "20569105",
+  "name": "Apple Juice",
+  "brands": "Naturis, Solevita, Vitafit",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Juices and nectars, Fruit juices, Unsweetened beverages, Apple juices, Squeezed-juices, Squeezed apple juices",
+  "countries_sold": "Belgium, Czech Republic, France, Malta, Poland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Recycled material, Recycled plastic, Bottle, es:Butelka, es:Plastikowe",
+  "labels": "Organic, Vegetarian, EU Organic, Vegan, Nutriscore, Nutriscore Grade C, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Unfiltered apple juice",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 193.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 45.0,
+      "unit": "kcal"
+    },
+    "carbohydrates": {
+      "quantity": 10.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 30.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

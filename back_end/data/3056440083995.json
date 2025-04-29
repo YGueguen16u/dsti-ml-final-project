@@ -1,0 +1,198 @@
+{
+  "barcode": "3056440083995",
+  "name": "Minizza Tomate🍅& Herbes de Provence",
+  "brands": "Belin",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers)",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 85.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 sachet en plastique à jeter, fr:1 étui en carton à recycler",
+  "labels": "fr:Blé français, Triman",
+  "origin": null,
+  "manufacturing_places": "France  Nantes",
+  "stores": "Cora, Magasins U, Carrefour, Carrefour City, Carrefour Market",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "41.4% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "22.1% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "11.9% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "15.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Emmental-by",
+      "percentage": "3.4%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baking powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carbonate-acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ammonium-carbonate-acid-sodium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs-of-provence",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Equivalent-tomato",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion-powder-in",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Equivalent-onion",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Persil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dried",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E120",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.196,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 526.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 51.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

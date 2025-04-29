@@ -1,0 +1,91 @@
+{
+  "barcode": "20226572",
+  "name": "Persillade provençale",
+  "brands": "Kania",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Culinary plants, Aromatic plants, Spices, Herbs, Groceries",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Green dot, fr:Couvercle plastique, fr:Pot en verre",
+  "labels": "Green Dot, Nutriscore",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Onion",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Chives",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.336,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 317.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 44.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 20.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 20.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 17.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.17,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,66 @@
+{
+  "barcode": "3124480198228",
+  "name": "Pulco citron gingembre",
+  "brands": "PULCO",
+  "categories": "Beverages and beverages preparations, Beverage preparations, Syrups, Flavoured syrups, Lemon base for beverage without sugar to be diluted, Lemon syrups, fr:diluer",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 70.0,
+    "unit": "cl"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "45.0% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "36.5%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "11.8% (estimate)"
+    },
+    {
+      "ingredient": "Lemon pulp",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural ginger flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

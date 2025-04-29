@@ -1,0 +1,126 @@
+{
+  "barcode": "3182180001477",
+  "name": "Grilletine au froment sans sucres ajoutés",
+  "brands": "PasquierBrioche Pasquier",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Toasts, Toasted bread rolls, Wheat rusk slices",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 255.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Pack, fr:Etui en carton, fr:Film en plastique, fr:Sachets fraîcheur de partitions film plastique",
+  "labels": "No GMOs, Nutriscore, Nutriscore Grade A, Triman, Sans-sucre-ajouté",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Auchan, Cora, Lidl, Métro, carrefour.fr, Carrefour Market",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "83.0%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "9.6% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "9.6% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Baker's yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "gluten-de-ble-sel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potassium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malted wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.791,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 425.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.89,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,46 @@
+{
+  "barcode": "01483246",
+  "name": "Mozzarella",
+  "brands": "Sainsbury's, Sainsbury's basic",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Cow cheeses, Pasteurised products, Italian cheeses, Stretched-curd cheeses, Mozzarella, Pasteurized cheeses, Cow mozzarella",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Film, Card-carton, Mixed plastic-bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "Germany",
+  "stores": "Sainsbury's",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mozzarella",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Cow mozzarella",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

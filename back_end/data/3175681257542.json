@@ -1,0 +1,114 @@
+{
+  "barcode": "3175681257542",
+  "name": "Cranberry saveur amande",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+  "countries_sold": "France, Réunion",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 33.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 132.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Pack, fr:Etui en carton, fr:Film en plastique",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, Made in France, No palm oil, Nutriscore, Nutriscore Grade B, AB Agriculture Biologique, Triman",
+  "origin": null,
+  "manufacturing_places": "Canada",
+  "stores": "E.Leclerc, Biocoop, Carefour Market, Carefour, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "68.0%"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "10.7% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "Wheat bran",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural raspberry flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural bitter almond flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "issu-d-amandons-d-abricots",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.846,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 439.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

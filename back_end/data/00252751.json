@@ -1,0 +1,130 @@
+{
+  "barcode": "00252751",
+  "name": "White Sourdough",
+  "brands": "Sainsbury's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Ldpe-bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fortified wheat flour",
+      "percentage": "56.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "29.6% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "6.6% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "22.2% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "8.4% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "8.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.071,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 256.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 46.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.68,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

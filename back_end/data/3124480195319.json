@@ -1,0 +1,123 @@
+{
+  "barcode": "3124480195319",
+  "name": "PET 1.2L MAYTEA PECHE",
+  "brands": "May Tea",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based beverages, Tea-based beverages, Iced teas, Peach flavored iced teas, Sweetened beverages, fr:The noir saveur peche",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.2,
+    "unit": "l"
+  },
+  "packaging": "fr:bouchon plastique (1), fr:bouteille plastique (1)",
+  "labels": "No artificial flavors, No preservatives, No colorings, Rainforest Alliance, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Intermarché, E.leclerc, Auchan, Carrefour City, Carrefour Market",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "infusion-de-the-noir",
+      "percentage": "94.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "70.5% (estimate)"
+    },
+    {
+      "ingredient": "infusion-intense-de-the-noir",
+      "percentage": "23.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Peach",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Natural tea flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 85.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 20.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

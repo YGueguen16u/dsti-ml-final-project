@@ -1,0 +1,94 @@
+{
+  "barcode": "26003511",
+  "name": "Eau de source Sainte Cécile ou Cristal Roc",
+  "brands": "Rocheval",
+  "categories": "Beverages, Waters, Spring waters, Mineral waters, Non-alcoholic beverages, Unsweetened beverages",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle, fr:Bouchon en plastique, fr:Bouteille en plastique",
+  "labels": "Green Dot, Triman",
+  "origin": null,
+  "manufacturing_places": "27360  Pont Saint Pierre",
+  "stores": "Aldi",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spring water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "bicarbonate": {
+      "quantity": 23.0,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.13,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 1.2,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 8.1,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 0.2,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

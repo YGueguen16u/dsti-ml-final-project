@@ -1,0 +1,130 @@
+{
+  "barcode": "3168930000990",
+  "name": "3D's Bugles goût nature",
+  "brands": "3D's Bugles, BENENUTS, LAYS, Lay's",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Puffed salty snacks (potato/soy based), Puffed salty snacks, Puffed salty snacks made from maize",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 85.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Sachet en plastique à jeter",
+  "labels": "No preservatives, Green Dot, Nutriscore, Nutriscore Grade D, With Sunflower oil, fr:Eco-emballages",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "corn-flour",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "aroma",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "salt",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "flavourings",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "wheat-flour",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "wheat",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "flavour-enhancers",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "guanylate-disodium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "inosinate-disodium-salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "paprika-extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sugar",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "salt",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver à l'abri de la chaleur et de l'humidité",
+  "customer_service": "PepsiCo France, 15 boulevard Charles de Gaulle 92705 Colombes CEDEX",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.171,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 519.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 55.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

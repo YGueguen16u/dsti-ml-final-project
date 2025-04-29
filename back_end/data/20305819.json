@@ -1,0 +1,34 @@
+{
+  "barcode": "20305819",
+  "name": "blaubeeren",
+  "brands": "onubafruit",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Fruits based foods, Fruits, Berries, Fresh fruits, Blueberries, Fresh blueberries",
+  "countries_sold": "Croatia, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Film, Pet-tub",
+  "labels": null,
+  "origin": "Deutschland",
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Blueberry",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

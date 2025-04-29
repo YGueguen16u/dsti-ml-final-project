@@ -1,0 +1,162 @@
+{
+  "barcode": "3041090061646",
+  "name": "Strawberry cracker",
+  "brands": "Lu, Mondelez",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Filled biscuits, Filled extruded crispbreads, Extruded and grilled biscuits with fruits filling",
+  "countries_sold": "Belgium, France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "No preservatives, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": "Vervins, France",
+  "stores": "Simply Market, Carrefour Market, Intermarché, Magasins U",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "46.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "18.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "15.8% (estimate)"
+    },
+    {
+      "ingredient": "Humectant",
+      "percentage": "12.1% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "12.1% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Strawberry puree",
+      "percentage": "4.1%"
+    },
+    {
+      "ingredient": "Concentrated strawberry puree",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated black carrot juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.584,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 375.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 80.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.34,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

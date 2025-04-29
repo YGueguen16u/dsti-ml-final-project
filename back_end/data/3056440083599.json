@@ -1,0 +1,142 @@
+{
+  "barcode": "3056440083599",
+  "name": "Triangolini Sésame",
+  "brands": "Belin",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Chips and fries, Crisps, Crackers(Appetizers), Salty sesame snacks, fr:bib",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Paperboard, fr:Film matière plastique",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Dia, Magasins U, E.Leclerc, carrefour.fr",
+  "allergens": "Celery, Gluten, Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "75.0%"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "4.9%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Poppyseed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baking powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E341",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Aromatic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.021,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 483.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.98,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

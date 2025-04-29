@@ -1,0 +1,162 @@
+{
+  "barcode": "0096619336753",
+  "name": "Peanut butter Pretzels",
+  "brands": "Kirkland Signature",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Pretzel",
+  "countries_sold": "Canada, France, United Kingdom, United States",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 14.0,
+    "unit": "pretzels"
+  },
+  "quantity": {
+    "quantity": 55.0,
+    "unit": "oz"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "USA",
+  "stores": "Costco",
+  "allergens": "Gluten, Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fortified wheat flour",
+      "percentage": "68.8% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "37.6% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "15.6% (estimate)"
+    },
+    {
+      "ingredient": "Reduced iron",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin mononitrate",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peanut paste",
+      "percentage": "15.6% (estimate)"
+    },
+    {
+      "ingredient": "Valencia-peanuts",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "Molasses",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Canola oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503ii",
+      "percentage": "8.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.01,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 480.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 54.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.05,
+      "unit": "g"
+    },
+    "potassium": {
+      "quantity": 350.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 40.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 4.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

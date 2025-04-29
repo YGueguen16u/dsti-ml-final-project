@@ -1,0 +1,94 @@
+{
+  "barcode": "20042431",
+  "name": "Snacktasic Popcorn",
+  "brands": "McEnnedy",
+  "categories": "Snacks, Salty snacks, Popcorn, Salted popcorn",
+  "countries_sold": "France, Germany, United States",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.5,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Sustainable, Vegetarian, Sustainable Palm Oil, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Made in Spain, Roundtable on Sustainable Palm Oil",
+  "origin": null,
+  "manufacturing_places": "Espagne, Spanien",
+  "stores": "Lidl",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn",
+      "percentage": "74.5%"
+    },
+    {
+      "ingredient": "Palm fat",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E306",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E304",
+      "percentage": "2.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.904,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 455.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 52.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 4.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

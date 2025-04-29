@@ -1,0 +1,79 @@
+{
+  "barcode": "3046920028004",
+  "name": "Excellence 70% Cocoa Intense Dark",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Extra fine dark chocolates",
+  "countries_sold": "Australia, Belgium, Canada, Czech Republic, Denmark, Estonia, France, Germany, Hungary, Ireland, Italy, Lebanon, Morocco, Netherlands, Portugal, Serbia, Spain, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Aluminium-wrapper, Card-carton, Container",
+  "labels": "Vegetarian, Vegan, Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "11.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.35,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 566.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

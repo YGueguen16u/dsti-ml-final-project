@@ -1,0 +1,198 @@
+{
+  "barcode": "3175681039599",
+  "name": "Gerblé - No Sugar Added Fudge Dark Chocolate Cookie, 126g (4.5oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, Dark chocolate biscuits, Biscuit with a chocolate bar covering, Biscuit with a dark chocolate bar covering",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 126.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Cardboard, fr:Sachet plastique",
+  "labels": "Made in France, No added sugar, No colorings, No palm oil, Nutriscore, Nutriscore Grade C, Rainforest Alliance, fr:Blé français, Triman, Avec-edulcorants, fr:Nutri-score-c",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "E.leclerc, Carrefour, Carrefour Market, Carrefour City",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "45.6%"
+    },
+    {
+      "ingredient": "chocolat-noir-de-couverture-avec-edulcorant",
+      "percentage": "36.3%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "21.8% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "7.3% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "7.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg yolk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Citrus fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pea",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Psyllium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "algue-brune",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E501",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Maltodextrin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "plus-d-informations-sur-ra-org",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.79,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 429.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.495,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 26.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.26,
+      "unit": "g"
+    },
+    "magnesium": {
+      "quantity": 65.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

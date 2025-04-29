@@ -1,0 +1,98 @@
+{
+  "barcode": "3073781131925",
+  "name": "Kiri® Crème 12 portions",
+  "brands": "Kiri",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Spreads, Salted spreads, Cheese spreads, Cheeses for kids, Cheeses (perishable), Melted cheese",
+  "countries_sold": "Belgium, France, Luxembourg",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 18.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 216.0,
+    "unit": "g"
+  },
+  "packaging": "Box, fr:Etui en carton, fr:Feuille en métal",
+  "labels": "No preservatives, FSC, FSC Mix, High in calcium, Triman",
+  "origin": null,
+  "manufacturing_places": "Sablé-sur-Sarthe",
+  "stores": "carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Свежо пастьоризирано мляко",
+      "percentage": "53.0%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "9.0% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver au froid après achat",
+  "customer_service": "BEL, BP 114 - 92151 SURESNES CEDEX – France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.26,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 305.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 550.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

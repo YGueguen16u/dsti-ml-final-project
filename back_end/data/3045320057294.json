@@ -1,0 +1,106 @@
+{
+  "barcode": "3045320057294",
+  "name": "Galettes Pur Beurre",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Shortbread cookies, fr:Sablés au beurre",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 28.3,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 170.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Cardboard, Green dot, fr:Etui carton à recycler, fr:Film plastique à jeter, fr:Pensez au tri!",
+  "labels": "Green Dot, Made in France, Pure butter",
+  "origin": null,
+  "manufacturing_places": "Contres, Loir-et-Cher, France",
+  "stores": "Carrefour Market, Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Fresh butter",
+      "percentage": "31.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.146,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 513.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

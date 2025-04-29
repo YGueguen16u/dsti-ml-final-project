@@ -1,0 +1,178 @@
+{
+  "barcode": "3178530407402",
+  "name": "Bonne Maman - Petits Cakes Fruits, 300g (10.6oz)",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Cakes, Fruit cakes",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "E.leclerc, Carrefour Market, Carrefour City, Intermarché, Super U, Carrefour",
+  "allergens": "Eggs, Gluten, Milk, Orange, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "30.8% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "19.7% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "14.1% (estimate)"
+    },
+    {
+      "ingredient": "asins-au-rhum",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "Raisin",
+      "percentage": "7.2%"
+    },
+    {
+      "ingredient": "Rum",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "7.6%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "3.6%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "fichte-fruch",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.7,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 407.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 46.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.33,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.833,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

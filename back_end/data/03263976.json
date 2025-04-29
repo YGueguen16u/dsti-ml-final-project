@@ -1,0 +1,34 @@
+{
+  "barcode": "03263976",
+  "name": "Chia Seeds",
+  "brands": "Tesco",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Seeds, Chia",
+  "countries_sold": "France, Ireland, United Kingdom",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Tesco, Tesco Extra",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chia seed",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

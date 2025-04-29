@@ -1,0 +1,99 @@
+{
+  "barcode": "3033710084005",
+  "name": "Arome MAGGI - Bouteille 1kg",
+  "brands": "Maggi",
+  "categories": "Condiments, Food additives, Flavors, Groceries",
+  "countries_sold": "France, New Caledonia, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1000.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Bottle, Box",
+  "labels": "100% vegetable, Green Dot, Nutriscore, Nutriscore Grade C, Triman",
+  "origin": "Allemagne",
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "87.5% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Protein",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Bl-e",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Inosinate-sodium",
+      "percentage": "2.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Après ouverture, se conserve à température ambiante.",
+  "customer_service": "Nestlé France, 34-40 rue de Guynemer 92130 Issy-les-Moulineaux",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 389.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 92.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 19.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

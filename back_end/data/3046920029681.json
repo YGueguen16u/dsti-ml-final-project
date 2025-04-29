@@ -1,0 +1,86 @@
+{
+  "barcode": "3046920029681",
+  "name": "Schokolade 85% Edelbitter mild",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "Austria, Czech Republic, France, Germany, Morocco",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, fr:Film Aluminium, fr:Étui carton",
+  "labels": "Made in France, Made in Germany, Pure cocoa butter, Triman, fr:Chocolates, fr:Cocoa-and-its-products, fr:Dark-chocolates, fr:Food, fr:Snacks, fr:Sweet-snacks",
+  "origin": null,
+  "manufacturing_places": "Allemagne",
+  "stores": "E.Leclerc, Magasin U, COOP, Spar",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "zucchero-grezzo-di-canna",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.523,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 603.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 55.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

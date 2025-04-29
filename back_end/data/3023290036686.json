@@ -1,0 +1,114 @@
+{
+  "barcode": "3023290036686",
+  "name": "Riz au lait",
+  "brands": "Nestlé, La Laitière",
+  "categories": "Dairies, Desserts, Dairy desserts, Puddings, Rice puddings, Vanilla flavored rice pudding",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 115.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Opercule plastique, fr:Pot en plastique, fr:Pot plastique, fr:Étiquette papier",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "70.3%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "14.9% (estimate)"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rocou",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 607.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 144.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 25.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 15.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

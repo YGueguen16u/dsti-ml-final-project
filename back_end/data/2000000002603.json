@@ -1,0 +1,394 @@
+{
+  "barcode": "2000000002603",
+  "name": "Big Mac",
+  "brands": "McDonald's",
+  "categories": "Sandwiches, Hamburgers",
+  "countries_sold": "Belgium, France, Germany, Ireland, Spain, Switzerland, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 232.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 232.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Box, Non-corrugated cardboard, Container",
+  "labels": "100% muscle, fr:Blé CRC",
+  "origin": null,
+  "manufacturing_places": "France, Ireland",
+  "stores": "McDonald's",
+  "allergens": "Eggs, Gluten, Milk, Mustard, Sesame seeds, Soybeans, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Bread",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "e932a",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "E282",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "E281",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Meat patty",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Beef",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Salad",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Gherkin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E520",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E433",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Melted cheese",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "cheddar-51-orgine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "9.0%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifying salts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Anti-caking agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sauce",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gherkin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg yolk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "son-de-moutarde",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Firming agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E509",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E15x",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E433",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E211",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E385",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "en-quantites-inconnues",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E220",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sulfite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 955.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 228.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 11.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.14,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.259,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 15.5,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 18.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.36,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.64,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.991,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 0.172,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.388,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 50.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.862,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 9.05,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,134 @@
+{
+  "barcode": "3023290032114",
+  "name": "Yaos Le Yaourt à la Grecque Stracciatella 125 g",
+  "brands": "Nestlé",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, Greek-style yogurts",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, Fresh",
+  "labels": "French milk, Fabrique-en-france",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "71.9%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "11.8%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "9.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "fabrique-en-france-avec-du-lait-francais",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 618.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 148.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

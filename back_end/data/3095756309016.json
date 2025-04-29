@@ -1,0 +1,166 @@
+{
+  "barcode": "3095756309016",
+  "name": "Blanc de Dinde - Doré au Four",
+  "brands": "Fleury Michon",
+  "categories": "Meats and their products, Prepared meats, fr:Charcuteries cuites, Poultry hams, Cooked turkey breast slices",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 180.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, Tray, fr:Barquette en plastique, fr:Film en plastique, fr:Tranche",
+  "labels": "No gluten, French meat, French poultry, Nutriscore, Nutriscore Grade B, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Turkey breast",
+      "percentage": "81.0%"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "6.6% (estimate)"
+    },
+    {
+      "ingredient": "Chicken bone",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Turkey meat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shallot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferment",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E301",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 439.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 102.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 526.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

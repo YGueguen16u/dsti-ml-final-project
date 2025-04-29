@@ -1,0 +1,171 @@
+{
+  "barcode": "20638757",
+  "name": "Coleslaw, choux blanc et carottes",
+  "brands": "Saladinettes",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Salty snacks, Vegetables based foods, Appetizers, Meals, Vegetables, Prepared salads, Carrots, Coleslaw, Grated carrots",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Tray",
+  "labels": "Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Eggs, Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Vegetable",
+      "percentage": "87.0% (estimate)"
+    },
+    {
+      "ingredient": "White cabbage",
+      "percentage": "42.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "13.0% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "6.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg yolk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "issu-de-poules-elevees-au-sol",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 454.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 109.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

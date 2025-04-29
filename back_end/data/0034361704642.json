@@ -1,0 +1,67 @@
+{
+  "barcode": "0034361704642",
+  "name": "Skyr  nature",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Plain fermented dairy desserts, Skyrs, Plain skyrs",
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 238.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 57.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

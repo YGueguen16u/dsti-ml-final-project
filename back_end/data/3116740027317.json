@@ -1,0 +1,139 @@
+{
+  "barcode": "3116740027317",
+  "name": "200G SCOUBIDOU LUTTI",
+  "brands": "Lutti",
+  "categories": "Snacks, Sweet snacks, Confectioneries, Candies, Gummi candies, Bonbons-gelifies, Snacks-sucres",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Film en plastique",
+  "labels": "Vegetarian, No gelatin, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Cora, Magasins U, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "55.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E100",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E131",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E133",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E163",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E306",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glazing agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E463",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.507,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 356.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 75.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

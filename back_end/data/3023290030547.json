@@ -1,0 +1,90 @@
+{
+  "barcode": "3023290030547",
+  "name": "Siggi's Skyr framboise",
+  "brands": "Siggi's",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Fromages blancs - petit suisses and skyr, Skyrs, Fruit skyrs",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 280.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, Cardboard, Fresh, fr:Point vert",
+  "labels": "No artificial flavors, No artificial sweeteners, No preservatives, No artificial colors, No artificial colours or flavours, No colorings, No dyes or preservatives, No flavors, Triman, fr:Edulco",
+  "origin": null,
+  "manufacturing_places": "Slovénie",
+  "stores": "carrefour.fr, Auchan, Franprix",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised milk",
+      "percentage": "86.0%"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "6.4%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 373.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 88.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

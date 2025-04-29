@@ -1,0 +1,102 @@
+{
+  "barcode": "20037154",
+  "name": "Combino Tomatensauce",
+  "brands": "Combino",
+  "categories": "Condiments, Sauces, Meal sauces, Pasta sauces, Tomato sauces, Tomato sauces with basil, Groceries",
+  "countries_sold": "Austria, Czech Republic, Finland, France, Germany, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "ml"
+  },
+  "packaging": "Glass, Pot, fr:97 GL",
+  "labels": "Vegetarian, Vegan, Made in Italy, No lactose, Nutriscore",
+  "origin": null,
+  "manufacturing_places": "Italie, Italia",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chopped tomatoes",
+      "percentage": "79.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "7.6% (estimate)"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Olive oil",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 188.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 45.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,105 @@
+{
+  "barcode": "0049733830119",
+  "name": "Chipotle Hot Sauce",
+  "brands": "Cholula",
+  "categories": "Condiments, Sauces, Hot sauces",
+  "countries_sold": "France, Mexico, Spain, United Kingdom, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Tesco",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "77.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Chili pepper",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Chipotle",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Guajillo",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Arbol-and-piqun",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar-blend",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cider vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Smoke flavouring",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "E150d",
+      "percentage": "2.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -1,0 +1,102 @@
+{
+  "barcode": "0612322000127",
+  "name": "Super Seeded Oatcakes",
+  "brands": "Nairn's",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Aperitivos, Botanas, Snacks-salados",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "cake"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Card-box, Ldpe-wrapper",
+  "labels": "Organic, No added sugar, With Sunflower oil",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal oat",
+      "percentage": "74.0%"
+    },
+    {
+      "ingredient": "Brown flax seeds",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Sunflower seed",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Chia seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chia",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "2.1% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.92,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 460.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.68,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

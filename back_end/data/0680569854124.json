@@ -1,0 +1,114 @@
+{
+  "barcode": "0680569854124",
+  "name": "Natural Coconut Yog",
+  "brands": "The coconut collaborative",
+  "categories": "Plant-based foods and beverages, Dairies, Fermented foods, Fermented milk products, Dairy substitutes, Desserts, Vegan products, Dairy desserts, Non-dairy desserts, Non-dairy fermented foods, Fermented dairy desserts, Non-dairy yogurts, Fermented dairy desserts with fruits, Yogurts, Fruit yogurts, Coconut yogurts, Coconutmilk yogurts",
+  "countries_sold": "Finland, France, Ireland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 350.0,
+    "unit": "g"
+  },
+  "packaging": "Pp-pot",
+  "labels": "Vegetarian, Vegan, No milk, No palm oil",
+  "origin": null,
+  "manufacturing_places": "UK",
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Coconut milk",
+      "percentage": "71.0%"
+    },
+    {
+      "ingredient": "Coconut water",
+      "percentage": "24.0%"
+    },
+    {
+      "ingredient": "Corn flour",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Microbial culture",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Streptococcus-thermophilus-lactobacillus-bulgaricus",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactobacillus acidophilus",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bifidobacterium lactis",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 506.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 121.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

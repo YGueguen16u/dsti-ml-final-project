@@ -1,0 +1,98 @@
+{
+  "barcode": "3046920027885",
+  "name": "Chocolat noir 47% et pointe de fleur de sel",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Salted chocolates, Salted dark chocolates",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Container, Papier aluminium",
+  "labels": "Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Super U, Magasins U, Intermarché, carrefour.fr",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Fleur de sel",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "47.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.2,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 537.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 52.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 47.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.37,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

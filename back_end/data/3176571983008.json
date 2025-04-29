@@ -1,0 +1,182 @@
+{
+  "barcode": "3176571983008",
+  "name": "lait 1/2 écrémé",
+  "brands": "candia",
+  "categories": "Dairies, Milks (liquid and powder), Milks, Homogenized milks, Pasteurised products, Semi-skimmed milks, UHT Milks, UHT milk fortified with vitamins, Semi-skimmed UHT milk fortified with vitamins",
+  "countries_sold": "France, Guadeloupe",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Bouchon de bouteille, Brique, Film en plastique, Plastique",
+  "labels": "French milk, Nutriscore, Nutriscore Grade A, Renforce-en-vitamine-d, Source-de-10-vitamines",
+  "origin": "Lait collecté et conditionné en France",
+  "manufacturing_places": "Candia (Filiale Sodiaal International) - 1040 Route Nationale - 59400 Awoingt, Nord, Nord-Pas-de-Calais, France",
+  "stores": "Chronodrive, Hyper U, Auchan, Bi1, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "lait-a-1-de-matieres-grasses",
+      "percentage": "53.6% (estimate)"
+    },
+    {
+      "ingredient": "Lactase",
+      "percentage": "23.2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "11.6% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin A",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pantothenic Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b8",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 175.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 41.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "arachidic acid": {
+      "quantity": 0.12,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "arachidonic acid": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "lactose": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 120.0,
+      "unit": "µg"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.75,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 1.8,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.17,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.21,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.21,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 30.0,
+      "unit": "µg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.38,
+      "unit": "µg"
+    },
+    "biotin": {
+      "quantity": 7.5,
+      "unit": "µg"
+    },
+    "vitamin b5 (pantothenic acid)": {
+      "quantity": 0.9,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

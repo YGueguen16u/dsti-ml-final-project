@@ -1,0 +1,103 @@
+{
+  "barcode": "87343397",
+  "name": "Marmite Reduced Salt",
+  "brands": "Marmite",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Spreads, Plant-based spreads, Salted spreads, Sauces, Yeast extract spreads, fr:Sauces à base d'extrait de levure",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar, Glass-jar, Hdpe-cap",
+  "labels": "Low or no salt, Low salt, Vegetarian, Reduced salt, Vegan, 25% less salt, European Vegetarian Union",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Celery, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable juice",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.134,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 271.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 39.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 6.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

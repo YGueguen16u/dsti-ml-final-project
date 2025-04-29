@@ -1,0 +1,106 @@
+{
+  "barcode": "54491472",
+  "name": "Coca Cola 500ml",
+  "brands": "Coca-Cola",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Sodas, Non-alcoholic beverages, Colas, Sweetened beverages",
+  "countries_sold": "Austria, Belgium, Bulgaria, Croatia, France, Germany, Hungary, Morocco, Poland, Romania, Serbia, Spain, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 0.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle or vial, PET 1 - Polyethylene terephthalate, Bottle, Pet-bottle",
+  "labels": "Made in Swiss",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Żabka, Biedronka, Hofer, Billa, Spar",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "57.1% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "21.4% (estimate)"
+    },
+    {
+      "ingredient": "E290",
+      "percentage": "10.7% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "E150d",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caffeine flavour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 180.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 42.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "caffeine": {
+      "quantity": 50.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

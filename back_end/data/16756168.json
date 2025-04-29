@@ -1,0 +1,74 @@
+{
+  "barcode": "16756168",
+  "name": "Chocolat au lait feuilleté caramel",
+  "brands": "Poulain",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Milk chocolates, Caramel chocolates, Chocolates with extra fine milk, Milk chocolate with caramel",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 95.0,
+    "unit": "g"
+  },
+  "packaging": "Tray",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Éclats de noisettes",
+      "percentage": "11.0%"
+    },
+    {
+      "ingredient": "beurre-de-cacan-cacan-maigre-en-poudre",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "43.0%"
+    },
+    {
+      "ingredient": "but-comenii-cereales",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nut",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

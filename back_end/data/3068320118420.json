@@ -1,0 +1,122 @@
+{
+  "barcode": "3068320118420",
+  "name": "Bulles de fruits Pamplemousse Touche de citron",
+  "brands": "Badoit",
+  "categories": "Beverages, Waters, Artificially sweetened beverages, Flavored waters, Bottled water flavoured with sugar, Sweetened beverages, fr:Eau-minerale-gazifiee",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "fr:bouchon plastique à recycler, fr:bouteille plastique à recycler",
+  "labels": "No preservatives, No colorings",
+  "origin": null,
+  "manufacturing_places": "saint alban",
+  "stores": "Magasins U, carrefour.fr, Aldi",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "son-a-l-eau-minerale-naturelle-gazeifiee",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Fruit juice concentrate",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "eau-minerale-naturelle-gazeifiee-de-st-alban",
+      "percentage": "86.8%"
+    },
+    {
+      "ingredient": "Fruit juice from concentrate",
+      "percentage": "8.8%"
+    },
+    {
+      "ingredient": "pamolemousse",
+      "percentage": "52.0%"
+    },
+    {
+      "ingredient": "ctron",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "42.0%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grapefruit natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "vert",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 87.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 21.0,
+      "unit": "kcal"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,94 @@
+{
+  "barcode": "3165440007808",
+  "name": "Chapelure dorée",
+  "brands": "Tipiak",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Bread crumbs, Wheat crumbs, Groceries",
+  "countries_sold": "France, Luxembourg",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Recycle, Box, Cardboard, fr:Boîte verseuse, fr:Etui en carton",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade B, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Hyper U, Magasins U, Intermarché, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "98.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.506,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 360.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 79.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.18,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

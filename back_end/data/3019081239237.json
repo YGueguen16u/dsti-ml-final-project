@@ -1,0 +1,78 @@
+{
+  "barcode": "3019081239237",
+  "name": "Thon entier au naturel",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Tunas, Canned tunas, Tropical tunas, Yellowfin tunas, Tunas in brine, fr:Thons albacore au naturel",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 112.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "packaging": "Canned, fr:FE",
+  "labels": "Sustainable, Sustainable fishery, Sustainable Seafood MSC",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tuna",
+      "percentage": "74.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 456.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 109.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

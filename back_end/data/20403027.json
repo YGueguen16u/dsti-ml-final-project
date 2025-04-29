@@ -1,0 +1,82 @@
+{
+  "barcode": "20403027",
+  "name": "Thunfisch Filets in eigenem Saft",
+  "brands": "Nixe",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Tunas, Canned tunas, Fish fillets, Tuna fillets, Tunas in brine, Whole tunas",
+  "countries_sold": "Belgium, Bulgaria, France, Germany, Switzerland, United States",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Can, Food can, Steel, de:FE",
+  "labels": "Source of proteins, Dolphin Safe, High proteins, Nutriscore, Nutriscore Grade B, de:fad-free-fishing",
+  "origin": null,
+  "manufacturing_places": "Ecuador",
+  "stores": "Lidl",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skipjack tuna",
+      "percentage": "74.3% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 396.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 117.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 26.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

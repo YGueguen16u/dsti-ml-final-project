@@ -1,0 +1,110 @@
+{
+  "barcode": "3046920017541",
+  "name": "Lime Intense Dark",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "France, Italy, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 étui en carton à recycler\n1 feuille en aluminium à recycler",
+  "labels": "GOST, Made in France, Triman",
+  "origin": null,
+  "manufacturing_places": "FR-64400 Oloron-Sainte-Marie",
+  "stores": "Leclerc, Magasins U, Esselunga, carrefour.fr, Carrefour",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Lime",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Limettenschale",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "47.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.215,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 531.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 51.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 48.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.09,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

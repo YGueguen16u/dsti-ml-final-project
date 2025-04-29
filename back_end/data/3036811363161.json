@@ -1,0 +1,134 @@
+{
+  "barcode": "3036811363161",
+  "name": "Mouliné de 10 légumes",
+  "brands": "Liebig",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Cream soups, Vegetable soups, Cream of vegetable soups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Brick, Cardboard",
+  "labels": "Vegetarian, No preservatives, European Vegetarian Union, Green Dot, Made in France, No colorings, fr:100 % d'ingrédients naturels fabriqué en France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Banque alimentaire, Leclerc, Magasins U, carrefour.fr, Super U, Hyper U",
+  "allergens": "Celery, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Vegetable",
+      "percentage": "55.0%"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "30.2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Cauliflower",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsnip",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chervil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "43.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cooking-butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 157.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 37.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.67,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

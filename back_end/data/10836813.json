@@ -1,0 +1,76 @@
+{
+  "barcode": "10836813",
+  "name": "sauce",
+  "brands": "bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Legumes, Seeds, Legume seeds, Pulses, Lentils, Prepared vegetables",
+  "countries_sold": "Belgium, France, Germany, Italy",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": "No artificial flavors, No colorings, Nutriscore",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pois chiches secs trempés",
+      "percentage": "74.7% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 230.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 55.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

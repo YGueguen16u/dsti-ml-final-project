@@ -1,0 +1,110 @@
+{
+  "barcode": "3068320118437",
+  "name": "Eau gazeuse au citron",
+  "brands": "Badoit",
+  "categories": "Beverages, Carbonated drinks, Waters, Artificially sweetened beverages, Non-alcoholic beverages, Carbonated waters, Flavored waters, Sweetened beverages",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Bottle",
+  "labels": "No preservatives, No colorings, Triman",
+  "origin": null,
+  "manufacturing_places": "Saint-Alban (44)",
+  "stores": "Carrefour, Magasins U, intermarché, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Eau minérale naturelle gazéifiée",
+      "percentage": "89.0%"
+    },
+    {
+      "ingredient": "Fruit juice concentrate",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Lime",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lime",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E960",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 57.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 11.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,98 @@
+{
+  "barcode": "3057640508813",
+  "name": "Infusion touche d'Hibiscus",
+  "brands": "Volvic",
+  "categories": "Plant-based foods and beverages, Beverages, Hot beverages, Plant-based beverages, Waters, Herbal teas, Flavored waters, Tea-based beverages, Sweetened beverages",
+  "countries_sold": "Belgium, France, Luxembourg",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.75,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 75.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic, Bottle or vial, Bottle",
+  "labels": "Organic, EU Organic, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Intermarché, Auchan, carrefour.fr, E.leclerc, Carrefour Market, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Volvic natural mineral water",
+      "percentage": "94.1%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "jus-de-citron-a-base-de-concentre-infusion-d-hibiscus",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Blackcurrant",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 55.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 13.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

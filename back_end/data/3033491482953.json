@@ -1,0 +1,166 @@
+{
+  "barcode": "3033491482953",
+  "name": "Activia strawberry yogurt",
+  "brands": "Danone, Hipro, Hipro spoon",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, fr:Spécialités laitières, fr:Spécialités laitières aux fruits",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.32,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot, Fresh, Seal",
+  "labels": "Low or no fat, Source of proteins, French milk, Green Dot, High proteins, No fat, Nutriscore, Nutriscore Grade A, Enriched-wih-vitamins",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Auchan, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "89.8%"
+    },
+    {
+      "ingredient": "Blueberry",
+      "percentage": "5.8%"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 226.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 53.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 78.678,
+      "unit": "g"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 750.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 99.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

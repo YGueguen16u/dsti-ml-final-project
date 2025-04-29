@@ -1,0 +1,86 @@
+{
+  "barcode": "3045320104530",
+  "name": "Pressed lemons",
+  "brands": "Andros",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle, fr:Bouteillr, fr:Pasteurisé",
+  "labels": "No preservatives, No colorings, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Cora, Franprix, Magasins U, carrefour.fr, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "56.0% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "34.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Pulpe de fruits",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 180.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 43.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

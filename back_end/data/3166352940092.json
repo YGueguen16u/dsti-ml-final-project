@@ -1,0 +1,174 @@
+{
+  "barcode": "3166352940092",
+  "name": "11/12/2024",
+  "brands": "WW, Weight Watchers",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Fresh foods, Pasta dishes, Pastas, Meals with fish, Fresh meals, Meals with shellfish, Microwave meals, Dishes with scallops, Low-fat prepared meals, Torti, fr:Platss-prepares-a-base-de-mollusques",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "fr:CARTON +BARQUETTE +FILM BAC DE TRI",
+  "labels": "Low or no fat, Low fat, No preservatives, 2016 Nutrition labelling experiment, Cooked in France, Nutriscore, Nutriscore experiment, Nutriscore experiment Grade B, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Casino, Magasins U, carrefour.fr, Carrefour, Carrefour Market",
+  "allergens": "Crustaceans, Fish, Gluten, Milk, Molluscs",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Precooked pasta",
+      "percentage": "31.6%"
+    },
+    {
+      "ingredient": "torti",
+      "percentage": "31.6% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "34.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "17.1% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "8.5% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "4.3% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Scallop",
+      "percentage": "21.6%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "6.3%"
+    },
+    {
+      "ingredient": "Light cream",
+      "percentage": "55.0%"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "3.6%"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dill",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E164",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 465.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 110.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.57,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

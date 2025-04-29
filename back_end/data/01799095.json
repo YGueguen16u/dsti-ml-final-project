@@ -1,0 +1,164 @@
+{
+  "barcode": "01799095",
+  "name": "Lentil Dhal Soup",
+  "brands": "By Sainsbury's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Vegetable soups",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": "Pp-pot",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "39.1% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "20.2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Red lentils",
+      "percentage": "4.5%"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut paste",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Green lentils",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Corn flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander leaf",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ginger",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cumin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cardamom",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chili pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cinnamon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Clove",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 237.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 57.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.47,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

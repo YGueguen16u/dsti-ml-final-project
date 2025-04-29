@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 
-dotenv_path = Path("env_folder/.env.postgre").resolve()
+dotenv_path = Path("env_folder/.env.postgre.local").resolve()
 load_dotenv(dotenv_path)
 
 print("POSTGRES_USER:", os.getenv("POSTGRES_USER"))

@@ -1,0 +1,154 @@
+{
+  "barcode": "3095756196012",
+  "name": "Blanc de Poulet - Rôti à la Broche",
+  "brands": "Fleury Michon",
+  "categories": "Meats and their products, Meats, Prepared meats, Chicken and its products, Poultries, Chickens, fr:Charcuteries cuites, Poultry hams, Cooked chicken breast slices, fr:Blancs de poulet rôti à la broche",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Protective gas, Tray, fr:Film en plastique, fr:Item",
+  "labels": "No gluten, Green Dot, Made in France, Nutriscore, Nutriscore Grade C, fr:Alimentation-vegetale-minerale-et-vitamines",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Franprix, Magasins U, carrefour.fr",
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chicken fillet",
+      "percentage": "93.0%"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chicken bone",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Liquorice powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferment",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E301",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 440.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 104.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 455.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

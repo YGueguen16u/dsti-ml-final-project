@@ -1,0 +1,79 @@
+{
+  "barcode": "3155250367049",
+  "name": "beurre président 1/2 sel",
+  "brands": "Président",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Half-salted butter",
+  "countries_sold": "France, Martinique",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Feuille plastique",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Normandie, France",
+  "stores": "Cora, Franprix, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "71.2% (estimate)"
+    },
+    {
+      "ingredient": "",
+      "percentage": "15.9% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 3.042,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 727.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 80.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 55.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 602.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,166 @@
+{
+  "barcode": "3033490613983",
+  "name": "Jockey straciatella 120 g x 4",
+  "brands": "Danone, Jockey, Jockey fruits",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fresh foods, fr:Spécialités laitières",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.48,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot, Cardboard, Fresh, Seal",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Danone Produits Frais France (DPFF) - Route de Savignies - 76220 Ferrières-en-Bray, Seine-Maritime, Haute-Normandie, France",
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "fromage-blanc-maigre",
+      "percentage": "52.0%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "20.6% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.9%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 648.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 155.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 18.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.07,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

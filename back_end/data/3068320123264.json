@@ -1,0 +1,110 @@
+{
+  "barcode": "3068320123264",
+  "name": "La salvetat",
+  "brands": "Danone, La Salvetat",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Waters, Spring waters, Mineral waters, Carbonated waters, Natural mineral waters, Carbonated mineral waters, Carbonated natural mineral waters",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 1.15,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle",
+  "labels": "fr:Sud de France, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "du-haut-languedoc",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "E290",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.001,
+      "unit": "g"
+    },
+    "silica": {
+      "quantity": 5.5,
+      "unit": "mg"
+    },
+    "bicarbonate": {
+      "quantity": 53.0,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.2,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 0.5,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 16.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 0.75,
+      "unit": "mg"
+    },
+    "sulphate": {
+      "quantity": 2.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

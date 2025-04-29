@@ -1,0 +1,194 @@
+{
+  "barcode": "3175680018939",
+  "name": "Gerble - Biscuit Muesli Oats, 290g (10.3oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Oatmeal cookies",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 14.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 290.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, fr:Boîte carton",
+  "labels": "Low or no sugar, Low sugar, No preservatives, Reduced sugar, Made in France, No colorings, No palm oil, Without sweeteners, fr:Farine de blé français, fr:Blé filière durable",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Intermarché, Carrefour, carrefour.fr",
+  "allergens": "Gluten, Milk, Nuts, fr:avoine",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "48.8%"
+    },
+    {
+      "ingredient": "Müesli",
+      "percentage": "21.8%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "8.3%"
+    },
+    {
+      "ingredient": "Barley flakes",
+      "percentage": "6.6% (estimate)"
+    },
+    {
+      "ingredient": "raisins-secs-de-corinthe",
+      "percentage": "3.6%"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "10.3% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "pate-de-raisins-thomson",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Chicory fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E336",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E501",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oat fibre",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.907,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 455.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.25,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 5.3,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 1.3,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 1.8,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 378.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 152.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,146 @@
+{
+  "barcode": "3038359005572",
+  "name": "Sauce pesto tomates&basilic cisele 200g",
+  "brands": "Panzani",
+  "categories": "Condiments, Sauces, Pestos, Red pestos, Groceries, fr:Pâtes au pesto",
+  "countries_sold": "France, Germany",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, Jar, fr:Couvercle en métal, fr:Pot en verre",
+  "labels": "Nutriscore",
+  "origin": "Italie",
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Gluten, Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "24.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Grana Padano",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cashew nuts",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural milk flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "2.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Après ouverture, à conserver 3 jours au réfrigérateur",
+  "customer_service": "Service consommateurs PANZANI - Laura DUVAL , 141, cours Gambetta 69003 LYON",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.145,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 276.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

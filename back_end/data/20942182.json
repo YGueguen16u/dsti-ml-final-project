@@ -1,0 +1,94 @@
+{
+  "barcode": "20942182",
+  "name": "Mozarella",
+  "brands": "Milbona",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Italian cheeses, Stretched-curd cheeses, Mozzarella, Grated cheese, Grated Mozzarella",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Vegetarian, Nutriscore, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised milk",
+      "percentage": "73.6% (estimate)"
+    },
+    {
+      "ingredient": "Anti-caking agent",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coagulating enzyme",
+      "percentage": "12.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.29,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 309.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 23.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.97,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

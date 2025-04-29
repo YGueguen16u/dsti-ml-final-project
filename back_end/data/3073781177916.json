@@ -1,0 +1,90 @@
+{
+  "barcode": "3073781177916",
+  "name": "Mini Babybel Original",
+  "brands": "Babybel, Mini babybel",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Soft cheeses, Cow cheeses, Soft cheeses with bloomy rind, Cheeses (perishable), Soft-ripened washed-rind cheese from pasteurised milk",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 22.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 132.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Vegetarian, Triman, fr:TerraCycle",
+  "origin": "Lait pasteurisé (98%) (origine : France",
+  "manufacturing_places": null,
+  "stores": "Vival",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised milk",
+      "percentage": "98.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coagulant",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver au froid après achat",
+  "customer_service": "BEL, BP 114 - 92151 SURESNES CEDEX – France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.225,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 295.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 680.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

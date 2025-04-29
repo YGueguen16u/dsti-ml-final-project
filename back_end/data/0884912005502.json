@@ -1,0 +1,147 @@
+{
+  "barcode": "0884912005502",
+  "name": "Grape-Nuts",
+  "brands": "Post",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Breakfast cereals rich in fibre",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 580.0,
+    "unit": "g"
+  },
+  "packaging": "Card-box, Mixed plastic-sleeve",
+  "labels": "Vegetarian, No added sugar",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "89.0%"
+    },
+    {
+      "ingredient": "Barley malt flour",
+      "percentage": "9.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Zinc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.516,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 362.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.83,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 12.4,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 2.34,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 372.41,
+      "unit": "µg"
+    },
+    "phosphorus": {
+      "quantity": 418.49,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 27.9,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 95.72,
+      "unit": "mg"
+    },
+    "zinc": {
+      "quantity": 5.69,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

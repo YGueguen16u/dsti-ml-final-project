@@ -1,0 +1,170 @@
+{
+  "barcode": "20183059",
+  "name": "Mackrel Fillets in spicy tomato sauce",
+  "brands": "Nixe",
+  "categories": "Seafood, Fishes and their products, Fishes, Fatty fishes, Fish fillets, Mackerels, Mackerel fillets",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "can"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Steel-tin",
+  "labels": "Sustainable, Sustainable fishery, Sustainable Seafood MSC",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "64.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato purée",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chili pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Star anise",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cinnamon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fenugreek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cumin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fennel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Clove",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caraway",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ginger",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Allspice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bitter orange",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 690.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 165.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 2.6,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 7.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.846,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

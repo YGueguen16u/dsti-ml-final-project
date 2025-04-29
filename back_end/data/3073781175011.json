@@ -1,0 +1,118 @@
+{
+  "barcode": "3073781175011",
+  "name": "La Vache qui rit légère 16 portions",
+  "brands": "La vache qui rit, bel",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Spreads, Salted spreads, Cheese spreads, Cheeses (perishable), Melted cheese",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 16.6,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 267.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Fresh",
+  "labels": "No artificial flavors, No artificial preservatives, No preservatives, fr:sans arômes artificiels ajoutés",
+  "origin": null,
+  "manufacturing_places": "Dole, France",
+  "stores": "Carrefour",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "56.2% (estimate)"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "21.9% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "10.9% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "concentre-lactique-laitier",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifying salts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E452",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E451",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver au froid après achat",
+  "customer_service": "BEL, BP 114 - 92151 SURESNES CEDEX – France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 620.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 147.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.3,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.5,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 480.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

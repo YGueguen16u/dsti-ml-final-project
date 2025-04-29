@@ -1,0 +1,67 @@
+{
+  "barcode": "3174660000896",
+  "name": "Sucre en poudre",
+  "brands": "Béghin SayTereos",
+  "categories": "Sweeteners, Sugars, Caster sugars, Granulated sugars, White sugars",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Box, Cardboard, fr:Boite carton, fr:Boîte verseuse",
+  "labels": "FSC, FSC Mix, Made in France, Cultivé en France, Eco-Emballages, Point Vert",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, Carrefour, Carrefour Market, Auchan, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Icing sugar",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.674,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 400.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 100.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 100.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

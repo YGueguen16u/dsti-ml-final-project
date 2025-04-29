@@ -1,0 +1,114 @@
+{
+  "barcode": "0037600106009",
+  "name": "Extra Smooth Creamy Peanut Butter",
+  "brands": "Skippy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Fats, Spreads, Nuts and their products, Plant-based spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 340.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "No palm oil",
+  "origin": null,
+  "manufacturing_places": "Pays-Bas",
+  "stores": "carrefour.fr",
+  "allergens": "Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "grillees",
+      "percentage": "91.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cottonseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "informations-pour-personnes-allergiques",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "voir-les-ingredients-allergenes-en-gras",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.481,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 593.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.082,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 1.5,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 90.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.4,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

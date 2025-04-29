@@ -1,0 +1,90 @@
+{
+  "barcode": "3033490004583",
+  "name": "Danone velouté nature",
+  "brands": "Danone, Velouté, Velouté nature",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, Plain fermented dairy desserts, Refrigerated foods, Plain yogurts, Stirred yogurts, Plain stirred yogurts",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.5,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot, Fresh",
+  "labels": "French milk",
+  "origin": "France",
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "75.7%"
+    },
+    {
+      "ingredient": "Condensed skimmed milk",
+      "percentage": "21.8%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A CONSERVER ENTRE +1°C ET + 6°C MAXIMUM",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 300.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 70.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.15,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 151.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

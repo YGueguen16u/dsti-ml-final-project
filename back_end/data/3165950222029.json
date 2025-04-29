@@ -1,0 +1,78 @@
+{
+  "barcode": "3165950222029",
+  "name": "Thon entier nature",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Tunas, Canned tunas, Tropical tunas, Skipjack tuna, Tunas in brine, Whole tunas",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 112.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 112.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Conserve, Couvercle en métal, Sec",
+  "labels": "Sustainable, Sustainable fishery, Sustainable Seafood MSC, Triman, Qualité responsable",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Auchan, Carrefour",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skipjack tuna",
+      "percentage": "85.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "14.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 389.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 93.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.982,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,154 @@
+{
+  "barcode": "3155250006238",
+  "name": "Matière grasse laitière à tartiner",
+  "brands": "Bridelight",
+  "categories": "Dairies, Fats, Spreads, Salted spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Tray",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Franprix, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "51.3% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "24.6% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E476",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E466",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dairy",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin A",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 650.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 157.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 450.0,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 1.8,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

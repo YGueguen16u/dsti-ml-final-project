@@ -1,0 +1,126 @@
+{
+  "barcode": "0041570080146",
+  "name": "Almond breeze",
+  "brands": "Blue diamond",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based foods, Dairy substitutes, Milk substitutes, Nuts and their products, Plant-based beverages, Plant-based milk alternatives, Nut-based drinks, Almond-based drinks",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Composite-carton",
+  "labels": "No gluten, Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spring water",
+      "percentage": "96.4% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E418",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ergocalciferol",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 54.5,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 13.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.45,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.147,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 1.8,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.76,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,218 @@
+{
+  "barcode": "3036812100147",
+  "name": "Soupe à l'indienne",
+  "brands": "Royco",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Dried products, Dried products to be rehydrated, Soups, Dried meals, Vegetable soups, Dehydrated soups, Dehydrated mixed vegetables soup",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 76.5,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "No preservatives, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "U, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten, Milk, fr:croutons, fr:croutons",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Potato starch",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Crouton",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "6.5% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Curry",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Chicken fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E310",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "1.2%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E340",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cayenne pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 251.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 60.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.95,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,246 @@
+{
+  "barcode": "3166352968591",
+  "name": "Lasagne bolognese",
+  "brands": "Marie",
+  "categories": "Meats and their products, Meals, Pasta dishes, Meals with meat, Prepared lasagne, Beef dishes, Meat lasagnas, Microwave meals, Bolognese lasagne",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, PET 1 - Polyethylene terephthalate, Film, Fresh, PET - Opaque, Recyclable material, Recyclable plastic, Sleeve, Tray, fr:Etui en carton, fr:Film en plastique",
+  "labels": "French meat, No preservatives, Not advised for specific people, Cooked in France, French beef, No additives, Not advised for pregnant women, Nutriscore, Nutriscore Grade B, Triman, fr:Boeuf né élevé préparé en France, fr:Pâtes fraîches",
+  "origin": "Tomates : origine UE. Viande bovine VBF.",
+  "manufacturing_places": "France, Viriat",
+  "stores": "Franprix, Magasins U, Bi1, Carrefour, carrefour.fr",
+  "allergens": "Gluten, Milk, Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Bechamel sauce",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.6% (estimate)"
+    },
+    {
+      "ingredient": "Fresh cream",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lasagne",
+      "percentage": "17.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.1% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Beef meat",
+      "percentage": "9.1%"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "pulpe-de-tomates-au-jus",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "Tomato juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cooked beef meat",
+      "percentage": "4.8%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Emmental",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Vegetable broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Légumes et jus de cuisson de légumes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grilled aubergines",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Dijon mustard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oregano",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 570.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 136.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.67,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 497.62,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

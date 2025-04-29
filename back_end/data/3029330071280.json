@@ -1,0 +1,114 @@
+{
+  "barcode": "3029330071280",
+  "name": "Pain Complet",
+  "brands": "Jacquet",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Sliced breads, Wholemeal breads, Wholemeal sliced breads",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 39.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 825.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Envelope",
+  "labels": "Vegetarian, Vegan, No added sugar, No additives, No palm oil, fr:Origine France",
+  "origin": "France",
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Leclerc",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "63.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acerola juice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à l'abri de la chaleur et de l'humidité. Bien refermer le paquet après ouverture.",
+  "customer_service": "service conseil consommateur, Biopole - Clermont Limagne 63360 - Saint Beauzire",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.038,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 243.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 42.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

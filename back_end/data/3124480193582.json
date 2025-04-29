@@ -1,0 +1,131 @@
+{
+  "barcode": "3124480193582",
+  "name": "Oasis tropical",
+  "brands": "Oasis, Oasis tropical",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Sweetened beverages",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic",
+  "labels": "No preservatives",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Orange",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spring water",
+      "percentage": "80.0%"
+    },
+    {
+      "ingredient": "Fruit juice concentrate",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "6.5%"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Passionfruit",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "mange",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Fructose syrup",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural orange flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 120.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 28.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

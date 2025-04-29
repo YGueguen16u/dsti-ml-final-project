@@ -1,0 +1,114 @@
+{
+  "barcode": "20005771",
+  "name": "Nusskracher Voll-Nuss",
+  "brands": "Fin Carré, Lidl",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Milk chocolates, Chocolates with hazelnuts, Milk chocolates with hazelnuts",
+  "countries_sold": "Bulgaria, France, Germany, Ireland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 16.7,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Film",
+  "labels": "Fair trade, Vegetarian, Fairtrade International, Green Dot, Made in Germany, Max Havelaar",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "27.0%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "11.5% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.422,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 582.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 39.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 45.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 40.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.21,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

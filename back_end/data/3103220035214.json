@@ -1,0 +1,150 @@
+{
+  "barcode": "3103220035214",
+  "name": "Croco",
+  "brands": "Haribo",
+  "categories": "Snacks, Sweet snacks, Confectioneries, Candies, Gummi candies, Gummy crocodiles",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 280.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Sachet en plastique",
+  "labels": "Green Dot, Natural colorings",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Monoprix, Magasins U, carrefour.fr",
+  "allergens": "Apple, Gelatin",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "52.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "23.5% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "11.8% (estimate)"
+    },
+    {
+      "ingredient": "E428",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Fruit",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Plant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Safflower",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spirulina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E161b",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E163",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glazing agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beeswax-white-and-yellow",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E903",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.465,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 345.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 79.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 51.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

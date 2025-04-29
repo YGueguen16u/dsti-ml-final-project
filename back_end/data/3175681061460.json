@@ -1,0 +1,182 @@
+{
+  "barcode": "3175681061460",
+  "name": "Cuisiné cappelletti",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Meals, Pasta dishes, Stuffed pastas, Pasta stuffed with vegetables, Microwave meals, Pasta stuffed with cheese, Plant-based meals",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Dry, Pouch flask, Protective gas, fr:Sachet plastique",
+  "labels": "Organic, EU Organic, No preservatives, Non-EU Agriculture, Source of fibre, Source of proteins, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, Green Dot, High fibres, High proteins, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, fr:Eco-emballages, fr:Sans-viande",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Auchan, carrefour.fr",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "35.6% (estimate)"
+    },
+    {
+      "ingredient": "Chopped tomatoes",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Pasta",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat semolina pasta",
+      "percentage": "8.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "10.7%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "8.3% (estimate)"
+    },
+    {
+      "ingredient": "Tomato juice",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Goat cheese",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Emmental",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Tofu",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E509",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nigari",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Breadcrumbs",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chapelure de blé",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 415.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 98.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.56,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

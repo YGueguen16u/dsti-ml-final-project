@@ -1,0 +1,82 @@
+{
+  "barcode": "3123349011227",
+  "name": "1L PUR JUS ORANGE JOKER NEW",
+  "brands": "Joker",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Juices and nectars, Fruit juices, Orange juices, Squeezed-juices, Squeezed orange juices",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "fr:LE TRI FACILE",
+  "labels": "No preservatives, Made in France, No added sugar, No colorings, Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": "F-71040 Mâcon",
+  "stores": "carrefour.fr, Carrefour Market, Carrefour City, Carrefour Express, E.leclerc, Auchan, Carrefour, Aldi, Cora, Casino, Monoprix, Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Orange juice",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 172.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 41.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 25.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 21.6,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

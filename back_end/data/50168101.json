@@ -1,0 +1,127 @@
+{
+  "barcode": "50168101",
+  "name": "150G Biscuit Cheddar Jacob's",
+  "brands": "Mcvitie s",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Cheese biscuits",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Mixed plastic-packet",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "fromage-de-ydrate-en-poudre-0146-dont-de-cheddar",
+      "percentage": "55.0% (estimate)"
+    },
+    {
+      "ingredient": "poudre-iwer",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "E503ii",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "bicarbonate-de-de-ydratee-srop-de-glucos-sicre",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "extrait-de-malf-ilaturel",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "extrait-de-levure-de-ydratee",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "chlorure-de-potasiums-di-ilidtfite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "maltodatrine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "en-poudre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.198,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 525.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 31.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 47.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,170 @@
+{
+  "barcode": "3095758914010",
+  "name": "Allumettes de Jambon",
+  "brands": "Fleury Michon",
+  "categories": "Meats and their products, Meats, Prepared meats, Hams, fr:Charcuteries diverses, White hams, fr:Charcuteries cuites, Poultry hams, Diced ham, Poultry ham in cube",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Protective gas, Tray, fr:Barquette en plastique, fr:Film en plastique",
+  "labels": "No gluten, French meat, French pork, Green Dot, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Géant Casino, carrefour.fr, Franprix",
+  "allergens": "Celery",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "jambon-de-port",
+      "percentage": "54.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Pork meat",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "es-de-porc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated celery juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated carrot juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Jus d'oignon concentré",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "E326",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450 stabilizer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E301",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E250",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 475.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 113.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.73,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.47,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.87,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.87,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 18.7,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 636.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

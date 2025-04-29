@@ -1,0 +1,98 @@
+{
+  "barcode": "3124480167125",
+  "name": "Citronnade L'Originale",
+  "brands": "Pulco",
+  "categories": "Beverages, Non-alcoholic beverages, Sweetened beverages, fr:Citronnades",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Recycle, Bottle, fr:Bouteille et bouchon plastique à recycler, fr:Pensez au tri!, fr:Triman",
+  "labels": "Low or no sugar, Low sugar, No preservatives, Reduced sugar, 30% less sugar, Natural flavors, No colorings, Without sweeteners",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Franprix, Magasins U, Netto, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spring water",
+      "percentage": "80.0%"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon pulp",
+      "percentage": "0.7%"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 88.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 21.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 19.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

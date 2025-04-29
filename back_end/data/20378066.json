@@ -1,0 +1,142 @@
+{
+  "barcode": "20378066",
+  "name": "Vegane Falafel",
+  "brands": "Vemondo",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Meat alternatives, Refrigerated foods, Plant-based meals, Refrigerated plant-based foods, Vegetarian balls, Falafels, Refrigerated falafel",
+  "countries_sold": "Bulgaria, France, Netherlands, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Refrigerated, Card-sleeve, Pet-tray, Pp film-film",
+  "labels": "Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, European Vegetarian Union Vegetarian, Green Dot, Nutriscore",
+  "origin": null,
+  "manufacturing_places": "Países Bajos",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "74.0%"
+    },
+    {
+      "ingredient": "Shuttle-oil",
+      "percentage": "8.4% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "8.4% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "3.7%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E200",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E579",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 904.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 216.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.225,
+      "unit": "g"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.79,
+      "unit": "µg"
+    },
+    "iron": {
+      "quantity": 4.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

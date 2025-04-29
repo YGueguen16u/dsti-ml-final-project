@@ -1,0 +1,142 @@
+{
+  "barcode": "3178530402995",
+  "name": "Bonne Maman - Raspberry Tarts, 135g (4.8oz)",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Tartlet biscuits with fruit preparation",
+  "countries_sold": "Belgium, France, Germany, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 15.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 135.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Individual bag",
+  "labels": "No preservatives, Green Dot, Made in France, No colorings, Triman, Fabriqué-en-france",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Auchan, Carrefour, Magasins U, carrefour.fr, Rewe",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "36.1% (estimate)"
+    },
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "22.9% (estimate)"
+    },
+    {
+      "ingredient": "Raspberry puree",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "Purée de framboise concentrée",
+      "percentage": "9.7%"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Purée de pommes concentrée",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Passionfruit",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural raspberry flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated grape juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.777,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 422.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 73.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 52.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.25,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

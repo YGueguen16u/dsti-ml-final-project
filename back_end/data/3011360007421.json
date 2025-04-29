@@ -1,0 +1,186 @@
+{
+  "barcode": "3011360007421",
+  "name": "Knorr Soupe Minestrone à l'Huile d'Olive 104g 4 Portions",
+  "brands": "Knorr, Unilever",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Dried products, Dried products to be rehydrated, Soups, Dried meals, Vegetable soups, Dehydrated soups, Minestrone soups, Dehydrated minestrone soup",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 104.0,
+    "unit": "g"
+  },
+  "packaging": "Bag",
+  "labels": "No preservatives, Sustainable farming, Green Dot, No colorings, No flavour enhancer",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "pates-gentilini",
+      "percentage": "27.0%"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "27.0% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "36.5% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "White beans",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Brown beans",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "2.9%"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "2.9%"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hydrolysed vegetable protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rosemary",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garden peas",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Maltodextrin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "",
+      "percentage": "43.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": "Knorr® Relation Consommateurs\n09 69 32 00 60 (appel non surtaxé)\nwww.knorr.fr\nUnilever France\n20 rue des Deux Gares\n92842 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 138.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 33.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.73,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

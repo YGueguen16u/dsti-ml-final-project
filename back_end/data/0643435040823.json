@@ -1,0 +1,59 @@
+{
+  "barcode": "0643435040823",
+  "name": "Chocolat noir pâtissier",
+  "brands": "Nestlé",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "Finland, France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.307,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 551.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 34.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 20.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 50.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 46.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

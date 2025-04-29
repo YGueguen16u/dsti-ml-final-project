@@ -1,0 +1,142 @@
+{
+  "barcode": "3017760686792",
+  "name": "Glico Mikado",
+  "brands": "Glico, LUMondelez, Mikado",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Milk chocolate biscuits, Stick biscuits covered with chocolate, Biscuits-bâtonnets-au-chocolat, Biscuits-et-gâteaux, Biscuits-nappés-au-chocolat, Snacks-sucrés",
+  "countries_sold": "France, Belgique, Espagne, Suisse",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Distributor labels, Charte LU Harmony, Made in France, Triman, Blé-français, Point-vert",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour Market, Carrefour, Magasins U, carrefour.fr, Relay, Cocinelle Express, Franprix",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "53.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "16.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "14.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "7.4% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E476",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.032,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 484.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,162 @@
+{
+  "barcode": "3033491402784",
+  "name": "Mix & go - muesli amandes, quinoa, graines de chia",
+  "brands": "Activia, Activia yoghurt cereals/fibres, Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Bifidus yogurts",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 171.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.17,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot, Container",
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Cora, Franprix, Monoprix, carrefour.fr",
+  "allergens": "Gluten, Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Semi-skimmed milk",
+      "percentage": "80.3%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "4.4%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Bifidobacterias y otros fermentos lácticos",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Bifidus actiregularis",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "6.8%"
+    },
+    {
+      "ingredient": "Fructooligosaccharide",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Roasted almonds",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Quinoa",
+      "percentage": "0.4%"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chia seed",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "farine-d-avoine-extrudee",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malted barley",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 467.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 111.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.79,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 158.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

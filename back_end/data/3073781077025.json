@@ -1,0 +1,155 @@
+{
+  "barcode": "3073781077025",
+  "name": "Le Bloc",
+  "brands": "La vache qui rit",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Greek cheeses, Feta, Feta blocs",
+  "countries_sold": "France, Morocco",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "جبنة-مذوبة",
+      "percentage": "53.3% (estimate)"
+    },
+    {
+      "ingredient": "50-من-المواد-الدسمة-في-المادة-الجافة",
+      "percentage": "28.3% (estimate)"
+    },
+    {
+      "ingredient": "المحتويات-مميه",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "مادة-دهنية-جبن",
+      "percentage": "23.3% (estimate)"
+    },
+    {
+      "ingredient": "حليب-خالي-من-الدسم-بروتينات-الحليب-أملاح-مستحلبة",
+      "percentage": "11.7% (estimate)"
+    },
+    {
+      "ingredient": "ed52-e450",
+      "percentage": "11.7% (estimate)"
+    },
+    {
+      "ingredient": "e330-ملح-نكهة-إيدام",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "مادة-حافظة-e202",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "ملون-بيتاكاروتين",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "حليببة-آلوزن-الصافي-عند-التلفيف",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "90غ",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "أنتج-بالمغرب-من-طرف-مجابن-بل-المغرب",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "م",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ص",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "مغوغة",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "0-0-0-90-طنجة",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "بترخيص-من-مجابن-بل-فرنس-o77025-073781-3-يستحسن-إستهلاکه-قبل-e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "أنظر-ظهر-العلبة",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ثمن-مكالة-محلية-ابقوا-على-اتصال-مع-بل-المغرب",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "in-direc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "08-02-00-00-61-www-bel-maroc-ma-n-d-agrement",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lpl-34-6-13",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.318,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 315.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 26.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 3.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

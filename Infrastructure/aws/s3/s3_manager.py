@@ -76,7 +76,7 @@ class S3Manager:
         try:
             response = self.s3.list_objects_v2(Bucket=self.bucket, Prefix=prefix)
             files = [obj["Key"] for obj in response.get("Contents", [])]
-            print(f"📁 Files in s3://{self.bucket}/{prefix}:")
+            print(f" Files in s3://{self.bucket}/{prefix}:")
             for f in files:
                 print(" -", f)
             return files
@@ -96,6 +96,6 @@ class S3Manager:
         """
         try:
             self.s3.delete_object(Bucket=self.bucket, Key=s3_key)
-            print(f"🗑️ Deleted: s3://{self.bucket}/{s3_key}")
+            print(f" Deleted: s3://{self.bucket}/{s3_key}")
         except ClientError as e:
             print(f"❌ Error deleting file: {e}")

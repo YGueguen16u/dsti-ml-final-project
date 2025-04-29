@@ -1,0 +1,78 @@
+{
+  "barcode": "20884260",
+  "name": "Organic tomato passata",
+  "brands": "Baresa, Barrsa, Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Condiments, Vegetables based foods, Vegetables, Sauces, Tomatoes and their products, Tomato sauces, Tomatoes, Strained tomatoes, Groceries",
+  "countries_sold": "France, Germany, Romania",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "pcs"
+  },
+  "packaging": "Tetra Pak, Cardboard, Paperboard, da:C/PAP, de:84",
+  "labels": "Organic, EU Organic, EG-Öko-Verordnung, DE-ÖKO-001, FSC, FSC Mix, IT-BIO-004, IT-BIO-006, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "Italia",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "99.5%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 148.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 35.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.62,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

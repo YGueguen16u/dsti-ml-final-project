@@ -1,0 +1,115 @@
+{
+  "barcode": "3155253020934",
+  "name": "Butter",
+  "brands": "Président",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Unsalted butters, Light unsalted butter with 60-62% fat",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "2-valeurs-nutritionnelles-moyennes-energie-pour-100-g-2-249-kj-547-kcal-matieres-grasses-60-g-dont-acides-gras-satures-42-g-glucides-1-dont-sucres-0-9-proteines-0-7-sel-0-03-fr-50256001-ce-poids-net",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Beurre-a-teneur-reduite-en-mg",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Doux-ingredients",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Beurre",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Lait",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Eau",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Ferments-lactiques",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Lait",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "A-conserver-entre-2-c-et-8-c-a-consommer-de-preference-avant-le",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Voir-sur-le-cote-3-155253-020934",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.249,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 547.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 42.0,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

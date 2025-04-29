@@ -1,0 +1,75 @@
+{
+  "barcode": "3165950217728",
+  "name": "Filets de Maquereaux Grillés avec un Trait d'huile d'olive",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in oil, Tinned Mackerels, fr:Filets de maquereaux grillés",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Couvercle en métal, fr:Ⓡ BOÎTE ET COUVERCLE METAL A RECYCLER PENSEZ AU TRI ! RECYCLER",
+  "labels": "Produced in Brittany",
+  "origin": "océan atlantique Nord Est",
+  "manufacturing_places": "Bretagne",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "85.0%"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Atlantic mackerel",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.325,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 320.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

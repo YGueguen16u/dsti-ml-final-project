@@ -1,0 +1,122 @@
+{
+  "barcode": "10600425",
+  "name": "Chips sea salt & cider vinegar",
+  "brands": "Tyrrels",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Chips and fries, Crisps, Potato crisps, Flavoured potato crisps, Potato crisps in sunflower oil",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium",
+  "labels": "No gluten, Vegetarian",
+  "origin": null,
+  "manufacturing_places": "Angleterre",
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Potato",
+      "percentage": "54.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "Potato maltodextrin",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cider vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malt vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pommes en poudre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "7.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.042,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 491.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 27.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 51.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

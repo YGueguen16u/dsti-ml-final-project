@@ -1,0 +1,246 @@
+{
+  "barcode": "3017760306492",
+  "name": "Prince petit dej",
+  "brands": "Lu",
+  "categories": "Snacks, Breakfasts, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Dry biscuits, Breakfast biscuit with cereals fortified with vitamins and chemical elements",
+  "countries_sold": "Belgium, France, Réunion, United States",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard",
+  "labels": "High in calcium",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr, Carrefour Market, Carrefour City, Carrefour, E.leclerc, Auchan",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "56.6%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "50.4%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "4.4%"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.7% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "10.9% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "bilettes-de-riz-souffle",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malted wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lactoserum-riche-en-calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E504",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Elemental iron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.969,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 450.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.55,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 0.54,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.05,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 24.1,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.41,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 8.53,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

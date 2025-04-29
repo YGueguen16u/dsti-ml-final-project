@@ -1,0 +1,174 @@
+{
+  "barcode": "3036812020704",
+  "name": "Gratinée oignons et croûtons",
+  "brands": "royco",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Dried products, Dried products to be rehydrated, Soups, Dried meals, Vegetable soups, Dehydrated soups, Onion soups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 62.4,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Cardboard",
+  "labels": "No preservatives, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Onion",
+      "percentage": "29.0%"
+    },
+    {
+      "ingredient": "Crouton",
+      "percentage": "27.0%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "13.5% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "6.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "11.0% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cheese",
+      "percentage": "1.1%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E339",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 148.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 35.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.85,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

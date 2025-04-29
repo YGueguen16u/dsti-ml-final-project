@@ -1,0 +1,174 @@
+{
+  "barcode": "3017760635295",
+  "name": "Granola l'original",
+  "brands": "Lu",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Milk chocolate biscuits, Digestives covered with chocolate, Biscuits-et-gâteaux, Sablés-nappés-de-chocolat, Snacks-sucrés",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 37.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 225.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 boîte en carton à recycler, fr:6 sachets plastiques à recycler",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Monoprix, E.Leclerc, Auchan, Carefour, Carrefour City, Carrefour Market, carrefour.fr",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "36.0%"
+    },
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "27.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "14.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E476",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.058,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 491.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

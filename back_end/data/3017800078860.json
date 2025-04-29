@@ -1,0 +1,79 @@
+{
+  "barcode": "3017800078860",
+  "name": "Pois chiches Sultanines 265g",
+  "brands": "Compagnie Générale De Conserve, Sultanines",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Seeds, Vegetables based foods, Canned plant-based foods, Legume seeds, Canned vegetables, Pulses, Chickpeas, Canned legumes, Canned chickpeas",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 265.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Canned, fr:Boite & couvercle métal ouverture facile, fr:Boite métal à recycler, fr:Etiquette papier, fr:Pensez au tri!, fr:Point vert",
+  "labels": "Green Dot, Triman",
+  "origin": "France",
+  "manufacturing_places": "Fabriqué en France, 56509 Locminé Cedex",
+  "stores": "Super U, Magasins U, GeantCasino, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "74.7% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Après ouverture : « A conserver au réfrigérateur et à consommer dans les 48 heures»",
+  "customer_service": "Service consommateurs D.Y.F., CS 30914",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 529.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 126.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

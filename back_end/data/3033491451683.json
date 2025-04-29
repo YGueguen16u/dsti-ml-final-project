@@ -1,0 +1,94 @@
+{
+  "barcode": "3033491451683",
+  "name": "Gervais le petit suisse",
+  "brands": "Danone, Gervais, Gervais suisse nature",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Petits suisses, Plain fermented dairy desserts, fr:Fromages blancs",
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 60.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.36,
+    "unit": "kg"
+  },
+  "packaging": "fr:Etui en carton, fr:Pot en plastique, fr:Pots plastique",
+  "labels": "Green Dot, Nutriscore, Triman, fr:Fabrique-en-normandie, fr:Recette-originale-depuis-1862",
+  "origin": null,
+  "manufacturing_places": "Normandie, France",
+  "stores": "Carrefour, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skim milk and pasteurized cream",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 586.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 143.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.08,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

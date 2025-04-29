@@ -1,0 +1,106 @@
+{
+  "barcode": "40876191",
+  "name": "Mix énergie",
+  "brands": "Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Fruits based foods, Fruits, Golden berries, Snacks sucrés",
+  "countries_sold": "France, Germany",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Sachet hermétique en plastique",
+  "labels": "Low or no sugar, Low sugar, Reduced sugar, 10% less sugar",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Nuts, Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "29.0%"
+    },
+    {
+      "ingredient": "Peanut",
+      "percentage": "28.0%"
+    },
+    {
+      "ingredient": "0-9-huile-d-arachides",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cape gooseberry",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Rhubarb",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "7.2%"
+    },
+    {
+      "ingredient": "Concentrated apple juice",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Icing sugar",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flower honey",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Banana flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "rapporte-au-produit-fini",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

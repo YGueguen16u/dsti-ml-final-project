@@ -1,0 +1,138 @@
+{
+  "barcode": "3154230809357",
+  "name": "HERTA LE BON PARIS Jambon à l'étouffée x6 -255g",
+  "brands": "HERTA, Le Bon Paris",
+  "categories": "Meats and their products, Prepared meats, Hams, White hams",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 42.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 255.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "French meat, French pork, Made in France, Superior quality, Triman",
+  "origin": "Viande de porc rigoureusement sélectionnée d'origine UE",
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Jambon de porc frais",
+      "percentage": "95.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Couenne de porc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Meat stock",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pork bone",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E316",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E250",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conservation à +4°C.",
+  "customer_service": "Herta, 16 Boulevard du Mont d'Est 93160 Noisy-le-Grand",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 442.1,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 104.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

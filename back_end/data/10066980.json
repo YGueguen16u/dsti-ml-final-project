@@ -1,0 +1,99 @@
+{
+  "barcode": "10066980",
+  "name": "Organic Houmous",
+  "brands": "Tesco",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Spreads, Plant-based spreads, Salted spreads, Sauces, Dips, Hummus, Classic hummus",
+  "countries_sold": "France, Ireland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, Soil Association Organic",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Tesco",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cooked chickpeas",
+      "percentage": "54.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "40.5% (estimate)"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "13.5% (estimate)"
+    },
+    {
+      "ingredient": "Water-sunflower-oil",
+      "percentage": "27.6% (estimate)"
+    },
+    {
+      "ingredient": "Tahini-sesame-seed-paste",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "2.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 444.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 107.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.37,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

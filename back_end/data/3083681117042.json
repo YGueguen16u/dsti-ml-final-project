@@ -1,0 +1,118 @@
+{
+  "barcode": "3083681117042",
+  "name": "La Poêlée Champêtre",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Frozen foods, Meals, Vegetables, Frozen plant-based foods, Frozen vegetables, Prepared vegetables, Frozen plant-based foods mixes, Mixed vegetables, Pan-fried dishes, Frozen mixed vegetables",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 950.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Frozen",
+  "labels": "No preservatives, No colorings, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Leclerc",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Green bean",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Petits pois doux",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Cultivated mushroom",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Orange carrot",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Yellow carrot",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Small white onions",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chives",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 187.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 45.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.29,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,123 @@
+{
+  "barcode": "3083680613583",
+  "name": "Haricots blancs cuisinés carottes et laurier",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Seeds, Vegetables based foods, Canned plant-based foods, Legume seeds, Meals, Canned vegetables, Pulses, Common beans, Prepared vegetables, Canned legumes, White beans, Canned meals, Canned common beans, fr:Haricots préparés",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Canned, fr:Boite métallique 1/2",
+  "labels": "No preservatives, Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Haricots blancs secs trempés",
+      "percentage": "45.0%"
+    },
+    {
+      "ingredient": "carottes-rondelles",
+      "percentage": "42.2% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Jus cuisiné",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "eau-sel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Poultry broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chicken fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato maltodextrin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 406.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 97.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.16,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 11.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

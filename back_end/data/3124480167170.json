@@ -1,0 +1,102 @@
+{
+  "barcode": "3124480167170",
+  "name": "Citronnade",
+  "brands": "Pulco",
+  "categories": "Beverages, Non-alcoholic beverages, Sweetened beverages, fr:Citronnades",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic, Bottle, fr:Bouchon en plastique, fr:Bouteille en plastique",
+  "labels": "fr:Elu-produit-de-l-annee",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan, Distributeur, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spring water",
+      "percentage": "80.0%"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon pulp",
+      "percentage": "0.7%"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 96.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 23.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 19.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

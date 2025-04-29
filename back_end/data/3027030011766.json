@@ -1,0 +1,98 @@
+{
+  "barcode": "3027030011766",
+  "name": "Sticks Bretzels d'Alsace L'original",
+  "brands": "Dr. Oetker",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Pretzel",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Intermarché",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "18.3% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "8.9% (estimate)"
+    },
+    {
+      "ingredient": "E524",
+      "percentage": "8.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.636,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 391.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 73.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

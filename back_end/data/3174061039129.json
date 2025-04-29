@@ -1,0 +1,87 @@
+{
+  "barcode": "3174061039129",
+  "name": "Confiture de myrtille 70%",
+  "brands": "Léonce Blanc",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Breakfasts, Spreads, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Bilberries jams",
+  "countries_sold": "France, Morocco",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 320.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Recyclable Metals, Aluminium, Jar, Lid, fr:Bocal en verre",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Blueberry",
+      "percentage": "70.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 724.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 173.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 40.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 37.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}
