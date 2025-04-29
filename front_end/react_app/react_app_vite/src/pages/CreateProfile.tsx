@@ -15,6 +15,8 @@ const CreateProfile = () => {
     goals: [] as string[],
   });
 
+  const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setForm({ ...form, [name]: value });
@@ -28,7 +30,7 @@ const CreateProfile = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:8000/api/user/profile", form);
+      await axios.post(`${BASE_URL}/api/user/profile`, form);
       alert("Profil enregistré !");
     } catch (err: any) {
       console.error("Erreur lors de l’enregistrement :", err.response?.data || err.message);
