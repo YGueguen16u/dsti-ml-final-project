@@ -5,8 +5,12 @@ Seeds the PostgreSQL database with initial reference data using SQLAlchemy ORM m
 Includes values for gender, diet type, fitness level, and user goals.
 """
 
+from database.connect import DatabaseConnector
+from database.models import Gender, DietType, FitnessLevel, Goal
+"""
 from back_end.database.connect import DatabaseConnector
 from back_end.database.models import Gender, DietType, FitnessLevel, Goal
+"""
 from sqlalchemy.orm import Session
 
 # Reference values

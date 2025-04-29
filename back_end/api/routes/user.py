@@ -9,7 +9,7 @@ from back_end.database.repository.user_repository import UserRepository
 from back_end.database.connect import DatabaseConnector
 from back_end.config.settings import settings
 """
-from back_end.api.dependencies.auth import get_current_user
+from api.dependencies.auth import get_current_user
 from database.repository.user_repository import UserRepository
 from database.connect import DatabaseConnector
 from config.settings import settings
