@@ -4,12 +4,12 @@ from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
 """
-from back_end.api.dependencies.auth import get_current_user
+# from back_end.api.dependencies.auth import get_current_user
 from back_end.database.repository.user_repository import UserRepository
 from back_end.database.connect import DatabaseConnector
 from back_end.config.settings import settings
 """
-from api.dependencies.auth import get_current_user
+# from api.dependencies.auth import get_current_user
 from database.repository.user_repository import UserRepository
 from database.connect import DatabaseConnector
 from config.settings import settings
@@ -21,16 +21,16 @@ db_connector = DatabaseConnector(database_url=settings.DATABASE_URL)
 
 router = APIRouter(prefix="/api/user", tags=["User"])
 
-
+"""
 @router.get("/me")
 def get_me(user=Depends(get_current_user)):
-    """Retourne les informations basiques de l'utilisateur connecté."""
+    """"""Retourne les informations basiques de l'utilisateur connecté.""""""
     return {
         "email": user.get("email"),
         "sub": user.get("sub"),
         "groups": user.get("cognito:groups", [])
     }
-
+"""
 
 class UserProfile(BaseModel):
     age: int
