@@ -1,5 +1,4 @@
 {
-  "projects": {},
   "builds": [
     {
       "src": "front_end/react_app/react_app_vite/package.json",
@@ -12,7 +11,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "front_end/react_app/react_app_vite/dist/$1"
+      "dest": "/index.html"
     }
   ]
 }

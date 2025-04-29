@@ -1,5 +1,0 @@
-{
-  "rootDirectory": "front_end/react_app/react_app_vite",
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist"
-}
