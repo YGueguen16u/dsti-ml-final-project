@@ -5,9 +5,9 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 
 from fastapi import FastAPI, Query
-#from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.cors import CORSMiddleware
 from back_end.api.routes import user
-from api.routes import user
+#from api.routes import user
 #from services.product_searcher import ProductSearcher
 from back_end.services.product_searcher import ProductSearcher
 from back_end.database.connect import DatabaseConnector
