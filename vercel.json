@@ -1,0 +1,17 @@
+{
+  "builds": [
+    {
+      "src": "front_end/react_app/react_app_vite/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "front_end/react_app/react_app_vite/dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "front_end/react_app/react_app_vite/dist/$1"
+    }
+  ]
+}
