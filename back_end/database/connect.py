@@ -2,14 +2,16 @@
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, Session
-from back_end.database.models import Base
+
 """
+from back_end.database.models import Base
 import back_end.database.models.user_config
 import back_end.database.models.shared_config
 import back_end.database.models.activity_log
 import back_end.database.models.meal_log
 from back_end.config.settings import settings
 """
+from database.models import Base
 import database.models.user_config
 import database.models.shared_config
 import database.models.activity_log
