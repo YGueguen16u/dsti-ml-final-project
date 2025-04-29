@@ -1,4 +1,4 @@
-# infrastructure/aws/s3/config.py
+# Infrastructure/aws/s3/config.py
 
 import os
 from dotenv import load_dotenv

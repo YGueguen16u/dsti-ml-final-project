@@ -5,7 +5,7 @@ This module provides a high-level interface to interact with AWS S3 for NLP-spec
 such as uploading fine-tuning datasets, downloading model predictions, or listing files.
 """
 
-from infrastructure.aws.s3.s3_manager import S3Manager
+from Infrastructure.aws.s3.s3_manager import S3Manager
 
 class S3NLPManager:
     def __init__(self):

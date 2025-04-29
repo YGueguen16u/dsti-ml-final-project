@@ -33,7 +33,7 @@ env_folder/.env.cognito
 # (structure de projet, fichiers de comparaison de version, exports, etc.)
 # ========================================
 tools/old versions/
-infrastructure/aws/s3/s3_exports/
+Infrastructure/aws/s3/s3_exports/
 user_exports/
 back_end/api/dependencies/auth.py
 back_end/database/initialize_db.py
