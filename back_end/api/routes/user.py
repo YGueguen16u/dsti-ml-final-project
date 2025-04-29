@@ -3,7 +3,7 @@
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 from sqlalchemy.orm import Session
-"""
+
 # from back_end.api.dependencies.auth import get_current_user
 from back_end.database.repository.user_repository import UserRepository
 from back_end.database.connect import DatabaseConnector
@@ -13,6 +13,7 @@ from back_end.config.settings import settings
 from database.repository.user_repository import UserRepository
 from database.connect import DatabaseConnector
 from config.settings import settings
+"""
 import traceback
 import uuid
 
