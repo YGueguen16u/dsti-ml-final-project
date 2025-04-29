@@ -1,8 +1,12 @@
 # back_end/database/initialize_db.py
 
 from sqlalchemy import MetaData
+"""
 from back_end.database.connect import DatabaseConnector
 from back_end.database.repository.user_repository import UserRepository
+"""
+from connect import DatabaseConnector
+from database.repository.user_repository import UserRepository
 
 def reset_schema(connector: DatabaseConnector):
     """Supprime toutes les tables existantes."""
