@@ -1,6 +1,6 @@
 import json
 import os
-from Infrastructure.aws.s3.s3_manager import S3Manager
+from infrastructure.aws.s3.s3_manager import S3Manager
 
 class ProductSearcher:
     def __init__(self, local_ean8_path: str, local_ean13_path: str):

@@ -1,8 +1,8 @@
-# Infrastructure/aws/s3/s3_manager.py
+# infrastructure/aws/s3/s3_manager.py
 
 import boto3
 from botocore.exceptions import ClientError, NoCredentialsError
-from Infrastructure.aws.s3.config import get_s3_config
+from infrastructure.aws.s3.config import get_s3_config
 
 
 class S3Manager:

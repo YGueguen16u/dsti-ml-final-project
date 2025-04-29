@@ -1,4 +1,4 @@
-# tests/Infrastructure/aws/s3/test_s3_manager.py
+# tests/infrastructure/aws/s3/test_s3_manager.py
 
 """
 Unit tests for the S3Manager class using mocked boto3 client.
@@ -10,13 +10,13 @@ download, list, and delete without making real AWS S3 calls.
 import pytest
 from unittest.mock import patch, MagicMock
 from botocore.exceptions import NoCredentialsError, ClientError
-from Infrastructure.aws.s3.s3_manager import S3Manager
+from infrastructure.aws.s3.s3_manager import S3Manager
 
 
 # ------------- UPLOAD ----------------
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_upload_success(mock_config, mock_boto):
     """
     Test successful upload of a file to S3.
@@ -39,8 +39,8 @@ def test_upload_success(mock_config, mock_boto):
     mock_client.upload_file.assert_called_with("local.txt", "test-bucket", "s3/path.txt")
 
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_upload_file_not_found(mock_config, mock_boto):
     """
     Test error handling when the local file to upload is not found.
@@ -63,8 +63,8 @@ def test_upload_file_not_found(mock_config, mock_boto):
 
 # ------------- DOWNLOAD ----------------
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_download_success(mock_config, mock_boto):
     """
     Test successful download of a file from S3.
@@ -86,8 +86,8 @@ def test_download_success(mock_config, mock_boto):
     mock_client.download_file.assert_called_with("test-bucket", "s3/file.txt", "local_file.txt")
 
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_download_client_error(mock_config, mock_boto):
     """
     Test download when a ClientError is raised (e.g. file not found in S3).
@@ -113,8 +113,8 @@ def test_download_client_error(mock_config, mock_boto):
 
 # ------------- LIST ----------------
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_list_objects(mock_config, mock_boto):
     """
     Test listing files in an S3 bucket under a specific prefix.
@@ -141,8 +141,8 @@ def test_list_objects(mock_config, mock_boto):
 
 # ------------- DELETE ----------------
 
-@patch("Infrastructure.aws.s3.s3_manager.boto3.client")
-@patch("Infrastructure.aws.s3.s3_manager.get_s3_config")
+@patch("infrastructure.aws.s3.s3_manager.boto3.client")
+@patch("infrastructure.aws.s3.s3_manager.get_s3_config")
 def test_delete_success(mock_config, mock_boto):
     """
     Test deletion of a file from S3.
