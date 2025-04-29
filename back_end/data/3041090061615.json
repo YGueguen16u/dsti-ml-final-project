@@ -1,0 +1,134 @@
+{
+  "barcode": "3041090061615",
+  "name": "Bâtonnets de céréales fourrés (47,5 %) au chocolat - Cracotte Chocolat",
+  "brands": "LU, Mondelez",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Filled biscuits, Filled extruded crispbreads, Extruded and grilled biscuits with chocolate filling",
+  "countries_sold": "Belgium, France, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 33.3,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "No preservatives, Sustainable farming, Green Dot, Made in France, No colorings, UTZ Certified, Triman, fr:Charte Harmony LU",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Magasins U, Delhaize, carrefour.fr, Carrefour Market, Auchan, E.leclerc, Aldi, Lidl, Intermarché",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "47.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.5% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "6.7% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferric diphosphate",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.91,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 456.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 16.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.11,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 66.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.51,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.263,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

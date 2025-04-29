@@ -1,0 +1,86 @@
+{
+  "barcode": "3083681094923",
+  "name": "Extra haricots verts - Conserve",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Vegetables based foods, Canned plant-based foods, Vegetables, Canned vegetables, Green beans, Canned legumes, Canned green beans",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Canned",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": "Haricots Verts provenant notamment du Kenya et de Madagascar (l'origine dépend du lot)",
+  "manufacturing_places": null,
+  "stores": "Carrefour, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Extra-fine green beans",
+      "percentage": "54.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "45.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pearl onion",
+      "percentage": "0.2%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 84.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 20.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.788,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

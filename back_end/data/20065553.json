@@ -1,0 +1,90 @@
+{
+  "barcode": "20065553",
+  "name": "Protein bread",
+  "brands": "TASTINO",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Special breads, de:eiweissbrot",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Source of proteins, High proteins, Made in Germany",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "30.4% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "13.7%"
+    },
+    {
+      "ingredient": "Brown flax seeds",
+      "percentage": "12.2%"
+    },
+    {
+      "ingredient": "Wheat protein",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "tourteau-de-soja",
+      "percentage": "6.5%"
+    },
+    {
+      "ingredient": "Soya flour",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "Wheat bran",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Golden flax seeds",
+      "percentage": "3.2%"
+    },
+    {
+      "ingredient": "Sunflower seed",
+      "percentage": "2.9%"
+    },
+    {
+      "ingredient": "Cider vinegar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Pea protein",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

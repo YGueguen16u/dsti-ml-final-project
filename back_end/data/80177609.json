@@ -1,0 +1,138 @@
+{
+  "barcode": "80177609",
+  "name": "Chocolate",
+  "brands": "Kinder",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolate candies, Bars, Candy chocolate bars, Chocolate confectionery with dairy filling",
+  "countries_sold": "Algeria, Australia, Brazil, France, Germany, Hong Kong, Hungary, Italy, Lithuania, Morocco, Portugal, Romania, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "packaging": "pt:Cartãoال",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "China",
+  "stores": "Vilnius Airport, Continente",
+  "allergens": "Milk, Soybeans, Palm",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "23.3% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "8.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin flavour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "18.7% (estimate)"
+    },
+    {
+      "ingredient": "Vegatable-oil",
+      "percentage": "8.2% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "8.2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "4.1% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin flavour",
+      "percentage": "2.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.352,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 562.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 53.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 53.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.308,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

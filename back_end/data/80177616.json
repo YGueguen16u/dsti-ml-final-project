@@ -1,0 +1,126 @@
+{
+  "barcode": "80177616",
+  "name": "Chocolate",
+  "brands": "Kinder",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolate candies, Bars, Candy chocolate bars, Chocolate confectionery with dairy filling",
+  "countries_sold": "Algeria, France, Germany, Portugal, Serbia, United States",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Cardboard",
+  "labels": "No preservatives, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Action",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fine-milk-chocolate",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "Milk powder",
+      "percentage": "17.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver au sec et à l'abri de la chaleur",
+  "customer_service": "FERRERO FRANCE COMMERCIALE - Service Consommateurs, CS 90058 - 76136 MONT SAINT AIGNAN Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.36,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 566.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 53.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 53.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.313,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,43 @@
+{
+  "barcode": "3155250001554",
+  "name": "Crème fraîche épaisse",
+  "brands": "Bridélice",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Creams, Fermented creams, fr:Crèmes fraîches, fr:Crèmes légères",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": "Fresh, fr:Couvercle en plastique, fr:Opercule en métal, fr:Pot en plastique",
+  "labels": "No preservatives, No colorings, No gelatin, No palm oil, fr:Saveurs de l'Année, fr:Saveurs de l'Année 2015, fr:15 %-mg, fr:eco-emballages, fr:fabriquée-en-normandie, fr:saveurs-de-l-annee-france",
+  "origin": null,
+  "manufacturing_places": "Lactalis Nestlé Ultra-Frais Bayeux - LNUF Bayeux (Filiale Groupe Lactalis) - Rue Jean Mermoz - ZAC des Longchamps - 14400 Saint-Martin-des-Entrées, Calvados, Basse-Normandie, France",
+  "stores": "Franprix, Super U, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Light cream",
+      "percentage": "97.0%"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "97.0% (estimate)"
+    },
+    {
+      "ingredient": "Modified tapioca starch",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

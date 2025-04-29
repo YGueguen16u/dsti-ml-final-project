@@ -1,0 +1,166 @@
+{
+  "barcode": "3056440086392",
+  "name": "Kango",
+  "brands": "Kango, LU",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, Filled biscuits",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 18.75,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 225.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Cardboard",
+  "labels": "No preservatives, Made in France, No colorings, Point Vert",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "ChronoDrive, Cora, Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "23.5% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "14.2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.7% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate powder",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E341",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pea protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Суха мая",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.231,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 530.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 57.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

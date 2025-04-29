@@ -1,0 +1,90 @@
+{
+  "barcode": "3023290032251",
+  "name": "Skyr myrtille",
+  "brands": "Siggi's",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Skyrs, Fruit skyrs",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Opercule en métal, fr:PENSEZ AU TRI ! POT PLASTIQUE ÉTIQUETTE POT ET OPERCULE METAL  À RECYCLER, fr:Pot en plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "lait-pasteurise-a-2-2-de-matiere-grasse",
+      "percentage": "87.0%"
+    },
+    {
+      "ingredient": "Blueberry",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 380.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 90.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

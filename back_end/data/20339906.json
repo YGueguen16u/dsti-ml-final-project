@@ -1,0 +1,78 @@
+{
+  "barcode": "20339906",
+  "name": "Lait demi-ecrémé",
+  "brands": "Envia",
+  "categories": "Dairies, Milks, Homogenized milks, Semi-skimmed milks, UHT Milks, Organic semi-skimmed milks",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle cap, Wine cork, fr:Bouchon plastique 05 (PP), fr:Bouteille en plastique, fr:Bouteille plastique 02 (PEHD), fr:Film en plastique, fr:Opercule en métal",
+  "labels": "Organic, EU Organic, FR-BIO-01, French milk, Green Dot, AB Agriculture Biologique, fr:Garantie IPLC",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "LIDL",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Lait demi écrémé uht",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 197.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 47.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

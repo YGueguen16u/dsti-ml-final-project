@@ -1,0 +1,182 @@
+{
+  "barcode": "3083681055269",
+  "name": "Taboulé au poulet rôti",
+  "brands": "Bonduelle",
+  "categories": "Meals, Tabbouleh, Chicken Tabbouleh",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Tray",
+  "labels": "French meat, No artificial flavors, No preservatives, 2016 Nutrition labelling experiment, French poultry, Nutriscore experiment, Nutriscore experiment Grade A",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Cora, Franprix, Casino, Magasins U, Carrefour market, carrefour.fr",
+  "allergens": "Celery, Crustaceans, Eggs, Fish, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Durum wheat",
+      "percentage": "57.0%"
+    },
+    {
+      "ingredient": "Filet de poulet traité en salaison cuit",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Chicken fillet",
+      "percentage": "6.7%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tapioca",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "6.5% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Garden peas",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chives",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "fabrique-dans-un-atelier-utilisant-egalement",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "moutard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fish",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Crustacean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Poultry",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre 0°C et +4°C",
+  "customer_service": "Services consommateurs Bonduelle, Services consommateurs Bonduelle CS 70027 ROSPORDEN",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 741.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 177.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 18.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 450.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

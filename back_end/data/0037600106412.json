@@ -1,0 +1,91 @@
+{
+  "barcode": "0037600106412",
+  "name": "Beurre de Cacahuètes Extra-Crunchy",
+  "brands": "Hormel Foods Corporation, Skippy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Breakfasts, Spreads, Nuts and their products, Plant-based spreads, Sweet spreads, Oilseed purees, Legume butters, fr:Pâtes à tartiner, Nut butters, Peanut butters",
+  "countries_sold": "Austria, France, French Polynesia, Germany, Netherlands, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 340.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, fr:1 bocal en plastique à recycler\n1 couvercle en plastique à recycler",
+  "labels": "No palm oil, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "SuperU, carrefour.fr, Carrefour, Spar",
+  "allergens": "Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "grillees-ar",
+      "percentage": "91.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cottonseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.525,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 603.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 43.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 27.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.82,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

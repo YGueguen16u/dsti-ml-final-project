@@ -1,0 +1,178 @@
+{
+  "barcode": "3175681851863",
+  "name": "Gerble - Soya Fig Cookie, 270g (9.6oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+  "countries_sold": "Belgium, France, Morocco, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 16.9,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 270.0,
+    "unit": "g"
+  },
+  "packaging": "fr:1 étui en carton à recycler, fr:4 sachets en plastiques à recycler",
+  "labels": "No GMOs, Made in France, No palm oil, Nutriscore, Nutriscore Grade B, fr:Farine-de-ble-filiere-durable",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Spar, Magasins U, Delhaize, carrefour.fr, Leclerc",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "28.1% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "13.7% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "13.7% (estimate)"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "13.7% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "10.4%"
+    },
+    {
+      "ingredient": "Fig paste",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "5.6%"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pantothenic Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.87,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 447.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 61.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.36,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 4.59,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.283,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 4.3,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.263,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 133.65,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,182 @@
+{
+  "barcode": "20083786",
+  "name": "Goody Cao Bellarom",
+  "brands": "Bellarom",
+  "categories": "Beverages and beverages preparations, Beverages, Cocoa and its products, Dried products, Beverage preparations, Dried products to be rehydrated, Cocoa and chocolate powders, Instant beverages, Dehydrated beverages, Instant chocolate powders",
+  "countries_sold": "France, Germany, Italy, Spain, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 800.0,
+    "unit": "g"
+  },
+  "packaging": "Container, Pvc-lid",
+  "labels": "No artificial flavors, Sustainable farming, Nutriscore, Nutriscore Grade B, UTZ Certified, UTZ Certified Cocoa",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "LIDL",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "75.5%"
+    },
+    {
+      "ingredient": "cacao-in-polvere-fortemente-sgrassato",
+      "percentage": "23.0%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cinnamon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pantothenic Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "tiammina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.624,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 384.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 78.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 75.8,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 75.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.0,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 18.0,
+      "unit": "mg"
+    },
+    "vitamin c (ascorbic acid)": {
+      "quantity": 100.0,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 1.5,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 1.4,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 276.0,
+      "unit": "µg"
+    },
+    "folates (total folates)": {
+      "quantity": 311.111,
+      "unit": "µg"
+    },
+    "vitamin b5 (pantothenic acid)": {
+      "quantity": 4.5,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,86 @@
+{
+  "barcode": "3046920010047",
+  "name": "Chocolat noir extra-fin, traditionnel.",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Dark chocolate bar with more than 70% cocoa",
+  "countries_sold": "Australia, Czech Republic, France, Germany, Ireland, Italy, Netherlands, New Zealand, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "gram"
+  },
+  "packaging": "Metal, Pot, Recyclable Metals, Aluminium, Tray, Card-packet, Container, es:Tableta",
+  "labels": "Triman, fr:Lindt & Sprüngli Farming Program",
+  "origin": null,
+  "manufacturing_places": "Suisse",
+  "stores": "E.leclerc, Carrefour Market, Super U, Carrefour City, Carrefour Contact, Carrefour",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.5% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "5.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.384,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 576.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,79 @@
+{
+  "barcode": "20512156",
+  "name": "West country butter with sea salt crystals",
+  "brands": "Birchwood",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Mixed plastic-wrapper",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "98.0% (estimate)"
+    },
+    {
+      "ingredient": "Sea-salt-crystals",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "1.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 3.113,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 744.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 81.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 58.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

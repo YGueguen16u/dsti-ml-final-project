@@ -1,0 +1,94 @@
+{
+  "barcode": "3023290063873",
+  "name": "Skyr Mangue passion",
+  "brands": "Siggi's",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Frozen foods, Fermented dairy desserts, Skyrs",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "pot"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": "Fresh, fr:Etui en carton, fr:Etui en carton à recycler, fr:Opercule en métal, fr:Pot en plastique",
+  "labels": "No preservatives, No colorings, No flavors, fr:Emballage-100-recyclable",
+  "origin": "Fabriqué en Slovénie",
+  "manufacturing_places": "Slovenie",
+  "stores": "Carrefour market",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "lait-pasteurise-a-2-2-de-matieres-grasses",
+      "percentage": "86.0%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "4.5%"
+    },
+    {
+      "ingredient": "Mango puree",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Passionfruit",
+      "percentage": "2.8%"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 372.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 88.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

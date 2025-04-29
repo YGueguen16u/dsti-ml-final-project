@@ -1,0 +1,162 @@
+{
+  "barcode": "0850040427066",
+  "name": "Prime Hydration Ice Pop",
+  "brands": "Prime, Prime Hydration",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Fruit-based beverages, Artificially sweetened beverages, Diet beverages, Still fruit soft drinks, Dietary drink for sport",
+  "countries_sold": "France, Morocco, Romania, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "packaging": null,
+  "labels": "10 Percent Coconut Water BCAA 700mg Eleytrocltyes Antioxidant B Vits",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan, Benzarii Petrom",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Filtered water",
+      "percentage": "84.2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut water",
+      "percentage": "10.5%"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E340ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Amino acids",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "L-isoleucine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "L-leucine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "L-valine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin A",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin-b-6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin-b-12",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 16.8,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 5.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.004,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 180.0,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 3.0,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.68,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.96,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

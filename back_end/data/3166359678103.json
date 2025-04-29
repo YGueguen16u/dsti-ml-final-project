@@ -1,0 +1,186 @@
+{
+  "barcode": "3166359678103",
+  "name": "Paupiette de veau jardinière de légumes",
+  "brands": "Marie",
+  "categories": "Meats and their products, Meals, Meats, Meals with meat, Beef dishes, Veal meat, Microwave meals, Veal meat dishes, Olive veal",
+  "countries_sold": "France",
+  "nutri_score": "a",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Fresh, Tray, fr:Etui en carton, fr:Film en plastique",
+  "labels": "French meat, No preservatives, 2016 Nutrition labelling experiment, Cooked in France, French pork, No additives, No colorings, Nutriscore, Nutriscore experiment, Nutriscore experiment Grade A, Nutriscore Grade A, Triman, fr:Viande de veau français",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Casino, Magasins U, Colruyt",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "les-ingredients-de-la-paupiette-de-veau-et-jus-cuisine-aux-oignons-et-vin-blanc-et-jardiniere-de-legumes-sont",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "paupiette-de-veau",
+      "percentage": "33.3%"
+    },
+    {
+      "ingredient": "Pork meat",
+      "percentage": "16.6%"
+    },
+    {
+      "ingredient": "enveloppe-de-veau",
+      "percentage": "8.3%"
+    },
+    {
+      "ingredient": "Veal meat",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "18.9% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Chapelure de blé",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "24.9%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "11.9%"
+    },
+    {
+      "ingredient": "Garden peas",
+      "percentage": "11.9%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "7.4%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Veal fond",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "bouillon-de-veau",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beef broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White wine",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated mushroom juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tarragon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "paupiette-de-veau",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 465.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 111.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.58,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

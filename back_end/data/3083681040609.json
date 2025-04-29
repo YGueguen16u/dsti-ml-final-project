@@ -1,0 +1,158 @@
+{
+  "barcode": "3083681040609",
+  "name": "Haricots Rouges Chili",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Canned plant-based foods, Legume seeds, Meals, Pulses, Common beans, Prepared vegetables, Canned legumes, Cooked vegetables, Canned meals, Red beans, Canned common beans, Canned red kidney beans, Cooked red kidney beans",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "fr:boite metal BAC DE TRI",
+  "labels": "No preservatives, Cooked in France, Metal recycles forever, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Auchan",
+  "allergens": "Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Vegetable",
+      "percentage": "54.0%"
+    },
+    {
+      "ingredient": "Haricots rouges secs trempés",
+      "percentage": "38.4%"
+    },
+    {
+      "ingredient": "Maïs doux en grains",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "4.3%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "27.3% (estimate)"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "9.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cumin",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural onion flavouring",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Natural pepper flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "arome-naturel-de-poivron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural hot pepper flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "7.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à température ambiante",
+  "customer_service": "Service consommateurs Bonduelle, Service consommateurs Bonduelle BP 30173 Villeneuve d'Ascq",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 155.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 37.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.45,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.15,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.45,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.85,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

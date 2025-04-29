@@ -1,0 +1,342 @@
+{
+  "barcode": "20441951",
+  "name": "Glass Noodles",
+  "brands": "Vitasia",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Pastas, Noodles, Cellophane noodles, Tagliatelle",
+  "countries_sold": "Czech Republic, France, Germany, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.5,
+    "unit": "package"
+  },
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pp-polypropylene, es:Bolsa de plástico",
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": "China",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Igwa-erbsstarke",
+      "percentage": "51.0% (estimate)"
+    },
+    {
+      "ingredient": "Maisstarke",
+      "percentage": "24.5% (estimate)"
+    },
+    {
+      "ingredient": "Wasser",
+      "percentage": "12.2% (estimate)"
+    },
+    {
+      "ingredient": "Zubereitung",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Len-lassen-anschliessend-abtropfen-lassen-und-weiter",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Asser-ubergiessen-und-ca",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "De-vor-warme",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Feuchtigked-cht-geschutzt-lagern",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nach-dem-offnen-innerhalb-von-2-tagen-konsulte-ch-lu-noufles-glass-based-on-pea-starch-and-demais",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ingredients",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pamidon-starch-of-maize",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Repair-advice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Immerse-the-glass-notes-in-simmering-water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Let-them-swell-for-about-5-minutes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Drain-and-serve",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Store-away-from-heart",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Moisture-and-light-opening",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Consume-under-bear-it-ch-glass-nooles-p-di-mais",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ingredienti",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "A-do-di-paveido-preparazione",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Versare-il-contenute-in-acqu-5-minuti",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Infine-scolare-e-codire",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Conservare-in-luogo-fresco-e-a-ciparo-dalla-luce-solare",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Una-volta-aperto-consumare-entro-2orni",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Incartamento",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pp-5",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Plastica",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raccolta-differenziata",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Verifica-le-disposizioni-del-tuo-comune",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yantai-265400",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shandong-jindu-hongfa-foodstuffs-co",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ltd",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Zhaoyuan-geproduceerd-door",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hergestellt-von",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Developed-by",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Prodotto-da-economic-development-zone",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Zhaoyuan",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shandong",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "P",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "R",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "China",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "China",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cina-voor",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fur",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Prodotto-per",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lidl-stiftung",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Romaine lettuce",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Kg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stiftsbergstr",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "1",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "De-74167-neckarsulm-duitsland",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Deutschland",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Germany",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Germania-gla-cons-guta-mit-kock-en-izejas-pen-netto-gewicht",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nettogewicht",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pan-s-het",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peso-netto",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bamido-di-pisellie-mais",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acqua-ollente-e-cuocere-per-100ge-houdbaar-tot-tens-haltbar-rence",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.51,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 360.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 86.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.0,
+      "unit": "µg"
+    },
+    "potassium": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

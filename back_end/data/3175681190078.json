@@ -1,0 +1,134 @@
+{
+  "barcode": "3175681190078",
+  "name": "Haché végétal Façon Bolognaise au soja",
+  "brands": "Céréal BIO",
+  "categories": "Meat alternatives, Meat analogues, Vegetarian grounds, Soy-based minced prepacked",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Film plastique à jeter",
+  "labels": "Organic, EU Organic, No preservatives, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Triman",
+  "origin": "Soja origne France, Oignons origine UE et non-UE, Tomates origine Italie",
+  "manufacturing_places": "France",
+  "stores": "Intermarché",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "36.6% (estimate)"
+    },
+    {
+      "ingredient": "Textured soy protein",
+      "percentage": "28.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "8.4%"
+    },
+    {
+      "ingredient": "Soy sauce",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbes de Provence",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 582.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 139.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.59,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

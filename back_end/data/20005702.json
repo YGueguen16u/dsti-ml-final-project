@@ -1,0 +1,130 @@
+{
+  "barcode": "20005702",
+  "name": "Paprika Flavored Peanuts",
+  "brands": "1 x Lidl 04.24, Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Snacks, Legumes, Salty snacks, Appetizers, Biscuits and crackers, Meals, Nuts and their products, Nuts, Crackers(Appetizers), Roasted nuts, Peanuts, Salted nuts, Roasted peanuts, Salted peanuts",
+  "countries_sold": "Belgium, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, de:Tüte(n), Green dot, Mixed plastic-bag",
+  "labels": "Green Dot, fr:Déconseillé aux jeunes enfants",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Peanuts, fr:fromage-en-poudre",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "46.0%"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "25.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "25.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "14.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.347,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 561.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 44.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.162,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

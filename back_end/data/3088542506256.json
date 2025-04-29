@@ -1,0 +1,34 @@
+{
+  "barcode": "3088542506256",
+  "name": "Sunny Bio oraganic agave syrup imp",
+  "brands": "Sunny Bio",
+  "categories": "Sweeteners, Syrups, Simple syrups, Agave syrups, fr:Sirops traditionnels",
+  "countries_sold": "France, Morocco, Sweden",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, FR-BIO-01, Green Dot, AB Agriculture Biologique, fr:Agriculture Mexique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "sirop-d-agave-originaire",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

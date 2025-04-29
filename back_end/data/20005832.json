@@ -1,0 +1,94 @@
+{
+  "barcode": "20005832",
+  "name": "Dark Chocolate",
+  "brands": "Fin Carré",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "Finland, France, Germany, Italy, Latvia, Switzerland, United Kingdom, United States",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 4.0,
+    "unit": "square"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, PP 5 - Polypropylene, Hdpe-packet, Mixed plastic-packet",
+  "labels": "Fair trade, Vegetarian, Fairtrade International, Not advised for specific people, Sustainable farming, Fairtrade cocoa, Green Dot, Made in Germany, Max Havelaar, Not advised for pregnant women, UTZ Certified, UTZ Certified Cocoa",
+  "origin": null,
+  "manufacturing_places": "Übach-Palenberg, Heinsberg (Kreis), Köln (Regierungsbezirk), Nordrhein-Westfalen, Deutschland",
+  "stores": "Lidl",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.14,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 512.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 31.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 18.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 48.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 46.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.24,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.29,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.059,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

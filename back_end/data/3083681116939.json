@@ -1,0 +1,143 @@
+{
+  "barcode": "3083681116939",
+  "name": "Poêlée La Paysanne",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Frozen foods, Meals, Vegetables, Frozen plant-based foods, Frozen vegetables, Frozen plant-based foods mixes, Mixed vegetables, Pan-fried dishes, Frozen mixed vegetables, Frozen ready-made meals, Pan-fried vegetables, Frozen pan-fried vegetables without mushrooms, fr:Poêlées à la paysanne",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pommes de terre préfrites",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Broccoli",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "carpttes",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Snow pea",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Cultivated mushroom",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Fresh cream",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "huile-de-tournesql",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "facine-de-ble",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Chives",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 280.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 67.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.71,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

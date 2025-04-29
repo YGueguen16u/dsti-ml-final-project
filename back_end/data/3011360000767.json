@@ -1,0 +1,123 @@
+{
+  "barcode": "3011360000767",
+  "name": "Knorr Assaisonnement En Poudre Aromat Tube 70g",
+  "brands": "Knorr",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Condiments, Spices, Spice Mix",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 70.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Recyclable material, Recyclable plastic",
+  "labels": "No preservatives, Green Dot, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Salt",
+      "percentage": "44.4% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "22.4% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "inosinate",
+      "percentage": "10.1% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "5.1% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbs and spices",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Arôme naturel de champignon",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver dans un endroit sec. Fermer après usage.",
+  "customer_service": "Knorr® Relation Consommateurs\n09 69 32 00 60 (appel non surtaxé)\nwww.knorr.fr\nUnilever France\n20 rue des Deux Gares\n92842 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 649.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 155.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 56.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,74 @@
+{
+  "barcode": "20471750",
+  "name": "Scottish porridge oats",
+  "brands": "Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Paper or cardboard, Cardboard, Card-carton",
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole grain oat flakes",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.272,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 304.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 39.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.295,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,102 @@
+{
+  "barcode": "3083680482042",
+  "name": "Petits Pois & Carottes",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Vegetables based foods, Canned plant-based foods, Vegetables, Canned vegetables, Canned legumes, Green peas, Canned peas, Canned peas and carrots",
+  "countries_sold": "France, Monaco",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Canned, fr:Boîte en métal",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "Renescure",
+  "stores": "carrefour.fr, Carrefour, Intermarché",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Vegetable",
+      "percentage": "65.0% (estimate)"
+    },
+    {
+      "ingredient": "Garden peas",
+      "percentage": "39.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "26.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "30.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Pearl onion",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 250.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 60.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.77,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

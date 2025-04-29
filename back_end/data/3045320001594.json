@@ -1,0 +1,94 @@
+{
+  "barcode": "3045320001594",
+  "name": "Bonne Maman - Mirabelle Plum Jam, 370g (13oz)",
+  "brands": "Bonne Maman",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Spreads, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Plum jams, Mirabelle plum jams",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 370.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Pot, Lid",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Leclerc, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mirabelle plum",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.008,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 241.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

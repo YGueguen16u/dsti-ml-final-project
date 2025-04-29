@@ -1,0 +1,98 @@
+{
+  "barcode": "0078895126389",
+  "name": "Premium dark soy sauce",
+  "brands": "Lee Kum Kee",
+  "categories": "Condiments, Sauces, Soy sauces, Dark-soy-sauce, Groceries",
+  "countries_sold": "Australia, Czech Republic, France, Germany, New Zealand, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "packaging": "Glass, Bottle",
+  "labels": "Vegetarian, No preservatives, Vegan, No added MSG, No artificial colors, No flavour enhancer",
+  "origin": null,
+  "manufacturing_places": "China",
+  "stores": "Asian Supermarkets, Tamda",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "37.1% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "18.3% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "18.3% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.5% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Net",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 700.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 167.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 33.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 13.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 19.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

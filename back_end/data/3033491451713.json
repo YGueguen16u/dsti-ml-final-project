@@ -1,0 +1,98 @@
+{
+  "barcode": "3033491451713",
+  "name": "Le petit frais gervais nature 3,9 % 60 g x 12",
+  "brands": "Gervais, Gervais suisse nature",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Petits suisses, Plain fermented dairy desserts, Plain Petit-Suisse",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 60.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.72,
+    "unit": "kg"
+  },
+  "packaging": "fr:12×60g, fr:Etui en carton",
+  "labels": "Nutriscore, Nutriscore Grade A, fr:Recette-originale-depuis-1852",
+  "origin": null,
+  "manufacturing_places": "Fromagerie Normande du Molay-Littry",
+  "stores": "Super U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skim milk and pasteurized cream",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "9.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 367.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 88.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.08,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

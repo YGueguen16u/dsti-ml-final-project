@@ -1,0 +1,146 @@
+{
+  "barcode": "3178530408515",
+  "name": "Chocolat Petits Muffins",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Cakes, Muffins, Chocolate cakes, Chocolate muffins",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 13.8,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 235.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Film, fr:Film en plastique",
+  "labels": "Made in France, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, CocciMarket, carrefour.fr, Carrefour",
+  "allergens": "Eggs, Gluten, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "29.0% (estimate)"
+    },
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "21.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "19.0% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "17.8% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.1% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.94,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 464.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 26.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.07,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 50.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.07,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.001,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

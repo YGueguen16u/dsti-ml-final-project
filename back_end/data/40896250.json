@@ -1,0 +1,98 @@
+{
+  "barcode": "40896250",
+  "name": "Bio Vollmilch-Schokolade",
+  "brands": "Fairglobe",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Milk chocolates",
+  "countries_sold": "France, Germany, Romania, Spain",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Cardboard",
+  "labels": "Fair trade, Organic, EU Organic, Fairtrade International, Non-EU Agriculture, EG-Öko-Verordnung, DE-ÖKO-003, EU Agriculture, EU/non-EU Agriculture, Max Havelaar",
+  "origin": null,
+  "manufacturing_places": "Alemania",
+  "stores": "Lidl",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.361,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 564.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 21.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 52.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 51.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.23,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

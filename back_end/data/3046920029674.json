@@ -1,0 +1,106 @@
+{
+  "barcode": "3046920029674",
+  "name": "Excellence A Touch of Sea Salt Dark",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolates, Dark chocolates, Salted chocolates, Fleur de sel chocolates, Salted dark chocolates, Dark chocolates with fleur de sel, Extra fine dark chocolates",
+  "countries_sold": "Belgium, Denmark, France, Germany, Italy, Netherlands, Portugal, Spain, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Aluminium-wrapper, Card-sleeve",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "56.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "11.0% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Fleur de sel",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "2.1% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.213,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 529.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 48.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.305,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

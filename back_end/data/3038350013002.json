@@ -1,0 +1,86 @@
+{
+  "barcode": "3038350013002",
+  "name": "Panzani coquillette 500g",
+  "brands": "Ebro Foods, Panzani",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meats and their products, Prepared meats, Pastas, fr:Charcuteries diverses, Dry pastas",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Envelope, fr:Film en plastique, fr:Sachet plastique",
+  "labels": "Organic, EU Organic, Green Dot, Made in France, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, fr:Eco-Emballages, fr:Garantie Qualité OR",
+  "origin": "Origine du produit: France # Origine de l'ingrédient primaire \"semoule\" : France",
+  "manufacturing_places": null,
+  "stores": "Franprix, Magasins U, Carrefour, carrefour.fr",
+  "allergens": "Eggs, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Superior quality durum wheat semolina",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": "A conserver dans un endroit sec",
+  "customer_service": "Service consommateurs PANZANI - Laura DUVAL, 37 bis, rue Saint Romain 69008 LYON",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.531,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 361.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 2.9,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 177.0,
+      "unit": "mg"
+    },
+    "0": {
+      "quantity": 0.013,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

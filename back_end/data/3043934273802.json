@@ -1,0 +1,42 @@
+{
+  "barcode": "3043934273802",
+  "name": "Lait concentré sucré en tube Format Économique ♦",
+  "brands": "Régilait®",
+  "categories": "Dairies, Milks (liquid and powder), Milks, Evaporated milks, Evaporated milks with sugar, Evaporated milks without sugar, Whole milks, fr:Laits entiers concentrés",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Tube, fr:Tube plastique",
+  "labels": "French milk, Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "Saone-et-loire, France, F-71118 Saint-Martin-Belle-Roche",
+  "stores": "Leclerc, Auchan, Magasins U, carrefour.fr, Bi1-Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "47.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "45.0%"
+    },
+    {
+      "ingredient": "extrait-sec-lactique-degraisse-20-matieres-grasses",
+      "percentage": "8.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

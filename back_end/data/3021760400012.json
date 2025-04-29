@@ -1,0 +1,94 @@
+{
+  "barcode": "3021760400012",
+  "name": "Pom'Potes Pomme",
+  "brands": "Materne, Pom' Potes",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Desserts, Fruits based foods, Compotes, Apple compotes, Applesauces, Compotes to drink, Light compotes",
+  "countries_sold": "France, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pouch flask, fr:Gourde et bouchon plastique, fr:Poche souple et bouchon à jeter",
+  "labels": "Low or no sugar, Low sugar, No gluten, Reduced sugar, 30% less sugar, Green Dot, fr:Eco-Emballages, fr:Terracycle",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Banque alimentaire",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Apple",
+      "percentage": "96.2%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "si-necessaire-pour-reguler-l-acidite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 293.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 69.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

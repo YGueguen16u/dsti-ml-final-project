@@ -1,0 +1,130 @@
+{
+  "barcode": "3056440070896",
+  "name": "Bastogne",
+  "brands": "LU, Mondelez",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Biscuits et gâteaux, Snacks sucrés",
+  "countries_sold": "Belgium, France, French Polynesia, New Caledonia, Réunion",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 23.6,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 260.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Container, fr:Film plastique à jeter, fr:Étui carton à recycler",
+  "labels": "Distributor labels, Charte LU Harmony, Point-vert",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Monoprix, Magasins U, Delhaize, carrefour.fr, Franprix",
+  "allergens": "Eggs, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "45.6%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.5% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "19.8% (estimate)"
+    },
+    {
+      "ingredient": "Candy sugar",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sirop de candi",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cinnamon powder",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.045,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 485.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 71.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 40.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.79,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

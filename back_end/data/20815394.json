@@ -1,0 +1,110 @@
+{
+  "barcode": "20815394",
+  "name": "Fruit & Nut Mix",
+  "brands": "Alesto, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Dried products, Fruits based foods, Dried plant-based foods, Dried fruits, Dried-mixed-fruits, Mix of grains and dried fruit, Mix of grains and raisins, Nuts-with-dried-fruits",
+  "countries_sold": "France, Germany, Hungary, Italy, Netherlands, Portugal, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, de:07 LDPE/OPP/PET",
+  "labels": "Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Nuts, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Walnut",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Sultanas-raisins",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Sultanas-raisins",
+      "percentage": "24.9%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry-preparation",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.8%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 7.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 1680.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 106.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 2.4,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 135.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 119.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 36.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.067,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

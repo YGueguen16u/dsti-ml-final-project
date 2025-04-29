@@ -1,0 +1,123 @@
+{
+  "barcode": "3019089042242",
+  "name": "Rillettes de saumon et de thon",
+  "brands": "PETIT NAVIRE",
+  "categories": "Seafood, Fishes and their products, Fishes, Spreads, Fatty fishes, Salted spreads, Rillettes, Tunas, Fish preparations, Fish rillettes, Salmon Rillettes, Tuna rillettes",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade B, Produced in Brittany",
+  "origin": "produit en Bretagne. Saumon rose du Pacifique ,saumon atlantique fumé",
+  "manufacturing_places": "Bretagne",
+  "stores": "carrefour.fr",
+  "allergens": "Eggs, Fish, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pink salmon",
+      "percentage": "29.0%"
+    },
+    {
+      "ingredient": "Tuna",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "11.9% (estimate)"
+    },
+    {
+      "ingredient": "Broad bean flour",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Smoked atlantic salmon",
+      "percentage": "2.6%"
+    },
+    {
+      "ingredient": "Bamboo fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Powdered egg white",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice extract",
+      "percentage": "10.1% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.111,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 266.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 1.8,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 1.5,
+      "unit": "µg"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 260.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

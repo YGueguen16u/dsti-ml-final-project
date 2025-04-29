@@ -1,0 +1,115 @@
+{
+  "barcode": "20334734",
+  "name": "Rillettes de Poulet Rôti en cocotte",
+  "brands": "saint alby",
+  "categories": "Meats and their products, Spreads, Meats, Prepared meats, Salted spreads, Rillettes, Potted meats, White meat rillettes, Poultry rillettes, Chicken rillettes",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "French meat, French poultry, Without sodium nitrite",
+  "origin": null,
+  "manufacturing_places": "Bahier, RD 323, FR-72",
+  "stores": "Lidl",
+  "allergens": "Chicken",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chicken",
+      "percentage": "90.0%"
+    },
+    {
+      "ingredient": "Chicken meat",
+      "percentage": "67.5% (estimate)"
+    },
+    {
+      "ingredient": "Chicken skin",
+      "percentage": "22.5% (estimate)"
+    },
+    {
+      "ingredient": "Chicken skin",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Duck fat",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.391,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 336.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

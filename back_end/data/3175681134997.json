@@ -1,0 +1,170 @@
+{
+  "barcode": "3175681134997",
+  "name": "Gerblé - Sugar Free Chocolate Cake, 196g (7oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Cakes, Chocolate cakes, Molten chocolate cakes",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 28.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 196.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Low or no sugar, Source of fibre, Made in France, No palm oil, No sugar",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "carrefour.fr",
+  "allergens": "Eggs, Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Egg",
+      "percentage": "25.1%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "18.8%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "12.1% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "12.1% (estimate)"
+    },
+    {
+      "ingredient": "pepites-de-chocolat-au-maltitol",
+      "percentage": "8.9%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "4.1%"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E336",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1510",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.522,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 366.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 52.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 42.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.43,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

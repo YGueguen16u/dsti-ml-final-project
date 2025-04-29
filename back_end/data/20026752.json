@@ -1,0 +1,119 @@
+{
+  "barcode": "20026752",
+  "name": "Piri-Piri",
+  "brands": "Sol&Mar",
+  "categories": "Condiments, Sauces, Hot sauces",
+  "countries_sold": "Bulgaria, France, Germany, Italy, Poland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 195.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Pe-polyethylene, Hdpe-high-density-polyethylene, Pet-polyethylene-terephthalate",
+  "labels": "FSC, FSC Mix",
+  "origin": null,
+  "manufacturing_places": "Portugal",
+  "stores": "Lidl",
+  "allergens": "Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Piri-piri-pepper",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E260",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Wine vinegar",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E211",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 68.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 16.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 5.28,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

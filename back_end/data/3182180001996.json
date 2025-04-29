@@ -1,0 +1,106 @@
+{
+  "barcode": "3182180001996",
+  "name": "Biscottes Sans sucres ajoutés Blé complet",
+  "brands": "Pasquier",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Rusks, Wholemeal rusks",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 33.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Cardboard",
+  "labels": "Made in France, Nutriscore, Nutriscore Grade A, Sans sucre ajouté",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "E.leclerc, Auchan, Carrefour, Cora, Franprix, Magasin U, Lidl, Biocop, Intermarché",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "58.0%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "42.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baker's yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dried wheat sourdough",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.617,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 384.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

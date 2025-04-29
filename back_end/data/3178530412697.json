@@ -1,0 +1,158 @@
+{
+  "barcode": "3178530412697",
+  "name": "Doonuts",
+  "brands": "St Michel",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Cakes, Chocolate cakes, Doughnuts, fr:Gouter",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 180.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Bag, Box, fr:6 sachets fraicheur",
+  "labels": "Free range, Free range eggs, Made in France, No palm oil, Nutriscore, Nutriscore Grade D, fr:Farine de blé français, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "17.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "17.5% (estimate)"
+    },
+    {
+      "ingredient": "blancs-d-oeufs-de-poules-elevees-en-plein-air",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Natural milk flavouring",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.891,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 453.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 54.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.33,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

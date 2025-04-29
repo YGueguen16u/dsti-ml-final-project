@@ -1,0 +1,102 @@
+{
+  "barcode": "3124480001429",
+  "name": "Tonic Zero",
+  "brands": "Orangina Schweppes, Schweppes",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Artificially sweetened beverages, Sodas, Diet beverages, Carbonated soft drinks without fruit juice, Diet sodas, Tonic water, Carbonated soft drinks without fruit juice with sugar and artificial sweeteners",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Pet-polyethylene-terephthalate, fr:Bouteille plastique",
+  "labels": "Low or no sugar, Green Dot, No added sugar, No aspartame, No sugar",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan, Super U, Carrefour Market, Leclerc, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Carbonated water",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Quinine",
+      "percentage": "7.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 4.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 1.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

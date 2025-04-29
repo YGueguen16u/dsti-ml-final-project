@@ -1,0 +1,94 @@
+{
+  "barcode": "3057640556913",
+  "name": "Touche de Thé noir",
+  "brands": "Volvic",
+  "categories": "Plant-based foods and beverages, Beverages, Hot beverages, Plant-based beverages, Teas, Waters, Flavored waters, Sweetened beverages",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 0.75,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Pet-bottle",
+  "labels": "Non-EU Agriculture, Carbon Trust, EU Agriculture, EU/non-EU Agriculture, No additives, Triman",
+  "origin": null,
+  "manufacturing_places": "Auvergne, France",
+  "stores": "carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Volvic natural mineral water",
+      "percentage": "94.3%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.2%"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "infusion-de-the-noir",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Natural peach flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Elderberry extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 59.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 14.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

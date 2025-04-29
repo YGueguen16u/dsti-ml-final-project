@@ -1,0 +1,158 @@
+{
+  "barcode": "3011360030474",
+  "name": "Mayonnaise classique",
+  "brands": "Lesieur",
+  "categories": "Condiments, Sauces, Mayonnaises, Groceries",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 15.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 475.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Pot, Lid, Green dot, fr:Couvercle en métal, fr:Pensez au tri!, fr:Pot en verre, fr:Pot verre - couvercle metal à recycler",
+  "labels": "Free range, Free range eggs, Green Dot, Nutriscore, Nutriscore Grade D, fr:Origine France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Eggs, Mustard, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Colza oil",
+      "percentage": "69.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.4% (estimate)"
+    },
+    {
+      "ingredient": "Free range chicken egg yolk",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "White wine vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dijon mustard",
+      "percentage": "4.2%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E224",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E161b",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.753,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 658.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 71.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

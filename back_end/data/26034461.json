@@ -1,0 +1,55 @@
+{
+  "barcode": "26034461",
+  "name": "Sirop d’agave",
+  "brands": "Simplement Bon et Bio",
+  "categories": "Frozen foods, Sweeteners, Syrups, Simple syrups, Agave syrups",
+  "countries_sold": "France, Germany",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 360.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Canned, Vial",
+  "labels": "Organic, EU Organic, DE-ÖKO-005, Green Dot, Nutriscore, Nutriscore Grade D, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Aldi",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Agave syrup",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.918,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 451.0,
+      "unit": "kcal"
+    },
+    "carbohydrates": {
+      "quantity": 105.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 105.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.04,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

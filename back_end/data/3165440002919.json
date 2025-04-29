@@ -1,0 +1,94 @@
+{
+  "barcode": "3165440002919",
+  "name": "Couscous moyen",
+  "brands": "Tipiak",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Meals, Cereal semolinas, Wheat semolinas, Durum wheat semolinas, Couscous, Durum wheat semolinas for couscous",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "fr:Film plastique, fr:Étui carton",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Super U, Franprix, Magasins U, Carrefour",
+  "allergens": "Celery, Gluten, Lupin, Mustard, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "100.0%"
+    },
+    {
+      "ingredient": "traces-possibles-de",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lupin bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nut",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.529,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 361.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,142 @@
+{
+  "barcode": "3036815431156",
+  "name": "Mouliné de 12 légumes",
+  "brands": "Liebig",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Vegetable soups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": null,
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Celery, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "52.8% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "23.6% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "11.8% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Mushroom",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cauliflower",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Jus de tomate à partir de concentré",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsnip",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Broccoli",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turnip",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chervil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 156.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 37.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.67,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,82 @@
+{
+  "barcode": "20856090",
+  "name": "Mais groß",
+  "brands": "Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Cereals and potatoes, Vegetables based foods, Canned plant-based foods, Cereals and their products, Canned vegetables, Canned cereals, Canned corn, Canned sweet corn",
+  "countries_sold": "Belgium, France, Germany, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 70.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "pcs"
+  },
+  "packaging": "Metal, Can, Food can, Steel, Tin-plated steel",
+  "labels": "Organic, EU Organic, EU Agriculture, FR-BIO-01, HU-ÖKO-01, No added sugar, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn kernel",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 322.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 77.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

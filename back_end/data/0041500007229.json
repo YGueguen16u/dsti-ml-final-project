@@ -1,0 +1,102 @@
+{
+  "barcode": "0041500007229",
+  "name": "Mostassa groga clàssica",
+  "brands": "French's",
+  "categories": "Condiments, Sauces, Mustards, Groceries",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 226.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bottle, Hdpe-bottle",
+  "labels": "Verified",
+  "origin": null,
+  "manufacturing_places": "U.S.A",
+  "stores": "Cora",
+  "allergens": "Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "57.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "21.3% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "10.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "9.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 36.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 8.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.44,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.03,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.47,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.35,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.43,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.31,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

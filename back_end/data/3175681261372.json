@@ -1,0 +1,154 @@
+{
+  "barcode": "3175681261372",
+  "name": "Gerble - Cacao Cereals Cookie, 160g (5.7oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Dry biscuits",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "packaging": "Pack",
+  "labels": "Made in France, No palm oil, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Gluten, Lupin, Milk, Nuts, Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "fanine-de-ble-54-2-huile-de-colza",
+      "percentage": "65.3% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "9.3% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "5.6%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "feves-de-cacao-1-5-jus-concentre-de-citron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oat flour",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley flour",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "fabrique-dans-un-atelier-qui-utilise-des-fruits-a-coque",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lupin bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.902,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 453.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.17,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

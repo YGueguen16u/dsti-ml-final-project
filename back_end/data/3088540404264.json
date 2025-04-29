@@ -1,0 +1,34 @@
+{
+  "barcode": "3088540404264",
+  "name": "Miel de fleurs",
+  "brands": "Lune de Miel",
+  "categories": "Breakfasts, Spreads, Sweet spreads, Bee products, Farming products, Sweeteners, Honeys, Flower honeys, Liquid honeys",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "Green Dot, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Auchan",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Honey",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

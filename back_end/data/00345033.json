@@ -1,0 +1,162 @@
+{
+  "barcode": "00345033",
+  "name": "Luxury Hot Cross Buns",
+  "brands": "Marks & Spencer",
+  "categories": "Snacks, Sweet snacks, Sweet pastries and pies, Viennoiseries, Hot crossed buns",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 312.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Moistened-dried-vine-fruits",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "Sultana",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "Vostizza-currants",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "20.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.7% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Mixed peel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Orange zest",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon peel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Unsalted butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast-salt-emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E470a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1400",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ground-sweet-cinnamon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cassia",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm-fat-flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ground-coriander-seeds-wheat-starch",
+      "percentage": "15.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.18,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 282.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.36,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.54,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 52.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 24.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.79,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.001,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

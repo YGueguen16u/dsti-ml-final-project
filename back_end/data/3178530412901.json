@@ -1,0 +1,95 @@
+{
+  "barcode": "3178530412901",
+  "name": "Le Palmier",
+  "brands": "Saint Michel",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Flaky biscuits, Palmiers",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 87.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Cardboard, fr:Paquet carton",
+  "labels": "No preservatives, Green Dot, Made in France, No colorings, fr:Farine de blé français, fr:Terracycle",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Cora, Leclerc, Magasins U, carrefour.fr, Casino, Intermarché",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "50.0%"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "31.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "15.4% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.339,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 560.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

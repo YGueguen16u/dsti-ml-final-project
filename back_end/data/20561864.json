@@ -1,0 +1,83 @@
+{
+  "barcode": "20561864",
+  "name": "soba noodles",
+  "brands": "Vitasia, Vitasia (Lidl), Vitasis",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Frozen foods, Pastas, Noodles, Soba",
+  "countries_sold": "Croatia, Czech Republic, France, Germany, Poland, Serbia, Slovenia, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Recycle, Pp-polypropylene",
+  "labels": "Vegetarian, Vegan, Green Dot",
+  "origin": null,
+  "manufacturing_places": "Chine",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat",
+      "percentage": "71.0%"
+    },
+    {
+      "ingredient": "Buckwheat",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.448,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 346.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 69.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,102 @@
+{
+  "barcode": "3175680015228",
+  "name": "Levure de bière",
+  "brands": "Gerblé",
+  "categories": "Food additives, Yeast",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 5.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Dry, fr:Film en plastique, fr:Film plastique, fr:Étui carton",
+  "labels": "Source of fibre, Source of proteins, Green Dot, High fibres, High proteins, Made in France, Nutriscore, Nutriscore Grade A, Phosphore source, Rich in vitamin B, Rich in vitamin B1, Rich in vitamin B9, fr:Origine France, Triman",
+  "origin": null,
+  "manufacturing_places": "Nutrition et santé SAS, Route de Castelnaudary, 31250, Revel, France",
+  "stores": "Carrefour, Leclerc, Magasins U, Auchan, carrefour.fr, Carrefour market",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Brewer's yeast",
+      "percentage": "93.0%"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "7.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.356,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 323.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.32,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 30.0,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 2.5,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 15.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 2.394,
+      "unit": "µg"
+    },
+    "vitamin b5 (pantothenic acid)": {
+      "quantity": 7.0,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 1.204,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

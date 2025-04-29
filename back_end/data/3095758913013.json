@@ -1,0 +1,122 @@
+{
+  "barcode": "3095758913013",
+  "name": "Emincés de Poulet - Rôtis au Four",
+  "brands": "Fleury Michon",
+  "categories": "Meats and their products, Meats, Chicken and its products, Poultries, Chickens, fr:Emincés de poulet",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 75.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Tray, fr:Barquette en plastique, fr:Film en plastique",
+  "labels": "No gluten, No preservatives, Green Dot, Nutriscore, Nutriscore Grade C, fr:Conservation sans nitrite",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chicken thigh",
+      "percentage": "83.0%"
+    },
+    {
+      "ingredient": "Broth",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Chicken bone",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "E326",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tapioca",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn dextrose",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 699.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 167.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.77,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 406.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

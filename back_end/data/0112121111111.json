@@ -1,0 +1,62 @@
+{
+  "barcode": "0112121111111",
+  "name": "Petits pois carotte",
+  "brands": "Auchan",
+  "categories": null,
+  "countries_sold": "France, United Kingdom, United States",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 209.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 50.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.385,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.077,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.692,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.077,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.769,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

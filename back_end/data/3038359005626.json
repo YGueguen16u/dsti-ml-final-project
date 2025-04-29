@@ -1,0 +1,66 @@
+{
+  "barcode": "3038359005626",
+  "name": "Riz Méditerranéen de Camargue",
+  "brands": "Taureau Ailé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Seeds, Cereals and their products, Cereal grains, Rices, Long grain rices, Camargue rices",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 62.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Box, Cardboard, Film",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade A, PGI",
+  "origin": "Origine du riz : Camargue (France)",
+  "manufacturing_places": "Camargue, France",
+  "stores": "Magasins U, Intermarché, Carrefour, Leclerc, Auchan",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Superior quality long grain white rice",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conservation : A conserver dans un endroit sec. Après ouverture : non indiqué",
+  "customer_service": "Service consommateurs TAUREAU AILE, 37 bis, rue Saint Romain 69008 LYON",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.49,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 352.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 78.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

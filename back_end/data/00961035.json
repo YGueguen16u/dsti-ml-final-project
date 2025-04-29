@@ -1,0 +1,214 @@
+{
+  "barcode": "00961035",
+  "name": "Nutty Super Wholefood Salad",
+  "brands": "M&S Food",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Prepared salads, Quinoa dishes, Wholefood salad",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 285.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer",
+  "allergens": "Gluten, Nuts, Peanuts, Sesame seeds, Soybeans, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cannellini beans",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Sesame-tahini-dip",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Cannellini-beans-water-tahini",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Sesame paste",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Quinoa",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "8.0% (estimate)"
+    },
+    {
+      "ingredient": "Quinoa seeds",
+      "percentage": "8.0% (estimate)"
+    },
+    {
+      "ingredient": "Edamame",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Black bean",
+      "percentage": "14.0% (estimate)"
+    },
+    {
+      "ingredient": "Spelt",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Spelt",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Ginger-dressing",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Broccoli",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peanut",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Pumpkin seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rocket",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pistachio nuts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ginger-dressing-contains-vegetable-oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated apple juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ginger",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White wine vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lime juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pomegranate juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red wine vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red chili purée",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

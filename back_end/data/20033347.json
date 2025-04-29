@@ -1,0 +1,102 @@
+{
+  "barcode": "20033347",
+  "name": "490g 950g",
+  "brands": "Baresa",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Pickles, Olive tree products, Plant-based pickles, Olives, Green olives, Pitted olives, Green pitted olives",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 950.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Bocal en verre, fr:Bouchon en métal",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Olive",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 715.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 171.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.002,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

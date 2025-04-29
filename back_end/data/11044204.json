@@ -1,0 +1,58 @@
+{
+  "barcode": "11044204",
+  "name": "Schoko Reis Waffeln",
+  "brands": "Alnatura",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Mueslis, Puffed cereal cakes, Puffed rice cakes",
+  "countries_sold": "Austria, Belgium, France, Germany, Luxembourg, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, fr:sac plastique",
+  "labels": "No gluten, Organic, Vegetarian, EU Organic, Vegan, de:Bio 7 Initiative, EG-Öko-Verordnung, AT-BIO-301, Bioland, DE-ÖKO-006, The Vegan Society",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Alnatura",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "zutaten",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "ingrédients-vollmilchschokolade",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Brown rice",
+      "percentage": "40.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

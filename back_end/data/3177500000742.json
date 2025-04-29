@@ -1,0 +1,38 @@
+{
+  "barcode": "3177500000742",
+  "name": "Unleavened Breads",
+  "brands": "Biscuiterie d'Agen",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Flatbreads, Unleavened breads, fr:Pains azymes à la farine de blé",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 600.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, fr:Sachet plastique",
+  "labels": "Low or no fat, Low or no salt, 100% natural, Made in France, No added fat, No added salt, No added sugar, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": "Agen, France",
+  "stores": "Casino, Intermarché, Leclerc, carrefour.fr, Monoprix",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -1,0 +1,87 @@
+{
+  "barcode": "20290221",
+  "name": "Sardines huil.olive extra v.St Gil.",
+  "brands": "Saveurs de nos Régions",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Sardines, Canned sardines, Sardines in oil, Sardines in olive oil, Sardines in sunflower oil",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 115.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Boite en métal, fr:Couvercle en métal",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sardine",
+      "percentage": "47.5% (estimate)"
+    },
+    {
+      "ingredient": "frites",
+      "percentage": "30.4% (estimate)"
+    },
+    {
+      "ingredient": "Sardine",
+      "percentage": "22.8% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "7.6% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "21.7%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 791.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 189.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.69,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

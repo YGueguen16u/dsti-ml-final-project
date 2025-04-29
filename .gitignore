@@ -23,17 +23,22 @@ __pycache__/
 # ========================================
 # 📦 Environment & Secrets
 # ========================================
-env_folder/.env.postgre
+env_folder/.env.postgre.local
 env_folder/.env.s3
+env_folder/.env.postgre.docker
+env_folder/.env.cognito
 
 # ========================================
 # 📁 Dossiers générés automatiquement
 # (structure de projet, fichiers de comparaison de version, exports, etc.)
 # ========================================
-tools/versions/
-tools/changes/
+tools/old versions/
 Infrastructure/aws/s3/s3_exports/
 user_exports/
+back_end/api/dependencies/auth.py
+back_end/database/initialize_db.py
+back_end/database/models.py
+
 
 # ========================================
 # 🧪 Données temporaires & brutes

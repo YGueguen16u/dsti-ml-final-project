@@ -1,0 +1,147 @@
+{
+  "barcode": "3083681148619",
+  "name": "Carottes râpées",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Prepared vegetables, fr:Crudités",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 320.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour",
+  "allergens": "Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Carrot",
+      "percentage": "53.6% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "23.2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "11.6% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sicilian-lemon-juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dijon mustard",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon-starch-extract-potato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic puree",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural pepper flavouring",
+      "percentage": "2.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 301.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 73.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.71,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

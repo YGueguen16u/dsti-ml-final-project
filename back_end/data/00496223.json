@@ -1,0 +1,154 @@
+{
+  "barcode": "00496223",
+  "name": "Wholemeal seeded farmhouse",
+  "brands": "Marks and Spencer",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Sliced breads, Wholemeal breads, Wholemeal sliced breads",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 800.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "37.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Seed",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Grains",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Toasted-brown-linseed-toasted-sunflower-seeds-millet-seeds-sunflower-seeds-poppy-seeds-toasted-maize-germ",
+      "percentage": "9.8% (estimate)"
+    },
+    {
+      "ingredient": "Pumpkin-seeds-toasted-buckwheat-toasted-pumpkin-seeds-golden-linseed",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Dried-wheat-gluten-yeast",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Yeast-vitamin-d-yeast",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt-malted-barley-flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya-flour-caramelised-sugar-palm-oil-fractionated-palm-oil-rapeseed-oil-emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed-lecithin-flour-treatment-agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Made-in-the-uk-with-seeds-and-grain-from-eu-and-non-eu-sources",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sc198-o-marks-and-spencer-plc-po-box-3339-ch99-9qs-united-kingdom-m-s",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ltd-po-box-13022-ravensdale-dublin-2-ireland-t",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.104,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 263.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.85,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

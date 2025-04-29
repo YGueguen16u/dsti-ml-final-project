@@ -1,0 +1,74 @@
+{
+  "barcode": "20202392",
+  "name": "Brazil nuts",
+  "brands": "Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Nuts and their products, Nuts, Shelled nuts, Brazil nuts, Brazil-nuts-unsalted, Shelled Brazil nuts",
+  "countries_sold": "Austria, France, Germany, Ireland, Spain",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pouch flask, de:Packung(en), Envasado en atmósfera protectora, Ldpe-film, Stück",
+  "labels": "Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Green Dot, Made in Germany",
+  "origin": null,
+  "manufacturing_places": "Deutschland",
+  "stores": "Lidl",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Brazil nut",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.916,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 697.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 66.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 16.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,99 @@
+{
+  "barcode": "3033710084913",
+  "name": "Arome MAGGI",
+  "brands": "Nestlé",
+  "categories": "Condiments, Food additives, Sauces, Flavors",
+  "countries_sold": "Belgium, France, French Polynesia, Germany, Guadeloupe, New Caledonia, Réunion, Switzerland, Belgique",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "packaging": "Glass, Bottle, Vial, fr:Flacon verre",
+  "labels": "100% vegetable, Nutriscore, Nutriscore Grade C, Triman",
+  "origin": "Allemagne",
+  "manufacturing_places": null,
+  "stores": "Monoprix, Intermarché, Magasins U, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Flavouring",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Wheat protein",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "9.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Après ouverture, se conserve à température ambiante.",
+  "customer_service": "Nestlé France, 34-40 rue de Guynemer 92130 Issy-les-Moulineaux",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 292.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 69.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 18.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,126 @@
+{
+  "barcode": "3033491974175",
+  "name": "Skyr à Boire Goût Vanille",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Skyrs",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 270.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 270.0,
+    "unit": "grammes"
+  },
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "88.9%"
+    },
+    {
+      "ingredient": "proteines-de-lat",
+      "percentage": "6.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "epaississent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coating",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Exhausted vanilla pod",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "gluten-sesame",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 253.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 60.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.185,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.185,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.59,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.52,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.168,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

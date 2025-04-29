@@ -1,0 +1,126 @@
+{
+  "barcode": "3168930159742",
+  "name": "Pepsi Zéro Sleek 33 cl",
+  "brands": "Diet pepsi, Pepsi zero, Pepsico",
+  "categories": "Beverages, Carbonated drinks, Artificially sweetened beverages, Sodas, Diet beverages, Colas, Diet sodas, Diet cola soft drink",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 330.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 330.0,
+    "unit": "ml"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Can, Drink can",
+  "labels": "Contains a source of phenylalanine, Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Carbonated water",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "E150d",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caffeine flavour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A consommer de préférence avant : voir sous la canette.",
+  "customer_service": "PepsiCo France SNC, 15 boulevard Charles de Gaulle 92705 Colombes Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

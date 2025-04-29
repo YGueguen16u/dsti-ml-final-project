@@ -1,0 +1,71 @@
+{
+  "barcode": "3155253007737",
+  "name": "Tendrissime",
+  "brands": "Président",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Unsalted butters",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 225.0,
+    "unit": "g"
+  },
+  "packaging": "Barquette en plastique, Couvercle en plastique, Opercule en métal",
+  "labels": "Fabriqué en France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Light cream",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.678,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 640.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 49.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

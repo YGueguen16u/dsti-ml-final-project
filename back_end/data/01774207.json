@@ -1,0 +1,59 @@
+{
+  "barcode": "01774207",
+  "name": "Tomato Ketchup",
+  "brands": "Sainsbury's, By Sainsbury's",
+  "categories": "Condiments, Sauces, Tomato sauces, Ketchup, Tomato Ketchup",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": "Plastic bottle",
+  "labels": "Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Tesco, Sainsbury's",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "56.2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato purée",
+      "percentage": "21.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.9% (estimate)"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice-blend",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Clove-leaf-oil",
+      "percentage": "2.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

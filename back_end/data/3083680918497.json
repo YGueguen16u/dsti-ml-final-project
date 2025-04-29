@@ -1,0 +1,103 @@
+{
+  "barcode": "3083680918497",
+  "name": "Lentilles Préparées 460g",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Legume seeds, Meals, Pulses, Lentils, Canned meals, Prepared lentils, fr:Legumes-preparees",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "pcs"
+  },
+  "packaging": "Can, Food can",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Auchan, Carrefour, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "61.4% (estimate)"
+    },
+    {
+      "ingredient": "Gelbe Linsen",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dehydrated onion",
+      "percentage": "0.7%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Firming agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E509",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 384.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 93.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.76,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

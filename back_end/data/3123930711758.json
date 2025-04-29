@@ -1,0 +1,86 @@
+{
+  "barcode": "3123930711758",
+  "name": "L'Emmental Français Extra fin",
+  "brands": "EntreMont",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Cow cheeses, Hard cheeses, Emmentaler, French cheeses, French emmentaler, Grated cheese, Grated emmentaler",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Refermable, fr:Sachet en plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Milk",
+      "percentage": "99.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "are",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.54,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 369.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 1.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

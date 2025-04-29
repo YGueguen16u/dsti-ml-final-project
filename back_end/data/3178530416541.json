@@ -1,0 +1,110 @@
+{
+  "barcode": "3178530416541",
+  "name": "Galettes au bon beurre bio",
+  "brands": "St Michel",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Crêpes and galettes, Biscuits, Galettes, fr:Galette-au-beurre",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 6.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Individual bag, fr:Etui en carton, fr:Film en plastique",
+  "labels": "Organic, EU Organic, Free range, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, Free range eggs, French eggs, Made in France, Pure butter, AB Agriculture Biologique, fr:Farine de blé français, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour City, carrefour.fr, Auchan",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "66.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "17.0% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Rum",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grey salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.914,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 455.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 73.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.91,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

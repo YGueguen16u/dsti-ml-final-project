@@ -1,0 +1,150 @@
+{
+  "barcode": "3175681845961",
+  "name": "Biscuit saveur vanille citron",
+  "brands": "Gerlinéa, Ma Pause Gerlinéa",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 6.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 156.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, fr:Etui en carton, fr:Film en plastique",
+  "labels": "Source of proteins, High proteins, Made in France, No palm oil, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, carrefour.fr, Cora",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "42.6%"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "22.1% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "21.1% (estimate)"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "13.2%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hydrolyzed wheat protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.888,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 449.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 58.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.32,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 2.617,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.345,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.306,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.32,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 56.0,
+      "unit": "µg"
+    },
+    "potassium": {
+      "quantity": 96.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

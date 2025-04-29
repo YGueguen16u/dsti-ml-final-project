@@ -1,0 +1,78 @@
+{
+  "barcode": "3088540003245",
+  "name": "Miel et gelée royale la Force au Naturel",
+  "brands": "Famille Michaud, Lune de Miel",
+  "categories": "Breakfasts, Spreads, Sweet spreads, Bee products, Sweeteners, Honey-based preparations, Honey and royal jelly mixtures",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Jar",
+  "labels": "Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "France, Pyrénées",
+  "stores": "Magasins U",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Acacia honey",
+      "percentage": "96.0%"
+    },
+    {
+      "ingredient": "Royal jelly",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Royal jelly",
+      "percentage": "4.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.389,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 332.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 82.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 64.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

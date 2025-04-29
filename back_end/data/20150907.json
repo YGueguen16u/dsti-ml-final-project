@@ -1,0 +1,82 @@
+{
+  "barcode": "20150907",
+  "name": "Cranberries",
+  "brands": "Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Dried products, Fruits based foods, Dried plant-based foods, Fruits, Dried fruits, Berries, Cranberries, Dried cranberries",
+  "countries_sold": "Belgium, Bulgaria, France, Germany, Romania, Spain",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Fresh",
+  "labels": "Green Dot, Nutriscore, es:LDPE/OPP/PET",
+  "origin": null,
+  "manufacturing_places": "Strasbourg, France",
+  "stores": "LIDL",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Blueberry",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "26.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "6.7% (estimate)"
+    },
+    {
+      "ingredient": "може-да-съдържа-следи-от-ядки-и-фъстъци",
+      "percentage": "6.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.414,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 338.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 78.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 70.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

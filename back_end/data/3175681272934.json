@@ -1,0 +1,82 @@
+{
+  "barcode": "3175681272934",
+  "name": "Biscuits Petit déj Bio Céréales Miel",
+  "brands": "Gerblé, Gerblé Bio",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 132.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Boîte en carton",
+  "labels": "Organic, EU Organic, Nutriscore, Nutriscore Grade B, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "Ardèche",
+  "stores": "carrefour.fr",
+  "allergens": "Gluten, Lupin, Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "33.0%"
+    },
+    {
+      "ingredient": "farine-complete-de-grand-epeautre",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "bio",
+      "percentage": "18.1%"
+    },
+    {
+      "ingredient": "farine-complete-de-ble-de-meule-16-2-huile-de-tournesol-oleique",
+      "percentage": "9.8% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "9.8% (estimate)"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "Oat",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt syrup",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

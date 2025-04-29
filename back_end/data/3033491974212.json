@@ -1,0 +1,115 @@
+{
+  "barcode": "3033491974212",
+  "name": "Skyr à Boire Fruits Rouges",
+  "brands": "DANONE SKYR À BOIRE",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Frozen foods, Fermented dairy desserts, Fermented dairy desserts with fruits, Skyrs, Fruit skyrs",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 270.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "88.9%"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "myrille",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Blackberry",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 255.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 61.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 8.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.17,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

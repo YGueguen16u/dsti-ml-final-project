@@ -1,0 +1,102 @@
+{
+  "barcode": "3023290018354",
+  "name": "Lindahl's Kvarg raspberry",
+  "brands": "Nestlé",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Desserts, Dairy desserts, Quarks, Cream cheeses",
+  "countries_sold": "France, Ireland, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Aluminium-film, Pp-tub",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurized skimmed milk",
+      "percentage": "55.6% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "22.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "Microbial rennet",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 231.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 55.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

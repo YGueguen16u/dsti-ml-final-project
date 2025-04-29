@@ -1,0 +1,122 @@
+{
+  "barcode": "20114329",
+  "name": "all butter shortbread fingers",
+  "brands": "Tower Gate",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Shortbread cookies, Shortbread",
+  "countries_sold": "Czech Republic, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 210.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Packet",
+  "labels": "German Agricultural Society, Gold medal of the German Agricultural Society, 2019 Gold medal of the German Agricultural Society, No added sugar",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "28.2% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "10.9% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "L",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Dl-allergy-advice-for-allergens",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cereals containing gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "See-ingredients-in-bole",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Typical-valu-energy-fat-of-which-s-carbohyd",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.16,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 516.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 27.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 13.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

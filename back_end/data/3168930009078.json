@@ -1,0 +1,94 @@
+{
+  "barcode": "3168930009078",
+  "name": "Flocons d'avoine complète",
+  "brands": "Quaker",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Flakes, Cereal flakes, Rolled flakes, Rolled oats",
+  "countries_sold": "Belgium, France, Réunion, Spain, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 550.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Cardboard, Packet, Green dot, Triman, fr:Boîte de carton, fr:Etui en carton, fr:Pensez au tri!",
+  "labels": "No preservatives, Source of fibre, 100% natural, High fibres, No added sugar, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Leclerc, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": "Conserver au sec.",
+  "customer_service": "PepsiCo France SNC, 15 boulevard Charles de Gaulle 92705 Colombes Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.57,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 375.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.9,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 380.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 3.8,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 110.0,
+      "unit": "mg"
+    },
+    "beta-glucan": {
+      "quantity": 3.6,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

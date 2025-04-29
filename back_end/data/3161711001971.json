@@ -1,0 +1,86 @@
+{
+  "barcode": "3161711001971",
+  "name": "Caprice des dieux",
+  "brands": "Caprice des Dieux, Cheese",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Soft cheeses, Cow cheeses, Soft cheeses with bloomy rind, Pasteurised products, French cheeses, Pasteurized cheeses, Soft cheese with a natural rind",
+  "countries_sold": "Belgium, Egypt, France, Germany, Morocco, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Recycled material, Cardboard, Fresh, Recycled cardboard, fr:Carton recyclable, fr:Emballages recyclés & recyclables, fr:Pot carton",
+  "labels": "Free range, Source of proteins, Calcium source, French milk, High in calcium, High proteins, Made in France, No lactose",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "carrefour.fr, Carrefour, Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised cow's milk",
+      "percentage": "73.6% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.393,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 333.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.378,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 350.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

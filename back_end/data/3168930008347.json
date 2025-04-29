@@ -1,0 +1,98 @@
+{
+  "barcode": "3168930008347",
+  "name": "Doritos Goût nature maxi format",
+  "brands": "Doritos",
+  "categories": "Snacks, Salty snacks, Appetizers, Chips and fries, Crisps, Corn chips",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 230.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Sachet plastique",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Géant Casino, Magasins U, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn",
+      "percentage": "69.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "16.3%"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "14.3% (estimate)"
+    },
+    {
+      "ingredient": "4-1-per-cent",
+      "percentage": "14.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conserver au sec.",
+  "customer_service": "PepsiCo France SNC, 420 rue d'Estienne d'Orves 92705 Colombes CEDEX",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.044,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 488.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 61.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.75,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,103 @@
+{
+  "barcode": "0612322000776",
+  "name": "Rosemary & sea salt Flatbreads",
+  "brands": "Nairn's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Biscuits and crackers, Breads, Crackers(Appetizers), Flatbread-crackers, Flatbread-oat",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Wrapper, Card-box, Hdpe film-wrapper",
+  "labels": "No gluten",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal oat",
+      "percentage": "75.0%"
+    },
+    {
+      "ingredient": "Tapioca",
+      "percentage": "9.3% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "7.7% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Brown rice syrup",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Rosemary",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.807,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 430.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,78 @@
+{
+  "barcode": "20103644",
+  "name": "Kokosmilch",
+  "brands": "Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Canned foods, Plant-based creams, Plant-based creams for cooking, Coconut milks and creams",
+  "countries_sold": "Austria, Bulgaria, Czech Republic, France, Germany, Romania, Slovakia, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "ml"
+  },
+  "packaging": "Paper, fr:Dose, fr:Etikett, fr:Konservendose, fr:Metall, fr:Stahl",
+  "labels": "Vegetarian, Vegan, Green Dot, Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": "Thailand, Vietnam",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Coconut",
+      "percentage": "91.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "6.8% (estimate)"
+    },
+    {
+      "ingredient": "Guar-gum-stabilizer",
+      "percentage": "2.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 829.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 211.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 17.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.14,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

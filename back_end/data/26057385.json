@@ -1,0 +1,98 @@
+{
+  "barcode": "26057385",
+  "name": "Chocolat noir",
+  "brands": "SCHOLETTA",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Tray",
+  "labels": "Sustainable farming, Nutriscore, Nutriscore Grade D, Rainforest Alliance, Rainforest Alliance Cocoa, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Aldi",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "fruits-a-a-coque",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "85.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.407,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 582.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 47.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

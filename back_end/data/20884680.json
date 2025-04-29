@@ -1,0 +1,86 @@
+{
+  "barcode": "20884680",
+  "name": "Reiswaffeln mit Salz",
+  "brands": "Lidl, SanoRice Netherlands, Sondey",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Puffed cereal cakes, Puffed rice cakes",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pp-polypropylene",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, EG-Öko-Verordnung, EU Agriculture, EU/non-EU Agriculture, NL-BIO-01",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rice",
+      "percentage": "98.7%"
+    },
+    {
+      "ingredient": "Sesame",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.3%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.573,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 376.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 0.004,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 0.004,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 80.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.305,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,114 @@
+{
+  "barcode": "3182180002436",
+  "name": "Pain Grillé l'Original",
+  "brands": "BRIOCHE PASQUIER",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Toasts, fr:B",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 21.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 415.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, fr:Film plastique",
+  "labels": "Made in France, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, carrefour.fr, Carrefour Market, E.leclerc, Auchan",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "88.9% (estimate)"
+    },
+    {
+      "ingredient": "Wheat sourdough",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt from Guérande",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baker's yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dried wheat sourdough",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 336.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 79.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.25,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

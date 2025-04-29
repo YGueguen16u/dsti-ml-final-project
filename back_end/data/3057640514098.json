@@ -1,0 +1,94 @@
+{
+  "barcode": "3057640514098",
+  "name": "Volvic essentiel bio",
+  "brands": "Volvic",
+  "categories": "Beverages, Waters, Flavored waters, Unsweetened flavored waters",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 75.0,
+    "unit": "cl"
+  },
+  "packaging": "Plastic",
+  "labels": "Organic, EU Organic, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Carrefour Market, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Volvic natural mineral water",
+      "percentage": "98.6%"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "1.1%"
+    },
+    {
+      "ingredient": "Lemon extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mint",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cucumber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil extract",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 10.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 2.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

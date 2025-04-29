@@ -1,0 +1,123 @@
+{
+  "barcode": "20449100",
+  "name": "Trauben Nuss",
+  "brands": "Fin Carré, Lidl",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Milk chocolates",
+  "countries_sold": "France, Germany, Spain",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic",
+  "labels": "Sustainable farming, Made in Germany, UTZ Certified, UTZ Certified Cocoa",
+  "origin": null,
+  "manufacturing_places": "Allemagne",
+  "stores": "Lidl",
+  "allergens": "Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Raisin",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "8.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate",
+      "percentage": "30.0%"
+    },
+    {
+      "ingredient": "Cocoa",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.096,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 501.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 27.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 14.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 56.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 55.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,95 @@
+{
+  "barcode": "01178395",
+  "name": "Greek Feta",
+  "brands": "Sainsbury's, by Sainsbury's",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Greek cheeses, Feta",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Mixed plastic film-packet",
+  "labels": "Vegetarian, Certified by Agrocert, PDO",
+  "origin": null,
+  "manufacturing_places": "Greece",
+  "stores": "Sainsbury's",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Feta",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Sheeps milk",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Goat milk",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Safety",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Made-with-pasteurised-milk",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.143,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 276.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.25,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

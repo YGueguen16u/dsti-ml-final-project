@@ -1,0 +1,78 @@
+{
+  "barcode": "20724696",
+  "name": "Almonds",
+  "brands": "Alesto, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Nuts and their products, Nuts, Almonds, Shelled nuts, Shelled almonds, Unsalted almonds",
+  "countries_sold": "Belgium, Bulgaria, Czech Republic, France, Germany, Greece, Hungary, Poland, Portugal, Romania, Slovenia, Spain, Switzerland, United Kingdom",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Andere Kunststoffe, Kunststoff, Tüte",
+  "labels": "Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Almond",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.598,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 621.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 53.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 12.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 24.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    },
+    "magnesium": {
+      "quantity": 260.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

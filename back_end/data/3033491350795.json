@@ -1,0 +1,106 @@
+{
+  "barcode": "3033491350795",
+  "name": "Activia bifidus saveur citron",
+  "brands": "Activia, Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Flavoured fermented dairy desserts, Bifidus yogurts, Flavoured bifidus yogurts",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 4.0,
+    "unit": "x"
+  },
+  "packaging": "Pot, Discard, fr:Opercule plastique, fr:Pot plastique",
+  "labels": "French milk, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, intermarché, Delhaize, Carrefour, carrefour.fr, Leclerc",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Semi-skimmed milk",
+      "percentage": "81.4%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "7.8%"
+    },
+    {
+      "ingredient": "Condensed skimmed milk",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferment",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yogurt cultures",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bifidus",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A CONSERVER ENTRE +1°C ET + 6°C MAXIMUM",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 390.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 93.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 12.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.13,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 129.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

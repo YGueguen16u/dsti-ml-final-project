@@ -1,0 +1,135 @@
+{
+  "barcode": "3175681104419",
+  "name": "Falafels pois chiches et épinards",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meat alternatives, Refrigerated foods, Refrigerated plant-based foods, Vegetarian balls, Falafels, Refrigerated falafel",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 180.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Container, Fresh, Protective gas, Tray, fr:Barquette en plastique, fr:Etui en carton",
+  "labels": "Organic, Vegetarian, EU Organic, No preservatives, Non-EU Agriculture, Vegan, ES-ECO-019-CT, EU Agriculture, EU/non-EU Agriculture, IT-BIO-014, Made in Italy, New, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Triman",
+  "origin": null,
+  "manufacturing_places": "Italie",
+  "stores": "Carrefour, carrefour.fr, Monoprix",
+  "allergens": "Celery, Gluten, Mustard, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "41.2%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "27.9%"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "15.5% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "8.9%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Breadcrumbs",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chapelure de blé",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato flakes",
+      "percentage": "4.2%"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pea flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mint",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 939.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 225.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

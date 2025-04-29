@@ -1,0 +1,74 @@
+{
+  "barcode": "3033710075225",
+  "name": "Cafe",
+  "brands": "Nescafé",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based foods, Coffees, Instant beverages, Instant coffees",
+  "countries_sold": "France, Morocco, Réunion, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 75.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Verre  Pot  Boîte  Batonnet",
+  "labels": "Triman, Punto VerdeHecho en FranciaTriman",
+  "origin": "FRANCE",
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Magasin U",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Coffee",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": "Bien refermer pour préserver les arômes.",
+  "customer_service": "Nestlé France, 34-40 rue Guynemer 92130 Issy-les-Moulineaux",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,123 @@
+{
+  "barcode": "0034000400126",
+  "name": "Creamy Peanut Butter",
+  "brands": "reese's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Spreads, Nuts and their products, Plant-based spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters",
+  "countries_sold": "France, Morocco, United States",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "88.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Hydrogenated vegetable oil",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cottonseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peanut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Monoglycerides",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Molasses",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "2.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.48,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 594.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 7.81,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.38,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.35,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 1.51,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 26.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 1.44,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

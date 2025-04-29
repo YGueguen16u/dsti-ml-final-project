@@ -1,0 +1,186 @@
+{
+  "barcode": "90162800",
+  "name": "Red Bull Sugar250ml",
+  "brands": "Red Bull",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Artificially sweetened beverages, Sodas, Non-alcoholic beverages, Energy drinks",
+  "countries_sold": "Australia, Austria, Belgium, France, Germany, Ireland, Italy, New Zealand, Spain, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Can, Drink can, de:Produkt",
+  "labels": "Low or no sugar, Made in Swiss, No sugar",
+  "origin": null,
+  "manufacturing_places": "AT5330, Fuschl am See, Österreich",
+  "stores": "Centra, Woolworths, Tesco",
+  "allergens": "es:fenilalanina",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "54.5% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "E290",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "tarin",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E504i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "kafein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pantothenic Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.195,
+      "unit": "g"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 1.3,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 8.0,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.6,
+      "unit": "mg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 0.3,
+      "unit": "µg"
+    },
+    "caffeine": {
+      "quantity": 32.0,
+      "unit": "mg"
+    },
+    "taurine": {
+      "quantity": 0.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,210 @@
+{
+  "barcode": "3175680012937",
+  "name": "Biscuit chocolat noir",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Dark chocolate biscuits, Biscuit with a chocolate bar covering, Biscuit with a dark chocolate bar covering",
+  "countries_sold": "France, Réunion",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Tray, fr:Film en plastique",
+  "labels": "No preservatives, Sustainable farming, Natural flavors, No colorings, No dyes or preservatives, No palm oil, Nutriscore, Nutriscore Grade E, UTZ Certified, UTZ Certified Cocoa, Triman, fr:Diététique",
+  "origin": null,
+  "manufacturing_places": "Revel 31250",
+  "stores": "Leclerc, Magasins U, Auchan, carrefour.fr, Monoprix",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Dark chocolate",
+      "percentage": "48.0%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "27.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Matière grasse de lait anhydre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "34.2%"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Protéines de lait en poudre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Powdered egg white",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.067,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 494.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.52,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 4.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 30.0,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 23.9,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 22.6,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

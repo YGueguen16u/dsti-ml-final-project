@@ -1,0 +1,134 @@
+{
+  "barcode": "20043391",
+  "name": "Filets de maquereaux moutarde",
+  "brands": "Nixe Lidl Stiftung & Co. KG",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in mustard sauce, Tinned Mackerels",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 169.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Canned, fr:Alu recyclable, fr:Couvercle ouverture facile",
+  "labels": "Fishing method, Omega-3, Green Dot, High in Omega 3, Pelagic net fishing, Seine fishing, Alu recyclable, Eco-Emballages",
+  "origin": null,
+  "manufacturing_places": "Delpierre-Mer et Tradition - DMT (Filiale Continentale Nutrition) - 16 Boulevard de l'Europe - Parc d'Activités de Landacres - 62360 Hesdin-l'Abbé, Pas-de-Calais, Nord-Pas-de-Calais, France",
+  "stores": "Lidl",
+  "allergens": "Eggs, Fish, Milk, Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "56.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "22.0% (estimate)"
+    },
+    {
+      "ingredient": "Mustard",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chili pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E100",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 766.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 183.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.002,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

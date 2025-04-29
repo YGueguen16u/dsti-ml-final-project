@@ -1,0 +1,234 @@
+{
+  "barcode": "20202859",
+  "name": "Premium Muesli",
+  "brands": "Crownfield",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Cereals with fruits, Mueslis, Mueslis with fruits",
+  "countries_sold": "Belgium, France, Germany, Poland, Spain",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "07 inne",
+  "labels": "Source of fibre, High fibres",
+  "origin": null,
+  "manufacturing_places": "Belgium",
+  "stores": "Lidl",
+  "allergens": "Banana, Gluten, Nuts, Soybeans, Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "mistura-de-frutos",
+      "percentage": "45.0%"
+    },
+    {
+      "ingredient": "sultanas",
+      "percentage": "14.5%"
+    },
+    {
+      "ingredient": "sultanas",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "algodao",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "uva-passa",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "uva-passa",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "5.8%"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Coconut fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "tamaras-secas",
+      "percentage": "5.2%"
+    },
+    {
+      "ingredient": "tamara",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Pineapple",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Pineapple",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "rodelas-de-coco-tostadas",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Papaya",
+      "percentage": "3.5%"
+    },
+    {
+      "ingredient": "Papaya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley",
+      "percentage": "34.5%"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "10.5%"
+    },
+    {
+      "ingredient": "Cereal",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "maltados",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malted barley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pumpkin seed",
+      "percentage": "2.3%"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "miolo-de-noz-peca",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "miolo-de-avela",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "pode-conter-vestigios-de-outros-frutos-de-casca-rija",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soy milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "conservar-em-local-seco",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.59,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 377.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 24.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.07,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

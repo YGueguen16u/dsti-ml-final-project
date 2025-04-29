@@ -1,0 +1,218 @@
+{
+  "barcode": "16811207",
+  "name": "petit déjeuner miel et pépites de chocolat",
+  "brands": "belvita",
+  "categories": "Snacks, Breakfasts, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Dry biscuits, Breakfast biscuit, Breakfast biscuit with cereals fortified with vitamins and chemical elements",
+  "countries_sold": "Belgium, Bulgaria, France, Germany, Morocco, Poland, Romania, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 435.0,
+    "unit": "g"
+  },
+  "packaging": "Aluminium-packet, Card-tub",
+  "labels": "No gluten, Organic, Vegetarian, EU Organic, Non-EU Agriculture, Vegan, Green Dot, PL-EKO-07, Pure cocoa butter, The Vegan Society",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "59.7%"
+    },
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "39.6%"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "19.8%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "10.6%"
+    },
+    {
+      "ingredient": "Wholemeal barley flour",
+      "percentage": "4.9%"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Wholemeal spelt flour",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "farine-de-ble-20-1-1",
+      "percentage": "10.1% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "8.5%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flower honey",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "17.6% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "8.8% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "E504i",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Elemental iron",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.711,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 409.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

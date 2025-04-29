@@ -1,0 +1,86 @@
+{
+  "barcode": "3108021065507",
+  "name": "Vichy Celestins",
+  "brands": "Vichy, Vichy celestins",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Waters, Spring waters, Mineral waters, Carbonated waters, Natural mineral waters, Carbonated mineral waters, Carbonated natural mineral waters, Mildly carbonated natural mineral water",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 1150.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Bottle or vial, Bottle",
+  "labels": null,
+  "origin": "France",
+  "manufacturing_places": "Vichy, Allier, France, St-Yorre",
+  "stores": "Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Naturally carbonated natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Conserver cette bouteille de préférence à l'abri du soleil, dans un endroit propre, frais et sans odeur.",
+  "customer_service": "Service Consommateurs Vichy Celestins, 70 avenue des Sources 03270 SAINT YORRE",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.93,
+      "unit": "g"
+    },
+    "bicarbonate": {
+      "quantity": 2.989,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 66.0,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 235.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 103.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 10.0,
+      "unit": "mg"
+    },
+    "sulphate": {
+      "quantity": 138.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

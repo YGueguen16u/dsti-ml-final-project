@@ -1,0 +1,46 @@
+{
+  "barcode": "2023040000005",
+  "name": "La boule bio",
+  "brands": "Carrefour BIO, Carrefour",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Baguettes, fr:Pains de tradition française, Baguette made with type T55-T110 flour",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Paper, Bag",
+  "labels": "Organic, EU Organic, FR-BIO-10, AB Agriculture Biologique, fr:Saveurs de l'Année, fr:Saveurs de l'Année 2023, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Carrefour market, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "41.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "29.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat sourdough",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "4.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

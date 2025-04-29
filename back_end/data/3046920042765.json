@@ -1,0 +1,138 @@
+{
+  "barcode": "3046920042765",
+  "name": "Lindt Lindor negro",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Filled chocolates, Filled dark chocolates",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, fr:Plaque 150g",
+  "labels": "Made in France, Triman, fr:Lindt &Sprüngli Farming Program",
+  "origin": null,
+  "manufacturing_places": "Olorons-sainte-marie",
+  "stores": "Magasins U, Monoprix, carrefour.fr, Super U",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "53.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "23.2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "11.6% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "5.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.559,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 617.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 47.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 33.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 38.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.09,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

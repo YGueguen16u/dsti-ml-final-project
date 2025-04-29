@@ -1,0 +1,146 @@
+{
+  "barcode": "06175019",
+  "name": "Pain Campagnard aux graines",
+  "brands": "Schär",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Specific products, Products for specific diets, Breads, Products without gluten, Gluten-free breads, Rusks",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastique",
+  "labels": "No gluten, Green Dot, No lactose, Sans glutenSans glutenSans huile de palme",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn starch",
+      "percentage": "28.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "Sourdough",
+      "percentage": "12.0% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Buckwheat flour",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Flax seed",
+      "percentage": "3.7%"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Psyllium",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Rice starch",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar syrup",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower seed",
+      "percentage": "3.2%"
+    },
+    {
+      "ingredient": "epaississants-hypropylmethylcellulose",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "E460",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "2.3%"
+    },
+    {
+      "ingredient": "Soy protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Millet flour",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Brown rice flour",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Chia seed",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Chia",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sans-ble",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "conditionne-osphere-protectrice-avec-absorbeur-d-oxygene",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -1,0 +1,74 @@
+{
+  "barcode": "20995751",
+  "name": "Bio volkoren penne",
+  "brands": "Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Pastas, Noodles, Dry pastas, Penne, Penne rigate, Whole Wheat Noodles",
+  "countries_sold": "Austria, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 80.0,
+    "unit": "gram"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pp-polypropylene, Bag",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, EG-Öko-Verordnung, EU Agriculture, EU/non-EU Agriculture, IT-BIO-005, IT-BIO-009, Made in Italy, Nutriscore, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "Muggia, Italien",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole durum wheat semolina",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.435,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 343.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 65.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

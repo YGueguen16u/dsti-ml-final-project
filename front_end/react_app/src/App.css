@@ -1,3 +1,5 @@
+/* front_end/react_app/src/App.css */
+
 .App {
   text-align: center;
 }
@@ -35,4 +37,59 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* ------- Create Profile Form Style ------- */
+.create-profile-form {
+  background: white;
+  padding: 2rem;
+  margin: 4rem auto;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  font-family: "Segoe UI", sans-serif;
+  transition: all 0.3s ease-in-out;
+}
+
+.create-profile-form h2 {
+  margin-bottom: 1rem;
+  color: #111827;
+  font-size: 1.8rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.create-profile-form input,
+.create-profile-form select {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.5rem;
+  outline: none;
+  transition: border 0.2s ease-in-out;
+}
+
+.create-profile-form input:focus,
+.create-profile-form select:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+}
+
+.create-profile-form button {
+  padding: 0.8rem 1rem;
+  font-size: 1rem;
+  background-color: #3b82f6;
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.create-profile-form button:hover {
+  background-color: #2563eb;
 }

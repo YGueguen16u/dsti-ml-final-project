@@ -1,0 +1,122 @@
+{
+  "barcode": "0037600106252",
+  "name": "Peanut Butter",
+  "brands": "Skippy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Spreads, Plant-based spreads, Oilseed purees, Legume butters, Peanut butters",
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 40.0,
+    "unit": "oz"
+  },
+  "packaging": "Glass jar",
+  "labels": "No gluten, No preservatives",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Safeway",
+  "allergens": "Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Roasted peanuts",
+      "percentage": "81.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Hydrogenated vegetable oil",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Cottonseed",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "To-prevent-separation",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "4.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.48,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 594.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.38,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 18.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.38,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 6.25,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.25,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.17,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 4.69,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 12.5,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 281.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 1.25,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

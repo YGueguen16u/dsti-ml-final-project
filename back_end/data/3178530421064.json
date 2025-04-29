@@ -1,0 +1,210 @@
+{
+  "barcode": "3178530421064",
+  "name": "Petites tartelettes Chocolat caramel",
+  "brands": "Bonne Maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Sweet pies, Chocolate biscuits, Pies, Tartlets, Tartlet biscuits with chocolate, fr:Tartelettes au caramel",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 13.9,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, fr:Film en plastique",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Delhaize, Franprix",
+  "allergens": "Eggs, Gluten, Milk, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Soft wheat flour",
+      "percentage": "38.5% (estimate)"
+    },
+    {
+      "ingredient": "Milk chocolate",
+      "percentage": "23.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "10.1% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetened condensed milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Crocant",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.05,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 489.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 65.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 36.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.63,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

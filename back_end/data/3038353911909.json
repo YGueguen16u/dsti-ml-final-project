@@ -1,0 +1,167 @@
+{
+  "barcode": "3038353911909",
+  "name": "Quenelles de brochet sauce Nantua",
+  "brands": "Petitjean",
+  "categories": "Canned foods, Meals, Meals with fish, fr:Quenelles, Canned meals, Fish quenelles, Pike quenelles",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Canned, fr:Boîte en métal, fr:Boîte métal à recycler",
+  "labels": "No artificial flavors, No preservatives, No colorings, No flavour enhancer, Since-1863, fr:Aux-oeufs-frais, fr:Info-tri-point-vert",
+  "origin": "Porc origine Union Européenne.",
+  "manufacturing_places": "William Saurin (WS) - 26 Rue de Crécy - D35 - 02270 Pouilly-sur-Serre",
+  "stores": "Auchan, carrefour.fr, Intermarché",
+  "allergens": "Crustaceans, Eggs, Fish, Gluten, Milk, Molluscs",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sauce",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E407",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Modified rice starch",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Milk powder",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Modified potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cognac",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Crayfish",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grey shrimp",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Quenelle",
+      "percentage": "36.0%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "matiere-grasse-de-porc",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Brochet",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 481.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 115.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.8,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

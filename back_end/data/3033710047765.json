@@ -1,0 +1,122 @@
+{
+  "barcode": "3033710047765",
+  "name": "Nescafé, Gold cappuccino, Cappuccino",
+  "brands": "Cappuccino, Gold cappuccino, Nescafé",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based foods, Hot beverages, Beverage preparations, Coffees, Instant beverages, Capsules, Instant coffees, Powdered cappucino, Sweetened beverages",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 185.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "packaging": "Box, Cardboard, Stick, fr:Etui en carton, fr:Pensez au tri!, fr:Point vert, fr:Sticks plastiques à jeter",
+  "labels": "Vegetarian, Green Dot, Nutriscore, Nutriscore Grade D, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr, Esselunga, Coop Lombardia",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "36.0% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "22.0%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "18.0% (estimate)"
+    },
+    {
+      "ingredient": "Coffee",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Instant coffee",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Ground roasted coffee",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver dans un lieu sec et frais.",
+  "customer_service": "Nestlé France, 34-40 rue Guynemer 92130 Issy-les-Moulineaux",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 226.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 54.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.12,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

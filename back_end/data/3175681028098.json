@@ -1,0 +1,150 @@
+{
+  "barcode": "3175681028098",
+  "name": "Galettes boulghour & épeautre",
+  "brands": "Céréal Bio",
+  "categories": "Meat alternatives, Vegetarian patties, Cereals and vegetables patties",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Dry, Protective gas, Recyclable material, Recyclable plastic, fr:Etui en carton, fr:Film plastique",
+  "labels": "Organic, Vegetarian, Certified by Ecocert, EU Organic, No preservatives, Non-EU Agriculture, Source of fibre, Vegan, Cooked in France, ES-ECO-019-CT, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, High fibres, Natural colorings, No additives, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, fr:Blé français",
+  "origin": null,
+  "manufacturing_places": "Sud-Ouest de la France",
+  "stores": "Carrefour Market, Magasins U, Leclerc, carrefour.fr, Carrefour, Auchan",
+  "allergens": "Celery, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat bulgur",
+      "percentage": "44.3%"
+    },
+    {
+      "ingredient": "Spelt",
+      "percentage": "27.9% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "27.9% (estimate)"
+    },
+    {
+      "ingredient": "cuit",
+      "percentage": "13.5%"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "7.2% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "6.2%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Whole wheat flakes",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Whole grain oat flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "4.1%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "3.4%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raisin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 780.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 186.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.95,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

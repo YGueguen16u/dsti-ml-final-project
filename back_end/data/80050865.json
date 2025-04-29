@@ -1,0 +1,102 @@
+{
+  "barcode": "80050865",
+  "name": "Nutella",
+  "brands": "Ferrero",
+  "categories": "Breakfasts, Spreads, Sweet spreads, fr:Pâtes à tartiner, Hazelnut spreads, Chocolate spreads, Cocoa and hazelnuts spreads, Crema-da-spalmare, Cremas-a-base-de-avellanas, Desayunos, Untables, Untables-dulces",
+  "countries_sold": "Austria, France, Italy, Morocco, Spain",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 15.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 450.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Multilayer-composite, Glass, Pp-polypropylene, Cardboard, Clear Glass, Label, Lid, Non-corrugated cardboard, Paper and fibreboard/aluminium, Seal, 82 C/PAP",
+  "labels": "No gluten, Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Hofer",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "38.4% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "24.8% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "7.4%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "6.6%"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "E322i",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin",
+      "percentage": "3.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.278,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 539.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 57.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 56.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.107,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

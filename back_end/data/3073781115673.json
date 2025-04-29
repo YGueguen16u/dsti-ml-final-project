@@ -1,0 +1,82 @@
+{
+  "barcode": "3073781115673",
+  "name": "Leerdammer L'Original 8 tranches",
+  "brands": "LEERDAMMER",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Pasteurized cheeses, Sliced cheeses",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Tray",
+  "labels": "Vegetarian, Fed without GMOs, Not advised for specific people, High in calcium, Not advised for pregnant women, fr:Vaches en pâturages",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, Carrefour",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised milk",
+      "percentage": "97.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Microbial coagulating enzyme",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "FRAIS",
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.46,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 352.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 27.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 18.5,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 0.86,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 860.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

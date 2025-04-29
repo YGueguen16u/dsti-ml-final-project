@@ -1,0 +1,130 @@
+{
+  "barcode": "50184385",
+  "name": "Marmite Yeast Extract 125g",
+  "brands": "Marmite",
+  "categories": "Spreads, Salted spreads, Yeast extract spreads",
+  "countries_sold": "Belgium, France, Poland, Spain, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 4.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Glass",
+  "labels": "Vegetarian, Vegan, Green Dot, Vegetarian Society, Vegetarian Society Approved, With extra folic acid",
+  "origin": null,
+  "manufacturing_places": "England, United Kingdom",
+  "stores": "Carrefour, Leclerc, Delhaize, Edeka, Dealz",
+  "allergens": "Celery, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable juice",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.104,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 250.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 10.8,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 5.8,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 7.0,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 160.0,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 2.5,
+      "unit": "µg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 15.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

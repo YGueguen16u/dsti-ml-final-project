@@ -1,0 +1,98 @@
+{
+  "barcode": "20173074",
+  "name": "Crispy Fried Onions",
+  "brands": "Batts",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Onions and their products, Fried onions, Dried fried onions",
+  "countries_sold": "Austria, France, Germany, Netherlands, Poland, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, PP 5 - Polypropylene, de:Dose(n), es:Bote de plástico, fr:Pot plastique",
+  "labels": "Vegetarian, Vegan, Green Dot, Nutriscore, es:recicla-amarillo, pt:ecoponto-amarelo",
+  "origin": null,
+  "manufacturing_places": "Kapelle",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Onion",
+      "percentage": "75.0%"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "15.6% (estimate)"
+    },
+    {
+      "ingredient": "Oil",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.45,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 590.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 44.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 40.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.18,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

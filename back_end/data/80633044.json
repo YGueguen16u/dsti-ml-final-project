@@ -1,0 +1,154 @@
+{
+  "barcode": "80633044",
+  "name": "Trancetto Cacao",
+  "brands": "Balconi",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Cakes, Filled sponge cake slices",
+  "countries_sold": "France, Morocco, North Korea",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 28.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 28.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Container",
+  "labels": "Sustainable, Kosher, Sustainable Palm Oil, Orthodox Union Kosher, Kascher",
+  "origin": null,
+  "manufacturing_places": "Italie",
+  "stores": "Magasins U",
+  "allergens": "Eggs, Gluten, Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "32.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "18.7%"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "13.4% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "13.4% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "8.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "12.9% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "8.1%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Hazelnut paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mono-and-fatty-acid-diglycerides",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leavening-powders",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.544,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 369.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 56.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.402,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

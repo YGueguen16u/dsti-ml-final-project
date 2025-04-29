@@ -1,0 +1,78 @@
+{
+  "barcode": "20163402",
+  "name": "passierte Tomaten",
+  "brands": "Baresa, Baresa/Lidl, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Tomatoes and their products, Strained tomatoes",
+  "countries_sold": "Bulgaria, France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Paper, Tetra Pak, Brick",
+  "labels": "FSC, FSC Mix, Green Dot, Made in Italy, Nutriscore, Fsc-c020428",
+  "origin": null,
+  "manufacturing_places": "Italien",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "99.7%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 138.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 33.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.4,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

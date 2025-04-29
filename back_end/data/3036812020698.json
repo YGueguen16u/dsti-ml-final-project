@@ -1,0 +1,186 @@
+{
+  "barcode": "3036812020698",
+  "name": "creme d'asperge",
+  "brands": "Royco",
+  "categories": "Dried products, Meals, Dried products to be rehydrated, Soups, Dried meals, Dehydrated soups",
+  "countries_sold": "Belgium, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 4.0,
+    "unit": "x"
+  },
+  "packaging": "Bag, Cardboard, fr:Boîte en carton",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Monoprix, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "de-la-soupe-deshydratee",
+      "percentage": "45.3% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "45.3% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "23.6% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Crouton",
+      "percentage": "9.2%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Asparagus",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E340",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E451",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E452",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 183.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 44.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.69,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

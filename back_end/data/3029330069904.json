@@ -1,0 +1,118 @@
+{
+  "barcode": "3029330069904",
+  "name": "Tartine p,tit dej",
+  "brands": "Jacquet",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Sliced breads",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "tranche"
+  },
+  "quantity": {
+    "quantity": 410.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Clip en plastique, fr:Sachet en plastique",
+  "labels": "No additives, No palm oil, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "saint beauzire",
+  "stores": "carrefour.fr",
+  "allergens": "Eggs, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "64.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.3% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Whole egg",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Egg yolk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acerola juice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à l'abri de la chaleur et de l'humidité. Bien refermer le paquet après ouverture.",
+  "customer_service": "service conseil consommateur, Biopole - Clermont Limagne 63360 - Saint Beauzire",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.21,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 287.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 49.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

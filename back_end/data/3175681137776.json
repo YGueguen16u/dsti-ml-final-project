@@ -1,0 +1,118 @@
+{
+  "barcode": "3175681137776",
+  "name": "Orge & pruneaux a la marocaine",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Cereals and potatoes, Legumes, Seeds, Cereals and their products, Meals, Vegetable-based foods and beverages, Cereal grains, Fresh foods, Fresh plant-based foods, Microwave meals, Plant-based meals, Barley, Low-fat prepared meals, Mix of cereals and legumes, fr:Plats à base d'orge",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Dry, Pouch flask, Protective gas, fr:Film en plastique, fr:Sachet plastique",
+  "labels": "Organic, Vegetarian, EU Organic, No preservatives, Non-EU Agriculture, Source of fibre, Source of proteins, Vegan, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, Green Dot, High fibres, High proteins, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, fr:Eco-emballages",
+  "origin": null,
+  "manufacturing_places": "Région de Nantes, Loire-Atlantique, Pays de la Loire, France",
+  "stores": "Hyper U, Magasins U, Cora, Auchan, carrefour.fr, Carrefour",
+  "allergens": "Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "44.8% (estimate)"
+    },
+    {
+      "ingredient": "orge-monde",
+      "percentage": "13.6%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "10.9%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "boulgour-d-epeautre",
+      "percentage": "7.7%"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "7.7% (estimate)"
+    },
+    {
+      "ingredient": "oignons-6-4-proteines-texturees-de-soja",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Prune",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Dried apricots",
+      "percentage": "2.7%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 573.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 137.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -11,14 +11,14 @@ def db_connector():
     """
     Fixture that initializes the DatabaseConnector instance for test usage.
 
-    It loads environment variables from the `.env.postgre` file and
+    It loads environment variables from the `.env.postgre.local` file and
     returns a connected SQLAlchemy engine wrapper.
 
     Returns:
         DatabaseConnector: Instance to interact with PostgreSQL database.
     """
     root_path = Path(__file__).resolve().parents[3]
-    dotenv_path = root_path / "env_folder" / ".env.postgre"
+    dotenv_path = root_path / "env_folder" / ".env.postgre.local"
     return DatabaseConnector(dotenv_path=str(dotenv_path))
 
 

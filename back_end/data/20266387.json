@@ -1,0 +1,82 @@
+{
+  "barcode": "20266387",
+  "name": "Fromage blanc 2,9%",
+  "brands": "Envia",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Desserts, Dairy desserts, Fermented dairy desserts, Plain fermented dairy desserts, fr:Fromages blancs, fr:Fromages blancs natures",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Pot, Fresh, fr:Boite plastique, fr:Opercule en aluminium, fr:Opercule en métal, fr:Pot en plastique",
+  "labels": "Pasteurized, French milk, Nutriscore, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurized skimmed milk",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 335.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 80.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.275,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

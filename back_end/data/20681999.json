@@ -1,0 +1,79 @@
+{
+  "barcode": "20681999",
+  "name": "Petits Suisses",
+  "brands": "Envia",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Petits suisses, Plain fermented dairy desserts, Plain Petit-Suisse",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 60.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": "Plastic, Pot, Cardboard",
+  "labels": "French milk, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "LIDL",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "fromage-frais-au-lait-entier-pasteurise",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E203",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 573.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 137.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 9.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

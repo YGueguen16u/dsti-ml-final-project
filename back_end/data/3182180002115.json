@@ -1,0 +1,142 @@
+{
+  "barcode": "3182180002115",
+  "name": "Grilletines blé complet",
+  "brands": "Brioche Pasquier, Pasquier",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Rusks, Toasts, Toasted bread rolls",
+  "countries_sold": "France, Morocco",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 17.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 242.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Etui carton à recycler, fr:Etui en carton, fr:Film en plastique, fr:Film plastique à jeter, fr:Pensez au tri!, fr:Point vert, fr:Sachets fraîcheur de partitions film plastique",
+  "labels": "No GMOs, Made in France, Nutriscore, Triman, Auxcerealescompletes",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour Market, carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "62.0%"
+    },
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "8.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Wheat bran",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat semolina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.76,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 418.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 65.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.87,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

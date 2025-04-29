@@ -1,0 +1,75 @@
+{
+  "barcode": "3017800502051",
+  "name": "Pois chiches HVE Bien cultivés d'aucy 250g",
+  "brands": "D'aucy",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Seeds, Vegetables based foods, Canned plant-based foods, Legume seeds, Canned vegetables, Pulses, Chickpeas, Canned legumes, Canned chickpeas",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Jar",
+  "labels": "No preservatives, fr:Fruits et Légumes de France, Made in France, Nutriscore, Nutriscore Grade A, Haute Valeur Environnementale",
+  "origin": "France",
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Avant ouverture : « A conserver à température ambiante et à l'abri de l'humidité et de toute variation de température. » Après ouverture : « A conserver au réfrigérateur dans un récipient hermétique et approprié et consommer dans les 2 jours. »",
+  "customer_service": "Service consommateurs d'aucy France, Libre réponse 86007",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 505.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 120.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

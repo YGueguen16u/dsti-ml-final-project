@@ -1,0 +1,78 @@
+{
+  "barcode": "20226909",
+  "name": "Lightly Salted Corn Cakes",
+  "brands": "Rivercote",
+  "categories": "Meats and their products, Meat preparations, Meats, Chicken and its products, Poultries, Chicken preparations, Breaded products, Chickens, Cooked poultries, Cooked chicken, Poultry nuggets, Breaded chicken, Chicken nuggets",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": "591 g CO₂e per 100g of product",
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "rice"
+  },
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Organic, EU Organic, NL-BIO-01",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn",
+      "percentage": "99.7% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "0.3%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.607,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 384.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 85.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.31,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

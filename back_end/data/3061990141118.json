@@ -1,0 +1,182 @@
+{
+  "barcode": "3061990141118",
+  "name": "BN - Cookies - Mini Strawberry x 5, 175g (6.2oz)",
+  "brands": "BN",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Cakes, Strawberry biscuits",
+  "countries_sold": "Belgium, France, Morocco, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 175.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard",
+  "labels": "fr:Blé français",
+  "origin": null,
+  "manufacturing_places": "Vertou",
+  "stores": "Magasins U, Delhaize, carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "45.2%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "45.0%"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "24.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "16.3% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "8.1% (estimate)"
+    },
+    {
+      "ingredient": "Palm",
+      "percentage": "4.6% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "4.1% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "4.1% (estimate)"
+    },
+    {
+      "ingredient": "E420",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Strawberry",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Strawberry-equivalent",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Lactose and milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baking powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E162",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472e",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.815,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 431.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 12.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 74.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 32.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.53,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,94 @@
+{
+  "barcode": "3046920029759",
+  "name": "Lindt Excellence 90%",
+  "brands": "Lindt Excellence",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Extra fine dark chocolates",
+  "countries_sold": "Algeria, Austria, Belgium, Bulgaria, Czech Republic, Finland, France, French Polynesia, Germany, Ireland, Italy, Mauritius, Morocco, Netherlands, Réunion, Romania, Singapore, Spain, Sweden, Switzerland, Tunisia, United Kingdom",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Aluminium wrap, Box cardboard, Caja de cartón, Card-box, Foil-wrapper, es:Recipiente, fr:Feuille aluminium, fr:Étui carton, pt:Papel de aluminio",
+  "labels": "No gluten, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Géant, Kupsch, Magasins U, Esselunga, Lindt, carrefour.fr, COOP, El Corte Inglés, Consum",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "6.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.592,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 592.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 55.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

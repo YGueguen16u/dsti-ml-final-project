@@ -1,0 +1,94 @@
+{
+  "barcode": "20095291",
+  "name": "Dark Chocolate 70%",
+  "brands": "J.D. Gross, Lidl",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates",
+  "countries_sold": "Belgium, France, Germany, Italy, Spain, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "piece"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Paper, Cardboard, Paperboard, Card-box, Stück, nl:FSC Mixte carton",
+  "labels": "Fair trade, Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Fairtrade cocoa, FSC, FSC Mix, Green Dot, Pure cocoa butter",
+  "origin": null,
+  "manufacturing_places": "Rausch Schokoladen GmbH, Peine (Landkreis), Niedersachsen, Deutschland",
+  "stores": "Lidl",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "6.6% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "6.6% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla extract",
+      "percentage": "6.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.28,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 544.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 40.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 24.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 27.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,79 @@
+{
+  "barcode": "20796273",
+  "name": "Sel fin",
+  "brands": "ChanteSel",
+  "categories": "Condiments, Salts, Sea salts, fr:Sels fins, Groceries",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box",
+  "labels": "Made in Spain",
+  "origin": null,
+  "manufacturing_places": "Espagne",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sea salt",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Anti-caking agent",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E535",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 98.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

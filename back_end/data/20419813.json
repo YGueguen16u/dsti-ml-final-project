@@ -1,0 +1,182 @@
+{
+  "barcode": "20419813",
+  "name": "Chocolate granola Crunch",
+  "brands": "Crownfield, Master crumble",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Chocolate cereals, Mueslis, Mueslis with chocolate",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.67,
+    "unit": "cup"
+  },
+  "quantity": {
+    "quantity": 600.0,
+    "unit": "g"
+  },
+  "packaging": "Box",
+  "labels": "Sustainable, Sustainable farming, Sustainable Palm Oil, Nutriscore, Rainforest Alliance, Roundtable on Sustainable Palm Oil, UTZ Certified",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "fiocchi-di-avena-integrale",
+      "percentage": "56.0%"
+    },
+    {
+      "ingredient": "zucchero",
+      "percentage": "23.6% (estimate)"
+    },
+    {
+      "ingredient": "olio-di-semi-di-girasole",
+      "percentage": "10.2% (estimate)"
+    },
+    {
+      "ingredient": "estruso-di-riso",
+      "percentage": "5.1% (estimate)"
+    },
+    {
+      "ingredient": "farina-di-riso",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "zucchero",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "glutine-di-frumento",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "farina-di-cereali-maltati",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "orzo",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "frumento",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sale-da-cucina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sciroppo-di-glucosio",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "pezzetti-di-cioccolato-al-latte-zucchero",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "pasta-di-cacao",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "latte-intero-in-polvere",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "burro-di-cacao",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "emulsionante",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lecitine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "girasole",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "corn-flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sale-da-cucina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "estratto-di-malto-d-orzo",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "cacao-in-polvere",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sale-da-cucina",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "aroma-naturale",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "antiossidante",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "estratti-ricchi-di-tocoferolo",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.883,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 450.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 17.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.62,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

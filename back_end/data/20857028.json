@@ -1,0 +1,198 @@
+{
+  "barcode": "20857028",
+  "name": "Envitas miel & pépites de chocolat",
+  "brands": "Sondey",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Box, Cardboard, fr:Point vert, fr:Triman",
+  "labels": "Sustainable farming, Green Dot, Made in France, UTZ Certified, UTZ Certified Cocoa, Tidy man, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Lidl",
+  "allergens": "Gluten, Milk, Soybeans, fr:avoine",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "61.3%"
+    },
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "40.5%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "20.2% (estimate)"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "10.1% (estimate)"
+    },
+    {
+      "ingredient": "Oat flour",
+      "percentage": "5.1% (estimate)"
+    },
+    {
+      "ingredient": "farine-d-orge-complet",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal spelt flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "20.8%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "19.4% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "9.7% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "8.5%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472e",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.816,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 434.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.87,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

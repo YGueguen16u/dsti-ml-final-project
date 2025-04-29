@@ -1,0 +1,74 @@
+{
+  "barcode": "3165437010101",
+  "name": "Sucre de Fleur de Coco Bio",
+  "brands": "Daddy",
+  "categories": "Sweeteners, Sugars, Coconut sugar",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 10.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 230.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Sachet plastique",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, Green Dot, IT-BIO-004, AB Agriculture Biologique, fr:IT-BIO-07",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Carrefour Auchan, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Coconut sugar",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Dans un endroit sec à l'abri de la lumière. L'entreposage est à effectuer de façon optimale à une température de 15 à 25°C et à une humidité relative inférieure à 65%.",
+  "customer_service": "CRISTALCO, 83 Avenue de la Grande Armée 75116 Paris - France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.734,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 408.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 96.1,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 95.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.17,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

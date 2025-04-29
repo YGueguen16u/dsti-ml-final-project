@@ -1,0 +1,174 @@
+{
+  "barcode": "3017760404396",
+  "name": "Prince Choco'🍫Barre - Barre céréalière au chocolat🍫",
+  "brands": "LU",
+  "categories": "Snacks, Sweet snacks, Bars, Cereal bars, Chocolate cereal bars, Barres-de-céréales, Barres-de-céréales-au-chocolat, Snacks-sucrés",
+  "countries_sold": "France, Monaco, Suisse",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 20.8,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "No preservatives, No colorings",
+  "origin": null,
+  "manufacturing_places": "Toulouse France",
+  "stores": "Carrefour, Action, Magasins U, carrefour.fr, Carrefour Market, Carrefour City, E.leclerc.",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "33.5%"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Malted wheat flour",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "18.7% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "16.5% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "E420ii",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "9.3% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E473",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E476",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.805,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 430.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 31.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

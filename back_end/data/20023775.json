@@ -1,0 +1,130 @@
+{
+  "barcode": "20023775",
+  "name": "Taboulé",
+  "brands": "Saladinettes",
+  "categories": "Meals, Savory semolina dishes, Tabbouleh, Eastern tabbouleh, Tabbouleh with Olive oil",
+  "countries_sold": "Belgium, France, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Lid or cap, Plastic, Lid, Protective gas, Seal, Tray",
+  "labels": "Vegetarian, Green Dot, Nutriscore, Nutriscore Grade B, fr:Blé français, fr:eco-emballages",
+  "origin": null,
+  "manufacturing_places": "Martinet (Filiale FPM) - 24 Rue du Limousin - Zone Industrielle - 38070 Saint-Quentin-Fallavier, Isère, Rhône-Alpes, France",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Durum wheat",
+      "percentage": "56.0%"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "42.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "14.0% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable",
+      "percentage": "28.0% (estimate)"
+    },
+    {
+      "ingredient": "Bell pepper",
+      "percentage": "18.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "9.0% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Raisin",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Mint",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 766.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 183.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

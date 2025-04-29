@@ -1,0 +1,94 @@
+{
+  "barcode": "3068320080000",
+  "name": "Evian",
+  "brands": "Evian",
+  "categories": "Beverages, Waters, Spring waters, Mineral waters, Non-alcoholic beverages, Unsweetened beverages, Natural mineral waters",
+  "countries_sold": "Belgium, France, Luxembourg, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Pet-bottle, fr:Bouchon en plastique, fr:Bouteille en plastique, fr:Bouteille plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Auchan",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.002,
+      "unit": "g"
+    },
+    "silica": {
+      "quantity": 1.5,
+      "unit": "mg"
+    },
+    "bicarbonate": {
+      "quantity": 36.0,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 0.1,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 8.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 2.6,
+      "unit": "mg"
+    },
+    "nitrate": {
+      "quantity": 0.38,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

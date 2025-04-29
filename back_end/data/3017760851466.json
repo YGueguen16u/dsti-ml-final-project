@@ -1,0 +1,114 @@
+{
+  "barcode": "3017760851466",
+  "name": "Sablé des FLANDRES",
+  "brands": "LU",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Shortbread cookies",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 31.25,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Made in France, No colorings, Pure butter, fr:Farine de blé français",
+  "origin": null,
+  "manufacturing_places": "87 Av. de la Victoire 02480 FR-JUSSY",
+  "stores": "Magasins U, Bi1, carrefour.fr, Bi1-Auchan FR 77480 Mousseaux-les-Bray",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "1.2%"
+    },
+    {
+      "ingredient": "Barley malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg yolk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whole milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.935,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 460.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 75.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

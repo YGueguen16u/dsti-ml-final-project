@@ -1,0 +1,118 @@
+{
+  "barcode": "20026370",
+  "name": "Stuffed vine leaves with dill & mint",
+  "brands": "eridanous",
+  "categories": "Meals, Stuffed vine leaves",
+  "countries_sold": "France, Germany, Greece, Italy, Spain, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 280.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Can, Food can",
+  "labels": "No gluten",
+  "origin": null,
+  "manufacturing_places": "Grecia",
+  "stores": "Lidl",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rice",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "30.0% (estimate)"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Vine leaf",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Soya oil",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Dill",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mint",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 582.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 139.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 16.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.21,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

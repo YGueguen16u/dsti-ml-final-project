@@ -1,0 +1,130 @@
+{
+  "barcode": "3175681134935",
+  "name": "Gerblé - Sugar Free Lemon Yuzu Shortbread, 132g (4.7oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Cakes, Shortbread cookies",
+  "countries_sold": "Belgium, France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 11.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 132.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, fr:Etui carton à recycler, fr:Etui en carton, fr:Pensez au tri!, fr:Point vert, fr:Sachet en plastique, fr:Sachet plastique à jeter",
+  "labels": "Low or no sugar, Source of fibre, No colorings, No palm oil, No sugar",
+  "origin": null,
+  "manufacturing_places": "Toulouse FRANCE",
+  "stores": "Magasins U, E.Leclerc, Auchan, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "57.7%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "23.3% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.775,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 424.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.22,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

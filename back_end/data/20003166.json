@@ -1,0 +1,142 @@
+{
+  "barcode": "20003166",
+  "name": "Haferflocken",
+  "brands": "Crownfield",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Flakes, Cereal flakes, Rolled flakes, Rolled oats",
+  "countries_sold": "Belgium, France, Germany, Italy, Netherlands, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Paper, Bag",
+  "labels": "German Agricultural Society, Gold medal of the German Agricultural Society, Source of fibre, 2014 Gold medal of the German Agricultural Society, Green Dot, High fibres, Nutriscore, Nutriscore Grade A, Triman, Verified, es:recicla-azul, fr:medaille-d-or-de-la-societe",
+  "origin": null,
+  "manufacturing_places": "Germania",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Hafervollkornflocken-kleinblatt-zutaten",
+      "percentage": "100.0% (estimate)"
+    },
+    {
+      "ingredient": "Hafervollkornflocken",
+      "percentage": "100.0%"
+    },
+    {
+      "ingredient": "Kann-spuren-von-weizen",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Roggen-und-gerste-enthalten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vielseitig-verwendbar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Z",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "B",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fur-muslis-und-zum-backen",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vor-warme-schutzen-und-trocken-lagern",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Aufbewahrung-moglichst-im-geschlossenen-behalter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ungeoffnet-mindestens-haltbar-bis",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Siehe-verpackungsoberseite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Avena-cerealien-gmbh-muhlenstr",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "1c-p-19357-karstadt-500-ge",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.56,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 372.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.6,
+      "unit": "mg"
+    },
+    "phosphorus": {
+      "quantity": 430.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 4.3,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 5.8,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

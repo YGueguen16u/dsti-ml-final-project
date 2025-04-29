@@ -1,0 +1,86 @@
+{
+  "barcode": "3175681085602",
+  "name": "tartines craquantes riz châtaigne",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Extruded crispbreads",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 145.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, fr:Boite carton, fr:Boîte de 3 sachets, fr:Etui en carton, fr:Sachet plastique",
+  "labels": "Organic, EU Organic, No preservatives, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, FR-BIO-10, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Magasins U, super u",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rice flour",
+      "percentage": "67.7% (estimate)"
+    },
+    {
+      "ingredient": "Chestnut flour",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "sel-de-mer-prepare-avec-81-5-de-farine-de-riz",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.586,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 379.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 85.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.38,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

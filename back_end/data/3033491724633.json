@@ -1,0 +1,122 @@
+{
+  "barcode": "3033491724633",
+  "name": "Hipro",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Yogurts, fr:Spécialités laitières, fr:Spécialités laitières aux fruits",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": "fr:Pot en plastique",
+  "labels": "Source of proteins",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "77.5% (estimate)"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "2.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 234.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 56.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.09,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 99.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

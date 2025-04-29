@@ -1,0 +1,78 @@
+{
+  "barcode": "3155250366974",
+  "name": "Beurre Doux",
+  "brands": "Président",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Half-salted butter",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Tray, fr:Couvercle en plastique, fr:Opercule en métal",
+  "labels": "Green Dot, Pure butter",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "97.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 3.12,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 745.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 82.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 57.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 602.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

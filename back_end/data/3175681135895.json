@@ -1,0 +1,187 @@
+{
+  "barcode": "3175681135895",
+  "name": "Moelleux chocolat noix",
+  "brands": "Gerblé",
+  "categories": "Snacks, Desserts, Sweet snacks, Biscuits and cakes, Biscuits, Cakes, Chocolate cakes, Chocolate soft cake",
+  "countries_sold": "France, Réunion",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 138.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Cardboard, Individual bag",
+  "labels": "No preservatives, Made in France, No colorings, No palm oil, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour market, Magasins U, Monoprix, carrefour.fr",
+  "allergens": "Gluten, Milk, Nuts, Soybeans, fr:avoine, fr:avoine",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "23.6%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "15.3%"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "10.6% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "10.6% (estimate)"
+    },
+    {
+      "ingredient": "Walnut",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "5.2%"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "E420",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flakes",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Oat fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "3.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.817,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 434.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 23.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 49.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.23,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

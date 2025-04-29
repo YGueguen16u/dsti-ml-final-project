@@ -1,0 +1,70 @@
+{
+  "barcode": "20003142",
+  "name": "Weizenmehl",
+  "brands": "Belbake",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Flours, Cereal flours, Wheat flours, Wheat flour T405",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1000.0,
+    "unit": "g"
+  },
+  "packaging": "Paper, Bag",
+  "labels": "Green Dot, Made in Swiss, Nutriscore, Nutriscore Grade A, Getreide-und-Kartoffeln, Getreide-und-ihre-produkte, Getreidemehle, Lebensmittel, Mehle, Pflanzliche Lebensmittel, Pflanzliche-lebensmittel-und-getränke, Weizenmehl-t405, Weizenmehle",
+  "origin": null,
+  "manufacturing_places": "Deutschland",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat-flour-type-405",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.439,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 344.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

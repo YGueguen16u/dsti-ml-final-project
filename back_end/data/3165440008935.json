@@ -1,0 +1,138 @@
+{
+  "barcode": "3165440008935",
+  "name": "Céréales méditerranéennes Sec",
+  "brands": "Tipiak",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Meals, Variety packs, Cereal variety packs",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Cardboard, fr:Etui en carton, fr:Film en plastique",
+  "labels": "Made in France, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Semoule de blé dur précuite",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "30.0%"
+    },
+    {
+      "ingredient": "semoule-de-ble-dur-complete-precuite",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Malted rye flakes",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Barley flakes",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Flocons d'épeautre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Semoule de maïs précuite",
+      "percentage": "6.5%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbes de Provence",
+      "percentage": "0.1%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 616.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 146.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

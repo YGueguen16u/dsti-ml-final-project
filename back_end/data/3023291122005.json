@@ -1,0 +1,90 @@
+{
+  "barcode": "3023291122005",
+  "name": "Yaos Yaourt à la Grecque Nature 4 x 150g",
+  "brands": "Nestlé",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, Plain fermented dairy desserts, Plain yogurts, Greek-style yogurts, Greek-style yogurts (plain)",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 600.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Pot, Cardboard, Fresh, Seal, Sleeve",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": "FR 42.005.001 CE",
+  "stores": "Magasins U, carrefour.fr, Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "83.1%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "12.0%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "fabrique-en-france-avec-du-lait-francais",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 420.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 101.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.12,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

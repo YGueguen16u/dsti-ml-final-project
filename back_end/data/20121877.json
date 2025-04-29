@@ -1,0 +1,126 @@
+{
+  "barcode": "20121877",
+  "name": "Galletas saladas",
+  "brands": "Snack Day",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits",
+  "countries_sold": "France, Spain",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 350.0,
+    "unit": "g"
+  },
+  "packaging": "es:Bote de plástico",
+  "labels": "Vegetarian, Vegan, Green Dot, Nutriscore",
+  "origin": null,
+  "manufacturing_places": "España",
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "55.2% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "10.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Malt syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E341",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "antoxidante",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E223",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.059,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 491.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 65.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

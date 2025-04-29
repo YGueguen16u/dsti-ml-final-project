@@ -1,0 +1,50 @@
+{
+  "barcode": "3017230000059",
+  "name": "Olives noires confites dénoyautées bocal 150g",
+  "brands": "Tramier",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Pickles, Olive tree products, Plant-based pickles, Olives, Black olives, Pitted olives, Black pitted olives",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar",
+  "labels": "No preservatives",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr, Carrefour market",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Black olive",
+      "percentage": "97.9% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E579",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

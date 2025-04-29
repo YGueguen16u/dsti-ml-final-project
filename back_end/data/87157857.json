@@ -1,0 +1,110 @@
+{
+  "barcode": "87157857",
+  "name": "Mayonnaise Das Original",
+  "brands": "Heinz",
+  "categories": "Condiments, Sauces, Mayonnaises",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 215.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Bottle or vial, Bottle, Vial, PET1",
+  "labels": "Free range, Free range eggs, Green Dot",
+  "origin": null,
+  "manufacturing_places": "Polen",
+  "stores": "Magasins U",
+  "allergens": "Eggs, Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Colza oil",
+      "percentage": "68.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "21.0% (estimate)"
+    },
+    {
+      "ingredient": "Pasteurised egg yolk",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E385",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.69,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 644.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

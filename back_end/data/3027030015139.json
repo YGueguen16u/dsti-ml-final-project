@@ -1,0 +1,92 @@
+{
+  "barcode": "3027030015139",
+  "name": "Flan pâtissier",
+  "brands": "alsa",
+  "categories": "Dairies, Snacks, Desserts, Sweet snacks, Biscuits and cakes, Dairy desserts, Cooking helpers, Dessert mixes, Pastries, Open pies, fr:Préparations pour flans",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": "No preservatives",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "70.8% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "15.3% (estimate)"
+    },
+    {
+      "ingredient": "Whole egg",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Milk mineral concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160b",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "10.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 523.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 125.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.12,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

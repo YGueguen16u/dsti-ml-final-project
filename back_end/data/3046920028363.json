@@ -1,0 +1,83 @@
+{
+  "barcode": "3046920028363",
+  "name": "Excellence 85% Cacao Rich Dark",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Dark chocolate bar with more than 70% cocoa, Extra fine dark chocolates",
+  "countries_sold": "Andorra, Austria, Belgium, Bulgaria, Denmark, France, Germany, Hungary, Italy, Morocco, Netherlands, New Zealand, Poland, Portugal, Romania, Russia, Spain, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard, Paperboard, es:Caja de cartón, pt:Papel de aluminio, ro:Produkt",
+  "labels": "Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour, Asda, Kaufland, Оливье",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Brown sugar",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Vanilla",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.418,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 584.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,42 @@
+{
+  "barcode": "3019080063505",
+  "name": "Thon entier au naturel cuisson vapeur",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Frozen foods, Canned fishes, Tunas, Canned tunas, Tunas in brine, Whole tunas",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned, Lid",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": "Les Seychelles",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tuna",
+      "percentage": "94.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

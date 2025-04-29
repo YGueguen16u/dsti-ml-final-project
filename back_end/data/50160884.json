@@ -1,0 +1,105 @@
+{
+  "barcode": "50160884",
+  "name": "Vegan Bouillon powder reduced salt",
+  "brands": "Marigold",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Dried products, Dried plant-based foods, Dried products to be rehydrated, Broths, Dehydrated broths, Vegetable broths, Bouillon powders, Dehydrated vegetable bouillons, Vegetable bouillon powders, Groceries",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Card-tube, Foil-tube, Foil-film, Ldpe-lid, Other plastic-pot",
+  "labels": "No gluten, Vegetarian, Vegan",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Tesco, Sainsburys",
+  "allergens": "Celery, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sea salt",
+      "percentage": "54.2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "22.9% (estimate)"
+    },
+    {
+      "ingredient": "Hydrolysed vegetable protein",
+      "percentage": "11.5% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsnip",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Leek",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery seed",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Turmeric",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "White pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mace",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lovage",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

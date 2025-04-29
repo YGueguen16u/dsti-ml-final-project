@@ -1,0 +1,70 @@
+{
+  "barcode": "3179730121884",
+  "name": "Eau pétillante",
+  "brands": "Perrier",
+  "categories": "Beverages, Carbonated drinks, Waters, Spring waters, Mineral waters, Unsweetened beverages, Carbonated waters, Carbonated mineral waters, fr:Nutri score A",
+  "countries_sold": "Belgium, France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 0.5,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 50.0,
+    "unit": "cl"
+  },
+  "packaging": "fr:Bouchon en plastique, fr:Bouteille en plastique, fr:Bouteille en plastique bouchons en plastique étiquette film plastique",
+  "labels": "Nutriscore",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "E290",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.002,
+      "unit": "g"
+    },
+    "potassium": {
+      "quantity": 0.1,
+      "unit": "mg"
+    },
+    "chloride": {
+      "quantity": 1.95,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 15.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 0.39,
+      "unit": "mg"
+    },
+    "nitrate": {
+      "quantity": 0.73,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

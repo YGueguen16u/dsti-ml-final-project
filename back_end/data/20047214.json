@@ -1,0 +1,86 @@
+{
+  "barcode": "20047214",
+  "name": "Mozzarella grated",
+  "brands": "Lidl, Milbona",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Cow cheeses, Grated cheese, Grated Mozzarella",
+  "countries_sold": "Bulgaria, Croatia, Cyprus, Denmark, Finland, France, Germany, Portugal, Romania, Sweden",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Other-plastics",
+  "labels": "Vegetarian, European Vegetarian Union, European Vegetarian Union Vegetarian, Green Dot, pt:Ecoponto amarelo",
+  "origin": null,
+  "manufacturing_places": "Nederland",
+  "stores": "Lidl",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pasteurised milk",
+      "percentage": "98.1% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferment",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Microbial rennet",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.247,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 300.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.97,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

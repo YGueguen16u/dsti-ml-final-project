@@ -1,0 +1,94 @@
+{
+  "barcode": "30000117",
+  "name": "Le Pâté Hénaff",
+  "brands": "Hénaff",
+  "categories": "Canned foods, Meats and their products, Spreads, Meats, Prepared meats, Salted spreads, Pork and its products, fr:Charcuteries diverses, Pâté, Pork, Pork Pâtés",
+  "countries_sold": "France, Japan, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 78.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 78.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned, fr:Boîte en métal, fr:Couvercle en métal, fr:Couvercle ouverture facile",
+  "labels": "No gluten, French meat, No preservatives, French pork, Metal recycles forever, No colorings, Produced in Brittany, Without sodium nitrite, Triman, es:Natural, fr:Filiere-locale-et-responsable",
+  "origin": null,
+  "manufacturing_places": "Jean Hénaff Production - Lieu dit Ker Hastell - 29710 Pouldreuzic, Finistère, Bretagne, France",
+  "stores": "Banque alimentaire, Carrefour, Magasins U, E.Leclerc, Intermarché, carrefour.fr",
+  "allergens": "Pork",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork",
+      "percentage": "91.0%"
+    },
+    {
+      "ingredient": "Ham",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Smoke",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pork liver",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.066,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 257.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "carbon footprint from meat or fish": {
+      "quantity": 159.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

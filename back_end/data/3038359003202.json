@@ -1,0 +1,82 @@
+{
+  "barcode": "3038359003202",
+  "name": "Lustucru quinoa facile",
+  "brands": "Lustucru",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Seeds, Cereals and their products, Meals, Cereal grains, fr:Céréales préparées, Quinoa",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": "602 g CO₂e per 100g of product",
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Box, Film, Individual bag, Container",
+  "labels": "Green Dot, fr:Garantie Lustucru",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Auchan, carrefour.fr, Leclerc",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Red and white quinoa",
+      "percentage": "51.0%"
+    },
+    {
+      "ingredient": "Bulgur",
+      "percentage": "49.0% (estimate)"
+    },
+    {
+      "ingredient": "Blé dur précuit concassé",
+      "percentage": "49.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver dans un endroit sec",
+  "customer_service": "Service consommateur LUSTUCRU, 37 bis, rue Saint Romain 69008 LYON",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.506,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 357.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 61.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.025,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

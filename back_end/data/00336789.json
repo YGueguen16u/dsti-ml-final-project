@@ -1,0 +1,187 @@
+{
+  "barcode": "00336789",
+  "name": "Spinach Ricotta Tortelloni",
+  "brands": "Sainsbury's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Cereals and their products, Meals, Pasta dishes, Pastas, Stuffed pastas, Egg pastas, Fresh pasta, Pasta stuffed with vegetables, Fresh egg pasta, Fresh pasta stuffed with vegetables, Pasta stuffed with cheese, Tortellini, Cooked fresh pasta stuffed with cheese and vegetables, Fresh pasta stuffed with cheese, Tortellini-ricotta-spinach, Tortelloni",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": null,
+  "packaging": "Ps-tray",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fresh egg pasta",
+      "percentage": "51.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "28.9% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "11.1% (estimate)"
+    },
+    {
+      "ingredient": "Durum wheat semolina",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "5.5% (estimate)"
+    },
+    {
+      "ingredient": "Ricotta",
+      "percentage": "16.0%"
+    },
+    {
+      "ingredient": "Cow's milk",
+      "percentage": "16.0% (estimate)"
+    },
+    {
+      "ingredient": "Spinach",
+      "percentage": "9.0%"
+    },
+    {
+      "ingredient": "Breadcrumbs",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Full-fat-hard-cheese",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Cow's milk",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Cow's milk",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Fully-refined-soybean",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pea fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 848.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 203.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.13,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 0.733,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 32.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.73,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.13,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.93,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.433,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,90 @@
+{
+  "barcode": "3033490699833",
+  "name": "Activia bifidus brasse nature 125 g x 8",
+  "brands": "Activia, Activia yoghurt nature, Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, Plain fermented dairy desserts, Plain yogurts, Stirred yogurts, Bifidus yogurts, Plain bifidus yogurts, Plain stirred yogurts",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Fresh, Seal, fr:Etui en carton, fr:Pot en plastique",
+  "labels": "100% natural, Calcium source, EU Agriculture, French milk, Green Dot, Nutriscore, Nutriscore Grade B, fr:Info-Tri Point Vert",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Carrefour market, Magasins U, carrefour.fr, Auchan",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "81.1%"
+    },
+    {
+      "ingredient": "Condensed skimmed milk",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Bifidobacterias y otros fermentos lácticos",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "Bifidus actiregularis",
+      "percentage": "3.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 286.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 68.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.13,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 139.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

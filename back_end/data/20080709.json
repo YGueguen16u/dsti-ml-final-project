@@ -1,0 +1,182 @@
+{
+  "barcode": "20080709",
+  "name": "Barritas avellanas",
+  "brands": "Crownfield, Lidl, Nutrisun",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Sweet snacks, Bars, Cereal bars, Cereal bars with nuts, Cereal bars with almonds, Cereal bars with hazelnuts, Cereal-bar-with-almonds-or-hazelnuts",
+  "countries_sold": "Bulgaria, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Container, Card-carton",
+  "labels": "Low or no sugar, FSC, FSC Mix, Green Dot, Made in Germany, No added sugar, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Nuts, Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sweetener",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "E965ii",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Cereal flakes",
+      "percentage": "27.6%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "13.8% (estimate)"
+    },
+    {
+      "ingredient": "Up",
+      "percentage": "24.8%"
+    },
+    {
+      "ingredient": "Wheat flakes",
+      "percentage": "13.8% (estimate)"
+    },
+    {
+      "ingredient": "Beads",
+      "percentage": "11.2% (estimate)"
+    },
+    {
+      "ingredient": "Crispy-wheat",
+      "percentage": "10.6%"
+    },
+    {
+      "ingredient": "Rye",
+      "percentage": "10.6%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malt-flour-of-barley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nut",
+      "percentage": "9.2%"
+    },
+    {
+      "ingredient": "Corn flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malt extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chopped-and-toasted",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "Coconut flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E472",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.688,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 403.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 62.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.27,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

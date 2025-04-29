@@ -1,0 +1,166 @@
+{
+  "barcode": "3033490005986",
+  "name": "Light&Free Vanille",
+  "brands": "Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fromages blancs - petit suisses and skyr, fr:Fromages blancs, fr:Spécialités laitières",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 4.0,
+    "unit": "x"
+  },
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fromage blanc",
+      "percentage": "50.6% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "50.6% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.2% (estimate)"
+    },
+    {
+      "ingredient": "Fructose",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bulking agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1200",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Exhausted vanilla pod",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E955",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 226.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 54.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.31,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

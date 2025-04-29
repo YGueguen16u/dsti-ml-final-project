@@ -1,0 +1,190 @@
+{
+  "barcode": "0047495112900",
+  "name": "Fig Bar Blueberry",
+  "brands": "Nature's Bakery",
+  "categories": "Snacks, Sweet snacks, Bars, Biscuits and cakes, Biscuits",
+  "countries_sold": "France, United States, World",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 2.0,
+    "unit": "pieces"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "oz"
+  },
+  "packaging": null,
+  "labels": "No gluten, Organic, Vegetarian, Kosher, No GMOs, Vegan, No milk, No nuts, Non GMO project",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "53.8% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "16.6% (estimate)"
+    },
+    {
+      "ingredient": "Fig paste",
+      "percentage": "14.8% (estimate)"
+    },
+    {
+      "ingredient": "Brown rice syrup",
+      "percentage": "7.4% (estimate)"
+    },
+    {
+      "ingredient": "Blueberry-jam",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rice starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Blueberry",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E410",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Canola oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal oat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fruit juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.47,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 351.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 8.77,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 66.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 33.3,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 24.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.26,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.26,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.351,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.0,
+      "unit": "µg"
+    },
+    "potassium": {
+      "quantity": 223.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 43.9,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 1.75,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

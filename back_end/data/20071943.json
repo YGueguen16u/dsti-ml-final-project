@@ -1,0 +1,154 @@
+{
+  "barcode": "20071943",
+  "name": "Früchte Hafer-Müsli",
+  "brands": "Brüggen, Crownfield, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Cereals with fruits, Mueslis, Mueslis with fruits",
+  "countries_sold": "Austria, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 50.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Hdpe-high-density-polyethylene, Bag, Cardboard",
+  "labels": "FSC, FSC Mix, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten, Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "53.0%"
+    },
+    {
+      "ingredient": "Oat",
+      "percentage": "28.0%"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Rye",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Raisin",
+      "percentage": "27.0%"
+    },
+    {
+      "ingredient": "Fruit",
+      "percentage": "8.6%"
+    },
+    {
+      "ingredient": "Date",
+      "percentage": "4.3% (estimate)"
+    },
+    {
+      "ingredient": "feige",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Pear",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apricot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Plum",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Apple",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Corn flakes",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "6.0% (estimate)"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Banana",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raspberry",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "gefriergetrocknete-erdbeerscheiben",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Sunflower seed",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.427,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 341.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 63.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 24.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

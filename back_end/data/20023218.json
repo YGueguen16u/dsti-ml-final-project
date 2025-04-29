@@ -1,0 +1,102 @@
+{
+  "barcode": "20023218",
+  "name": "Sauce Tomate Napolitaine",
+  "brands": "Combino",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Condiments, Legumes, Sauces, Meal sauces, Tomato sauces, Vegetable sauces, Neapolitan sauces, Tomato sauces with vegetables, Groceries",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "ml"
+  },
+  "packaging": "Glass, Canned, Jar",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Italie, Parma",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Crushed tomato",
+      "percentage": "70.0%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "12.2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "In-carrots",
+      "percentage": "5.5%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 297.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 71.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.42,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

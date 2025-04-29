@@ -1,0 +1,98 @@
+{
+  "barcode": "3179732333919",
+  "name": "Eau minérale naturelle",
+  "brands": "Vittel",
+  "categories": "Beverages and beverages preparations, Beverages, Waters, Spring waters, Mineral waters, Unsweetened beverages, Natural mineral waters",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle, Pet-bottle, Pet-cap, fr:Bouchon PEHD à recycler, fr:Bouteille PET à recycler",
+  "labels": "Green Dot, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": "France. Embouteillée à la source.",
+  "manufacturing_places": "Vittel",
+  "stores": "Leclerc",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Natural mineral water",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à l'abri de la chaleur et du gel dans un endroit sans odeur.",
+  "customer_service": "NESTLE WATERS, 34-40 rue Guynemer 92130 Issy-les-Moulineaux",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 0.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.001,
+      "unit": "g"
+    },
+    "bicarbonate": {
+      "quantity": 38.4,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 24.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 4.2,
+      "unit": "mg"
+    },
+    "nitrate": {
+      "quantity": 0.44,
+      "unit": "mg"
+    },
+    "sulfate": {
+      "quantity": 40.0,
+      "unit": "mg"
+    },
+    "residu-sec-a-180-c": {
+      "quantity": 108.4,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

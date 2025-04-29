@@ -1,0 +1,115 @@
+{
+  "barcode": "40084077",
+  "name": "Kinder Riegel Einzelpackung",
+  "brands": "Ferrero, Kinder",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolate candies, Bars, Candy chocolate bars, Süßer-snack, Süßwaren",
+  "countries_sold": "Belgium, Bulgaria, France, Germany, Morocco, Poland, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 21.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, de:Riegel",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Deutschland",
+  "stores": "Delhaize",
+  "allergens": "Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Feine Milchschokolade",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "30.0% (estimate)"
+    },
+    {
+      "ingredient": "vollmilchiver-kakaobutter",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "vanillin-magermilchpulver",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.37,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 566.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 22.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 53.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 53.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.7,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.313,
+      "unit": "g"
+    },
+    "0": {
+      "quantity": 13.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

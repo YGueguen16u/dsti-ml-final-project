@@ -1,0 +1,82 @@
+{
+  "barcode": "20398972",
+  "name": "Selection - Jambon cuit doré",
+  "brands": "Dulano, Saint Alby",
+  "categories": "Meats and their products, Meats, Prepared meats, Hams, White hams",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Protective gas",
+  "labels": "No gluten, Green Dot, No lactose, Nutriscore",
+  "origin": null,
+  "manufacturing_places": "Allemagne",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork",
+      "percentage": "96.0%"
+    },
+    {
+      "ingredient": "Nitrite-salt-for-brine",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E250",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450 stabilizer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E301",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

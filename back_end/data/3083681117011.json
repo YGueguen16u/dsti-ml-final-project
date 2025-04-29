@@ -1,0 +1,198 @@
+{
+  "barcode": "3083681117011",
+  "name": "Poêlée La Méditerranéenne",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Vegetables based foods, Frozen foods, Meals, Frozen plant-based foods, Frozen vegetables, Pan-fried dishes, fr:Poêlées méditerranéenne",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 750.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Frozen, fr:Sachet en plastique",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Courgette",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "24.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pommes de terre préfrites",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "19.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Grilled aubergines",
+      "percentage": "20.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "11.0% (estimate)"
+    },
+    {
+      "ingredient": "Yellow bell pepper",
+      "percentage": "10.9% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Pumpkin seed",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Double concentrated tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rosemary",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato maltodextrin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Courgette",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fennel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 402.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 96.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 9.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.38,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

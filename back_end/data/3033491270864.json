@@ -1,0 +1,82 @@
+{
+  "barcode": "3033491270864",
+  "name": "Danone skyr 140 g x 2 nature",
+  "brands": "Danone, Danone of the world",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Plain fermented dairy desserts, Skyrs, Plain skyrs",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 140.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 0.28,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Pot",
+  "labels": "Low or no fat, Source of proteins, Green Dot, High proteins, Made in France, No fat, Nutriscore, Nutriscore Grade A",
+  "origin": "France",
+  "manufacturing_places": "France, 93589 Saint-Ouen, st ouen",
+  "stores": "Magasins U, E.Leclerc, Intermarché, Carrefour, Bi, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A CONSERVER ENTRE +1°C ET + 6°C MAXIMUM",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 244.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 57.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.09,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 110.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

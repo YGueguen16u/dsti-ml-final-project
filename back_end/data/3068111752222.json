@@ -1,0 +1,82 @@
+{
+  "barcode": "3068111752222",
+  "name": "Ma levure boulangère",
+  "brands": "Francine",
+  "categories": "Food additives, Baker's yeast",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 5.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Cardboard, Container, Protective gas, fr:Etui carton à recycler, fr:Pensez au tri!, fr:Point vert, fr:Sachet plastique à jeter",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": "Grands Moulins de Paris",
+  "stores": "Intermarché, Carrefour Market, Magasins U, Auchan, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "levure-boulangere-seche-instantanee",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "E491",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.506,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 359.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 44.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.75,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

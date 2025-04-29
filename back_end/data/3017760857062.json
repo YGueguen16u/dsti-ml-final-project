@@ -1,0 +1,114 @@
+{
+  "barcode": "3017760857062",
+  "name": "Véritable petit beurre🧈",
+  "brands": "LUMondelez",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Petit-Beurre, Biscuits et gâteaux, Snacks sucrés",
+  "countries_sold": "Belgium, France, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 3.0,
+    "unit": "cookie"
+  },
+  "quantity": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, fr:Sachets de 3",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Made in France, No colorings, Point-vert",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": null,
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "73.4%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "13.6%"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Baking powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ammonium-acid-carbonate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.84,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 440.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 23.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.38,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

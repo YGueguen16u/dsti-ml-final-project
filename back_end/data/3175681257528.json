@@ -1,0 +1,70 @@
+{
+  "barcode": "3175681257528",
+  "name": "Gerblé - Organic Coconut Poppy Cookie, 132g (4.7oz)",
+  "brands": "Gerblé, Gerblé Bio",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Shortbread cookies",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 132.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, FR-BIO-10, Made in France, No palm oil, Nutriscore, Nutriscore Grade B, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "68.4%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "10.8% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "10.8% (estimate)"
+    },
+    {
+      "ingredient": "Blue poppy seed",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Wheat bran",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Coconut",
+      "percentage": "2.4%"
+    },
+    {
+      "ingredient": "Natural coconut flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

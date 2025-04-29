@@ -1,0 +1,110 @@
+{
+  "barcode": "3073781176650",
+  "name": "Kiri Bio",
+  "brands": "Kiri",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Cheeses, Spreads, Salted spreads, Processed cheese, Cheese spreads, Cheeses (perishable), Melted cheese, Processed cheese double cream around 31% fat",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 18.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 144.0,
+    "unit": "g"
+  },
+  "packaging": "Box",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Milk",
+      "percentage": "58.0%"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "30.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifying salts",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E331",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ingredients",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +4°C - +8°C",
+  "customer_service": "BEL, BP 114 - 92151 SURESNES CEDEX – France",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.269,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 307.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 19.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 190.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

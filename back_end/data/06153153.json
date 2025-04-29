@@ -1,0 +1,79 @@
+{
+  "barcode": "06153153",
+  "name": "Tartines craquantes quinoa - pois chiche",
+  "brands": "Jardin Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Breads, Extruded crispbreads, Crispbreads",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 23.0,
+    "unit": "g"
+  },
+  "quantity": null,
+  "packaging": null,
+  "labels": "No gluten, Organic, Crossed Grain Trademark, EU Organic, 1% for the planet, DZG Gluten free, FR-BIO-01, Made in France, No added sugar, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Supercoop",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rice flour",
+      "percentage": "74.8% (estimate)"
+    },
+    {
+      "ingredient": "Chestnut flour",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.603,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 378.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 79.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.5,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

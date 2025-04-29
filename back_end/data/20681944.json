@@ -1,0 +1,74 @@
+{
+  "barcode": "20681944",
+  "name": "Lait Entier",
+  "brands": "Envia",
+  "categories": "Beverages and beverages preparations, Beverages, Dairies, Milks (liquid and powder), Milks, Homogenized milks, Pasteurised products, UHT Milks, Unsweetened beverages, Whole milks, Whole milk UHT",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "fr:Bouchon plastique, fr:Brique carton",
+  "labels": "Fed without GMOs, Calcium source, French milk, FSC, FSC Mix, Green Dot, Nutriscore, Nutriscore Grade B, fr:Garantie IPLC, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Lidl",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole milk",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 271.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 65.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

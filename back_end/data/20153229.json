@@ -1,0 +1,75 @@
+{
+  "barcode": "20153229",
+  "name": "Sonnenmais",
+  "brands": "Beste Ernte, Freshona, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Cereals and potatoes, Vegetables based foods, Canned plant-based foods, Cereals and their products, Canned vegetables, Canned cereals, Canned corn, Canned sweet corn",
+  "countries_sold": "Austria, Czech Republic, France, Germany, Poland, Portugal, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 340.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Can, Canned, Steel",
+  "labels": "Vegetarian, No GMOs, Vegan, Ohne Gentechnik, Certified B Corporation, Green Dot, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn kernel",
+      "percentage": "74.9% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.6% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 325.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 77.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 11.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.28,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

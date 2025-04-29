@@ -1,0 +1,54 @@
+{
+  "barcode": "54491014",
+  "name": "Coca Cola Original Taste",
+  "brands": "Coca-Cola",
+  "categories": "Beverages and beverages preparations, Beverages, Carbonated drinks, Sodas, Colas, Sweetened beverages",
+  "countries_sold": "Belgium, Croatia, France, Germany, Switzerland, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "ml"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Can, Drink can, Aluminium-can",
+  "labels": "Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Asda",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Carbonated water",
+      "percentage": "78.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "E150d",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "5.3% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring-including-caffeine",
+      "percentage": "5.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

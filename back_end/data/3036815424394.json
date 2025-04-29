@@ -1,0 +1,166 @@
+{
+  "barcode": "3036815424394",
+  "name": "Velouté tomates",
+  "brands": "ROYCO",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Dried products, Meals, Dried products to be rehydrated, Soups, Dried meals, Vegetable soups, Dehydrated soups, Dehydrated tomato soup, fr:fabriqué en France",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 72.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "No preservatives, Made in France, No colorings",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Celery, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "24.0%"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "38.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "19.0% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "9.5% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "4.8% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red beetroot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E451",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E100",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 151.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 36.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.001,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.69,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

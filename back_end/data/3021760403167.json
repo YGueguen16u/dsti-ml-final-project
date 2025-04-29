@@ -1,0 +1,87 @@
+{
+  "barcode": "3021760403167",
+  "name": "Pom' potes Pomme Bio",
+  "brands": "Materne",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Desserts, Fruits based foods, Fresh foods, Compotes, Apple compotes, Compotes to drink",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 90.0,
+    "unit": "g"
+  },
+  "packaging": "Fresh, fr:gourde plastique",
+  "labels": "No gluten, Organic, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, Green Dot, No added sugar, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Burger King",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Apple",
+      "percentage": "99.9%"
+    },
+    {
+      "ingredient": "jus-de-citron-concentre-de-citron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "si-necessaire-pour-reguler-l-acidite",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 255.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 61.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

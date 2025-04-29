@@ -1,0 +1,94 @@
+{
+  "barcode": "3045320094008",
+  "name": "Strawberry Jam",
+  "brands": "Bonne Maman",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Breakfasts, Spreads, Fruits based foods, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Strawberry jams",
+  "countries_sold": "France, Ireland, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 370.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar, Glass-bottle, Glass-jar",
+  "labels": "No gluten",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Asda",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Strawberry",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Fruit pectin",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.02,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 241.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,82 @@
+{
+  "barcode": "3080216055428",
+  "name": "Bière Blonde sans alcool 1664",
+  "brands": "0%, 1664, 1664 0, Brasserie Kronenbourg",
+  "categories": "Beverages and beverages preparations, Beverages, Alcoholic beverages, Beers, Ales, Lagers, Non-alcoholic beverages, Unsweetened beverages, fr:Bière 25 cl 0 % Vol. Alcool, fr:Bière blonde houblonnée, fr:Bière non alcoolisée",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "packaging": "Glass, Bottle",
+  "labels": "Triman",
+  "origin": "67210 Obernai France",
+  "manufacturing_places": "France, Obernai",
+  "stores": null,
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "70.0% (estimate)"
+    },
+    {
+      "ingredient": "Malted barley",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Hop extract",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A L'ABRI SOLEIL ET PLUIE",
+  "customer_service": "Service Consommateurs BK , 03 88 27 59 59",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 63.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 15.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

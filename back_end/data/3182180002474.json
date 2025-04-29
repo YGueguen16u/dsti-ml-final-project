@@ -1,0 +1,130 @@
+{
+  "barcode": "3182180002474",
+  "name": "Pain grillé",
+  "brands": "Brioche Pasquier",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Toasts, Aliments et boissons à base de végétaux  Aliments d'origine végétale  Céréales et pommes de terre  Pains",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 20.0,
+    "unit": "tr"
+  },
+  "packaging": "fr:ÉTUI + F SACHET BAC DE TRI",
+  "labels": "Nutriscore, Nutriscore Grade B, NutriscoreNutriscore B",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour Market",
+  "allergens": "Eggs, Gluten, Milk, Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "78.0%"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "10.0%"
+    },
+    {
+      "ingredient": "huile-de-tournesol-levure-boulangere",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley malt flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potassium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "gluten-de-ble-agent-de-traitement-de-la-farine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "et-qu-il-a-pu-etre-en-contact-avec-des-fruits-a-coque",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame seeds",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.698,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 403.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 72.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,138 @@
+{
+  "barcode": "3175681248533",
+  "name": "Quinoa royal - Pois-chiches & citron confit",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Frozen foods, fr:Quinoa-royal-pois-chiches",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Sachet microondable",
+  "labels": "Organic, Vegetarian, EU Organic, No preservatives, Non-EU Agriculture, Vegan, EU Agriculture, EU/non-EU Agriculture, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "Revel",
+  "stores": "Match, Carrefour, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "56.1% (estimate)"
+    },
+    {
+      "ingredient": "quinoa-royal",
+      "percentage": "10.4%"
+    },
+    {
+      "ingredient": "Yellow carrot",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "riz-rouge-complet",
+      "percentage": "7.8% (estimate)"
+    },
+    {
+      "ingredient": "Chickpea",
+      "percentage": "5.3%"
+    },
+    {
+      "ingredient": "Coconut milk",
+      "percentage": "5.1%"
+    },
+    {
+      "ingredient": "Preserved lemon",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Corn syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon peel",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coriander",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Nutmeg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 402.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 96.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.2,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.76,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

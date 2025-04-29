@@ -1,0 +1,118 @@
+{
+  "barcode": "20170196",
+  "name": "Sweet Chilli lidl",
+  "brands": "Vitasia",
+  "categories": "Condiments, Sauces, Hot sauces, Groceries",
+  "countries_sold": "Belgium, Bulgaria, France, Germany, Ireland, Russia, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Pet-polyethylene-terephthalate, Bottle",
+  "labels": "Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Nutriscore, Rainforest Alliance",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "46.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "30.0%"
+    },
+    {
+      "ingredient": "Chili pepper",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "speisesalz-säuerungsmittel",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "E260",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E202",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 669.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 160.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 37.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 34.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.752,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

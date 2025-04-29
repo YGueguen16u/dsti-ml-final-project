@@ -1,0 +1,126 @@
+{
+  "barcode": "20927905",
+  "name": "Madeleines coquilles",
+  "brands": "Sondey",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Cakes, Madeleines, Plain madeleines",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Film en plastique, fr:Sachet plastique",
+  "labels": "Organic, EU Organic, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "36.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "21.5% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "21.3% (estimate)"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "3.6% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.838,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 439.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 56.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 29.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.77,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

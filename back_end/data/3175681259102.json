@@ -1,0 +1,158 @@
+{
+  "barcode": "3175681259102",
+  "name": "Teriyaki",
+  "brands": "Céréal Bio",
+  "categories": "Meals, fr:Céréales préparées, Prepared rices",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 220.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Organic, Vegetarian, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-10, Made in France, No colorings, Nutriscore, Nutriscore Grade A, Pesticide-free, PGI, AB Agriculture Biologique, fr:Terracycle",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Market, E.Leclerc, carrefour.fr",
+  "allergens": "Gluten, Sesame seeds, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "28.4% (estimate)"
+    },
+    {
+      "ingredient": "Brown long grain rice",
+      "percentage": "24.1%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "10.9%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "10.4%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "5.9%"
+    },
+    {
+      "ingredient": "Textured soy protein",
+      "percentage": "3.6%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.5% (estimate)"
+    },
+    {
+      "ingredient": "Soy sauce",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "1.8%"
+    },
+    {
+      "ingredient": "farine-de-soja-deshuilee",
+      "percentage": "1.5%"
+    },
+    {
+      "ingredient": "Ginger",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "sesame-noir-complet",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 677.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 161.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.98,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

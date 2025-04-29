@@ -1,0 +1,126 @@
+{
+  "barcode": "54491496",
+  "name": "Diet coke",
+  "brands": "Coca-Cola, Diet Coke, The Coca-Cola Company, Tiffin Sandwiches",
+  "categories": "Beverages, Carbonated drinks, Artificially sweetened beverages, Sodas, Diet beverages, Unsweetened beverages, Colas, Diet sodas, Diet cola soft drink, Sweetened beverages",
+  "countries_sold": "France, India, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Bottle or vial, Bottle, Pet-bottle, Pet-cap",
+  "labels": "Green Dot, Natural flavors",
+  "origin": null,
+  "manufacturing_places": "Royaume-Uni",
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Csd-water",
+      "percentage": "53.1% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "23.4% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "11.7% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "E212",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "To-protect-taste",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caffeine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Contains-phenylalaline-water-gazeifiee",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Caramel-colour-e150d",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural caffeine",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E338",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.6,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 0.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

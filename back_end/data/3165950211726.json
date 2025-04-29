@@ -1,0 +1,86 @@
+{
+  "barcode": "3165950211726",
+  "name": "Filet de maquereaux au naturel",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Plain mackerel fillets, Tinned Mackerels",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 176.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Canned, fr:Couvercle en métal",
+  "labels": "No preservatives, Omega-3, Green Dot, High in Omega 3, Produced in Brittany, Triman, fr:Qualité responsable, fr:Traçabilité garantie",
+  "origin": null,
+  "manufacturing_places": "Saupiquet (S. SAS) - Allée de Kergolvez - ZI de Kergolvez - 29000 Quimper, Finistère, Bretagne, France",
+  "stores": "Auchan, Magasins U, Intermarché, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "74.4% (estimate)"
+    },
+    {
+      "ingredient": "Atlantic mackerel",
+      "percentage": "74.4% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.8% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 862.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 206.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 3.1,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.18,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

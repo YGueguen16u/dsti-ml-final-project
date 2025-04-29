@@ -1,0 +1,82 @@
+{
+  "barcode": "20004132",
+  "name": "Chopped Tomatoes",
+  "brands": "Baresa, Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Vegetables based foods, Canned plant-based foods, Vegetables, Canned vegetables, Tomatoes and their products, Tomatoes, Canned tomatoes, Peeled tomatoes, de:Gehackte-tomaten",
+  "countries_sold": "Austria, Bulgaria, Croatia, Finland, France, Germany, Netherlands, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Can, Canned, Steel, bg:Can(s), bg:Stück, fr:40, fr:Artikel, fr:Dose, fr:FE",
+  "labels": "Vegetarian, Pasteurized, Vegan, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "AR Industrie Alimentari SpA - Loc Incoronata Zona ASI, 71100 Foggia, (FG : Foggia), Pouilles, Italie, Italien",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chopped tomatoes",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Tomato juice",
+      "percentage": "39.9%"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 109.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 26.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

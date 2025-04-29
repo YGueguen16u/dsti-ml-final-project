@@ -1,0 +1,179 @@
+{
+  "barcode": "80935490",
+  "name": "Chewing gum pure fresh",
+  "brands": "Mentos",
+  "categories": "Snacks, Sweet snacks, Confectioneries, Chewing gum, Sugar-free chewing gum",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sweetener",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "E967",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "E420",
+      "percentage": "9.0% (estimate)"
+    },
+    {
+      "ingredient": "E421",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "E965ii",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E951",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gum base",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "E422",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Maltodextrin",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E473",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E466",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glazing agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "cire-de-carnuauba",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Coconut oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E321",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E133",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 763.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 183.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 73.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "polyols (sugar alcohols)": {
+      "quantity": 69.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

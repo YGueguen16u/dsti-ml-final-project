@@ -1,0 +1,106 @@
+{
+  "barcode": "3154230040286",
+  "name": "HERTA bacon 15T - 150g",
+  "brands": "Herta",
+  "categories": "Meats and their products, Meats, Prepared meats, Fresh foods, Pork and its products, Pork, Back bacon, Bacon, Smoked bacon, Pork (prepared), Sliced bacon",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Protective gas, Seal, Tray, fr:Barquette en plastique, fr:Film en plastique, fr:Film plastique, fr:Tranche",
+  "labels": "Low or no fat, Low fat, French meat, Reduced fat, 50% less fat, French pork, Made in France, Nutriscore, Nutriscore Grade C, Herta s'engage, Triman, 3-de-matieres-grasses, Eco-emballages, fr:3-de-matieres-grasses",
+  "origin": "Viande de porc français rigoureusement sélectionnée",
+  "manufacturing_places": "France",
+  "stores": "Franprix, Magasins U, Bi1, Carrefour, carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pork fillet",
+      "percentage": "57.1% (estimate)"
+    },
+    {
+      "ingredient": "Preservative",
+      "percentage": "21.4% (estimate)"
+    },
+    {
+      "ingredient": "E250",
+      "percentage": "21.4% (estimate)"
+    },
+    {
+      "ingredient": "E326",
+      "percentage": "10.7% (estimate)"
+    },
+    {
+      "ingredient": "E261",
+      "percentage": "5.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "3.2% (estimate)"
+    },
+    {
+      "ingredient": "E316",
+      "percentage": "3.2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver à +4°C",
+  "customer_service": "HERTA, 16 bd du Mont d'Est – 93160 Noisy-le-Grand",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 464.3,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 110.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

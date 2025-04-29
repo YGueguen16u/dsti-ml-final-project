@@ -1,0 +1,234 @@
+{
+  "barcode": "3017760803991",
+  "name": "Belvita petit déjeuner goût noisette et chocolat",
+  "brands": "Belvita, LU",
+  "categories": "Snacks, Breakfasts, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Dry biscuits, Breakfast biscuit, Breakfast biscuit with cereals fortified with vitamins and chemical elements",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Paquet papier",
+  "labels": "Vegetarian, No preservatives, Source of fibre, Green Dot, Magnesium source, No colorings, No dyes or preservatives, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Cora, Leclerc, Carrefour",
+  "allergens": "Gluten, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "61.5%"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "41.4%"
+    },
+    {
+      "ingredient": "Wholemeal cereal",
+      "percentage": "20.1%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "12.3%"
+    },
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "3.2%"
+    },
+    {
+      "ingredient": "Wholemeal barley flour",
+      "percentage": "2.6%"
+    },
+    {
+      "ingredient": "Wholemeal spelt flour",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wholemeal rye flour",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shea butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "2.5%"
+    },
+    {
+      "ingredient": "Honey",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E170i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E504",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Elemental iron",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E503ii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.902,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 452.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.8,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 68.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 26.0,
+      "unit": "g"
+    },
+    "starch": {
+      "quantity": 41.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.33,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 315.0,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 5.6,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 146.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

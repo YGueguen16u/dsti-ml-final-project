@@ -1,0 +1,182 @@
+{
+  "barcode": "3175681066632",
+  "name": "Biscuits pavot citron",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Dry biscuits",
+  "countries_sold": "France, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 12.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Low or no sugar, Low sugar, Reduced sugar, Source of fibre, 45% less sugar, Made in France, Magnesium source, Natural flavors, No colorings, No palm oil, Nutriscore, Nutriscore Grade B, fr:Farine de blé français, Triman",
+  "origin": "Le pavot, le citron et le germe de blé ne sont pas d'origine France. Farine de blé origine France.",
+  "manufacturing_places": "France",
+  "stores": "Dia, Auchan, Carrefour Market, Magasins U, Carrefour Bio, Lidl, carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "57.9%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "14.0% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "10.8% (estimate)"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "5.6%"
+    },
+    {
+      "ingredient": "Blue poppy seed",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "3.0% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Fructose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon",
+      "percentage": "0.9%"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.905,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 454.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 66.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.36,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 1.2,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 2.8,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.27,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 72.0,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 159.0,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 203.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

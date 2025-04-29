@@ -1,0 +1,74 @@
+{
+  "barcode": "40122274",
+  "name": "Cornichons aigres-doux Recette Paysanne",
+  "brands": "Kûhne",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Vegetables based foods, Canned plant-based foods, Pickles, Vegetables, Canned vegetables, Plant-based pickles, Pickled vegetables, Pickled cucumbers, Gherkins, Cucumbers, Gherkins in sweet and sour sauce, Pickled gherkins",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 670.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Jar, fr:Bocal en verre, fr:Bocal en verre transparente, fr:Capsule en métal, fr:Couvercle en métal, fr:Point vert, fr:Triman",
+  "labels": "No preservatives, Without sulfites, Triman",
+  "origin": null,
+  "manufacturing_places": "Carl Kühne 22761 Hambourg Allemagne",
+  "stores": "Casino, Magasins U, carrefour.fr, Auchan",
+  "allergens": "Mustard",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Gherkin",
+      "percentage": "54.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "22.7% (estimate)"
+    },
+    {
+      "ingredient": "Alcohol vinegar",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "5.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dill",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Mustard seed",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

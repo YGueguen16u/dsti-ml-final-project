@@ -1,0 +1,82 @@
+{
+  "barcode": "00553179",
+  "name": "Porridge Oats 1.5kg",
+  "brands": "Sainsbury's, By sainsbury's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Flakes, Cereal flakes, Rolled flakes, Porridge, Rolled oats",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "serving"
+  },
+  "quantity": {
+    "quantity": 1.5,
+    "unit": "kg"
+  },
+  "packaging": "Mixed plastic film-bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wholegrain-scottish-oat-flakes",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.53,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 363.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 10.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

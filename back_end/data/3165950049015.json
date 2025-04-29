@@ -1,0 +1,74 @@
+{
+  "barcode": "3165950049015",
+  "name": "Filets de Sardines Citron Basilic",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Sardines, Canned sardines, Fish fillets, Sardine fillets, Sardines without oil, fr:Filets de sardines citron basilic",
+  "countries_sold": "France, Morocco, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned, fr:Couvercle en métal, fr:Couvercle ouverture facile",
+  "labels": "Sustainable, Sustainable fishery, No artificial flavors, No preservatives, No colorings, Produced in Brittany, Sustainable Seafood MSC, Without oil, fr:Sans-aretes",
+  "origin": null,
+  "manufacturing_places": "Saupiquet (S. SAS) - Allée de Kergolvez - ZI de Kergolvez - 29000 Quimper, Finistère, Bretagne, France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "filets-de-sardines-eau",
+      "percentage": "94.3% (estimate)"
+    },
+    {
+      "ingredient": "jus-concentre-de-citron-avec-arome-naturel-d-agrumes",
+      "percentage": "1.1%"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon zest",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "0.7%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E412",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sardine",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

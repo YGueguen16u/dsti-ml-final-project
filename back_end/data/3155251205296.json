@@ -1,0 +1,82 @@
+{
+  "barcode": "3155251205296",
+  "name": "Tartine Doux",
+  "brands": "Primevère",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fats, Spreads, Plant-based spreads, Salted spreads, Spreadable fats, Vegetable fats, Margarines, Light margarines",
+  "countries_sold": "Algeria, Belgium, Côte d'Ivoire, France, Guadeloupe, Martinique, Réunion, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Tray, Opercule en métal",
+  "labels": "Sustainable, Vegetarian, No preservatives, Sustainable Palm Oil, Vegan, 100% vegetable, Green Dot, Made in France, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, Carrefour, carrefour.fr, Carrefour City, Carrefour Contact, Carrefour Express",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Non-hydrogenated vegetable oils",
+      "percentage": "54.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "28.1% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "8.9% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "7.9% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

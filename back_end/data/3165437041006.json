@@ -1,0 +1,71 @@
+{
+  "barcode": "3165437041006",
+  "name": "Sirop d'Agave bio",
+  "brands": "Daddy",
+  "categories": "Sweeteners, Syrups, Simple syrups, Agave syrups, fr:Sirops traditionnels",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 360.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Flacon en plastique, fr:bouchon en plastique",
+  "labels": "Organic, EU Organic, Non-EU Agriculture, 100% natural, Green Dot, MX-BIO-141, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Agave syrup",
+      "percentage": "100.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.297,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 310.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 78.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 77.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.15,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

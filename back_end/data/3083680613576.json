@@ -1,0 +1,118 @@
+{
+  "barcode": "3083680613576",
+  "name": "Lentilles préparées",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Canned plant-based foods, Legume seeds, Meals, Pulses, Lentils, Canned legumes, Canned seasoned lentils, Prepared lentils",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 265.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Can, Canned, Food can, fr:Boîte en métal",
+  "labels": "No preservatives, Green Dot, Nutriscore, Nutriscore Grade A, fr:Eco-emballages",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Auchan, carrefour.fr",
+  "allergens": "Celery, Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "59.5% (estimate)"
+    },
+    {
+      "ingredient": "Gelbe Linsen",
+      "percentage": "32.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bay leaf",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chicken fat",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Graisse de porc",
+      "percentage": "0.0%"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 384.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 91.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.85,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

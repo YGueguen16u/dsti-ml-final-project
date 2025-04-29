@@ -1,0 +1,126 @@
+{
+  "barcode": "3083681066845",
+  "name": "Purée Délice - Courgettes, Céleri, Brocolis, Pois - Délice Vert",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Prepared vegetables, Purées, Mashed vegetables, fr:Legume-congele",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 780.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Plastic, Recyclable Metals, Aluminium, Bag",
+  "labels": "No preservatives, Cooked in France, Green Dot, No colorings, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "intermarché, carrefour.fr",
+  "allergens": "Celery, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Courgette",
+      "percentage": "42.0%"
+    },
+    {
+      "ingredient": "Celeriac",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Broccoli",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Petits pois doux",
+      "percentage": "14.0%"
+    },
+    {
+      "ingredient": "Potato flakes",
+      "percentage": "4.1% (estimate)"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "2.4% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.6%"
+    },
+    {
+      "ingredient": "Arôme naturel de muscade",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dried garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural pepper flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Modes de conservation : Congélateur *** à -18°C : Plusieurs mois \nDans le casier à glaçons de votre réfrigérateur : 3 jours \nRéfrigérateur domestique : 24 heures",
+  "customer_service": "Service consommateurs Bonduelle, Service consommateurs Bonduelle BP 30173 Villeneuve d'Ascq",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 231.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 55.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 5.3,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 2.7,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

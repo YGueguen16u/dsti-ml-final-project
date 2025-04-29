@@ -1,0 +1,118 @@
+{
+  "barcode": "0011210697003",
+  "name": "Sriracha",
+  "brands": "McIlhenny Company, Tabasco",
+  "categories": "Condiments, Sauces, Hot sauces, Sriracha sauces",
+  "countries_sold": "Belgium, France, Germany, Morocco, Romania, Spain, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "tea"
+  },
+  "quantity": {
+    "quantity": 256.0,
+    "unit": "ml"
+  },
+  "packaging": "Bottle",
+  "labels": "No gluten, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Consum, Carrefour",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "rote-jalapeño-chilischoten",
+      "percentage": "42.8%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "20.7% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "13.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "7.3% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "8.0%"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "3.4% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "rote-chilisauce",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Spirit vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "rote-chilischoten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver dans un endroit sec, propre et à l'abri de la chaleur après utilisation.\nA consommer de préférence avant la date indiquée sur l'emballage.",
+  "customer_service": "Tabasco Relation Consommateurs, Unilever France, 20 rue des Deux Gares 92842 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 512.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 121.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 6.7,
+      "unit": "g"
+    },
+    "potassium": {
+      "quantity": 10.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

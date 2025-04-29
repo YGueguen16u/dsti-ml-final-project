@@ -1,0 +1,167 @@
+{
+  "barcode": "3034450001123",
+  "name": "Viandox 160ml",
+  "brands": "Knorr",
+  "categories": "Condiments, Sauces, Groceries",
+  "countries_sold": "France, Spain",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "ml"
+  },
+  "packaging": "Plastic, Glass, fr:Bouteille en verre",
+  "labels": "Green Dot",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Mercadona, Carrefour, Leclerc",
+  "allergens": "Celery, Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "56.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "10.5% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Soy sauce",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E631",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E270",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Tenir au sec. Fermer après usage.",
+  "customer_service": "Knorr® Relation Consommateurs \n09 69 32 00 60 (appel non surtaxé) \nwww.knorr.fr \nUnilever France \n20 rue des Deux Gares \n92842 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 180.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 45.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 21.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

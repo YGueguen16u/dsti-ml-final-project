@@ -1,0 +1,98 @@
+{
+  "barcode": "20815356",
+  "name": "Dunkle Schokolade mit ganzen Haselnüssen",
+  "brands": "Fin Carré, Lidl",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Confectioneries, Chocolates, Dark chocolates, Chocolates with hazelnuts, Dark chocolates with hazelnuts",
+  "countries_sold": "Belgium, France, Germany, Netherlands, Poland, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 16.7,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, PP 5 - Polypropylene",
+  "labels": "Fair trade, Fairtrade International, Sustainable farming, Made in Germany, Max Havelaar, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Noisettes décortiquées",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "6.7% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.3% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "3.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.434,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 587.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 44.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 17.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 34.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 8.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

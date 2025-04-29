@@ -1,0 +1,122 @@
+{
+  "barcode": "3041090063152",
+  "name": "Cracotte Gourmande",
+  "brands": "lu",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Rusks",
+  "countries_sold": "Belgium, France, Réunion",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 7.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Box, Container, fr:2 sachets fraicheur",
+  "labels": "Distributor labels, No preservatives, Charte LU Harmony, Made in France, No colorings, fr:92-de-cereales",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Intermarché, Magasins U, Delhaize",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cereal",
+      "percentage": "92.0%"
+    },
+    {
+      "ingredient": "farine-de-ble-90",
+      "percentage": "61.3% (estimate)"
+    },
+    {
+      "ingredient": "Cereal",
+      "percentage": "15.3% (estimate)"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "15.3% (estimate)"
+    },
+    {
+      "ingredient": "Whey powder",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Ferric diphosphate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower lecithin",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.628,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 389.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 78.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "iron": {
+      "quantity": 4.2,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,186 @@
+{
+  "barcode": "3168930000983",
+  "name": "Bénénuts 3D's Bugles Goût bacon",
+  "brands": "3D's Bugles, BENENUTS, LAYS, PepsiCo",
+  "categories": "Snacks, Salty snacks, Appetizers, Biscuits and crackers, Crackers(Appetizers), Puffed salty snacks, Puffed salty snacks made from maize, fr:biscuits-aperitif-souffles-au-bacon",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 85.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Sachet en plastique, fr:Sachet plastique à jeter",
+  "labels": "No artificial flavors, Green Dot, Nutriscore, Nutriscore Grade D, fr:Info-tri-point-vert",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Celery, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn flour",
+      "percentage": "69.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "31.0%"
+    },
+    {
+      "ingredient": "Basic-flavouring-bacon",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "5-ribonucleotide-disodium-salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hydrolysed vegetable protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Smoke",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Whey",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour-of-carob-bean",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Malt-flour-of-barley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E150d",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Smoky-aroma",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver à l'abri de la chaleur et de l'humidité",
+  "customer_service": "PepsiCo France SNC, 420, rue d'Estienne d'Orves 92705 Colombes CEDEX",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.22,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 531.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "polyunsaturated fat": {
+      "quantity": 2.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

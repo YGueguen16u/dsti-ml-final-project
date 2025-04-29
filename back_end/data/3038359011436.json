@@ -1,0 +1,119 @@
+{
+  "barcode": "3038359011436",
+  "name": "Panzani sauce provencale nat 210g f12",
+  "brands": "Panzani",
+  "categories": "Condiments, Frozen foods, Sauces, Pasta sauces, Tomato sauces, Provençale sauces, Tomato sauces with onions",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 210.0,
+    "unit": "g"
+  },
+  "packaging": "Jar, fr:Couvercle en métal, fr:Pot en verre",
+  "labels": "Nutriscore, Nutriscore Grade A",
+  "origin": "Espagne",
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Fresh tomatoes",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Tomato purée",
+      "percentage": "85.0%"
+    },
+    {
+      "ingredient": "Fresh vegetables",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "carrottes",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "4.0%"
+    },
+    {
+      "ingredient": "Virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herbes de Provence",
+      "percentage": "0.4%"
+    },
+    {
+      "ingredient": "Natural herbs flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "extrait-d-oigons",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Après ouverture : 3 jours au réfrigérateur",
+  "customer_service": "Service consommateurs PANZANI, 141 cours Gambetta 69003 LYON - FRANCE 0 970 809 115",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 230.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 55.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.99,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,50 @@
+{
+  "barcode": "3155250367094",
+  "name": "La motte de beurre aux cristaux de sel",
+  "brands": "Président",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Half-salted butter, Pasteurized butters",
+  "countries_sold": "Belgium, Estonia, France, Italy, Romania",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Pot, fr:Cloche plastique, fr:Socle en plastique",
+  "labels": "Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Leclerc, Super U, Carrefour",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "97.0% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "64.7% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "16.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "16.2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "3.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

@@ -1,0 +1,102 @@
+{
+  "barcode": "20620400",
+  "name": "YAOURT Nature",
+  "brands": "envia",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, Plain fermented dairy desserts, Plain yogurts",
+  "countries_sold": "France, Spain",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "kg"
+  },
+  "packaging": "Plastic, Cardboard, fr:Etui en carton, fr:Pot en plastique",
+  "labels": "Calcium source, French milk, Green Dot",
+  "origin": null,
+  "manufacturing_places": "Novandie, Route de Oinville, FR-28700 Auneau Bleury St Symphorien",
+  "stores": "Lidl",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Skimmed milk",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Condensed skimmed milk",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 187.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 44.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.14,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 0.75,
+      "unit": "µg"
+    },
+    "calcium": {
+      "quantity": 120.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

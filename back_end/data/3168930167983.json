@@ -1,0 +1,94 @@
+{
+  "barcode": "3168930167983",
+  "name": "Pomme de terre nature",
+  "brands": "Lay's, Lays",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Salty snacks, Appetizers, Chips and fries, Frozen foods, Crisps, Potato crisps, Old-fashioned crisps, Potato crisps in sunflower oil",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 155.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Sachet plastique",
+  "labels": "No preservatives, Green Dot, No artificial colors, No colorings, Nutriscore, Nutriscore Grade C, Triman, fr:ISCC",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Carrefour, Intermarché",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Potato",
+      "percentage": "66.0%"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "33.5% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "22.2% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Corn",
+      "percentage": "5.6% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Pour préserver toute la saveur et le croustillant des chips, conserver à l'abri de la lumière et déguster dans les 7 jours après ouverture.",
+  "customer_service": "PepsiCo France, 15 boulevard Charles de Gaulle 92705 Colombes CEDEX",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.25,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 540.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 35.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 54.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

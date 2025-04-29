@@ -1,0 +1,78 @@
+{
+  "barcode": "3175681854468",
+  "name": "Gerblé Myrtille sans sucres ajoutés 320g",
+  "brands": "Gerblé",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Spreads, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Jams, Berry jams, Bilberries jams",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 320.0,
+    "unit": "g"
+  },
+  "packaging": "Glass, Pot",
+  "labels": "Low or no sugar, Source of fibre, Green Dot, High fibres, No added sugar, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "Union européenne",
+  "stores": "Carrefour, Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Blueberry",
+      "percentage": "50.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "29.2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "2-maltitols",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable fiber",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Пшеничен декстрин",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E333",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

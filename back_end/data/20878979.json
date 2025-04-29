@@ -1,0 +1,90 @@
+{
+  "barcode": "20878979",
+  "name": "Pitted Black Olives in Brine",
+  "brands": "Baresa, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Pickles, Olive tree products, Plant-based pickles, Olives, Black olives",
+  "countries_sold": "France, Germany, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 340.0,
+    "unit": "g"
+  },
+  "packaging": "de:1 Deckel Metall, de:1 Flasche Glas, Glass-jar, Steel-lid",
+  "labels": "Nutriscore, Nutriscore Grade C",
+  "origin": null,
+  "manufacturing_places": "Alicante, Spain",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "73.0% (estimate)"
+    },
+    {
+      "ingredient": "Black olive",
+      "percentage": "13.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "E579",
+      "percentage": "12.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 552.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 134.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

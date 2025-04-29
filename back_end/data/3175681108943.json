@@ -1,0 +1,106 @@
+{
+  "barcode": "3175681108943",
+  "name": "Tofu fumé",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Meat alternatives, Tofu, Smoked tofu",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard",
+  "labels": "Organic, Vegetarian, EU Organic, No preservatives, Non-EU Agriculture, Vegan, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Auchan, Carrefour, carrefour.fr, Monoprix",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tofu",
+      "percentage": "96.7%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "64.5% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Coagulant",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Nigari",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Spice",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 685.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 164.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.52,
+      "unit": "g"
+    },
+    "magnesium": {
+      "quantity": 136.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

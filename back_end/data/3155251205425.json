@@ -1,0 +1,78 @@
+{
+  "barcode": "3155251205425",
+  "name": "Légère & épaisse 15%",
+  "brands": "Bridélice",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Creams, Fermented creams, Refrigerated 15-20% fat light thick cream, fr:Crèmes légères",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 497.0,
+    "unit": "g"
+  },
+  "packaging": "Fresh",
+  "labels": "French milk, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Light cream",
+      "percentage": "97.0%"
+    },
+    {
+      "ingredient": "Modified tapioca starch",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 707.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 169.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.275,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

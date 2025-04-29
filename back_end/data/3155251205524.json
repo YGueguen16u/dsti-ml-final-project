@@ -1,0 +1,66 @@
+{
+  "barcode": "3155251205524",
+  "name": "beurre",
+  "brands": "president",
+  "categories": "Dairies, Fats, Spreads, Spreadable fats, Animal fats, Dairy spreads, Milkfat, Butters, Butter fat, Unsalted butters, Sweet cream butters",
+  "countries_sold": "Belgium, France, French Polynesia, Romania, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Fresh, Tray",
+  "labels": "Green Dot, Made in France",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Leclerc, Magasins U, carrefour.fr",
+  "allergens": "Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Butter",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "lain",
+      "percentage": "32.5% (estimate)"
+    },
+    {
+      "ingredient": "Cream",
+      "percentage": "13.8% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "6.9% (estimate)"
+    },
+    {
+      "ingredient": "nos-beurres-president-sont-fabriques-en-normandie-et-en-bretagne",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "en-moyenne-sur-l-annee",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "les-cremes-utilisees-sont-tres-majoritairement-francaises",
+      "percentage": "5.0% (estimate)"
+    },
+    {
+      "ingredient": "il-peut-arriver-que-nous-selectionnions-des-cremes",
+      "percentage": "5.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

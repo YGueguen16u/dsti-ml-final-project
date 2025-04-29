@@ -1,0 +1,74 @@
+{
+  "barcode": "3019081241582",
+  "name": "Filet de maquereaux grillés nature",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Tinned Mackerels, fr:Filets de maquereaux grillés, Filets-de-maquereaux-grillés",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 110.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 110.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Boîte conserve metal",
+  "labels": "No artificial flavors, Source of proteins, High proteins, No flavors",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, intermarché",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "90.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "9.4% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 975.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 233.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,82 @@
+{
+  "barcode": "20115685",
+  "name": "Breadcrumbs",
+  "brands": "Belbake, Lidl, Navarre",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Cereals and potatoes, Breads, Bread crumbs",
+  "countries_sold": "Belgium, France, Germany, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Carton box, Produkt",
+  "labels": "FSC, FSC Mix, Fsc-c074707",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "98.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.49,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 357.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.9,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 70.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.2,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.48,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

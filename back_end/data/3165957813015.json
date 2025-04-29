@@ -1,0 +1,127 @@
+{
+  "barcode": "3165957813015",
+  "name": "Filets de maquereaux marinade au Citron et à l'Olive",
+  "brands": "Saupiquet",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets with olives and lemon, Tinned Mackerels",
+  "countries_sold": "France, Germany, Switzerland",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 176.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Recyclable Metals, Aluminium, Canned, fr:Alu recyclable",
+  "labels": "Omega-3, High in Omega 3, Produced in Brittany, fr:Riche en Oméga 3 naturels",
+  "origin": null,
+  "manufacturing_places": "Bretagne, France",
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.4% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "12.8% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "6.4% (estimate)"
+    },
+    {
+      "ingredient": "Green olive",
+      "percentage": "2.0%"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified corn starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thickener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E415",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 975.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 233.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 21.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.8,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 3.1,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.2,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

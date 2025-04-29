@@ -1,0 +1,87 @@
+{
+  "barcode": "3175681037885",
+  "name": "Tartines Craquantes Multi-Céréales",
+  "brands": "Céréal bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Snacks, Cereals and potatoes, Extruded crispbreads",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 145.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag, Container",
+  "labels": "Low or no sugar, Low sugar, Organic, EU Organic, No preservatives, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, FR-BIO-10, Made in France, New recipe, No colorings, No palm oil, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U",
+  "allergens": "Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Rice flour",
+      "percentage": "67.7%"
+    },
+    {
+      "ingredient": "Buckwheat flour",
+      "percentage": "29.7%"
+    },
+    {
+      "ingredient": "Quinoa flour",
+      "percentage": "9.5%"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.552,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 371.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 79.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 9.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.32,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

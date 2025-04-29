@@ -1,0 +1,98 @@
+{
+  "barcode": "10082584",
+  "name": "Noix du Bresil",
+  "brands": "Seeberger",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Salty snacks, Dried products, Fruits based foods, Nuts and their products, Dried plant-based foods, Nuts",
+  "countries_sold": "France, Germany, Luxembourg, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 150.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Organic, Vegetarian, EU Organic, Vegan",
+  "origin": null,
+  "manufacturing_places": "Germany",
+  "stores": null,
+  "allergens": "Nuts, de:nusskernmischung",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Almond",
+      "percentage": "60.0% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "Cranberry",
+      "percentage": "20.0% (estimate)"
+    },
+    {
+      "ingredient": "sechees",
+      "percentage": "10.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.0% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "8.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.817,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 683.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 66.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.06,
+      "unit": "g"
+    },
+    "vitamin e": {
+      "quantity": 8.2,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 366.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

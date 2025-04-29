@@ -1,0 +1,118 @@
+{
+  "barcode": "3083680002929",
+  "name": "Macédoine de légumes en conserve",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Snacks, Canned foods, Salty snacks, Vegetables based foods, Appetizers, Canned plant-based foods, Meals, Canned vegetables, Prepared vegetables, Canned diced mixed vegetables, Cold starters, Vegetables macedoines",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 130.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Box, Canned",
+  "labels": "No preservatives, Source of fibre, fr:Fruits et Légumes de France, High fibres, Nutriscore, Nutriscore Grade A, Vitamin A source, Vitamin B9 source, Triman, fr:50-de-legumes-verts, fr:Eco-emballages",
+  "origin": "légumes de France",
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Carrefour, carrefour.fr",
+  "allergens": "None",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Vegetable",
+      "percentage": "73.9% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "41.7% (estimate)"
+    },
+    {
+      "ingredient": "Turnip",
+      "percentage": "16.1% (estimate)"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "8.0% (estimate)"
+    },
+    {
+      "ingredient": "Garden peas",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Flageolets",
+      "percentage": "4.0% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.1% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "rejoignez-nous-sur-bonduelle-fr-bonduelle-europe-service-consommateurs-bonduelle-b-p-30173-59653-villeneuve-d-ascq-cedex-09-70-25-22-22-appel-non-surtaxe-long-life-www-fondation-louisbonduelle-org-la-woestyne",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "59173-renescure-fruits-lecund-de-fran",
+      "percentage": "12.3% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver à température ambiante",
+  "customer_service": "Service consommateurs Bonduelle, Service consommateurs Bonduelle BP 30173 Villeneuve d'Ascq",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 161.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 39.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 2.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.76,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 141.0,
+      "unit": "µg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 0.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

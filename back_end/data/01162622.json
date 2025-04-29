@@ -1,0 +1,94 @@
+{
+  "barcode": "01162622",
+  "name": "Chickpeas in water",
+  "brands": "Sainsbury's, Greencane paper",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Canned foods, Legumes, Seeds, Canned plant-based foods, Legume seeds, Pulses, Chickpeas, Canned legumes, Canned chickpeas",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 120.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 240.0,
+    "unit": "g"
+  },
+  "packaging": "Paper-wrapper, Steel-can",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Sainsbury's",
+  "allergens": "Sulphur dioxide and sulphites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chickpea",
+      "percentage": "66.7% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "16.7% (estimate)"
+    },
+    {
+      "ingredient": "E223",
+      "percentage": "16.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 510.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 122.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.2,
+      "unit": "g"
+    },
+    "monounsaturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 16.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.7,
+      "unit": "g"
+    },
+    "serum proteins": {
+      "quantity": 16.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.03,
+      "unit": "g"
+    },
+    "phosphorus": {
+      "quantity": 700.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

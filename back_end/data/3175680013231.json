@@ -1,0 +1,198 @@
+{
+  "barcode": "3175680013231",
+  "name": "Gerblé - Choco Hazelnut Filled Cake, 200g (7.1oz)",
+  "brands": "Gerblé",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, Filled biscuits",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 20.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "fr:Boite carton, fr:Etui en carton, fr:Film en plastique, fr:Sachet plastique individuels",
+  "labels": "Sustainable, No preservatives, Sustainable farming, Sustainable Palm Oil, Made in France, No colorings, No palm oil, Nutriscore, Roundtable on Sustainable Palm Oil, UTZ Certified, fr:Farine de blé français, Triman",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Monoprix, E.leclerc, Carrefour, Carrefour Market",
+  "allergens": "Eggs, Gluten, Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat",
+      "percentage": "55.4% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "24.0% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "13.1% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "10.9% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "4.4%"
+    },
+    {
+      "ingredient": "Wheat germ",
+      "percentage": "3.3%"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Hazelnut",
+      "percentage": "1.9%"
+    },
+    {
+      "ingredient": "paillettes-de-chocolat",
+      "percentage": "1.4%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milkfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Magnesium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fructose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Deactivated yeast",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 408.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 97.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 4.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 12.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.5,
+      "unit": "mg"
+    },
+    "magnesium": {
+      "quantity": 55.2,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

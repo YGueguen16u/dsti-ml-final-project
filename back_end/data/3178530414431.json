@@ -1,0 +1,130 @@
+{
+  "barcode": "3178530414431",
+  "name": "MADELEINE CITRON",
+  "brands": "bonne maman",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Cakes, Madeleines",
+  "countries_sold": "France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 25.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 300.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, fr:Film en plastique, fr:Portion individuelle",
+  "labels": "Made in France",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, carrefour.fr",
+  "allergens": "Eggs, Gluten, Milk, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "34.5% (estimate)"
+    },
+    {
+      "ingredient": "Butter",
+      "percentage": "26.0%"
+    },
+    {
+      "ingredient": "Fresh egg",
+      "percentage": "25.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "8.8% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "3.0%"
+    },
+    {
+      "ingredient": "Invert sugar syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450i",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural lemon flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.749,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 418.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 44.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.3,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

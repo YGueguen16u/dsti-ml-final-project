@@ -1,0 +1,142 @@
+{
+  "barcode": "3175681216273",
+  "name": "Galettes boulghour de blé",
+  "brands": "Céréal Bio",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Meals, Meat alternatives, Plant-based meals, Vegetarian patties",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "x"
+  },
+  "packaging": "Plastic, Paper",
+  "labels": "Organic, EU Organic, No preservatives, Non-EU Agriculture, Source of fibre, Source of proteins, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, High fibres, High proteins, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, fr:Sans viande",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Magasins U, Auchan, carrefour.fr",
+  "allergens": "Gluten, Milk, fr:avoine",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat bulgur",
+      "percentage": "52.8%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "11.4% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "9.4%"
+    },
+    {
+      "ingredient": "fromage-parmesan",
+      "percentage": "6.4%"
+    },
+    {
+      "ingredient": "Whole grain oat flakes",
+      "percentage": "3.9%"
+    },
+    {
+      "ingredient": "Whole wheat flakes",
+      "percentage": "3.9%"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "3.8%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vinegar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "2.1%"
+    },
+    {
+      "ingredient": "Basil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato concentrate",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Tomato",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 933.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 222.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 28.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 4.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.95,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

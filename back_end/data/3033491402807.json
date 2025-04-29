@@ -1,0 +1,206 @@
+{
+  "barcode": "3033491402807",
+  "name": "Activia muesli graines de chia framboise",
+  "brands": "Activia, Activia yoghurt cereals/fibres, Danone",
+  "categories": "Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Fermented dairy desserts with fruits, Bifidus yogurts, Fruit bifidus yogurts",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 171.5,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 170.0,
+    "unit": "g"
+  },
+  "packaging": "Pot",
+  "labels": "Source of fibre, Calcium source, High fibres, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, G20",
+  "allergens": "Gluten, Milk, Sesame seeds",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "lait-fermente-sucre-au-bifidus",
+      "percentage": "88.2%"
+    },
+    {
+      "ingredient": "Semi-skimmed milk",
+      "percentage": "88.2% (estimate)"
+    },
+    {
+      "ingredient": "Milk proteins",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.1%"
+    },
+    {
+      "ingredient": "Lactic ferments",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yogurt cultures",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bifidus",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Müesli",
+      "percentage": "11.8%"
+    },
+    {
+      "ingredient": "Oat flakes",
+      "percentage": "6.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oligofructose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Einkorn wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chia seed",
+      "percentage": "0.5%"
+    },
+    {
+      "ingredient": "Rice",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "framboises-hyophilisees",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Acacia fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "farine-d-avoine-extrudee",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "germe-de-ble-nat-d-orge",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Oat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ceuf",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sesame",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cereals containing gluten",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "A conserver entre +1°C et + 6°C maximum",
+  "customer_service": "D.P.F.F., CS 50149 92565 Rueil-Malmaison Cedex",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 479.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 114.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 1.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 15.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.91,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 5.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.11,
+      "unit": "g"
+    },
+    "calcium": {
+      "quantity": 158.0,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

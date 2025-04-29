@@ -1,0 +1,130 @@
+{
+  "barcode": "3124480195401",
+  "name": "Oasis ice tea saveur pêche",
+  "brands": "OASIS",
+  "categories": "Beverages and beverages preparations, Beverages, Artificially sweetened beverages, Tea-based beverages, Iced teas, Peach flavored iced teas, Sweetened beverages",
+  "countries_sold": "Belgium, France",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "canette"
+  },
+  "quantity": {
+    "quantity": 33.0,
+    "unit": "cl"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "94.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Peach",
+      "percentage": "1.0%"
+    },
+    {
+      "ingredient": "Fructose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E296",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Black tea extract",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acidity regulator",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sodium citrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural tea flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E960",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 79.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 19.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 2.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

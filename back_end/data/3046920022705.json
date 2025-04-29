@@ -1,0 +1,119 @@
+{
+  "barcode": "3046920022705",
+  "name": "Excellence Noir Orange Intense Aux amandes effilées",
+  "brands": "Lindt",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Chocolates with almonds, Dark chocolate bar, Dark chocolates with orange",
+  "countries_sold": "Canada, France",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Cardboard, Recyclable Metals, Aluminium, Dry, Tray, fr:Etui en carton",
+  "labels": "Triman",
+  "origin": null,
+  "manufacturing_places": "France, 64400 Oloron-Sainte-Marie",
+  "stores": "Magasins U, Auchan, Carrefour, Cora, Franprix, E.leclerc, carrefour.fr",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "47.7% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "25.8% (estimate)"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Orange juice from concentrate",
+      "percentage": "3.9%"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Butterfat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Invert sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Lemon juice from concentrate",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pineapple",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural orange flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.229,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 535.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 32.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 51.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 46.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.08,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,91 @@
+{
+  "barcode": "3092718637033",
+  "name": "Sirop menthe verte",
+  "brands": "Teisseire",
+  "categories": "Beverages and beverages preparations, Beverages, Beverage preparations, Syrups, Flavoured syrups, Mint syrups",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 60.0,
+    "unit": "cl"
+  },
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "58.3% (estimate)"
+    },
+    {
+      "ingredient": "Glucose-fructose syrup",
+      "percentage": "20.8% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "10.4% (estimate)"
+    },
+    {
+      "ingredient": "Natural mint flavouring",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E150a",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "E133",
+      "percentage": "5.4% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.281,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 306.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 76.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 71.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

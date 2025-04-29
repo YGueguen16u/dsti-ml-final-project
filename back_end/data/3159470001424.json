@@ -1,0 +1,162 @@
+{
+  "barcode": "3159470001424",
+  "name": "Céréales All Bran Kellogg's Fibre Plus",
+  "brands": "Kellogg's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Breakfasts, Cereals and potatoes, Cereals and their products, Breakfast cereals, Extruded cereals, Breakfast cereals rich in fibre, Wheat bran sticks, fr:Céréales pour petit déjeuner à base de son de blé",
+  "countries_sold": "Belgium, France, Germany, Guadeloupe, Italy, Luxembourg, Netherlands, Spain, Switzerland, United Kingdom",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 40.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 500.0,
+    "unit": "g"
+  },
+  "packaging": "Container, Boîte, Plastique, Sachet",
+  "labels": "Halal, No artificial flavors, Source of fibre, Halal Food Authority, High fibres, No artificial colors, No artificial colours or flavours, Nutriscore, Nutriscore Grade B, Nicht-für-deutschland, Source-de-fibres-alimentaires, Végétarien",
+  "origin": null,
+  "manufacturing_places": "Produit en EU ou UK",
+  "stores": "Intermarché, Leclerc, E.Leclerc, Géant, Auchan, Carrefour, Hyper U, Super U, Magasins U, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat bran",
+      "percentage": "87.0%"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "7.0% (estimate)"
+    },
+    {
+      "ingredient": "arome-de-malt-d-orge",
+      "percentage": "2.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Minerals",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Thiamin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Folic acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Iron",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": "À conserver dans un endroit sec",
+  "customer_service": "Service Conseil Consommateurs, Kellogg's Produits Alimentaires S.A.S. - Immeuble Neptune - 1 rue Galilée 93160 Noisy-le-Grand (France)",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.4,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 334.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "alpha-linolenic acid": {
+      "quantity": 0.009,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 48.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 18.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 27.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.95,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 6.3,
+      "unit": "µg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.69,
+      "unit": "mg"
+    },
+    "vitamin b2 (riboflavin)": {
+      "quantity": 0.88,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 10.0,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.88,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 250.0,
+      "unit": "µg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 1.6,
+      "unit": "µg"
+    },
+    "iron": {
+      "quantity": 8.8,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

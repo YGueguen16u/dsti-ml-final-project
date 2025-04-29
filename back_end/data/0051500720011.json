@@ -1,0 +1,134 @@
+{
+  "barcode": "0051500720011",
+  "name": "Creamy Peanut Butter",
+  "brands": "Jif",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Spreads, Nuts and their products, Plant-based spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters, Plant-based foods and beverages  Plant-based foods  Legumes and their products  Spreads  Nuts and their products  Plant-based spreads  Oilseed purees  Legume butters  Nut butters  Peanut butters",
+  "countries_sold": "France, United States",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 33.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 1133.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic  Jar",
+  "labels": "No gluten, KosherNo glutenNo GMOsOrthodox Union Kosher",
+  "origin": null,
+  "manufacturing_places": "États-Unis",
+  "stores": null,
+  "allergens": "Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Roasted peanuts",
+      "percentage": "77.3% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Molasses",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Fully hydrogenated vegetable oils",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Soya bean",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "E471",
+      "percentage": "4.5% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "4.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.41,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 576.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 48.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 24.2,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 9.09,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 6.06,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.06,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 21.2,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.06,
+      "unit": "g"
+    },
+    "vitamin d (d3)": {
+      "quantity": 51.5,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 6.06,
+      "unit": "mg"
+    },
+    "potassium": {
+      "quantity": 558.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 51.5,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 1.52,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

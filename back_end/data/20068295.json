@@ -1,0 +1,91 @@
+{
+  "barcode": "20068295",
+  "name": "Iced tea saveur pêche",
+  "brands": "Freeway",
+  "categories": "Plant-based foods and beverages, Beverages, Plant-based beverages, Tea-based beverages, Iced teas, Peach flavored iced teas, Sweetened beverages",
+  "countries_sold": "Belgium, France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 2.0,
+    "unit": "l"
+  },
+  "packaging": "Plastic, Bottle, fr:bouteille & bouchon plastique",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Water",
+      "percentage": "91.9% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "3.9% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Peach juice",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Tea extract",
+      "percentage": "0.1%"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 130.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 31.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.0,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -1,0 +1,163 @@
+{
+  "barcode": "3168930173199",
+  "name": "Sweet chilli pepper",
+  "brands": "Doritos",
+  "categories": "Snacks, Salty snacks, Appetizers, Chips and fries, Crisps, Corn chips",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 160.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "Nutriscore, Nutriscore Grade B",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Corn",
+      "percentage": "72.0%"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "18.7% (estimate)"
+    },
+    {
+      "ingredient": "base-aromatisante-piment-doux",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E508",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hydrolysed vegetable protein",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cayenne pepper",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E160c",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Antioxidant",
+      "percentage": "4.7% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin C",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "E392",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E306",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.996,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 477.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 22.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 4.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 5.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 1.1,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

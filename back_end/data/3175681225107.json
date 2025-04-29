@@ -1,0 +1,138 @@
+{
+  "barcode": "3175681225107",
+  "name": "Tendres carrés de blé aux aubergine, poivron,  basilic",
+  "brands": "Céréal bio",
+  "categories": "Meat alternatives, Vegetarian patties",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Cardboard, Dry, fr:Etui en carton",
+  "labels": "Organic, Vegetarian, Certified by Ecocert, EU Organic, No preservatives, Non-EU Agriculture, Source of fibre, Source of proteins, Vegan, Cooked in France, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, High fibres, High proteins, Made in France, No additives, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Triman, fr:Terra cycle",
+  "origin": null,
+  "manufacturing_places": "France",
+  "stores": "Magasins U, Carrefour, Auchan, carrefour.fr",
+  "allergens": "Gluten",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "seitan-de-ble",
+      "percentage": "39.5%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "19.8% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "9.9% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "4.9% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "4.9% (estimate)"
+    },
+    {
+      "ingredient": "Aubergine",
+      "percentage": "25.1%"
+    },
+    {
+      "ingredient": "Riz complet étuvé",
+      "percentage": "17.7% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "8.9% (estimate)"
+    },
+    {
+      "ingredient": "Vegetable oil",
+      "percentage": "4.4% (estimate)"
+    },
+    {
+      "ingredient": "High oleic sunflower oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.2% (estimate)"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "7.0%"
+    },
+    {
+      "ingredient": "Whole grain oat flakes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "4.6%"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Herb",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Paprika",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 799.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 191.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.9,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 14.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.98,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

@@ -15,7 +15,7 @@ def db_connector():
         DatabaseConnector: An initialized instance used to interact with the PostgreSQL database.
     """
     root_path = Path(__file__).resolve().parents[3]
-    dotenv_path = root_path / "env_folder" / ".env.postgre"
+    dotenv_path = root_path / "env_folder" / ".env.postgre.local"
     return DatabaseConnector(dotenv_path=str(dotenv_path))
 
 def test_connection_established(db_connector):

@@ -1,0 +1,122 @@
+{
+  "barcode": "3083680085335",
+  "name": "Flageolets préparés - extra-fins",
+  "brands": "Cassegrain",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Vegetables based foods, Canned plant-based foods, Canned vegetables, Canned legumes, Canned common beans, Canned flageolet beans",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 400.0,
+    "unit": "g"
+  },
+  "packaging": "Box, fr:Boite métal, fr:Boîte en métal, fr:Conserve appertiséé",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": "Villeneuve d'Ascq",
+  "stores": "Monoprix, Super U, Magasins U, carrefour.fr, Sitis Market",
+  "allergens": "Celery, Gluten, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Green flageolets",
+      "percentage": "50.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "46.8% (estimate)"
+    },
+    {
+      "ingredient": "Carrot",
+      "percentage": "1.6%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pearl onion",
+      "percentage": "0.4%"
+    },
+    {
+      "ingredient": "Poultry broth",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavour enhancer",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E621",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E627",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Meat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chicken fat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Glucose syrup",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Potato starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Barley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Celery",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural spice flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

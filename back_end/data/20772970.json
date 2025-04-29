@@ -1,0 +1,98 @@
+{
+  "barcode": "20772970",
+  "name": "Roasted And Salted Snack Mix",
+  "brands": "Alesto",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Nuts and their products, Nuts, Shelled nuts",
+  "countries_sold": "France, Germany",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Bag",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Nuts, Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "27.2%"
+    },
+    {
+      "ingredient": "Cashew nuts",
+      "percentage": "26.9%"
+    },
+    {
+      "ingredient": "Almond",
+      "percentage": "23.9%"
+    },
+    {
+      "ingredient": "Pecan nut",
+      "percentage": "9.6%"
+    },
+    {
+      "ingredient": "Macadamia nut",
+      "percentage": "8.9%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "2.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.8%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.7,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 646.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 55.7,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 7.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 10.4,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 5.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 22.1,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.757,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

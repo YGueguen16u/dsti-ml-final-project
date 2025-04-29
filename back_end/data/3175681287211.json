@@ -1,0 +1,164 @@
+{
+  "barcode": "3175681287211",
+  "name": "Biscuits petit déjeuner",
+  "brands": "WW, Weight Watchers",
+  "categories": "Snacks, Breakfasts, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Dry biscuits, Breakfast biscuit",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Gluten, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Whole wheat flour",
+      "percentage": "53.1% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "23.4% (estimate)"
+    },
+    {
+      "ingredient": "Colza oil",
+      "percentage": "11.7% (estimate)"
+    },
+    {
+      "ingredient": "Unrefined cane sugar",
+      "percentage": "5.9% (estimate)"
+    },
+    {
+      "ingredient": "Whole grain oat flakes",
+      "percentage": "2.9% (estimate)"
+    },
+    {
+      "ingredient": "flacons-d-orge",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pecan nut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Chocolate chunk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Fat reduced cocoa powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa fiber",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural cocoa flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Rapeseed lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Raising agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E500",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sea salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.954,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 467.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 19.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 2.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 61.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 13.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 8.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.42,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

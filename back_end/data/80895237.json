@@ -1,0 +1,95 @@
+{
+  "barcode": "80895237",
+  "name": "Нутела",
+  "brands": "Ferrero",
+  "categories": "Breakfasts, Spreads, Sweet spreads, fr:Pâtes à tartiner, Hazelnut spreads, Chocolate spreads, Cocoa and hazelnuts spreads",
+  "countries_sold": "Austria, Belgium, Bulgaria, Croatia, France, Germany, Hungary, Morocco, Romania, Russia, Serbia, Slovenia, Spain, Switzerland",
+  "nutri_score": "c",
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 700.0,
+    "unit": "g"
+  },
+  "packaging": null,
+  "labels": "No gluten, Green Dot, Made in Poland",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Bonpreu",
+  "allergens": "Milk, Nuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Sugar",
+      "percentage": "39.3% (estimate)"
+    },
+    {
+      "ingredient": "Palm oil",
+      "percentage": "24.2% (estimate)"
+    },
+    {
+      "ingredient": "Noisettes",
+      "percentage": "13.0%"
+    },
+    {
+      "ingredient": "Milk-skimmed-powder",
+      "percentage": "8.7%"
+    },
+    {
+      "ingredient": "Fat reduced cocoa",
+      "percentage": "7.4%"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "E322",
+      "percentage": "3.7% (estimate)"
+    },
+    {
+      "ingredient": "Vanillin",
+      "percentage": "3.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.252,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 539.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 30.9,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 10.6,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 57.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 56.3,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.3,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.107,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

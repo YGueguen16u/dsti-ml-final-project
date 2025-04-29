@@ -1,0 +1,226 @@
+{
+  "barcode": "3175681224797",
+  "name": "Crousti Chocolat",
+  "brands": "Gerlinea",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits, fr:Biscuits édulcorés",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": "c",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 17.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 102.0,
+    "unit": "g"
+  },
+  "packaging": "Pack, de:Dose/Büchse",
+  "labels": "No gluten, Source of fibre, High fibres, Made in Spain, No added sugar",
+  "origin": null,
+  "manufacturing_places": "Espagne",
+  "stores": "Magasins U, Carrefour, carrefour.fr",
+  "allergens": "Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "chocolat-noir-avec-edulcorants",
+      "percentage": "75.0%"
+    },
+    {
+      "ingredient": "Sweetener",
+      "percentage": "45.0% (estimate)"
+    },
+    {
+      "ingredient": "E965",
+      "percentage": "26.2% (estimate)"
+    },
+    {
+      "ingredient": "E950",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "15.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Natural vanilla flavouring",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Flour",
+      "percentage": "21.0%"
+    },
+    {
+      "ingredient": "Corn flour",
+      "percentage": "15.8% (estimate)"
+    },
+    {
+      "ingredient": "Rice flour",
+      "percentage": "5.2% (estimate)"
+    },
+    {
+      "ingredient": "Pea fiber",
+      "percentage": "2.1% (estimate)"
+    },
+    {
+      "ingredient": "E414",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Emulsifier",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya lecithin",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Bamboo fibre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamins",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin E",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E375",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pantothenic Acid",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin A",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin B6",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin b12",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Vitamin D",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E101",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "bi",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "b9",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "h",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.862,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 445.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 24.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 15.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 60.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 1.4,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 7.1,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 6.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.38,
+      "unit": "g"
+    },
+    "vitamin a": {
+      "quantity": 365.0,
+      "unit": "µg"
+    },
+    "vitamin d (d3)": {
+      "quantity": 3.2,
+      "unit": "µg"
+    },
+    "vitamin e": {
+      "quantity": 5.4,
+      "unit": "mg"
+    },
+    "vitamin b1 (thiamin)": {
+      "quantity": 0.57,
+      "unit": "mg"
+    },
+    "vitamin b3/pp (niacin)": {
+      "quantity": 13.0,
+      "unit": "mg"
+    },
+    "vitamin b6 (pyridoxin)": {
+      "quantity": 0.95,
+      "unit": "mg"
+    },
+    "vitamin b9 (folic acid)": {
+      "quantity": 116.0,
+      "unit": "µg"
+    },
+    "vitamin b12 (cobalamin)": {
+      "quantity": 520.0,
+      "unit": "µg"
+    },
+    "biotin": {
+      "quantity": 41.0,
+      "unit": "µg"
+    }
+  },
+  "is_valid": true
+}

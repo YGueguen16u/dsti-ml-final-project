@@ -1,0 +1,174 @@
+{
+  "barcode": "3083681116977",
+  "name": "Poêlée La Rustique",
+  "brands": "Bonduelle",
+  "categories": "Frozen foods, Meals, Pan-fried dishes, Frozen ready-made meals, Frozen-raw-pan-fried-vegetables-without-mushrooms",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "packaging": "Bag, Frozen",
+  "labels": "No preservatives, Nutriscore, Nutriscore Grade A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": "Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Pommes de terre préfrites",
+      "percentage": "42.0%"
+    },
+    {
+      "ingredient": "Potato",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Dextrose",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Cultivated mushroom",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Green bean",
+      "percentage": "18.0%"
+    },
+    {
+      "ingredient": "Pre fried onions",
+      "percentage": "10.1% (estimate)"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "6.3% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "3.8% (estimate)"
+    },
+    {
+      "ingredient": "Slippery jack",
+      "percentage": "5.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "2.6% (estimate)"
+    },
+    {
+      "ingredient": "Fresh cream",
+      "percentage": "2.3% (estimate)"
+    },
+    {
+      "ingredient": "Mushroom",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shallot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Shallot",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Sunflower oil",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Parsley",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Slippery jack",
+      "percentage": "0.2%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Natural milk flavouring",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Yeast extract",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Pepper",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 381.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 91.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.3,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 11.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.8,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 2.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.63,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

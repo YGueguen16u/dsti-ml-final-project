@@ -1,0 +1,74 @@
+{
+  "barcode": "20920210",
+  "name": "Chicorée Café",
+  "brands": "Bellarom",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based beverages, Beverage preparations, Instant beverages, Instant mix of chicory and coffee powder, pt:Mistura instantânea de chicória e café solúvel",
+  "countries_sold": "France, Luxembourg, Portugal, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 100.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Boîte, Plastique",
+  "labels": "Sustainable farming, Nutri-Score A/E, Nutriscore, Rainforest Alliance, UTZ Certified, UTZ Certified Coffee",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "chicoree-soluvel",
+      "percentage": "60.0%"
+    },
+    {
+      "ingredient": "cafe-soluvel",
+      "percentage": "40.0%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 1.359,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 322.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 59.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 7.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 11.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.48,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

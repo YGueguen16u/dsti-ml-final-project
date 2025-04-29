@@ -1,0 +1,119 @@
+{
+  "barcode": "0260223020999",
+  "name": "Abricotines",
+  "brands": null,
+  "categories": "Beverages, Alcoholic beverages, Distilled beverages, Hard liquors, Eaux de vie, Swiss Eaux-de-vie, fr:Abricotine",
+  "countries_sold": "France, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": null,
+  "packaging": null,
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Eggs, Gluten, Milk",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Wheat flour",
+      "percentage": "39.0% (estimate)"
+    },
+    {
+      "ingredient": "Apricot",
+      "percentage": "26.0%"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.5% (estimate)"
+    },
+    {
+      "ingredient": "beurre-fin",
+      "percentage": "11.0%"
+    },
+    {
+      "ingredient": "Yeast",
+      "percentage": "2.8% (estimate)"
+    },
+    {
+      "ingredient": "Egg",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Modified starch",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Wheat gluten",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "lacoserum-en-poudre",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Skimmed milk powder",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Stabiliser",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "acetal-de-calcium",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E450iii",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E339",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "ensymes",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E1100",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Hemicellulase",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flour treatment agent",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "E300",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Colour",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Beta-carotene dye",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

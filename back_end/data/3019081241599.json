@@ -1,0 +1,79 @@
+{
+  "barcode": "3019081241599",
+  "name": "Filets de maquereaux Huile d'Olive Vierge Extra",
+  "brands": "Petit Navire",
+  "categories": "Seafood, Fishes and their products, Canned foods, Fishes, Fatty fishes, Canned fishes, Fish fillets, Mackerels, Mackerel fillets, Mackerel fillets in oil, Mackerel fillets in olive oil, Tinned Mackerels",
+  "countries_sold": "France",
+  "nutri_score": "e",
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 145.0,
+    "unit": "g"
+  },
+  "packaging": "fr:boîte conserve metal",
+  "labels": "No artificial flavors",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr, intermarché",
+  "allergens": "Fish",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Mackerel fillet",
+      "percentage": "74.5% (estimate)"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "12.7% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "12.7% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 969.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 233.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 17.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 20.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.9,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

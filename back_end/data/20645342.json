@@ -1,0 +1,106 @@
+{
+  "barcode": "20645342",
+  "name": "Gaspacho",
+  "brands": "Lidl, Sol&Mar, Toque du Chef",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Meals, Soups, Vegetable soups, Cold soups, Gazpacho",
+  "countries_sold": "France, Netherlands, Spain, Switzerland",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 200.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 1.0,
+    "unit": "l"
+  },
+  "packaging": "Brick, Refrigerated, Composite-carton",
+  "labels": "No artificial flavors, No preservatives, Made in Spain, No colorings, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": "Espagne",
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Tomato",
+      "percentage": "66.0%"
+    },
+    {
+      "ingredient": "Red bell pepper",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Cucumber",
+      "percentage": "11.6%"
+    },
+    {
+      "ingredient": "Extra virgin olive oil",
+      "percentage": "2.6%"
+    },
+    {
+      "ingredient": "Onion",
+      "percentage": "2.2%"
+    },
+    {
+      "ingredient": "Sherry vinegar",
+      "percentage": "1.3%"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.8%"
+    },
+    {
+      "ingredient": "Lemon juice",
+      "percentage": "0.3%"
+    },
+    {
+      "ingredient": "Garlic",
+      "percentage": "0.2%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 207.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 50.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 3.2,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 2.7,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 1.9,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.7,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

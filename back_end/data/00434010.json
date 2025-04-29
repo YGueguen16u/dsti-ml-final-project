@@ -1,0 +1,70 @@
+{
+  "barcode": "00434010",
+  "name": "Swiss Chocolate Extra Fine Dark",
+  "brands": "Marks & Spencer",
+  "categories": "Snacks, Sweet snacks, Cocoa and its products, Chocolates, Dark chocolates, Extra fine dark chocolates, Swiss chocolates",
+  "countries_sold": "France, United Kingdom",
+  "nutri_score": "c",
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 125.0,
+    "unit": "g"
+  },
+  "packaging": "Cardboard",
+  "labels": "Vegetarian, Made in Swiss",
+  "origin": "Made in Switzerland",
+  "manufacturing_places": null,
+  "stores": "Marks & Spencer",
+  "allergens": "Milk, Nuts, Peanuts, Soybeans",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Cocoa paste",
+      "percentage": "50.0% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "25.0% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa butter",
+      "percentage": "12.5% (estimate)"
+    },
+    {
+      "ingredient": "Cocoa powder",
+      "percentage": "6.2% (estimate)"
+    },
+    {
+      "ingredient": "Flavouring",
+      "percentage": "3.1% (estimate)"
+    },
+    {
+      "ingredient": "Dark-chocolate-contains-cocoa-solids",
+      "percentage": "72.0%"
+    },
+    {
+      "ingredient": "Not-suitable-for-those-with-a-nut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Peanut",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Milk",
+      "percentage": "< 2% (estimate)"
+    },
+    {
+      "ingredient": "Soya-allergy",
+      "percentage": "< 2% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}

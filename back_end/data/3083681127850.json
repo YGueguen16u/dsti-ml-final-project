@@ -1,0 +1,79 @@
+{
+  "barcode": "3083681127850",
+  "name": "Haricots verts extra fins",
+  "brands": "Bonduelle",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Legumes and their products, Canned foods, Legumes, Vegetables based foods, Canned plant-based foods, Vegetables, Canned vegetables, Green beans, Canned legumes, Canned green beans",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 440.0,
+    "unit": "g"
+  },
+  "packaging": "Canned",
+  "labels": "No preservatives, Metal recycles forever, Nutriscore, Nutriscore Grade A, fr:A",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "carrefour.fr",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Extra-fine green beans",
+      "percentage": "74.1% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "13.3% (estimate)"
+    },
+    {
+      "ingredient": "Salt",
+      "percentage": "0.7%"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 84.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 20.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 1.5,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 3.5,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 1.6,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.58,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

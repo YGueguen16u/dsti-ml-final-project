@@ -1,0 +1,102 @@
+{
+  "barcode": "0051500017005",
+  "name": "Creamy Natural Peanut Butter",
+  "brands": "Smucker's",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Legumes and their products, Spreads, Nuts and their products, Plant-based spreads, Oilseed purees, Legume butters, Nut butters, Peanut butters",
+  "countries_sold": "France, United States, World",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 1.0,
+    "unit": "portion"
+  },
+  "quantity": {
+    "quantity": 454.0,
+    "unit": "g"
+  },
+  "packaging": "Metal, Glass, Jar",
+  "labels": "No gluten, No GMOs, Non GMO project",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": null,
+  "allergens": "Peanuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peanut",
+      "percentage": "75.0% (estimate)"
+    },
+    {
+      "ingredient": "Contains-1-and-less-of-salt",
+      "percentage": "25.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.48,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 594.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 50.0,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 9.38,
+      "unit": "g"
+    },
+    "trans fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "cholesterol": {
+      "quantity": 0.0,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 21.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 6.25,
+      "unit": "g"
+    },
+    "added sugars": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 9.38,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 25.0,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.859,
+      "unit": "g"
+    },
+    "potassium": {
+      "quantity": 628.0,
+      "unit": "mg"
+    },
+    "calcium": {
+      "quantity": 56.2,
+      "unit": "mg"
+    },
+    "iron": {
+      "quantity": 3.13,
+      "unit": "mg"
+    }
+  },
+  "is_valid": true
+}

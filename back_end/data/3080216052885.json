@@ -1,0 +1,70 @@
+{
+  "barcode": "3080216052885",
+  "name": "1664",
+  "brands": "1664 Blonde, Kronenbourg",
+  "categories": "Beverages and beverages preparations, Beverages, Alcoholic beverages, Beers, Lagers",
+  "countries_sold": "France",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "quantity": {
+    "quantity": 250.0,
+    "unit": "ml"
+  },
+  "packaging": "Bouteille, Verre  Bouteille",
+  "labels": "Not advised for specific people, Not advised for pregnant women, fr:Origine France, Triman",
+  "origin": null,
+  "manufacturing_places": "Obernai  France",
+  "stores": null,
+  "allergens": "Gluten, Anhydride-sulfureux-et-sulfites",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Chocolate",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": "Pour s'assurer que le produit conserve ses caractéristiques, il est essentiel qu'il soit stocké à l'abri de la lumière directe, dans un endroit sec, à température modérée. Durée maxi de stockage, précisée sur l'étiquette palette. Ne se conserve pas après ouverture.",
+  "customer_service": "Service Consommateurs BK, 03 88 27 59 59",
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 188.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 45.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.0,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 0.08,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.01,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

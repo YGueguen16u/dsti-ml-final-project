@@ -1,0 +1,78 @@
+{
+  "barcode": "20005733",
+  "name": "Walnuts",
+  "brands": "Alesto, Lidl",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Nuts and their products, Nuts, Shelled nuts, Walnuts, Walnut kernels",
+  "countries_sold": "Austria, Belgium, Bulgaria, Croatia, Denmark, France, Germany, Italy, Netherlands, Poland, Portugal, Romania, Serbia, Spain",
+  "nutri_score": null,
+  "green_score_letter": "a",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 30.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 200.0,
+    "unit": "g"
+  },
+  "packaging": "Plastic, Bag",
+  "labels": "Low or no salt, Omega-3, High in Omega 3, No added salt, Nutriscore, Nutriscore Grade A, Triman",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "Nuts",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Walnut kernel",
+      "percentage": "100.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 2.981,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 712.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 69.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "omega 3 fat": {
+      "quantity": 9.9,
+      "unit": "mg"
+    },
+    "carbohydrates": {
+      "quantity": 3.7,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 3.0,
+      "unit": "g"
+    },
+    "fiber": {
+      "quantity": 6.8,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 15.5,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

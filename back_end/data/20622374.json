@@ -1,0 +1,86 @@
+{
+  "barcode": "20622374",
+  "name": "Pêches demi-fruits",
+  "brands": "Freshona",
+  "categories": "Plant-based foods and beverages, Plant-based foods, Fruits and vegetables based foods, Canned foods, Desserts, Canned plant-based foods, Fruits based foods, Fruits, Canned fruits, Fruits in syrup, Peaches in syrup",
+  "countries_sold": "Austria, Belgium, France, Germany",
+  "nutri_score": null,
+  "green_score_letter": null,
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": {
+    "quantity": 80.0,
+    "unit": "g"
+  },
+  "quantity": {
+    "quantity": 80.0,
+    "unit": "g"
+  },
+  "packaging": "Can, Canned",
+  "labels": null,
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": null,
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Peach",
+      "percentage": "62.5% (estimate)"
+    },
+    {
+      "ingredient": "Water",
+      "percentage": "18.8% (estimate)"
+    },
+    {
+      "ingredient": "Sugar",
+      "percentage": "6.7% (estimate)"
+    },
+    {
+      "ingredient": "Acid",
+      "percentage": "12.0% (estimate)"
+    },
+    {
+      "ingredient": "E330",
+      "percentage": "12.0% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {
+    "energy_kj_100g": {
+      "quantity": 253.0,
+      "unit": "kj"
+    },
+    "energy_kcal_100g": {
+      "quantity": 60.0,
+      "unit": "kcal"
+    },
+    "fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "saturated fat": {
+      "quantity": 0.1,
+      "unit": "g"
+    },
+    "carbohydrates": {
+      "quantity": 13.9,
+      "unit": "g"
+    },
+    "sugars": {
+      "quantity": 13.4,
+      "unit": "g"
+    },
+    "proteins": {
+      "quantity": 0.4,
+      "unit": "g"
+    },
+    "salt": {
+      "quantity": 0.02,
+      "unit": "g"
+    }
+  },
+  "is_valid": true
+}

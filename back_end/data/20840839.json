@@ -1,0 +1,58 @@
+{
+  "barcode": "20840839",
+  "name": "Préparation de fruits clémentines et oranges de Corse",
+  "brands": "Saveurs de nos regions",
+  "categories": "Beverages and beverages preparations, Plant-based foods and beverages, Beverages, Plant-based foods, Alcoholic beverages, Fruits and vegetables based foods, Breakfasts, Spreads, Wines, Fruits based foods, Plant-based spreads, Sweet spreads, Fruit and vegetable preserves, Wines from France, Jams, Citrus jams, Mixed fruit jams, Marmalades, Orange jams, fr:Corse",
+  "countries_sold": "France, Germany, Frankreich",
+  "nutri_score": null,
+  "green_score_letter": "e",
+  "green_score_final": null,
+  "carbon_impact_per_100g": null,
+  "carbon_equiv_distance": null,
+  "serving_size": null,
+  "quantity": {
+    "quantity": 330.0,
+    "unit": "g"
+  },
+  "packaging": "Capsule en métal, Green dot, Pensez au tri!, Pot en verre, Pot verre et capsule metal à recycler, Triman",
+  "labels": "Triman, fr:Cuit au chaudron",
+  "origin": null,
+  "manufacturing_places": null,
+  "stores": "Lidl",
+  "allergens": "fr:ce-produit-est-fait-a-base-de-fruits-ayant-ete-traites-avec-des-substances-phytosanitaires-information-recu-de-la-part-de-lidl-fr",
+  "ingredients_text": null,
+  "ingredients_structured": [
+    {
+      "ingredient": "Citrus fruit",
+      "percentage": "55.0%"
+    },
+    {
+      "ingredient": "Clementine",
+      "percentage": "40.0%"
+    },
+    {
+      "ingredient": "Orange",
+      "percentage": "15.0%"
+    },
+    {
+      "ingredient": "Cane sugar",
+      "percentage": "30.0% (estimate)"
+    },
+    {
+      "ingredient": "Concentrated lemon juice",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "Gelling agent",
+      "percentage": "7.5% (estimate)"
+    },
+    {
+      "ingredient": "E440a",
+      "percentage": "7.5% (estimate)"
+    }
+  ],
+  "conservation_conditions": null,
+  "customer_service": null,
+  "nutrients_100g": {},
+  "is_valid": true
+}
