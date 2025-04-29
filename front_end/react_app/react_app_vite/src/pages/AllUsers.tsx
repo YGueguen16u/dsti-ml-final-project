@@ -1,4 +1,4 @@
-// front_end/react_app/react_app_vite/src/pages/AllUsers.tsx
+// front_end/react_app/react_app_vite/src/pages/CreateProfile.tsx
 
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -9,12 +9,13 @@ const AllUsers = () => {
   const [users, setUsers] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
+  const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+
   useEffect(() => {
     const fetchUsers = async () => {
       setIsLoading(true);
-
       try {
-        const response = await axios.get("http://localhost:8000/api/user/all");
+        const response = await axios.get(`${BASE_URL}/api/user/all`);
         setUsers(response.data);
       } catch (error: any) {
         console.error("Erreur de récupération des utilisateurs :", error.response?.data || error.message);
@@ -24,8 +25,7 @@ const AllUsers = () => {
     };
 
     fetchUsers();
-  }, []);
-
+  }, [BASE_URL]);
 
   if (isLoading) {
     return <p className="text-center mt-10">Chargement...</p>;

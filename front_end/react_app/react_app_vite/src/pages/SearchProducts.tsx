@@ -6,11 +6,13 @@ function SearchProducts() {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<any[]>([]);
 
+  const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+
   const handleSearch = async () => {
     if (!query.trim()) return;
 
     try {
-      const response = await fetch(`http://localhost:8000/api/search_products?q=${encodeURIComponent(query)}`);
+      const response = await fetch(`${BASE_URL}/api/search_products?q=${encodeURIComponent(query)}`);
       const data = await response.json();
       setResults(data.results);
     } catch (error) {
