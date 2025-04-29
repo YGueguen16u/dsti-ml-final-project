@@ -6,7 +6,10 @@ function SearchProducts() {
   const [query, setQuery] = useState("");
   const [results, setResults] = useState<any[]>([]);
 
-  const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+  // ✅ Ajout : fallback en local + console.log
+  const BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+  console.log("BASE_URL =", BASE_URL);
+  console.log("import.meta.env =", import.meta.env);
 
   const handleSearch = async () => {
     if (!query.trim()) return;
