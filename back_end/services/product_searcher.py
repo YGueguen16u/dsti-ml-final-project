@@ -1,3 +1,5 @@
+# back_end/services/product_searcher.py
+
 import json
 import os
 from infrastructure.aws.s3.s3_manager import S3Manager
