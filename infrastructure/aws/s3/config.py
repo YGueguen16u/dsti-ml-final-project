@@ -6,6 +6,11 @@ from dotenv import load_dotenv
 # Load environment variables from the .env file
 load_dotenv(dotenv_path="env_folder/.env.s3")
 
+is_local = os.getenv("ENV", "local") == "local"
+
+if is_local:
+    load_dotenv(dotenv_path="env_folder/.env.s3")
+
 def get_s3_config():
     """
     Loads AWS credentials and S3 bucket configuration from the environment.

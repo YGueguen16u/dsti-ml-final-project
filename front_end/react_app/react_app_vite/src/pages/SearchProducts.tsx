@@ -7,7 +7,7 @@ function SearchProducts() {
   const [results, setResults] = useState<any[]>([]);
 
   // ✅ Ajout : fallback en local + console.log
-  const BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+  const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
   console.log("BASE_URL =", BASE_URL);
   console.log("import.meta.env =", import.meta.env);
 
