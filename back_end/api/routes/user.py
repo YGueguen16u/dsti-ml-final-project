@@ -34,6 +34,7 @@ def get_me(user=Depends(get_current_user)):
 """
 
 class UserProfile(BaseModel):
+    name: str
     age: int
     weight: float
     target_weight: float
@@ -53,6 +54,7 @@ def create_profile(profile: UserProfile, db: Session = Depends(db_connector.get_
 
         new_user_id = repo.insert_user(
             user_id=user_id,
+            name=profile.name,
             age=profile.age,
             gender=profile.gender,
             height=profile.height,
@@ -69,6 +71,17 @@ def create_profile(profile: UserProfile, db: Session = Depends(db_connector.get_
         print("❌ ERREUR lors de l'insertion du profil :")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="Erreur interne lors de l'enregistrement du profil")
+
+@router.get("/goals")
+def list_goals(db: Session = Depends(db_connector.get_db)):
+    """Retourne la liste des objectifs disponibles."""
+    try:
+        goals = db.query(Goal).all()
+        return [{"value": goal.label, "label": goal.label} for goal in goals]
+    except Exception:
+        print("❌ ERREUR lors de la récupération des objectifs :")
+        traceback.print_exc()
+        raise HTTPException(status_code=500, detail="Erreur lors de la récupération des objectifs")
 
 
 @router.get("/all")

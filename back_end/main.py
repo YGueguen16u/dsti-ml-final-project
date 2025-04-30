@@ -12,11 +12,8 @@ from back_end.api.routes import user
 from back_end.services.product_searcher import ProductSearcher
 from back_end.database.connect import DatabaseConnector
 #from database.connect import DatabaseConnector
+from back_end.database.seed_postgres import run_seed
 
-from back_end.database import models
-
-# PAS BESOIN de load_dotenv ici
-# settings.py s'en occupe déjà via DatabaseConnector()
 
 # Créer FastAPI
 app = FastAPI()
@@ -30,12 +27,14 @@ app.add_middleware(
 )
 
 # Connecteur DB
-connector = DatabaseConnector()  # <-- Pas besoin de dotenv_path ici
+connector = DatabaseConnector()
 
 # Démarrer à l'initialisation
 @app.on_event("startup")
-def startup_event():
+def on_startup():
+    connector = DatabaseConnector()
     connector.initialize_schema()
+    run_seed()
 
 # Product Searcher
 product_searcher = ProductSearcher(

@@ -55,13 +55,14 @@ class UserRepository:
                 goal_ids.append(new_goal.goal_id)
         return goal_ids
 
-    def insert_user(self, user_id: str, age: int, gender: str, height: float, weight: float,
+    def insert_user(self, user_id: str, name: str, age: int, gender: str, height: float, weight: float,
                     target_weight: float, diet_type: str, fitness_level: str, goals: list[str]) -> str:
         """
         Insert or update a user profile with normalized references and associated goals.
 
         Args:
             user_id: Unique user ID
+            name: User name
             age: Age of the user
             gender: Gender label
             height: User's height
@@ -81,6 +82,7 @@ class UserRepository:
 
         user = self.db.query(User).filter_by(user_id=user_id).first()
         if user:
+            user.name = name
             user.age = age
             user.gender_id = gender_id
             user.height = height
@@ -91,6 +93,7 @@ class UserRepository:
         else:
             user = User(
                 user_id=user_id,
+                name=name,
                 age=age,
                 gender_id=gender_id,
                 height=height,
@@ -123,6 +126,7 @@ class UserRepository:
         return [
             {
                 "user_id": user.user_id,
+                "name": user.name,
                 "age": user.age,
                 "height": user.height,
                 "weight": user.weight,
