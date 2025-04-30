@@ -27,6 +27,7 @@ env_folder/.env.postgre.local
 env_folder/.env.s3
 env_folder/.env.postgre.docker
 env_folder/.env.cognito
+env_folder/.env.rds
 
 # ========================================
 # 📁 Dossiers générés automatiquement
