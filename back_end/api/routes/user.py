@@ -8,6 +8,8 @@ from sqlalchemy.orm import Session
 from back_end.database.repository.user_repository import UserRepository
 from back_end.database.connect import DatabaseConnector
 from back_end.config.settings import settings
+from back_end.database.models.shared_config import Goal
+
 """
 # from api.dependencies.auth import get_current_user
 from database.repository.user_repository import UserRepository
