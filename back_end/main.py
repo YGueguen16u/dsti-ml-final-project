@@ -37,10 +37,8 @@ def on_startup():
     run_seed()
 
 # Product Searcher
-product_searcher = ProductSearcher(
-    local_ean8_path="back_end/data/products_ean8_light.json",
-    local_ean13_path="back_end/data/products_ean13_light.json"
-)
+product_searcher = ProductSearcher()
+
 
 # Routes
 app.include_router(user.router)

@@ -1,5 +1,7 @@
 # Infrastructure/aws/s3/s3_manager.py
 
+import json
+
 import boto3
 from botocore.exceptions import ClientError, NoCredentialsError
 from infrastructure.aws.s3.config import get_s3_config
@@ -82,6 +84,25 @@ class S3Manager:
         except Exception as e:
             print(f"❌ Error listing files: {e}")
             return []
+
+    def load_json(self, s3_key: str):
+        """
+        Loads a JSON file directly from S3 and parses it.
+
+        Args:
+            s3_key (str): The path (key) of the JSON file in the S3 bucket.
+
+        Returns:
+            dict or list: Parsed JSON content, or [] in case of error.
+        """
+        try:
+            response = self.s3.get_object(Bucket=self.bucket, Key=s3_key)
+            content = response["Body"].read().decode("utf-8")
+            return json.loads(content)
+        except Exception as e:
+            print(f"❌ Failed to load JSON from s3://{self.bucket}/{s3_key} — {e}")
+            return []
+
 
     def delete(self, s3_key: str):
         """
