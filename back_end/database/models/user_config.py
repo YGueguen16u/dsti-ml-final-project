@@ -30,6 +30,7 @@ class User(Base):
     __tablename__ = "users"
 
     user_id = Column(String, primary_key=True)
+    name = Column(String(100), nullable=False)
     age = Column(Integer)
     height = Column(Float)
     weight = Column(Float)
