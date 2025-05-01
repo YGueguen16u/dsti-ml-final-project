@@ -6,7 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../'
 
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
-from back_end.api.routes import user
+from back_end.api.routes import user, daily_log
 #from api.routes import user
 #from services.product_searcher import ProductSearcher
 from back_end.services.product_searcher import ProductSearcher
@@ -42,7 +42,7 @@ product_searcher = ProductSearcher()
 
 # Routes
 app.include_router(user.router)
-
+app.include_router(daily_log.router)
 @app.get("/api/ping")
 def ping():
     return {"message": "pong"}
