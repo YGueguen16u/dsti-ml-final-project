@@ -1,13 +1,14 @@
 // front_end/react_app/react_app_vite/src/pages/DailyLog.tsx
 
 import { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 import axios from "axios";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
 const DailyLogPage = () => {
+  const { userId } = useParams<{ userId: string }>();
   const [log, setLog] = useState<any | null>(null);
-  const [userId, setUserId] = useState<string>("");
   const [logDate, setLogDate] = useState<Date>(new Date());
   const [isLoading, setIsLoading] = useState(false);
 
@@ -34,19 +35,11 @@ const DailyLogPage = () => {
     if (userId) {
       fetchLog();
     }
-  }, [logDate]);
+  }, [logDate, userId]);
 
   return (
     <div className="p-6 max-w-3xl mx-auto">
       <h1 className="text-2xl font-bold text-center mb-6">Journal Quotidien</h1>
-
-      <input
-        type="text"
-        placeholder="User ID"
-        value={userId}
-        onChange={(e) => setUserId(e.target.value)}
-        className="w-full p-2 mb-4 border rounded"
-      />
 
       <div className="mb-4">
         <label className="block mb-1">Choisir une date :</label>

@@ -8,17 +8,12 @@ import {
   Navigate,
 } from "react-router-dom";
 import CreateProfile from "./pages/CreateProfile";
-import SearchProducts from "./pages/SearchProducts"; // 👈 AJOUT ICI
+import SearchProducts from "./pages/SearchProducts";
 import AllUsers from "./pages/AllUsers";
+import DailyLogPage from "./pages/DailyLog"; // 👈 import ajouté
 
 function App() {
-  // const auth = useAuth();
-
-  // if (auth.isLoading) return <div>Chargement...</div>;
-  // if (auth.error) return <div>Erreur : {auth.error.message}</div>;
-
-  // TEMPORAIRE : considérer l'utilisateur comme toujours connecté
-  const isAuthenticated = true;
+  const isAuthenticated = true; // ⚠️ temporaire
 
   return (
     <Router>
@@ -45,8 +40,7 @@ function App() {
               element={
                 <div className="text-center mt-40">
                   <h2 className="text-2xl font-bold">
-                    Bonjour {/* {auth.user?.profile.email} --> COMME PAS CONNECTÉ */}
-                    invité
+                    Bonjour invité
                   </h2>
                   <div className="mt-6">
                     <a href="/create-profile" className="block text-blue-600 underline">
@@ -71,6 +65,7 @@ function App() {
             <Route path="/create-profile" element={<CreateProfile />} />
             <Route path="/search-product" element={<SearchProducts />} />
             <Route path="/all-users" element={<AllUsers />} />
+            <Route path="/daily-log/:userId" element={<DailyLogPage />} /> {/* 👈 route ajoutée */}
             <Route path="*" element={<Navigate to="/" />} />
           </>
         )}
