@@ -9,7 +9,9 @@ const AllUsers = () => {
   const [users, setUsers] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  const BASE_URL = import.meta.env.VITE_API_BASE_URL;
+  const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
+  console.log("BASE_URL =", BASE_URL);
+  console.log("import.meta.env =", import.meta.env);
 
   useEffect(() => {
     const fetchUsers = async () => {
@@ -37,6 +39,7 @@ const AllUsers = () => {
       <div className="grid gap-6">
         {users.map((user, idx) => (
           <div key={idx} className="p-4 border rounded shadow">
+            <p><strong>Name :</strong> {user.name}</p>
             <p><strong>Age :</strong> {user.age}</p>
             <p><strong>Weight :</strong> {user.weight} kg</p>
             <p><strong>Height :</strong> {user.height} cm</p>
