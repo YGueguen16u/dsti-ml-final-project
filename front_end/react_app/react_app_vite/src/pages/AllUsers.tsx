@@ -2,16 +2,14 @@
 
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { useAuth } from "react-oidc-context";
+import { useNavigate } from "react-router-dom"; // 👈 Ajouté
 
 const AllUsers = () => {
-  const auth = useAuth();
   const [users, setUsers] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  const navigate = useNavigate(); // 👈 Ajouté
 
   const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
-  console.log("BASE_URL =", BASE_URL);
-  console.log("import.meta.env =", import.meta.env);
 
   useEffect(() => {
     const fetchUsers = async () => {
@@ -38,7 +36,11 @@ const AllUsers = () => {
       <h1 className="text-2xl font-bold mb-6 text-center">Tous les utilisateurs</h1>
       <div className="grid gap-6">
         {users.map((user, idx) => (
-          <div key={idx} className="p-4 border rounded shadow">
+          <div
+            key={idx}
+            onClick={() => navigate(`/daily-log/${user.user_id}`)} // 👈 Navigation dynamique
+            className="p-4 border rounded shadow cursor-pointer hover:bg-gray-50 transition"
+          >
             <p><strong>Name :</strong> {user.name}</p>
             <p><strong>Age :</strong> {user.age}</p>
             <p><strong>Weight :</strong> {user.weight} kg</p>
