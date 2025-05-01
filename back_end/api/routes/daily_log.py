@@ -24,7 +24,7 @@ def insert_or_update_log(payload: DailyLogInput, user_id: str, db: Session = Dep
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Erreur lors de l'insertion : {e}")
 
-@router.get("/")
+@router.get("")
 def get_log_for_date(user_id: str, log_date: date, db: Session = Depends(db_connector.get_db)):
     repo = UserDailyLogRepository(db)
     log = repo.get_log_for_day(user_id, log_date)
