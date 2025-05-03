@@ -1,5 +1,4 @@
-// ✅ FRONTEND DailyLogPage.tsx avec ajout dynamique des repas, aliments, activités et chat IA
-
+// front_end/react_app/react_app_vite/src/pages/DailyLog.tsx
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
@@ -17,6 +16,7 @@ const DailyLogPage = () => {
   const [currentMealItems, setCurrentMealItems] = useState<any[]>([]);
   const [foodInput, setFoodInput] = useState({ name: "", quantity: "", calories: 0, protein: 0, fat: 0, carbs: 0 });
   const [activityInput, setActivityInput] = useState({ type: "", duration_minutes: "", intensity: "" });
+  const [userSnapshot, setUserSnapshot] = useState<any>({});
 
   const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
 
@@ -31,11 +31,35 @@ const DailyLogPage = () => {
       setMeals(d.meals || []);
       setActivities(d.activities || []);
       setChatHistory(d.chat_history || []);
+      setUserSnapshot(res.data.user_snapshot || {});
     } catch (err) {
       console.warn("Pas de log ce jour, créez-en un nouveau.");
       setMeals([]);
       setActivities([]);
       setChatHistory([]);
+      fetchUserSnapshot();
+    }
+  };
+
+  const fetchUserSnapshot = async () => {
+    try {
+      const res = await axios.get(`${BASE_URL}/api/user/all`);
+      const user = res.data.find((u: any) => u.user_id === userId);
+      if (user) {
+        setUserSnapshot({
+          name: user.name,
+          age: user.age,
+          gender: user.gender,
+          weight: user.weight,
+          height: user.height,
+          target_weight: user.target_weight,
+          fitness_level: user.fitness_level,
+          diet_type: user.diet_type,
+          goals: user.goals
+        });
+      }
+    } catch (err) {
+      console.error("Erreur lors du snapshot utilisateur :", err);
     }
   };
 
@@ -77,10 +101,10 @@ const DailyLogPage = () => {
   const handleSave = async () => {
     const payload = {
       log_date: logDate.toISOString().split("T")[0],
-      user_snapshot: {},
+      user_snapshot: userSnapshot,
       log_data: { meals, activities, chat_history: chatHistory },
     };
-    await axios.post(`${BASE_URL}/api/log`, payload, {
+    await axios.post(`${BASE_URL}/api/log/`, payload, {
       params: { user_id: userId }
     });
     alert("Log sauvegardé !");

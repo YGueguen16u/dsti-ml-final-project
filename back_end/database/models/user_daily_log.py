@@ -22,6 +22,9 @@ class UserDailyLog(Base):
     user_id = Column(String, ForeignKey("users.user_id"), nullable=False)
     log_date = Column(Date, nullable=False)
 
+    weight = Column(Float)
+    height = Column(Float)
+
     user_snapshot = Column(JSON)  # âge, poids, etc. au moment du log
     log_data = Column(JSON)       # repas, sport, humeur, messages...
 
@@ -37,22 +40,25 @@ class UserDailyLog(Base):
 
 
 """
-{
-  "user_info": {
-    "user_id": "123e4567-e89b-12d3-a456-426614174000",
-    "age": 29,
-    "height_cm": 180,
-    "weight_kg": 75,
-    "gender": "Homme"
-  },
-  "date": "2025-04-30",
-
+-- Contenu de la ligne
+id: 1
+user_id: '123e4567-e89b-12d3-a456-426614174000'
+log_date: '2025-05-01'
+weight: 74.5
+height: 179.0
+user_snapshot: {
+  "age": 29,
+  "gender": "Homme",
+  "fitness_level": "Intermediate",
+  "diet_type": "Omnivore"
+}
+log_data: {
   "meals": [
     {
       "name": "Petit-déjeuner",
       "items": [
         {
-          "name": "omelette",
+          "name": "Omelette",
           "quantity": "2 oeufs",
           "barcode": "12345678",
           "nutrients": {
@@ -68,50 +74,29 @@ class UserDailyLog(Base):
         }
       ],
       "total_nutrients": {
-        "calories": 400,
-        "protein": 20,
-        "fat": 15,
-        "carbs": 30
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
       }
     }
   ],
-
   "activities": [
-    {
-      "type": "musculation",
-      "mode": "détaillée",
-      "exercise": "Développé couché",
-      "sets": [
-        {"reps": 8, "weight_kg": 120},
-        {"reps": 9, "weight_kg": 110}
-      ]
-    },
     {
       "type": "course",
       "duration_minutes": 30,
-      "intensity": "haute"
+      "intensity": "modérée"
     }
   ],
-
   "chat_history": [
     {
       "time": "08:30",
-      "user_input": "J’ai mangé 2 œufs et une banane",
+      "user_input": "J’ai mangé une omelette",
       "input_type": "log_alimentaire",
-      "assistant_output": "C’est noté ! Cela ajoute ~220 calories à ton petit-déjeuner"
-    },
-    {
-      "time": "08:31",
-      "user_input": "Et une tartine avec du beurre",
-      "input_type": "log_alimentaire",
-      "assistant_output": "Parfait, on ajoute 150 calories de plus."
-    },
-    {
-      "time": "13:00",
-      "user_input": "Je veux un conseil pour le dîner",
-      "input_type": "conseil",
-      "assistant_output": "Tu pourrais viser un dîner léger avec des protéines, par exemple du poisson avec des légumes."
+      "assistant_output": "OK, j’ai enregistré 150 kcal pour ce repas."
     }
   ]
 }
+created_at: '2025-05-01T08:35:00Z'
+updated_at: '2025-05-01T08:35:00Z'
 """
