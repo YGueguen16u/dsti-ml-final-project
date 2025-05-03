@@ -73,7 +73,7 @@ def show_goals():
         with engine.connect() as conn:
             result = conn.execute(text("SELECT * FROM goals;"))
             rows = result.fetchall()
-            print(f" Contenu de la table 'users' ({len(rows)} lignes) :")
+            print(f" Contenu de la table 'goals' ({len(rows)} lignes) :")
 
             # Récupère les noms de colonnes
             columns = result.keys()
@@ -85,8 +85,26 @@ def show_goals():
     except Exception as e:
         print(f"❌ Erreur lors de l'affichage des objectifs : {e}")
 
+def show_user_daily_logs():
+    try:
+        with engine.connect() as conn:
+            result = conn.execute(text("SELECT * FROM user_daily_logs;"))
+            rows = result.fetchall()
+            print(f" Contenu de la table 'user_daily_logs' ({len(rows)} lignes) :")
+
+            # Récupère les noms de colonnes
+            columns = result.keys()
+
+            for row in rows:
+                user_dict = dict(zip(columns, row))
+                print(" -", user_dict)
+
+    except Exception as e:
+        print(f"❌ Erreur lors de l'affichage des user daily goals : {e}")
+
 if __name__ == "__main__":
     list_databases()
     list_tables()
     show_users()
     show_goals()
+    show_user_daily_logs()
