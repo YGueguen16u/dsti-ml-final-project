@@ -1,9 +1,10 @@
 # back_end/database/models/user_daily_log.py
 
-from sqlalchemy import Column, Integer, String, Date, DateTime, ForeignKey, JSON, Float
+from sqlalchemy import Column, Integer, String, Date, DateTime, ForeignKey, JSON, Float, UniqueConstraint, Index
 from sqlalchemy.orm import relationship
 from datetime import datetime
 from .base import Base
+
 
 
 class UserDailyLog(Base):
@@ -34,8 +35,8 @@ class UserDailyLog(Base):
     user = relationship("User", backref="daily_logs")
 
     __table_args__ = (
-        # Un seul log par jour par utilisateur
-        {'sqlite_autoincrement': True},
+        UniqueConstraint("user_id", "log_date", name="unique_user_log_per_day"),
+        Index('ix_user_log_user_date', 'user_id', 'log_date'),
     )
 
 
