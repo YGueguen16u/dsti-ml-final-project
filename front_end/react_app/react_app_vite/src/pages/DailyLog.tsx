@@ -1,6 +1,4 @@
-// front_end/react_app/react_app_vite/src/pages/DailyLog.tsx
-
-// front_end/react_app/react_app_vite/src/pages/DailyLog.tsx
+// ✅ FRONTEND DailyLogPage.tsx avec ajout dynamique des repas, aliments, activités et chat IA
 
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
@@ -10,131 +8,136 @@ import "react-datepicker/dist/react-datepicker.css";
 
 const DailyLogPage = () => {
   const { userId } = useParams<{ userId: string }>();
-  const [log, setLog] = useState<any | null>(null);
   const [logDate, setLogDate] = useState<Date>(new Date());
-  const [isLoading, setIsLoading] = useState(false);
-  const [chatInput, setChatInput] = useState("");
+  const [meals, setMeals] = useState<any[]>([]);
+  const [activities, setActivities] = useState<any[]>([]);
   const [chatHistory, setChatHistory] = useState<any[]>([]);
+  const [chatInput, setChatInput] = useState("");
+  const [mealInput, setMealInput] = useState("Lunch");
+  const [currentMealItems, setCurrentMealItems] = useState<any[]>([]);
+  const [foodInput, setFoodInput] = useState({ name: "", quantity: "", calories: 0, protein: 0, fat: 0, carbs: 0 });
+  const [activityInput, setActivityInput] = useState({ type: "", duration_minutes: "", intensity: "" });
 
   const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
 
   const fetchLog = async () => {
     if (!userId) return;
-    setIsLoading(true);
     try {
       const formattedDate = logDate.toISOString().split("T")[0];
       const res = await axios.get(`${BASE_URL}/api/log`, {
         params: { user_id: userId, log_date: formattedDate },
       });
-      setLog(res.data);
-      setChatHistory(res.data.chat_history || []);
-    } catch (err: any) {
-      console.error("Erreur de récupération du log :", err.response?.data || err.message);
-      setLog(null);
-    } finally {
-      setIsLoading(false);
+      const d = res.data.log_data;
+      setMeals(d.meals || []);
+      setActivities(d.activities || []);
+      setChatHistory(d.chat_history || []);
+    } catch (err) {
+      console.warn("Pas de log ce jour, créez-en un nouveau.");
+      setMeals([]);
+      setActivities([]);
+      setChatHistory([]);
     }
   };
 
+  const handleAddFood = () => {
+    setCurrentMealItems([...currentMealItems, foodInput]);
+    setFoodInput({ name: "", quantity: "", calories: 0, protein: 0, fat: 0, carbs: 0 });
+  };
+
+  const handleAddMeal = () => {
+    const total = currentMealItems.reduce(
+      (acc, f) => ({
+        calories: acc.calories + +f.calories,
+        protein: acc.protein + +f.protein,
+        fat: acc.fat + +f.fat,
+        carbs: acc.carbs + +f.carbs,
+      }),
+      { calories: 0, protein: 0, fat: 0, carbs: 0 }
+    );
+    setMeals([...meals, { name: mealInput, items: currentMealItems, total_nutrients: total }]);
+    setCurrentMealItems([]);
+  };
+
+  const handleAddActivity = () => {
+    setActivities([...activities, activityInput]);
+    setActivityInput({ type: "", duration_minutes: "", intensity: "" });
+  };
+
   const handleSendMessage = () => {
-    if (!chatInput.trim()) return;
-    const newMessage = {
+    const msg = {
       time: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
       user_input: chatInput,
       input_type: "message",
       assistant_output: "(réponse simulée)"
     };
-    setChatHistory([...chatHistory, newMessage]);
+    setChatHistory([...chatHistory, msg]);
     setChatInput("");
   };
 
+  const handleSave = async () => {
+    const payload = {
+      log_date: logDate.toISOString().split("T")[0],
+      user_snapshot: {},
+      log_data: { meals, activities, chat_history: chatHistory },
+    };
+    await axios.post(`${BASE_URL}/api/log`, payload, {
+      params: { user_id: userId }
+    });
+    alert("Log sauvegardé !");
+  };
+
   useEffect(() => {
-    if (userId) {
-      fetchLog();
-    }
+    if (userId) fetchLog();
   }, [logDate, userId]);
 
   return (
-    <div className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold text-center mb-6">Journal Quotidien</h1>
+    <div className="p-6 max-w-3xl mx-auto space-y-6">
+      <h1 className="text-2xl font-bold text-center">Journal Quotidien</h1>
+      <DatePicker selected={logDate} onChange={(d) => d && setLogDate(d)} className="p-2 border rounded" />
 
-      <div className="mb-4">
-        <label className="block mb-1">Choisir une date :</label>
-        <DatePicker
-          selected={logDate}
-          onChange={(date: Date | null) => {
-            if (date) setLogDate(date);
-          }}
-          className="p-2 border rounded"
-        />
+      <div>
+        <h2 className="text-lg font-semibold mt-4">Repas</h2>
+        <input value={mealInput} onChange={e => setMealInput(e.target.value)} placeholder="Nom du repas" className="border p-2 mr-2" />
+        <button onClick={handleAddMeal} className="bg-blue-500 text-white px-3 py-1 rounded">Ajouter repas</button>
+        <div className="mt-2">
+          <input value={foodInput.name} onChange={e => setFoodInput({ ...foodInput, name: e.target.value })} placeholder="Aliment" className="border p-1 mr-1" />
+          <input value={foodInput.quantity} onChange={e => setFoodInput({ ...foodInput, quantity: e.target.value })} placeholder="Quantité" className="border p-1 mr-1" />
+          <input value={foodInput.calories} type="number" onChange={e => setFoodInput({ ...foodInput, calories: +e.target.value })} placeholder="kcal" className="border p-1 w-20" />
+          <button onClick={handleAddFood} className="bg-green-500 text-white px-2 py-1 ml-2">+ aliment</button>
+        </div>
+        <ul className="text-sm list-disc ml-5">
+          {meals.map((m, i) => <li key={i}>{m.name} ({m.total_nutrients.calories} kcal)</li>)}
+        </ul>
       </div>
 
-      <button
-        onClick={fetchLog}
-        className="mb-6 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded"
-      >
-        Charger le journal
-      </button>
+      <div>
+        <h2 className="text-lg font-semibold">Activités</h2>
+        <input value={activityInput.type} onChange={e => setActivityInput({ ...activityInput, type: e.target.value })} placeholder="Type" className="border p-1 mr-1" />
+        <input value={activityInput.duration_minutes} onChange={e => setActivityInput({ ...activityInput, duration_minutes: e.target.value })} placeholder="Durée" className="border p-1 mr-1" />
+        <input value={activityInput.intensity} onChange={e => setActivityInput({ ...activityInput, intensity: e.target.value })} placeholder="Intensité" className="border p-1 mr-1" />
+        <button onClick={handleAddActivity} className="bg-blue-500 text-white px-2 py-1">+ Activité</button>
+        <ul className="text-sm list-disc ml-5 mt-2">
+          {activities.map((a, i) => <li key={i}>{a.type} - {a.duration_minutes} min ({a.intensity})</li>)}
+        </ul>
+      </div>
 
-      {isLoading ? (
-        <p>Chargement...</p>
-      ) : log ? (
-        <div className="border rounded p-4 bg-white shadow space-y-6">
-          <h2 className="text-xl font-semibold mb-2">{log.log_date}</h2>
-
-          {/* Meals */}
-          <div>
-            <h3 className="text-lg font-bold">Repas</h3>
-            {log.meals?.map((meal: any, idx: number) => (
-              <div key={idx} className="mb-4 p-3 border rounded bg-gray-50">
-                <h4 className="font-semibold">{meal.name}</h4>
-                <ul className="list-disc pl-4">
-                  {meal.items.map((item: any, i: number) => (
-                    <li key={i}>{item.name} - {item.quantity} - {item.nutrients.calories} kcal</li>
-                  ))}
-                </ul>
-                <div className="text-sm text-gray-600 mt-2">
-                  Total : {meal.total_nutrients.calories} kcal, Prot: {meal.total_nutrients.protein}g, Glu: {meal.total_nutrients.carbs}g, Lip: {meal.total_nutrients.fat}g
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {/* Activities */}
-          <div>
-            <h3 className="text-lg font-bold">Activités</h3>
-            {log.activities?.map((act: any, i: number) => (
-              <div key={i} className="mb-2 p-3 border rounded bg-gray-50">
-                <p>{act.type === 'musculation' ? `${act.exercise} - ${act.sets.length} séries` : `${act.type} - ${act.duration_minutes} min`}</p>
-              </div>
-            ))}
-          </div>
-
-          {/* Chatbot */}
-          <div>
-            <h3 className="text-lg font-bold">Assistant</h3>
-            <div className="max-h-64 overflow-y-auto border rounded p-2 bg-gray-100 mb-2">
-              {chatHistory.map((msg, i) => (
-                <div key={i} className="mb-2">
-                  <div className="text-right text-sm text-blue-700">{msg.time} - Vous : {msg.user_input}</div>
-                  <div className="text-left text-sm text-green-700">{msg.assistant_output}</div>
-                </div>
-              ))}
+      <div>
+        <h2 className="text-lg font-semibold">Assistant</h2>
+        <div className="max-h-60 overflow-y-auto bg-gray-100 p-2 border mb-2">
+          {chatHistory.map((m, i) => (
+            <div key={i} className="mb-2">
+              <div className="text-right text-blue-700">Vous: {m.user_input}</div>
+              <div className="text-left text-green-700">Coach: {m.assistant_output}</div>
             </div>
-            <div className="flex gap-2">
-              <input
-                value={chatInput}
-                onChange={(e) => setChatInput(e.target.value)}
-                className="flex-1 p-2 border rounded"
-                placeholder="Envoyer un message au coach..."
-              />
-              <button onClick={handleSendMessage} className="px-4 bg-green-600 text-white rounded">Envoyer</button>
-            </div>
-          </div>
+          ))}
         </div>
-      ) : (
-        <p className="text-gray-600">Aucune donnée disponible.</p>
-      )}
+        <div className="flex gap-2">
+          <input value={chatInput} onChange={(e) => setChatInput(e.target.value)} className="flex-1 p-2 border rounded" />
+          <button onClick={handleSendMessage} className="bg-green-600 text-white px-3 py-1 rounded">Envoyer</button>
+        </div>
+      </div>
+
+      <button onClick={handleSave} className="mt-4 bg-black text-white py-2 px-4 rounded">Sauvegarder le journal</button>
     </div>
   );
 };
