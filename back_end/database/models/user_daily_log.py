@@ -1,6 +1,6 @@
 # back_end/database/models/user_daily_log.py
 
-from sqlalchemy import Column, Integer, String, Date, DateTime, ForeignKey, JSON
+from sqlalchemy import Column, Integer, String, Date, DateTime, ForeignKey, JSON, Float
 from sqlalchemy.orm import relationship
 from datetime import datetime
 from .base import Base
