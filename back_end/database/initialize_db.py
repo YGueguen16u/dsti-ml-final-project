@@ -30,6 +30,7 @@ def seed_test_data(connector: DatabaseConnector):
 
     repo.insert_user(
         user_id=user_id,
+        name="Test User",
         age=28,
         gender="Male",
         height=180.0,

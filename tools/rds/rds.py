@@ -102,6 +102,20 @@ def show_user_daily_logs():
     except Exception as e:
         print(f"❌ Erreur lors de l'affichage des user daily goals : {e}")
 
+def show_user_daily_logs_columns():
+    try:
+        with engine.connect() as conn:
+            result = conn.execute(text("""
+                SELECT column_name, data_type 
+                FROM information_schema.columns 
+                WHERE table_name = 'user_daily_logs';
+            """))
+            print(f" Colonnes de la table 'user_daily_logs' :")
+            for row in result:
+                print(f" - {row[0]} ({row[1]})")
+    except Exception as e:
+        print(f"❌ Erreur lors de l'affichage des colonnes : {e}")
+
 def alter_user_daily_logs_table():
     try:
         with engine.connect() as conn:
@@ -112,11 +126,38 @@ def alter_user_daily_logs_table():
     except Exception as e:
         print(f"❌ Erreur lors de la modification de la table : {e}")
 
+def force_add_missing_columns():
+    try:
+        with engine.begin() as conn:  # ⚠️ use begin() to ensure commit
+            print("🚨 Vérification et ajout des colonnes 'weight' et 'height' dans user_daily_logs...")
+
+            result = conn.execute(text("""
+                SELECT column_name FROM information_schema.columns 
+                WHERE table_name = 'user_daily_logs' AND column_name IN ('weight', 'height');
+            """))
+            existing_columns = [row[0] for row in result]
+
+            if "weight" not in existing_columns:
+                conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN weight FLOAT;"))
+                print("✅ Colonne 'weight' ajoutée.")
+            else:
+                print("✔️ Colonne 'weight' déjà présente.")
+
+            if "height" not in existing_columns:
+                conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN height FLOAT;"))
+                print("✅ Colonne 'height' ajoutée.")
+            else:
+                print("✔️ Colonne 'height' déjà présente.")
+    except Exception as e:
+        print(f"❌ Erreur lors de la vérification/ajout de colonnes : {e}")
+
 
 if __name__ == "__main__":
+    force_add_missing_columns()
     alter_user_daily_logs_table()
     list_databases()
     list_tables()
     show_users()
     show_goals()
     show_user_daily_logs()
+    show_user_daily_logs_columns()
