@@ -1,0 +1,33 @@
+{
+  "muscle_training": {
+    "fields": [
+      "exercise_name",
+      "sets"
+    ],
+    "set_fields": [
+      "reps",
+      "weight",
+      "rest"
+    ],
+    "exercises": [
+      "développé couché",
+      "squat",
+      "curl biceps",
+      "tirage dos",
+      "fentes"
+    ]
+  },
+  "sprint": {
+    "fields": [
+      "distance",
+      "time",
+      "rest"
+    ]
+  },
+  "course": {
+    "fields": [
+      "duration_minutes",
+      "intensity"
+    ]
+  }
+}

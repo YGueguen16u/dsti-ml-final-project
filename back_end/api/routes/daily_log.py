@@ -6,9 +6,20 @@ from sqlalchemy.orm import Session
 from datetime import date
 from back_end.database.connect import DatabaseConnector
 from back_end.database.repository.user_daily_log_repository import UserDailyLogRepository
+import json
+import os
 
 router = APIRouter(prefix="/api/log", tags=["Daily Log"])
 db_connector = DatabaseConnector()
+
+# Charger les schémas d'activités depuis un fichier local JSON
+SCHEMA_PATH = os.path.join(os.path.dirname(__file__), "activity_schema.json")
+try:
+    with open(SCHEMA_PATH, "r", encoding="utf-8") as f:
+        ACTIVITY_SCHEMAS = json.load(f)
+except Exception as e:
+    print(f"❌ Erreur de chargement des schémas d'activité : {e}")
+    ACTIVITY_SCHEMAS = {}
 
 class DailyLogInput(BaseModel):
     log_date: date
@@ -35,3 +46,7 @@ def get_log_for_date(user_id: str, log_date: date, db: Session = Depends(db_conn
         "log_data": log.log_data,
         "log_date": log.log_date
     }
+
+@router.get("/activity_schema")
+def get_activity_schemas():
+    return ACTIVITY_SCHEMAS

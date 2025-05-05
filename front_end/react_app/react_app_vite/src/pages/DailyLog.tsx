@@ -15,8 +15,9 @@ const DailyLogPage = () => {
   const [mealInput, setMealInput] = useState("Lunch");
   const [currentMealItems, setCurrentMealItems] = useState<any[]>([]);
   const [foodInput, setFoodInput] = useState({ name: "", quantity: "", calories: 0, protein: 0, fat: 0, carbs: 0 });
-  const [activityInput, setActivityInput] = useState({ type: "", duration_minutes: "", intensity: "" });
+  const [activityInput, setActivityInput] = useState<any>({ type: "" });
   const [userSnapshot, setUserSnapshot] = useState<any>({});
+  const [activitySchema, setActivitySchema] = useState<any>({});
 
   const BASE_URL = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8000").replace(/\/$/, "");
 
@@ -63,6 +64,15 @@ const DailyLogPage = () => {
     }
   };
 
+  const fetchActivitySchema = async () => {
+    try {
+      const res = await axios.get(`${BASE_URL}/api/log/activity_schema`);
+      setActivitySchema(res.data);
+    } catch (err) {
+      console.error("Erreur de chargement des schémas d'activité", err);
+    }
+  };
+
   const handleAddFood = () => {
     setCurrentMealItems([...currentMealItems, foodInput]);
     setFoodInput({ name: "", quantity: "", calories: 0, protein: 0, fat: 0, carbs: 0 });
@@ -84,7 +94,7 @@ const DailyLogPage = () => {
 
   const handleAddActivity = () => {
     setActivities([...activities, activityInput]);
-    setActivityInput({ type: "", duration_minutes: "", intensity: "" });
+    setActivityInput({ type: "" });
   };
 
   const handleSendMessage = () => {
@@ -112,7 +122,49 @@ const DailyLogPage = () => {
 
   useEffect(() => {
     if (userId) fetchLog();
+    fetchActivitySchema();
   }, [logDate, userId]);
+
+  const renderActivityFields = () => {
+    if (!activityInput.type || !activitySchema[activityInput.type]) return null;
+    const config = activitySchema[activityInput.type];
+    return (
+      <div className="space-y-2 mt-2">
+        {config.fields?.map((field: string) => (
+          <input
+            key={field}
+            placeholder={field}
+            className="border p-1 mr-1"
+            value={activityInput[field] || ""}
+            onChange={(e) => setActivityInput({ ...activityInput, [field]: e.target.value })}
+          />
+        ))}
+        {activityInput.type === "muscle_training" && (
+          <>
+            <label className="block mt-2">Exercice :</label>
+            <select
+              value={activityInput.exercise_name || ""}
+              onChange={(e) => setActivityInput({ ...activityInput, exercise_name: e.target.value })}
+              className="border p-1"
+            >
+              <option value="">-- Choisir --</option>
+              {config.exercises.map((ex: string) => (
+                <option key={ex} value={ex}>{ex}</option>
+              ))}
+            </select>
+            <label className="block mt-2">Séries :</label>
+            <textarea
+              placeholder={'Séries en JSON ex: [{"reps": 10, "weight": "60kg", "rest": "90s"}]'}
+              className="border w-full p-1"
+              rows={3}
+              value={activityInput.sets || ""}
+              onChange={(e) => setActivityInput({ ...activityInput, sets: e.target.value })}
+            />
+          </>
+        )}
+      </div>
+    );
+  };
 
   return (
     <div className="p-6 max-w-3xl mx-auto space-y-6">
@@ -136,12 +188,20 @@ const DailyLogPage = () => {
 
       <div>
         <h2 className="text-lg font-semibold">Activités</h2>
-        <input value={activityInput.type} onChange={e => setActivityInput({ ...activityInput, type: e.target.value })} placeholder="Type" className="border p-1 mr-1" />
-        <input value={activityInput.duration_minutes} onChange={e => setActivityInput({ ...activityInput, duration_minutes: e.target.value })} placeholder="Durée" className="border p-1 mr-1" />
-        <input value={activityInput.intensity} onChange={e => setActivityInput({ ...activityInput, intensity: e.target.value })} placeholder="Intensité" className="border p-1 mr-1" />
-        <button onClick={handleAddActivity} className="bg-blue-500 text-white px-2 py-1">+ Activité</button>
+        <select
+          value={activityInput.type || ""}
+          onChange={(e) => setActivityInput({ type: e.target.value })}
+          className="border p-1 mr-2"
+        >
+          <option value="">-- Type d'activité --</option>
+          {Object.keys(activitySchema).map((key) => (
+            <option key={key} value={key}>{key}</option>
+          ))}
+        </select>
+        {renderActivityFields()}
+        <button onClick={handleAddActivity} className="bg-blue-500 text-white px-2 py-1 mt-2">+ Activité</button>
         <ul className="text-sm list-disc ml-5 mt-2">
-          {activities.map((a, i) => <li key={i}>{a.type} - {a.duration_minutes} min ({a.intensity})</li>)}
+          {activities.map((a, i) => <li key={i}>{a.type}</li>)}
         </ul>
       </div>
 
