@@ -4,6 +4,8 @@ import os
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 
+from sqlalchemy import text
+
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from back_end.api.routes import user, daily_log
@@ -41,6 +43,12 @@ connector = DatabaseConnector()
 def on_startup():
     connector = DatabaseConnector()
     connector.initialize_schema()
+
+    with connector.engine.connect() as conn:
+        print("🛠️ Vérification et ajout de colonnes manquantes dans user_daily_logs...")
+        conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS weight FLOAT;"))
+        conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS height FLOAT;"))
+
     run_seed()
 
 # Product Searcher
