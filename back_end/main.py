@@ -43,8 +43,15 @@ connector = DatabaseConnector()
 @app.on_event("startup")
 def on_startup():
     connector = DatabaseConnector()
+
+    with connector.engine.connect() as conn:
+        print("🧨 Suppression manuelle de la table user_daily_logs (si elle existe)...")
+        conn.execute(text("DROP TABLE IF EXISTS user_daily_logs CASCADE;"))
+
+    # Recrée toutes les tables définies dans tes modèles SQLAlchemy
     connector.initialize_schema()
 
+    # Resync les colonnes optionnelles après recréation
     with connector.engine.connect() as conn:
         print("🛠️ Vérification et ajout de colonnes manquantes dans user_daily_logs...")
         conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS weight FLOAT;"))
