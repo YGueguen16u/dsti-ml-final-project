@@ -14,6 +14,10 @@ from back_end.database.connect import DatabaseConnector
 #from database.connect import DatabaseConnector
 from back_end.database.seed_postgres import run_seed
 
+from back_end.config.settings import settings
+
+print("📡 DATABASE_URL =", settings.DATABASE_URL)
+
 
 # Créer FastAPI
 app = FastAPI()
