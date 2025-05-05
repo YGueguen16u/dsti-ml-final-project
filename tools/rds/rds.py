@@ -102,9 +102,21 @@ def show_user_daily_logs():
     except Exception as e:
         print(f"❌ Erreur lors de l'affichage des user daily goals : {e}")
 
+def alter_user_daily_logs_table():
+    try:
+        with engine.connect() as conn:
+            print("⏳ Modification de la table user_daily_logs...")
+            conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS weight FLOAT;"))
+            conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS height FLOAT;"))
+            print("✅ Colonnes 'weight' et 'height' ajoutées (ou déjà existantes).")
+    except Exception as e:
+        print(f"❌ Erreur lors de la modification de la table : {e}")
+
+
 if __name__ == "__main__":
     list_databases()
     list_tables()
+    alter_user_daily_logs_table()  # <-- ajout ici
     show_users()
     show_goals()
     show_user_daily_logs()

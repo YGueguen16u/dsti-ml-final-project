@@ -26,6 +26,9 @@ app.add_middleware(
     allow_methods=["*"],
 )
 
+print("🔎 Render ENV DEBUG :")
+print("POSTGRES_HOST =", os.getenv("POSTGRES_HOST"))
+print("POSTGRES_DB =", os.getenv("POSTGRES_DB"))
 # Connecteur DB
 connector = DatabaseConnector()
 

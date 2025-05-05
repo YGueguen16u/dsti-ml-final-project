@@ -3,18 +3,15 @@
 import os
 from dotenv import load_dotenv
 
-
 class Settings:
     def __init__(self):
-        # Détecte le mode à chaque instanciation (au lieu de au moment du fichier)
-        mode = os.getenv("MODE", "local")  # "docker", "local", "aws"
+        mode = os.getenv("MODE", "local").lower()  # 👈 robustesse peu importe majuscules/minuscules
 
         if mode == "docker":
             load_dotenv("env_folder/.env.postgre.docker")
-        elif mode == "aws":
-            load_dotenv("env_folder/.env.postgre.aws")
-        else:
+        elif mode == "local":
             load_dotenv("env_folder/.env.postgre.local")
+        # mode == "aws" → ne charge rien, les variables sont déjà injectées dans Render
 
         self.POSTGRES_DB = self._get_env_var("POSTGRES_DB")
         self.POSTGRES_USER = self._get_env_var("POSTGRES_USER")
@@ -33,6 +30,4 @@ class Settings:
             raise ValueError(f"❌ Variable d'environnement obligatoire manquante : {var_name}")
         return value
 
-
-# Instanciation finale
 settings = Settings()
