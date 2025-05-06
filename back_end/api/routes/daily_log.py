@@ -13,9 +13,9 @@ router = APIRouter(prefix="/api/log", tags=["Daily Log"])
 db_connector = DatabaseConnector()
 
 # Charger les schémas d'activités depuis un fichier local JSON
-SCHEMA_PATH = os.path.join(os.path.dirname(__file__), "activity_schema.json")
+SCHEMA_ACTIVITY_PATH = os.path.join(os.path.dirname(__file__), "activity_schema.json")
 try:
-    with open(SCHEMA_PATH, "r", encoding="utf-8") as f:
+    with open(SCHEMA_ACTIVITY_PATH, "r", encoding="utf-8") as f:
         ACTIVITY_SCHEMAS = json.load(f)
 except Exception as e:
     print(f"❌ Erreur de chargement des schémas d'activité : {e}")
@@ -40,7 +40,29 @@ def get_log_for_date(user_id: str, log_date: date, db: Session = Depends(db_conn
     repo = UserDailyLogRepository(db)
     log = repo.get_log_for_day(user_id, log_date)
     if not log:
-        raise HTTPException(status_code=404, detail="Log introuvable pour cette date")
+        # Return default structured empty log
+        user = db.query(User).filter_by(user_id=user_id).first()
+        if not user:
+            raise HTTPException(404, "Utilisateur introuvable")
+        return {
+            "log_date": log_date,
+            "user_snapshot": {
+                "name": user.name,
+                "age": user.age,
+                "gender": user.gender.label,
+                "weight": user.weight,
+                "height": user.height,
+                "target_weight": user.target_weight,
+                "fitness_level": user.fitness_level.label,
+                "diet_type": user.diet_type.label,
+                "goals": [g.label for g in user.goals]
+            },
+            "log_data": {
+                "meals": [],
+                "activities": [],
+                "chat_history": []
+            }
+        }
     return {
         "user_snapshot": log.user_snapshot,
         "log_data": log.log_data,
