@@ -77,7 +77,7 @@ def search_products(q: str = Query(..., description="Rechercher un produit par n
     results = product_searcher.search_products(query=q, max_results=max_results)
     return {"results": results}
 
-@router.get("api/get_product_by_barcode")
+@app.get("/api/get_product_by_barcode")
 def get_product_by_barcode(barcode: str):
     searcher = ProductSearcher()
     product = searcher.get_product_by_barcode(barcode)
