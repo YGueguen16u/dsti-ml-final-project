@@ -63,20 +63,27 @@ const MealSection = ({ meals, setMeals }: MealSectionProps) => {
     setSuggestions((prev) => ({ ...prev, [mealIdx]: [] }));
   };
 
-  const handleSelectSuggestion = (mealIdx: number, product: any) => {
-    const nutriments = product.nutriments || {};
-    setFoodInputs((prev) => ({
-      ...prev,
-      [mealIdx]: {
-        name: product.name,
-        quantity: "100g",
-        calories: nutriments.energy_kcal || 0,
-        protein: nutriments.proteins || 0,
-        fat: nutriments.fat || 0,
-        carbs: nutriments.carbohydrates || 0,
-      },
-    }));
-    setSuggestions((prev) => ({ ...prev, [mealIdx]: [] }));
+  const handleSelectSuggestion = async (mealIdx: number, product: any) => {
+    try {
+      const res = await fetch(`${BASE_URL}/api/get_product_by_barcode?barcode=${product.barcode}`);
+      const detailed = await res.json();
+
+      setFoodInputs((prev) => ({
+        ...prev,
+        [mealIdx]: {
+          name: detailed.name,
+          quantity: "100g",
+          calories: detailed.nutrients.calories || 0,
+          protein: detailed.nutrients.protein || 0,
+          fat: detailed.nutrients.fat || 0,
+          carbs: detailed.nutrients.carbs || 0,
+        },
+      }));
+
+      setSuggestions((prev) => ({ ...prev, [mealIdx]: [] }));
+    } catch (err) {
+      console.error("Erreur lors de la récupération du produit détaillé :", err);
+    }
   };
 
   useEffect(() => {
