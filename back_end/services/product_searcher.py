@@ -1,7 +1,5 @@
 # back_end/services/product_searcher.py
 
-# back_end/services/product_searcher.py
-
 import json
 from infrastructure.aws.s3.s3_manager import S3Manager
 
@@ -49,3 +47,16 @@ class ProductSearcher:
                 break
 
         return matches
+
+    def get_product_by_barcode(self, barcode: str):
+        """
+        Given a barcode, fetch full product JSON from appropriate S3 folder.
+        """
+        folder = "openfoodfactstransformed/EAN8" if len(barcode) == 8 else "openfoodfactstransformed/EAN13"
+        path = f"{folder}/{barcode}.json"
+        try:
+            product_data = self.s3_manager.load_json(path)
+            return product_data
+        except Exception as e:
+            print(f"Erreur chargement produit {barcode} : {e}")
+            return None

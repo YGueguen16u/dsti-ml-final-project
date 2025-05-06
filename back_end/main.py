@@ -16,6 +16,8 @@ from back_end.database.connect import DatabaseConnector
 #from database.connect import DatabaseConnector
 from back_end.database.seed_postgres import run_seed
 
+from fastapi import APIRouter, HTTPException
+
 from back_end.config.settings import settings
 
 print("📡 DATABASE_URL =", settings.DATABASE_URL)
@@ -74,3 +76,24 @@ def ping():
 def search_products(q: str = Query(..., description="Rechercher un produit par nom ou marque"), max_results: int = 20):
     results = product_searcher.search_products(query=q, max_results=max_results)
     return {"results": results}
+
+@router.get("api/get_product_by_barcode")
+def get_product_by_barcode(barcode: str):
+    searcher = ProductSearcher()
+    product = searcher.get_product_by_barcode(barcode)
+    if not product:
+        raise HTTPException(status_code=404, detail="Produit non trouvé")
+
+    # Extraction utile
+    nutr = product.get("nutrients_100g", {})
+    return {
+        "name": product.get("name"),
+        "brands": product.get("brands"),
+        "barcode": product.get("barcode"),
+        "nutrients": {
+            "calories": nutr.get("energy_kcal_100g", {}).get("quantity", 0),
+            "protein": nutr.get("proteins", {}).get("quantity", 0),
+            "carbs": nutr.get("carbohydrates", {}).get("quantity", 0),
+            "fat": nutr.get("fat", {}).get("quantity", 0),
+        }
+    }
