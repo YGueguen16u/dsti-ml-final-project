@@ -1,0 +1,40 @@
+base_model: mistralai/Mixtral-8x7B-Instruct-v0.1
+model_type: MixtralForCausalLM
+tokenizer_type: MixtralTokenizer
+trust_remote_code: true
+
+datasets:
+  - path: ./datasets/your_dataset_name
+    type: chat
+
+val_set_size: 0.05
+
+adapter: qlora
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+
+sequence_len: 2048
+sample_packing: true
+pad_to_sequence_len: true
+
+wandb_project: mixtral-finetune
+
+gradient_accumulation_steps: 4
+micro_batch_size: 1
+num_epochs: 3
+optimizer: adamw_bnb_8bit
+lr_scheduler: cosine
+learning_rate: 2e-5
+
+output_dir: ./checkpoints/mixtral-finetuned
+save_safetensors: true
+load_in_4bit: true

@@ -40,15 +40,17 @@ back_end/api/dependencies/auth.py
 back_end/database/initialize_db.py
 back_end/database/models.py
 
-
 # ========================================
 # 🧪 Données temporaires & brutes
 # ========================================
-data/raw/
-data/processed/
-data/logs/
-data/audio/
-data/images/
+data/
+# (inclut data/raw/, data/processed/, data/logs/, data/audio/, data/images/)
+
+# ========================================
+# 📚 Notebooks personnels (facultatif)
+# ========================================
+*.ipynb
+notebooks/
 
 # ========================================
 # 📚 Notebooks personnels (facultatif)
