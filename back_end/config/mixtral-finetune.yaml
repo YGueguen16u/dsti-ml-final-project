@@ -12,7 +12,13 @@ use_auth_token: true
 # =====================
 datasets:
   - path: data_train/fine_tune_dataset_clean.jsonl
-    type: chat
+    type: chat_template
+    field_messages: messages
+    message_field_role: role
+    message_field_content: content
+    roles_to_train:
+      - user
+      - assistant
 chat_template: mistral_v2v3
 val_set_size: 0.05
 
