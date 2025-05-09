@@ -20,6 +20,7 @@ val_set_size: 0.05
 adapter: lora
 use_peft: true
 load_in_4bit: false
+load_in_8bit: false
 use_flash_attention: false
 
 lora_r: 16
