@@ -13,6 +13,7 @@ use_auth_token: true
 datasets:
   - path: data_train/fine_tune_dataset_clean.jsonl
     type: chat
+chat_template: mistral
 val_set_size: 0.05
 
 # =====================
