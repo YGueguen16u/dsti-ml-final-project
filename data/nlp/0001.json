@@ -1,0 +1,124 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Ce matin j’ai mangé une compote et deux œufs. J’ai fait du développé couché et un sprint de 100 mètres."
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "assistant_output": "Merci ! J’ai noté les activités, mais j’ai besoin de précisions pour tout ajouter correctement. Peux-tu me dire à quel repas cela correspond ? Et aussi le type de compote et d’œufs ? Pour les activités, j’ai besoin du temps et du repos pour le sprint, ainsi que les séries, le temps et répétitions du développé couché.",
+        "commands": [
+          {
+            "action": "query_s3",
+            "target": "compote"
+          },
+          {
+            "action": "query_s3",
+            "target": "œuf"
+          },
+          {
+            "action": "ask_user_meal",
+            "message": "Quel est le repas concerné (ex: petit-déjeuner, déjeuner) ?"
+          },
+          {
+            "action": "ask_user_food",
+            "message": "Quelle compote as-tu mangée ?",
+            "options": [
+              "POM'POTES Compotes Gourdes Pomme Nature 1x90g",
+              "Compote Pomme Nature",
+              "Compote de pommes morceaux",
+              "Compote de pomme allégée",
+              "Compote de pomme",
+              "Compote pommes",
+              "Compote pommes allégée en sucres"
+            ]
+          },
+          {
+            "action": "ask_user",
+            "message": "Quel type d’œuf as-tu consommé ?",
+            "options": [
+              "Stéphanie eleveur",
+              "La Laitière crème aux oeufs",
+              "12 OEUFS FRAIS de poules élevées en plein air",
+              "Tortellini Ricotta Epinards aux oeufs frais",
+              "Oeufs frais plein air Oméga3 x 12",
+              "Mousse aux oeufs frais chocolat au lait",
+              "Nouilles aux oeufs"
+            ]
+          },
+          {
+            "action": "ask_user",
+            "message": "Combien de temps a duré ton sprint ?"
+          },
+          {
+            "action": "ask_user",
+            "message": "Quel était le temps de repos entre les sprints ?"
+          },
+          {
+            "action": "ask_user",
+            "message": "Combien de séries et répétitions pour le développé couché ?"
+          }
+        ]
+      }
+    },
+    {
+      "role": "user",
+      "content": "C’était au petit-déjeuner. La compote était Pom’ Potes Bio, les œufs étaient bio. Le sprint : 100m en 13 secondes avec 60 secondes de repos. Le développé couché : 3 séries de 10."
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "assistant_output": "Parfait, j’ai ajouté la compote Pom’ Potes, les deux œufs bio, le sprint et le développé couché à ton journal du petit-déjeuner.",
+        "commands": [
+          {
+            "action": "fill_meal",
+            "meal": "Breakfast",
+            "item": {
+              "name": "œuf de poule bio",
+              "quantity": "2 unités",
+              "calories": 155,
+              "protein": 13,
+              "fat": 11,
+              "carbs": 1.1
+            }
+          },
+          {
+            "action": "fill_meal",
+            "meal": "Breakfast",
+            "item": {
+              "name": "Pom’ Potes Pomme Bio",
+              "quantity": "1 pot",
+              "calories": 68,
+              "protein": 0,
+              "fat": 0,
+              "carbs": 17
+            }
+          },
+          {
+            "action": "fill_activity",
+            "activity": {
+              "type": "sprint",
+              "distance": "100",
+              "duration_minutes": "13s",
+              "rest": "60s",
+              "MET":15.0
+            }
+          },
+          {
+            "action": "fill_activity",
+            "activity": {
+              "type": "muscle_training",
+              "exercise_name": "développé couché",
+              "sets": "3",
+              "reps": "10",
+              "duration_minutes": 10,
+              "MET":5.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+

@@ -15,19 +15,260 @@
       "curl biceps",
       "tirage dos",
       "fentes"
-    ]
+    ],
+    "ref_time" : 60,
+    "MET":5.0
   },
   "sprint": {
     "fields": [
       "distance",
       "time",
       "rest"
-    ]
+    ],
+    "ref_time" : 60,
+    "MET":15.0
   },
   "course": {
     "fields": [
       "duration_minutes",
       "intensity"
-    ]
+    ],
+    "ref_time" : 60,
+    "MET":10.0
+  },
+  "Zumba": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.5
+  },
+  "abdos": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 5.0
+  },
+  "alpinisme": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 9.0
+  },
+  "arts martiaux": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 10.3
+  },
+  "aérobic": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.3
+  },
+  "badminton": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "basketball": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.5
+  },
+  "boxe (sac)": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "boxe (sparring)": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 12.8
+  },
+  "burpees": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 10.0
+  },
+  "corde à sauter": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 12.3
+  },
+  "crossfit": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.0
+  },
+  "danse": {
+    "fields": ["duration_minutes", "intensity"],
+    "ref_time": 60,
+    "MET": 5.0
+  },
+  "elliptique": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 5.0
+  },
+  "escalade": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 9.5
+  },
+  "escrime": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "étirements": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 2.3
+  },
+  "football": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "gainage": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 3.3
+  },
+  "golf": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 4.8
+  },
+  "jumping jacks": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.0
+  },
+  "marche lente": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 2.8
+  },
+  "marche nordique": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "marche rapide": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 4.8
+  },
+  "natation lente": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "natation rapide": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 10.0
+  },
+  "parcours": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.5
+  },
+  "pilates": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 3.0
+  },
+  "plongée": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "pompes": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.0
+  },
+  "randonnée": {
+    "fields": ["duration_minutes", "dénivelé"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "rameur": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "roller": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "rugby": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.3
+  },
+  "ski alpin": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.0
+  },
+  "ski de fond": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 9.0
+  },
+  "skateboard": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 5.0
+  },
+  "snowboard": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 6.0
+  },
+  "spinning": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 9.5
+  },
+  "step": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 8.0
+  },
+  "tennis": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 7.3
+  },
+  "tennis de table": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 4.0
+  },
+  "tir à l’arc": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 2.5
+  },
+  "vélo rapide": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 10.0
+  },
+  "vélo tranquille": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 4.0
+  },
+  "volleyball": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 4.0
+  },
+  "yoga": {
+    "fields": ["duration_minutes"],
+    "ref_time": 60,
+    "MET": 2.5
   }
 }
