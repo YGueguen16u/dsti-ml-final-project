@@ -2,10 +2,10 @@
 # 🧠 Base model config
 # =====================
 base_model: mistralai/Mixtral-8x7B-Instruct-v0.1
-use_auth_token: true
-model_type: MixtralForCausalLM
-tokenizer_type: MixtralTokenizer
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
 trust_remote_code: true
+use_auth_token: true
 
 # =====================
 # 📚 Dataset
