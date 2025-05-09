@@ -4,12 +4,18 @@ tokenizer_type: MixtralTokenizer
 trust_remote_code: true
 
 datasets:
-  - path: ./datasets/your_dataset_name
+  - path: /Users/GUEGUEN/CascadeProjects/DSTI-ML-FINAL-PROJECT/data/nlp/fine_tune_dataset.jsonl
     type: chat
 
 val_set_size: 0.05
 
-adapter: qlora
+# ❌ PAS DE QLoRA / bitsandbytes
+adapter: lora
+load_in_4bit: false
+use_peft: true
+use_flash_attention: false
+
+optimizer: adamw
 lora_r: 16
 lora_alpha: 32
 lora_dropout: 0.05
@@ -27,14 +33,13 @@ sample_packing: true
 pad_to_sequence_len: true
 
 wandb_project: mixtral-finetune
+wandb_run_name: mixtral-run
 
 gradient_accumulation_steps: 4
 micro_batch_size: 1
 num_epochs: 3
-optimizer: adamw_bnb_8bit
 lr_scheduler: cosine
 learning_rate: 2e-5
 
 output_dir: ./checkpoints/mixtral-finetuned
 save_safetensors: true
-load_in_4bit: true
