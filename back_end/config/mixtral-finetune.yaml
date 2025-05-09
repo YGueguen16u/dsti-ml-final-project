@@ -1,7 +1,8 @@
 # =====================
 # 🧠 Base model config
 # =====================
-base_model: mistral-community/Mixtral-8x7B-Instruct-v0.1
+base_model: mistralai/Mixtral-8x7B-Instruct-v0.1
+use_auth_token: true
 model_type: MixtralForCausalLM
 tokenizer_type: MixtralTokenizer
 trust_remote_code: true
