@@ -11,7 +11,7 @@ use_auth_token: true
 # 📚 Dataset
 # =====================
 datasets:
-  - path: /fine_tune_dataset.jsonl  # adapt if needed
+  - path: data_train/fine_tune_dataset.jsonl
     type: chat
 val_set_size: 0.05
 
