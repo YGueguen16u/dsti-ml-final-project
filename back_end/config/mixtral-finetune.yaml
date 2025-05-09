@@ -1,7 +1,7 @@
 # =====================
 # 🧠 Base model config
 # =====================
-base_model: mistralai/Mixtral-8x7B-Instruct-v0.1
+base_model: mistral-community/Mixtral-8x7B-Instruct-v0.1
 model_type: MixtralForCausalLM
 tokenizer_type: MixtralTokenizer
 trust_remote_code: true
@@ -19,7 +19,7 @@ val_set_size: 0.05
 # =====================
 adapter: lora
 use_peft: true
-load_in_4bit: false        # ✅ no bitsandbytes
+load_in_4bit: false
 use_flash_attention: false
 
 lora_r: 16
