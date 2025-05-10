@@ -23,16 +23,13 @@ chat_template: mistral_v2v3
 val_set_size: 0.01
 
 # =====================
-# ⚙️ Adapter training (LoRA)
+# ⚙️ Adapter training (LoRA + 4-bit)
 # =====================
 adapter: lora
 use_peft: true
-load_in_8bit: true
+load_in_4bit: true
+bnb_4bit_quant_type: nf4
 use_flash_attention: false
-
-# 💥 Ne PAS mélanger avec du 4bit ici si 8bit est activé
-# Supprimer complètement les lignes 4bit
-# bnb_4bit_quant_type: nf4  ❌ supprimé
 
 lora_r: 8
 lora_alpha: 16
@@ -49,13 +46,13 @@ lora_target_modules:
 # =====================
 # 🧪 Training
 # =====================
-sequence_len: 512                # 🔽 réduit
-sample_packing: false            # 🔥 DÉSACTIVÉ
+sequence_len: 512
+sample_packing: false
 pad_to_sequence_len: true
 
 micro_batch_size: 1
-gradient_accumulation_steps: 1   # 🔽 minimal
-num_epochs: 1                    # pour test rapide
+gradient_accumulation_steps: 1
+num_epochs: 1
 learning_rate: 2e-5
 optimizer: adamw_torch
 lr_scheduler: cosine
