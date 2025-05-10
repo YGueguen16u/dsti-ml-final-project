@@ -27,9 +27,10 @@ val_set_size: 0.05
 # =====================
 adapter: lora
 use_peft: true
-load_in_8bit: true           # ✅ active la quantization 8-bit
-bnb_4bit_quant_type: nf4     # 🟡 optionnel si tu veux passer en 4-bit plus tard
+load_in_8bit: true
 use_flash_attention: false
+
+bnb_4bit_quant_type: nf4
 
 lora_r: 16
 lora_alpha: 32
@@ -46,18 +47,18 @@ lora_target_modules:
 # =====================
 # 🧪 Training
 # =====================
-sequence_len: 2048
+sequence_len: 1024   # ⚠️ Réduction pour éviter OOM
 sample_packing: true
 pad_to_sequence_len: true
 
 micro_batch_size: 1
-gradient_accumulation_steps: 4
+gradient_accumulation_steps: 2   # ⚠️ Plus léger en RAM
 num_epochs: 3
 learning_rate: 2e-5
 optimizer: adamw_torch
 lr_scheduler: cosine
 
-use_gradient_checkpointing: true   # ✅ réduit l’utilisation mémoire CPU/GPU
+use_gradient_checkpointing: true
 
 # =====================
 # 💾 Output
