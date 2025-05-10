@@ -20,20 +20,22 @@ datasets:
       - user
       - assistant
 chat_template: mistral_v2v3
-val_set_size: 0.05
+val_set_size: 0.01
 
 # =====================
-# ⚙️ Adapter training (LoRA + 8-bit quant)
+# ⚙️ Adapter training (LoRA)
 # =====================
 adapter: lora
 use_peft: true
 load_in_8bit: true
 use_flash_attention: false
 
-bnb_4bit_quant_type: nf4
+# 💥 Ne PAS mélanger avec du 4bit ici si 8bit est activé
+# Supprimer complètement les lignes 4bit
+# bnb_4bit_quant_type: nf4  ❌ supprimé
 
-lora_r: 16
-lora_alpha: 32
+lora_r: 8
+lora_alpha: 16
 lora_dropout: 0.05
 lora_target_modules:
   - q_proj
@@ -47,13 +49,13 @@ lora_target_modules:
 # =====================
 # 🧪 Training
 # =====================
-sequence_len: 1024   # ⚠️ Réduction pour éviter OOM
-sample_packing: true
+sequence_len: 512                # 🔽 réduit
+sample_packing: false            # 🔥 DÉSACTIVÉ
 pad_to_sequence_len: true
 
 micro_batch_size: 1
-gradient_accumulation_steps: 2   # ⚠️ Plus léger en RAM
-num_epochs: 3
+gradient_accumulation_steps: 1   # 🔽 minimal
+num_epochs: 1                    # pour test rapide
 learning_rate: 2e-5
 optimizer: adamw_torch
 lr_scheduler: cosine
@@ -67,7 +69,7 @@ output_dir: ./checkpoints/mixtral-finetuned
 save_safetensors: true
 
 # =====================
-# 📊 Experiment tracking (optional)
+# 📊 Experiment tracking
 # =====================
 wandb_project: mixtral-finetune
 wandb_run_name: mixtral-run
