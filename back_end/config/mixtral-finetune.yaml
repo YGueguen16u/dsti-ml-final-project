@@ -47,12 +47,12 @@ lora_target_modules:
 # =====================
 # 🧪 Training
 # =====================
-sequence_len: 1024   # ⚠️ Réduction pour éviter OOM
+sequence_len: 768                # ↓ encore pour le 1er batch
 sample_packing: true
 pad_to_sequence_len: true
 
 micro_batch_size: 1
-gradient_accumulation_steps: 2   # ⚠️ Plus léger en RAM
+gradient_accumulation_steps: 1   # ⚠️ Plus léger en RAM
 num_epochs: 3
 learning_rate: 2e-5
 optimizer: adamw_torch
