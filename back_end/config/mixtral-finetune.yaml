@@ -23,12 +23,12 @@ chat_template: mistral_v2v3
 val_set_size: 0.05
 
 # =====================
-# ⚙️ Adapter training (LoRA, no quant)
+# ⚙️ Adapter training (LoRA + 8-bit quant)
 # =====================
 adapter: lora
 use_peft: true
-load_in_4bit: false
-load_in_8bit: false
+load_in_8bit: true           # ✅ active la quantization 8-bit
+bnb_4bit_quant_type: nf4     # 🟡 optionnel si tu veux passer en 4-bit plus tard
 use_flash_attention: false
 
 lora_r: 16
@@ -56,6 +56,8 @@ num_epochs: 3
 learning_rate: 2e-5
 optimizer: adamw_torch
 lr_scheduler: cosine
+
+use_gradient_checkpointing: true   # ✅ réduit l’utilisation mémoire CPU/GPU
 
 # =====================
 # 💾 Output
