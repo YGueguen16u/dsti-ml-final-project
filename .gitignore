@@ -6,6 +6,7 @@ __pycache__/
 *.py[cod]
 *.so
 axolotl
+checkpoints
 
 # ========================================
 # 🍏 macOS System Files
