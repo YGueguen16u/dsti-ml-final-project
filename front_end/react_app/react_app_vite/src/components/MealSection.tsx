@@ -1,7 +1,5 @@
 // front_end/react_app/react_app_vite/src/components/MealSection.tsx
 
-// front_end/react_app/react_app_vite/src/components/MealSection.tsx
-
 import { useRef, useState, useEffect } from "react";
 import { FoodItem, Meal } from "../types/log";
 import { PlusCircle } from "lucide-react";

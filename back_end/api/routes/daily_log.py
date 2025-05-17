@@ -18,7 +18,7 @@ try:
     with open(SCHEMA_ACTIVITY_PATH, "r", encoding="utf-8") as f:
         ACTIVITY_SCHEMAS = json.load(f)
 except Exception as e:
-    print(f"❌ Erreur de chargement des schémas d'activité : {e}")
+    print(f"Erreur de chargement des schémas d'activité : {e}")
     ACTIVITY_SCHEMAS = {}
 
 class DailyLogInput(BaseModel):

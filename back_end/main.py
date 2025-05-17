@@ -20,7 +20,7 @@ from fastapi import APIRouter, HTTPException
 
 from back_end.config.settings import settings
 
-print("📡 DATABASE_URL =", settings.DATABASE_URL)
+print("DATABASE_URL =", settings.DATABASE_URL)
 
 
 # Créer FastAPI
@@ -47,7 +47,7 @@ def on_startup():
     connector = DatabaseConnector()
 
     with connector.engine.connect() as conn:
-        print("🧨 Suppression manuelle de la table user_daily_logs (si elle existe)...")
+        print("Suppression manuelle de la table user_daily_logs (si elle existe)...")
         conn.execute(text("DROP TABLE IF EXISTS user_daily_logs CASCADE;"))
 
     # Recrée toutes les tables définies dans tes modèles SQLAlchemy

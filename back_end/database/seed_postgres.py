@@ -52,10 +52,10 @@ def run_seed():
             insert_if_not_exists(db, Goal, goal)
 
         db.commit()
-        print("✅ Seeding complete.")
+        print("Seeding complete.")
     except Exception as e:
         db.rollback()
-        print("❌ Error during seeding:", e)
+        print("Error during seeding:", e)
         raise
     finally:
         db.close()

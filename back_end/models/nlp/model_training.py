@@ -1,6 +1,6 @@
 # back_end/models/nlp/model_training.py
 
-from .s3_nlp_controller import S3NLPController
+from .gguf import S3NLPController
 
 if __name__ == "__main__":
     controller = S3NLPController()

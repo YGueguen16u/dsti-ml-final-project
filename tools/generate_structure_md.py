@@ -21,7 +21,19 @@ def generate_tree_markdown(root_path):
 
     def walk(path, prefix=""):
         contents = list(sorted((p for p in path.iterdir() if p.name not in {
-            ".git", "venv", "__pycache__", "tools", ".DS_Store", "node_modules", ".venv"
+            ".git",
+            "venv",
+            "__pycache__",
+            "tools",
+            ".DS_Store",
+            "node_modules",
+            ".venv",
+            "data",
+            ".idea",
+            ".pytest_cache",
+            "axolotl",
+            "best-practices"
+
         }), key=lambda x: (x.is_file(), x.name.lower())))
 
         for i, p in enumerate(contents):

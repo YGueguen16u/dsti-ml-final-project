@@ -1,15 +1,11 @@
-# =====================
-# 🧠 Base model config
-# =====================
+# Base
 base_model: mistralai/Mixtral-8x7B-Instruct-v0.1
 model_type: AutoModelForCausalLM
 tokenizer_type: AutoTokenizer
 trust_remote_code: true
 use_auth_token: true
 
-# =====================
-# 📚 Dataset
-# =====================
+# Dataset
 datasets:
   - path: data_train/fine_tune_dataset_clean.jsonl
     type: chat_template
@@ -22,9 +18,7 @@ datasets:
 chat_template: mistral_v2v3
 val_set_size: 0.01
 
-# =====================
-# ⚙️ Adapter training (LoRA + 4-bit)
-# =====================
+# Adapter training (LoRA + 4-bit)
 adapter: lora
 use_peft: true
 load_in_4bit: true
@@ -43,9 +37,7 @@ lora_target_modules:
   - up_proj
   - down_proj
 
-# =====================
-# 🧪 Training
-# =====================
+# Training
 sequence_len: 512
 sample_packing: false
 pad_to_sequence_len: true
@@ -59,14 +51,10 @@ lr_scheduler: cosine
 
 use_gradient_checkpointing: true
 
-# =====================
-# 💾 Output
-# =====================
+# Output
 output_dir: ./checkpoints/mixtral-finetuned
 save_safetensors: true
 
-# =====================
-# 📊 Experiment tracking
-# =====================
+# Experiment tracking
 wandb_project: mixtral-finetune
 wandb_run_name: mixtral-run
