@@ -41,11 +41,11 @@ class S3Manager:
         """
         try:
             self.s3.upload_file(local_path, self.bucket, s3_key)
-            print(f"✅ Uploaded: {local_path} → s3://{self.bucket}/{s3_key}")
+            print(f"Uploaded: {local_path} → s3://{self.bucket}/{s3_key}")
         except FileNotFoundError:
-            print("❌ File not found:", local_path)
+            print("File not found:", local_path)
         except NoCredentialsError:
-            print("❌ AWS credentials not found!")
+            print("AWS credentials not found!")
 
     def download(self, s3_key: str, local_path: str):
         """
@@ -60,9 +60,9 @@ class S3Manager:
         """
         try:
             self.s3.download_file(self.bucket, s3_key, local_path)
-            print(f"✅ Downloaded: s3://{self.bucket}/{s3_key} → {local_path}")
+            print(f"Downloaded: s3://{self.bucket}/{s3_key} → {local_path}")
         except ClientError as e:
-            print(f"❌ Error: {e}")
+            print(f"Error: {e}")
 
     def list(self, prefix: str = ""):
         """
@@ -82,7 +82,7 @@ class S3Manager:
                 print(" -", f)
             return files
         except Exception as e:
-            print(f"❌ Error listing files: {e}")
+            print(f"Error listing files: {e}")
             return []
 
     def load_json(self, s3_key: str):
@@ -100,7 +100,7 @@ class S3Manager:
             content = response["Body"].read().decode("utf-8")
             return json.loads(content)
         except Exception as e:
-            print(f"❌ Failed to load JSON from s3://{self.bucket}/{s3_key} — {e}")
+            print(f"Failed to load JSON from s3://{self.bucket}/{s3_key} — {e}")
             return []
 
 
@@ -118,4 +118,4 @@ class S3Manager:
             self.s3.delete_object(Bucket=self.bucket, Key=s3_key)
             print(f" Deleted: s3://{self.bucket}/{s3_key}")
         except ClientError as e:
-            print(f"❌ Error deleting file: {e}")
+            print(f"Error deleting file: {e}")

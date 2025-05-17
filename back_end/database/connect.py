@@ -55,7 +55,7 @@ class DatabaseConnector:
 
     def initialize_schema(self):
         """Crée toutes les tables définies dans les modèles si elles n'existent pas."""
-        print("✅ Tables détectées par SQLAlchemy avant création :")
+        print("Tables détectées par SQLAlchemy avant création :")
         pprint(Base.metadata.tables.keys())
         Base.metadata.create_all(bind=self.engine)
-        print("✅ ORM schema created (if not exists).")
+        print("ORM schema created (if not exists).")

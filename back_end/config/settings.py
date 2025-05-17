@@ -27,7 +27,7 @@ class Settings:
     def _get_env_var(self, var_name: str) -> str:
         value = os.getenv(var_name)
         if value is None:
-            raise ValueError(f"❌ Variable d'environnement obligatoire manquante : {var_name}")
+            raise ValueError(f" Variable d'environnement obligatoire manquante : {var_name}")
         return value
 
 settings = Settings()

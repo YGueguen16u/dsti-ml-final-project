@@ -15,11 +15,11 @@ def reset_schema():
 
     This is useful during development for resetting the entire database.
     """
-    print("🧹 Dropping all tables via SQLAlchemy metadata...")
+    print("Dropping all tables via SQLAlchemy metadata...")
     metadata = MetaData()
     metadata.reflect(bind=db.engine)
     metadata.drop_all(bind=db.engine)
-    print("✅ All tables dropped.")
+    print("All tables dropped.")
 
 if __name__ == "__main__":
     reset_schema()

@@ -1,13 +1,53 @@
+version: '3.8'
+
 services:
-  postgres:
+  backend:
+    build: ./back_end
+    container_name: app_backend
+    env_file: .env.dev
+    volumes:
+      - ./back_end:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - minio
+
+  frontend:
+    build: ./front_end
+    container_name: app_frontend
+    env_file: .env.front
+    volumes:
+      - ./front_end:/app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  db:
     image: postgres:15
-    container_name: fitness-postgres
+    container_name: app_db
+    restart: always
+    environment:
+      POSTGRES_DB: app
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    volumes:
+      - pgdata:/var/lib/postgresql/data
     ports:
       - "5432:5432"
-    env_file:
-      - env_folder/.env.postgre.local   # Uses your specific PostgreSQL environment file
+
+  minio:
+    image: minio/minio
+    container_name: app_minio
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    env_file: .env.minio
     volumes:
-      - pg_data:/var/lib/postgresql/data
+      - minio_data:/data
 
 volumes:
-  pg_data:
+  pgdata:
+  minio_data:

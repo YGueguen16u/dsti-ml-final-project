@@ -70,7 +70,7 @@ def create_profile(profile: UserProfile, db: Session = Depends(db_connector.get_
         return {"message": "Profil créé", "user_id": new_user_id}
 
     except Exception:
-        print("❌ ERREUR lors de l'insertion du profil :")
+        print("ERREUR lors de l'insertion du profil :")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="Erreur interne lors de l'enregistrement du profil")
 
@@ -81,7 +81,7 @@ def list_goals(db: Session = Depends(db_connector.get_db)):
         goals = db.query(Goal).all()
         return [{"value": goal.label, "label": goal.label} for goal in goals]
     except Exception:
-        print("❌ ERREUR lors de la récupération des objectifs :")
+        print("ERREUR lors de la récupération des objectifs :")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="Erreur lors de la récupération des objectifs")
 
@@ -96,6 +96,6 @@ def list_all_users(db: Session = Depends(db_connector.get_db)):
         return users
 
     except Exception:
-        print("❌ ERREUR lors de la récupération des utilisateurs :")
+        print("ERREUR lors de la récupération des utilisateurs :")
         traceback.print_exc()
         raise HTTPException(status_code=500, detail="Erreur interne lors de la récupération des utilisateurs")
