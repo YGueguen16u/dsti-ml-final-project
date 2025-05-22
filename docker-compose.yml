@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  # Backend FastAPI
+  backend:
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - POSTGRES_HOST=db
+      - POSTGRES_DB=foodtrack
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - S3_BUCKET_NAME=${S3_BUCKET_NAME}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - MODEL_DIR=./checkpoints/mixtral-finetuned
+    volumes:
+      - ./checkpoints:/app/checkpoints
+    depends_on:
+      - db
+
+  # Frontend React
+  frontend:
+    build:
+      context: ./front_end/react_app
+      dockerfile: ../../docker/frontend.Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8000
+    volumes:
+      - ./front_end/react_app:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+
+  # PostgreSQL
+  db:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=foodtrack
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+

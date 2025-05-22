@@ -39,7 +39,7 @@ def list_databases():
             for row in result:
                 print(" -", row[0])
     except Exception as e:
-        print(f"❌ Erreur de connexion à RDS : {e}")
+        print(f" Erreur de connexion à RDS : {e}")
 
 def list_tables():
     try:
@@ -49,14 +49,14 @@ def list_tables():
             for row in result:
                 print(" -", row[0])
     except Exception as e:
-        print(f"❌ Erreur lors de la récupération des tables : {e}")
+        print(f" Erreur lors de la récupération des tables : {e}")
 
 def show_users():
     try:
         with engine.connect() as conn:
             result = conn.execute(text("SELECT * FROM users;"))
             rows = result.fetchall()
-            print(f" Contenu de la table 'users' ({len(rows)} lignes) :")
+            print(f"Contenu de la table 'users' ({len(rows)} lignes) :")
 
             # Récupère les noms de colonnes
             columns = result.keys()
@@ -66,7 +66,7 @@ def show_users():
                 print(" -", user_dict)
 
     except Exception as e:
-        print(f"❌ Erreur lors de l'affichage des utilisateurs : {e}")
+        print(f"Erreur lors de l'affichage des utilisateurs : {e}")
 
 def show_goals():
     try:
@@ -83,7 +83,7 @@ def show_goals():
                 print(" -", user_dict)
 
     except Exception as e:
-        print(f"❌ Erreur lors de l'affichage des objectifs : {e}")
+        print(f"Erreur lors de l'affichage des objectifs : {e}")
 
 def show_user_daily_logs():
     try:
@@ -100,7 +100,7 @@ def show_user_daily_logs():
                 print(" -", user_dict)
 
     except Exception as e:
-        print(f"❌ Erreur lors de l'affichage des user daily goals : {e}")
+        print(f"Erreur lors de l'affichage des user daily goals : {e}")
 
 def show_user_daily_logs_columns():
     try:
@@ -114,7 +114,7 @@ def show_user_daily_logs_columns():
             for row in result:
                 print(f" - {row[0]} ({row[1]})")
     except Exception as e:
-        print(f"❌ Erreur lors de l'affichage des colonnes : {e}")
+        print(f"Erreur lors de l'affichage des colonnes : {e}")
 
 def alter_user_daily_logs_table():
     try:
@@ -122,14 +122,14 @@ def alter_user_daily_logs_table():
             print("🛠️ Modification de la table user_daily_logs...")
             conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS weight FLOAT;"))
             conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN IF NOT EXISTS height FLOAT;"))
-            print("✅ Colonnes 'weight' et 'height' ajoutées (ou déjà existantes).")
+            print("Colonnes 'weight' et 'height' ajoutées (ou déjà existantes).")
     except Exception as e:
-        print(f"❌ Erreur lors de la modification de la table : {e}")
+        print(f"Erreur lors de la modification de la table : {e}")
 
 def force_add_missing_columns():
     try:
-        with engine.begin() as conn:  # ⚠️ use begin() to ensure commit
-            print("🚨 Vérification et ajout des colonnes 'weight' et 'height' dans user_daily_logs...")
+        with engine.begin() as conn:  # use begin() to ensure commit
+            print("Vérification et ajout des colonnes 'weight' et 'height' dans user_daily_logs...")
 
             result = conn.execute(text("""
                 SELECT column_name FROM information_schema.columns 
@@ -139,17 +139,17 @@ def force_add_missing_columns():
 
             if "weight" not in existing_columns:
                 conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN weight FLOAT;"))
-                print("✅ Colonne 'weight' ajoutée.")
+                print("Colonne 'weight' ajoutée.")
             else:
                 print("✔️ Colonne 'weight' déjà présente.")
 
             if "height" not in existing_columns:
                 conn.execute(text("ALTER TABLE user_daily_logs ADD COLUMN height FLOAT;"))
-                print("✅ Colonne 'height' ajoutée.")
+                print("Colonne 'height' ajoutée.")
             else:
-                print("✔️ Colonne 'height' déjà présente.")
+                print("Colonne 'height' déjà présente.")
     except Exception as e:
-        print(f"❌ Erreur lors de la vérification/ajout de colonnes : {e}")
+        print(f"Erreur lors de la vérification/ajout de colonnes : {e}")
 
 
 if __name__ == "__main__":

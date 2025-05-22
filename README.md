@@ -2,6 +2,7 @@
 
 A full-stack SaaS project for personalized food and physical activity tracking, featuring an integrated fine-tuned AI assistant, food search via AWS S3, and user-specific data storage in AWS RDS.
 
+link for the scrapping project from openfoodfact : https://github.com/YGueguen16u/database-creator
 ---
 
 ## Project Objective
@@ -76,27 +77,33 @@ $ cd DSTI-ML-FINAL-PROJECT
 # 2. Setup environment
 $ cp .env.example .env
 
-# 3. Build and launch services
+# 3. Build and launch all services
 $ docker-compose up --build
-
-# 4. Launch frontend separately
-$ cd front_end/react_app
-$ npm install
-$ npm run dev
 ```
 
-### Backend Environment Variables (`.env`)
+The application will be accessible at:
+- Frontend: http://localhost:5173
+- Backend API: http://localhost:8000
+
+### Environment Variables (`.env`)
 
 ```env
-POSTGRES_HOST=your-db-host
-POSTGRES_DB=your-db-name
-POSTGRES_USER=your-user
-POSTGRES_PASSWORD=your-password
+# Backend & Database
+POSTGRES_HOST=db
+POSTGRES_DB=foodtrack
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+
+# AWS Configuration
 S3_BUCKET_NAME=your-bucket
-AWS_ACCESS_KEY_ID=...
-AWS_SECRET_ACCESS_KEY=...
+AWS_ACCESS_KEY_ID=your-access-key
+AWS_SECRET_ACCESS_KEY=your-secret-key
+
+# AI Model
 MODEL_DIR=./checkpoints/mixtral-finetuned
 ```
+
+Note: For local development with Docker, PostgreSQL variables are already configured in docker-compose.yml. You only need to configure AWS variables and the model path.
 
 ---
 
