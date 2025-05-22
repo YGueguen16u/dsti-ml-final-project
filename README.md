@@ -2,6 +2,7 @@
 
 A full-stack SaaS project for personalized food and physical activity tracking, featuring an integrated fine-tuned AI assistant, food search via AWS S3, and user-specific data storage in AWS RDS.
 
+link for the scrapping project from openfood : https://github.com/YGueguen16u/database-creator
 ---
 
 ## Project Objective
